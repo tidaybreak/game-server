@@ -1,0 +1,5814 @@
+[
+   {
+      "day_num" : 10,
+      "gold_cost_type" : 2,
+      "id" : 1,
+      "is_be_group" : 0,
+      "level_item_val" : [
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 2,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 3,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 4,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 5,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 6,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 7,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 8,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 9,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 10,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 11,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 12,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 13,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 14,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 15,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 16,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 17,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 18,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 19,
+            "value" : 0
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 20,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 21,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 22,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 23,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 24,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 25,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 26,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 27,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 28,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 29,
+            "value" : 30000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 30,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 31,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 32,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 33,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 34,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 35,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 36,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 37,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 38,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 39,
+            "value" : 40000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 40,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 41,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 42,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 43,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 44,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 45,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 46,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 47,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 48,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 49,
+            "value" : 60000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 50,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 51,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 52,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 53,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 54,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 55,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 56,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 57,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 58,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 59,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 60,
+            "value" : 96000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 61,
+            "value" : 129560
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 62,
+            "value" : 136040
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 63,
+            "value" : 142840
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 64,
+            "value" : 150000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 65,
+            "value" : 157520
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 66,
+            "value" : 165360
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 67,
+            "value" : 173640
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 68,
+            "value" : 182320
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 69,
+            "value" : 191440
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 70,
+            "value" : 201040
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 71,
+            "value" : 221120
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 72,
+            "value" : 243240
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 73,
+            "value" : 267560
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 74,
+            "value" : 294320
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 75,
+            "value" : 323760
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 76,
+            "value" : 356120
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 77,
+            "value" : 391760
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 78,
+            "value" : 430920
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 79,
+            "value" : 474040
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 502503,
+            "level" : 80,
+            "value" : 521440
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 1,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 2,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 3,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 4,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 5,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 6,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 7,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 8,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 9,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 10,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 11,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 12,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 13,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 14,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 15,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 16,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 17,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 18,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 19,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 20,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 21,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 22,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 23,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 24,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 25,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 26,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 27,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 28,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 29,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 30,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 31,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 32,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 33,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 34,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 35,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 36,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 37,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 38,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 39,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 40,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 41,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 42,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 43,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 44,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 45,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 46,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 47,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 48,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 49,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 50,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 51,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 52,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 53,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 54,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 55,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 56,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 57,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 58,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 59,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 60,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 61,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 62,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 63,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 64,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 65,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 66,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 67,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 68,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 69,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 70,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 71,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 72,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 73,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 74,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 75,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 76,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 77,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 78,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 79,
+            "value" : 4000
+         },
+         {
+            "from_table" : "level_item_val",
+            "item" : 501502,
+            "level" : 80,
+            "value" : 4000
+         }
+      ],
+      "name" : "悬赏任务",
+      "pid" : 0,
+      "ratio_cost" : [
+         {
+            "copper_cost" : 1000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 1
+         },
+         {
+            "copper_cost" : 1200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 2
+         },
+         {
+            "copper_cost" : 1400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 3
+         },
+         {
+            "copper_cost" : 1600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 4
+         },
+         {
+            "copper_cost" : 1800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 5
+         },
+         {
+            "copper_cost" : 2000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 6
+         },
+         {
+            "copper_cost" : 2200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 7
+         },
+         {
+            "copper_cost" : 2400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 8
+         },
+         {
+            "copper_cost" : 2600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 9
+         },
+         {
+            "copper_cost" : 2800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 10
+         },
+         {
+            "copper_cost" : 3000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 11
+         },
+         {
+            "copper_cost" : 3200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 12
+         },
+         {
+            "copper_cost" : 3400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 13
+         },
+         {
+            "copper_cost" : 3600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 14
+         },
+         {
+            "copper_cost" : 3800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 15
+         },
+         {
+            "copper_cost" : 4000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 16
+         },
+         {
+            "copper_cost" : 4200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 17
+         },
+         {
+            "copper_cost" : 4400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 18
+         },
+         {
+            "copper_cost" : 4600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 19
+         },
+         {
+            "copper_cost" : 4800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 20
+         },
+         {
+            "copper_cost" : 5000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 21
+         },
+         {
+            "copper_cost" : 5200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 22
+         },
+         {
+            "copper_cost" : 5400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 23
+         },
+         {
+            "copper_cost" : 5600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 24
+         },
+         {
+            "copper_cost" : 5800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 25
+         },
+         {
+            "copper_cost" : 6000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 26
+         },
+         {
+            "copper_cost" : 6200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 27
+         },
+         {
+            "copper_cost" : 6400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 28
+         },
+         {
+            "copper_cost" : 6600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 29
+         },
+         {
+            "copper_cost" : 6800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 30
+         },
+         {
+            "copper_cost" : 7000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 31
+         },
+         {
+            "copper_cost" : 7200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 32
+         },
+         {
+            "copper_cost" : 7400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 33
+         },
+         {
+            "copper_cost" : 7600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 34
+         },
+         {
+            "copper_cost" : 7800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 35
+         },
+         {
+            "copper_cost" : 8000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 36
+         },
+         {
+            "copper_cost" : 8200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 37
+         },
+         {
+            "copper_cost" : 8400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 38
+         },
+         {
+            "copper_cost" : 8600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 39
+         },
+         {
+            "copper_cost" : 8800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 40
+         },
+         {
+            "copper_cost" : 9000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 41
+         },
+         {
+            "copper_cost" : 9200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 42
+         },
+         {
+            "copper_cost" : 9400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 43
+         },
+         {
+            "copper_cost" : 9600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 44
+         },
+         {
+            "copper_cost" : 9800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 45
+         },
+         {
+            "copper_cost" : 10000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 46
+         },
+         {
+            "copper_cost" : 10200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 47
+         },
+         {
+            "copper_cost" : 10400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 48
+         },
+         {
+            "copper_cost" : 10600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 49
+         },
+         {
+            "copper_cost" : 10800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 50
+         },
+         {
+            "copper_cost" : 11000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 51
+         },
+         {
+            "copper_cost" : 11200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 52
+         },
+         {
+            "copper_cost" : 11400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 53
+         },
+         {
+            "copper_cost" : 11600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 54
+         },
+         {
+            "copper_cost" : 11800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 55
+         },
+         {
+            "copper_cost" : 12000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 56
+         },
+         {
+            "copper_cost" : 12200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 57
+         },
+         {
+            "copper_cost" : 12400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 58
+         },
+         {
+            "copper_cost" : 12600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 59
+         },
+         {
+            "copper_cost" : 12800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 60
+         },
+         {
+            "copper_cost" : 13000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 61
+         },
+         {
+            "copper_cost" : 13200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 62
+         },
+         {
+            "copper_cost" : 13400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 63
+         },
+         {
+            "copper_cost" : 13600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 64
+         },
+         {
+            "copper_cost" : 13800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 65
+         },
+         {
+            "copper_cost" : 14000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 66
+         },
+         {
+            "copper_cost" : 14200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 67
+         },
+         {
+            "copper_cost" : 14400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 68
+         },
+         {
+            "copper_cost" : 14600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 69
+         },
+         {
+            "copper_cost" : 14800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 70
+         },
+         {
+            "copper_cost" : 15000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 71
+         },
+         {
+            "copper_cost" : 15200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 72
+         },
+         {
+            "copper_cost" : 15400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 73
+         },
+         {
+            "copper_cost" : 15600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 74
+         },
+         {
+            "copper_cost" : 15800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 75
+         },
+         {
+            "copper_cost" : 16000,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 76
+         },
+         {
+            "copper_cost" : 16200,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 77
+         },
+         {
+            "copper_cost" : 16400,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 78
+         },
+         {
+            "copper_cost" : 16600,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 79
+         },
+         {
+            "copper_cost" : 16800,
+            "copper_ratio" : 25,
+            "from_table" : "ratio_cost",
+            "gold_cost" : 10,
+            "gold_cost_type" : 2,
+            "gold_ratio" : 90,
+            "level" : 80
+         }
+      ],
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 501502,
+            "type" : 2,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_ratio" : 25,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 90,
+      "group" : [
+         80202092,
+         80202093,
+         80202094,
+         80202095,
+         80202096,
+         80202097,
+         80202098,
+         80202099,
+         80202100,
+         80202001,
+         80202002,
+         80202003,
+         80202005,
+         80202006,
+         80202007,
+         80202008,
+         80202009,
+         80202010,
+         80202011,
+         80202012,
+         80202013,
+         80202014,
+         80202015,
+         80202016,
+         80202017,
+         80202018,
+         80202019,
+         80202020,
+         80202021,
+         80202022,
+         80202023,
+         80202024,
+         80202025,
+         80202026,
+         80202027,
+         80202028,
+         80202029,
+         80202030,
+         80202031,
+         80202032,
+         80202033,
+         80202034,
+         80202035,
+         80202036,
+         80202037,
+         80202038,
+         80202039,
+         80202040,
+         80202041,
+         80202042,
+         80202043,
+         80202044,
+         80202045,
+         80202046,
+         80202047,
+         80202048,
+         80202049,
+         80202050,
+         80202051,
+         80202060,
+         80202061,
+         80202062,
+         80202063,
+         80202064,
+         80202065,
+         80202066,
+         80202067,
+         80202068,
+         80202069,
+         80202070,
+         80202071,
+         80202072,
+         80202073,
+         80202074,
+         80202075,
+         80202076,
+         80202077,
+         80202078,
+         80202079,
+         80202080,
+         80202081,
+         80202082,
+         80202083,
+         80202084,
+         80202085,
+         80202086,
+         80202087,
+         80202088,
+         80202089,
+         80202090,
+         80202091,
+         80202101,
+         80202102,
+         80202103,
+         80202104,
+         80202105,
+         80202106,
+         80202107,
+         80202108,
+         80202109,
+         80202110,
+         80202111,
+         80202112,
+         80202113,
+         80202114,
+         80202115,
+         80202116,
+         80202117,
+         80202118,
+         80202119,
+         80202120,
+         80202121,
+         80202122,
+         80202123
+      ],
+      "id" : 2,
+      "is_be_group" : 0,
+      "name" : "上古副本",
+      "pid" : 0,
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 25000,
+      "copper_ratio" : 25,
+      "day_num" : 2,
+      "gold_cost" : 20,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 90,
+      "id" : 3,
+      "is_be_group" : 0,
+      "name" : "英雄之门",
+      "pid" : 0,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 501502,
+            "type" : 2,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502903,
+            "type" : 2,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 25000,
+      "copper_ratio" : 25,
+      "day_num" : 2,
+      "gold_cost" : 20,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 90,
+      "id" : 5,
+      "is_be_group" : 0,
+      "name" : "篝火舞会",
+      "pid" : 0,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202092,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202093,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202094,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 10
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202095,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202096,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202097,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 14
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202098,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202099,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1080
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 5,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202100,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 14
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 1850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202001,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202002,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202003,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 14
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202005,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202006,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1650
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2600,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202007,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 14
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2750,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202008,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 1900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 2900,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202009,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3050,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 6,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202010,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 14
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3200,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202011,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3350,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202012,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2250
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202013,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 18
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202014,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202015,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2550
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 3950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202016,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 18
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202017,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202018,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 2850
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 7,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202019,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 18
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202020,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202021,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 4850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202022,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 20
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202023,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202024,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202025,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 20
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202026,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5600,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202027,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5750,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 8,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202028,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 3900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 20
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 5900,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202029,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6050,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202030,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6200,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202031,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6350,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202032,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202033,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202034,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202035,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 6950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202036,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 9,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202037,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202038,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 4900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202039,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 24
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202040,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202041,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 7850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202042,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 30
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202043,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202044,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202045,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 30
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 10,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202046,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8600,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202047,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8750,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202048,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 5900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 30
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 8900,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202049,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9050,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202050,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9200,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 2,
+      "gold_ratio" : 100,
+      "id" : 80202051,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 36
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9350,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 3,
+      "gold_ratio" : 100,
+      "id" : 80202060,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 3,
+      "gold_ratio" : 100,
+      "id" : 80202061,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 4,
+      "gold_ratio" : 100,
+      "id" : 80202062,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 36
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 11,
+      "gold_cost_type" : 4,
+      "gold_ratio" : 100,
+      "id" : 80202063,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 9950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 5,
+      "gold_ratio" : 100,
+      "id" : 80202064,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 5,
+      "gold_ratio" : 100,
+      "id" : 80202065,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 36
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 6,
+      "gold_ratio" : 100,
+      "id" : 80202066,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 6900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 6,
+      "gold_ratio" : 100,
+      "id" : 80202067,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 7,
+      "gold_ratio" : 100,
+      "id" : 80202068,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 7,
+      "gold_ratio" : 100,
+      "id" : 80202069,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 10850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 8,
+      "gold_ratio" : 100,
+      "id" : 80202070,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 8,
+      "gold_ratio" : 100,
+      "id" : 80202071,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 9,
+      "gold_ratio" : 100,
+      "id" : 80202072,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 9,
+      "gold_ratio" : 100,
+      "id" : 80202073,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 10,
+      "gold_ratio" : 100,
+      "id" : 80202074,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11600,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 10,
+      "gold_ratio" : 100,
+      "id" : 80202075,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11750,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 11,
+      "gold_ratio" : 100,
+      "id" : 80202076,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 7900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 11900,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 11,
+      "gold_ratio" : 100,
+      "id" : 80202077,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12050,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 12,
+      "gold_ratio" : 100,
+      "id" : 80202078,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12200,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 12,
+      "gold_ratio" : 100,
+      "id" : 80202079,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12350,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 13,
+      "gold_ratio" : 100,
+      "id" : 80202080,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 13,
+      "gold_cost_type" : 13,
+      "gold_ratio" : 100,
+      "id" : 80202081,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 14,
+      "gold_ratio" : 100,
+      "id" : 80202082,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 48
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 14,
+      "gold_ratio" : 100,
+      "id" : 80202083,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 12950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 15,
+      "gold_ratio" : 100,
+      "id" : 80202084,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 15,
+      "gold_ratio" : 100,
+      "id" : 80202085,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 60
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 16,
+      "gold_ratio" : 100,
+      "id" : 80202086,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 8900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 16,
+      "gold_ratio" : 100,
+      "id" : 80202087,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 17,
+      "gold_ratio" : 100,
+      "id" : 80202088,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 60
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 17,
+      "gold_ratio" : 100,
+      "id" : 80202089,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 13850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 18,
+      "gold_ratio" : 100,
+      "id" : 80202090,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 18,
+      "gold_ratio" : 100,
+      "id" : 80202091,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 60
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 19,
+      "gold_ratio" : 100,
+      "id" : 80202101,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 19,
+      "gold_ratio" : 100,
+      "id" : 80202102,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 20,
+      "gold_ratio" : 100,
+      "id" : 80202103,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 72
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14600,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 20,
+      "gold_ratio" : 100,
+      "id" : 80202104,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14750,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 21,
+      "gold_ratio" : 100,
+      "id" : 80202105,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 9900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 14900,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 21,
+      "gold_ratio" : 100,
+      "id" : 80202106,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 72
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15050,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 22,
+      "gold_ratio" : 100,
+      "id" : 80202107,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15200,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 15,
+      "gold_cost_type" : 22,
+      "gold_ratio" : 100,
+      "id" : 80202108,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15350,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 23,
+      "gold_ratio" : 100,
+      "id" : 80202109,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 72
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15500,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 23,
+      "gold_ratio" : 100,
+      "id" : 80202110,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15650,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 24,
+      "gold_ratio" : 100,
+      "id" : 80202111,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15800,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 24,
+      "gold_ratio" : 100,
+      "id" : 80202112,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 84
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 15950,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 25,
+      "gold_ratio" : 100,
+      "id" : 80202113,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16100,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 25,
+      "gold_ratio" : 100,
+      "id" : 80202114,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10800
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16250,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 26,
+      "gold_ratio" : 100,
+      "id" : 80202115,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 10900
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 84
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16400,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 26,
+      "gold_ratio" : 100,
+      "id" : 80202116,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11000
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16550,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 27,
+      "gold_ratio" : 100,
+      "id" : 80202117,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 0
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 0
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16700,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 27,
+      "gold_ratio" : 100,
+      "id" : 80202118,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11200
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 84
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 16850,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 28,
+      "gold_ratio" : 100,
+      "id" : 80202119,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11300
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 17000,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 28,
+      "gold_ratio" : 100,
+      "id" : 80202120,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11400
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 17150,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 29,
+      "gold_ratio" : 100,
+      "id" : 80202121,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11500
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 17300,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 29,
+      "gold_ratio" : 100,
+      "id" : 80202122,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11600
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   },
+   {
+      "copper_cost" : 17450,
+      "copper_ratio" : 25,
+      "day_num" : 1,
+      "gold_cost" : 17,
+      "gold_cost_type" : 30,
+      "gold_ratio" : 100,
+      "id" : 80202123,
+      "is_be_group" : 1,
+      "pid" : 2,
+      "reward_item" : [
+         {
+            "from_table" : "reward_back_item",
+            "item" : 502503,
+            "type" : 2,
+            "value" : 11700
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 21001401,
+            "type" : 1,
+            "value" : 100
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 20202432,
+            "type" : 1,
+            "value" : 1
+         },
+         {
+            "from_table" : "reward_back_item",
+            "item" : 50000901,
+            "type" : 1,
+            "value" : 1
+         }
+      ],
+      "vipLevel" : 4
+   }
+]

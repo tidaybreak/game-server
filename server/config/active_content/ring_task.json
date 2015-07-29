@@ -1,0 +1,124 @@
+[
+   {
+      "act_id" : 21046,
+      "id" : 1,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 21505010,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20501305,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 2,
+      "num" : 40,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 21505010,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20501305,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 3,
+      "num" : 60,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 21505010,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20501305,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 4,
+      "num" : 80,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 21505010,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20501305,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 5,
+      "num" : 100,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 21505020,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20501406,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 6,
+      "num" : 300,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21046,
+      "id" : 7,
+      "num" : 300,
+      "recharge" : 1,
+      "reward" : [
+         {
+            "from_table" : "ring_task_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   }
+]

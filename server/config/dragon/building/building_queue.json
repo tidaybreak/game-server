@@ -1,0 +1,22 @@
+[
+   {
+      "building_order" : 1,
+      "open_queue_money_num" : 0,
+      "open_queue_money_type" : 0
+   },
+   {
+      "building_order" : 2,
+      "open_queue_money_num" : 100,
+      "open_queue_money_type" : 3
+   },
+   {
+      "building_order" : 3,
+      "open_queue_money_num" : 200,
+      "open_queue_money_type" : 3
+   },
+   {
+      "building_order" : 4,
+      "open_queue_money_num" : 400,
+      "open_queue_money_type" : 3
+   }
+]

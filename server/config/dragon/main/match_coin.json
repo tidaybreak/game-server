@@ -1,0 +1,42 @@
+[
+   {
+      "coin" : 100,
+      "match_num" : 1
+   },
+   {
+      "coin" : 500,
+      "match_num" : 2
+   },
+   {
+      "coin" : 1200,
+      "match_num" : 3
+   },
+   {
+      "coin" : 3200,
+      "match_num" : 4
+   },
+   {
+      "coin" : 7200,
+      "match_num" : 5
+   },
+   {
+      "coin" : 16800,
+      "match_num" : 6
+   },
+   {
+      "coin" : 36000,
+      "match_num" : 7
+   },
+   {
+      "coin" : 64000,
+      "match_num" : 8
+   },
+   {
+      "coin" : 96000,
+      "match_num" : 9
+   },
+   {
+      "coin" : 128000,
+      "match_num" : 10
+   }
+]

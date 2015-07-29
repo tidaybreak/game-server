@@ -1,0 +1,52 @@
+[
+   {
+      "item_type" : 1,
+      "item_type_des" : "体力药水",
+      "item_type_icon" : "icon1"
+   },
+   {
+      "item_type" : 2,
+      "item_type_des" : "金币",
+      "item_type_icon" : "icon2"
+   },
+   {
+      "item_type" : 3,
+      "item_type_des" : "英灵",
+      "item_type_icon" : "icon3"
+   },
+   {
+      "item_type" : 4,
+      "item_type_des" : "骑术驯养手册",
+      "item_type_icon" : "icon4"
+   },
+   {
+      "item_type" : 5,
+      "item_type_des" : "宝石",
+      "item_type_icon" : "icon5"
+   },
+   {
+      "item_type" : 6,
+      "item_type_des" : "百炼之书",
+      "item_type_icon" : "icon6"
+   },
+   {
+      "item_type" : 7,
+      "item_type_des" : "buff药水",
+      "item_type_icon" : "icon7"
+   },
+   {
+      "item_type" : 8,
+      "item_type_des" : "幸运石",
+      "item_type_icon" : "icon8"
+   },
+   {
+      "item_type" : 9,
+      "item_type_des" : "buff卷轴",
+      "item_type_icon" : "icon9"
+   },
+   {
+      "item_type" : 10,
+      "item_type_des" : "商城道具",
+      "item_type_icon" : "icon10"
+   }
+]

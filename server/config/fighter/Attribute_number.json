@@ -1,0 +1,610 @@
+[
+   {
+      "Attribute_number_id" : 509306,
+      "add" : 1,
+      "attr_id" : 504605,
+      "cover" : 0,
+      "describe" : "斗力",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 509406,
+      "add" : 1,
+      "attr_id" : 504705,
+      "cover" : 0,
+      "describe" : "敏捷",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 509506,
+      "add" : 1,
+      "attr_id" : 504805,
+      "cover" : 0,
+      "describe" : "灵巧",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 509606,
+      "add" : 1,
+      "attr_id" : 504905,
+      "cover" : 0,
+      "describe" : "护甲",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 509706,
+      "add" : 1,
+      "attr_id" : 505005,
+      "cover" : 0,
+      "describe" : "耐力",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500306,
+      "add" : 1,
+      "attr_id" : 505605,
+      "cover" : 0,
+      "describe" : "物攻",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500406,
+      "add" : 1,
+      "attr_id" : 505705,
+      "cover" : 0,
+      "describe" : "法攻",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500506,
+      "add" : 1,
+      "attr_id" : 505805,
+      "cover" : 0,
+      "describe" : "物防",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500606,
+      "add" : 1,
+      "attr_id" : 505905,
+      "cover" : 0,
+      "describe" : "法防",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500706,
+      "add" : 1,
+      "attr_id" : 506005,
+      "cover" : 0,
+      "describe" : "命中",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500806,
+      "add" : 1,
+      "attr_id" : 506105,
+      "cover" : 0,
+      "describe" : "闪避",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 500906,
+      "add" : 1,
+      "attr_id" : 506205,
+      "cover" : 0,
+      "describe" : "生命",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 511006,
+      "add" : 1,
+      "attr_id" : 506305,
+      "cover" : 0,
+      "describe" : "暴击",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 511016,
+      "add" : 1,
+      "attr_id" : 506405,
+      "cover" : 0,
+      "describe" : "暴击防",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 509806,
+      "add" : 0,
+      "attr_id" : 504605,
+      "cover" : 0,
+      "describe" : "斗力",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 509906,
+      "add" : 0,
+      "attr_id" : 504705,
+      "cover" : 0,
+      "describe" : "敏捷",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 500006,
+      "add" : 0,
+      "attr_id" : 504805,
+      "cover" : 0,
+      "describe" : "灵巧",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 500106,
+      "add" : 0,
+      "attr_id" : 504905,
+      "cover" : 0,
+      "describe" : "护甲",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 500206,
+      "add" : 0,
+      "attr_id" : 505005,
+      "cover" : 0,
+      "describe" : "耐力",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511106,
+      "add" : 0,
+      "attr_id" : 505605,
+      "cover" : 0,
+      "describe" : "物攻",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511206,
+      "add" : 0,
+      "attr_id" : 505705,
+      "cover" : 0,
+      "describe" : "法攻",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511306,
+      "add" : 0,
+      "attr_id" : 505805,
+      "cover" : 0,
+      "describe" : "物防",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511406,
+      "add" : 0,
+      "attr_id" : 505905,
+      "cover" : 0,
+      "describe" : "法防",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511506,
+      "add" : 0,
+      "attr_id" : 506005,
+      "cover" : 0,
+      "describe" : "命中",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511606,
+      "add" : 0,
+      "attr_id" : 506105,
+      "cover" : 0,
+      "describe" : "闪避",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511706,
+      "add" : 0,
+      "attr_id" : 506205,
+      "cover" : 0,
+      "describe" : "生命",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511806,
+      "add" : 0,
+      "attr_id" : 506305,
+      "cover" : 0,
+      "describe" : "暴击",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 511816,
+      "add" : 0,
+      "attr_id" : 506405,
+      "cover" : 0,
+      "describe" : "暴击防",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 507305,
+      "add" : 1,
+      "attr_id" : 507305,
+      "cover" : 0,
+      "describe" : "当前生命值",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 507405,
+      "add" : 1,
+      "attr_id" : 507405,
+      "cover" : 0,
+      "describe" : "当前怒气",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 512606,
+      "add" : 1,
+      "attr_id" : 512306,
+      "cover" : 0,
+      "describe" : "治疗加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513306,
+      "add" : 0,
+      "attr_id" : 512306,
+      "cover" : 0,
+      "describe" : "治疗加成",
+      "percent" : 1
+   },
+   {
+      "Attribute_number_id" : 519007,
+      "add" : 1,
+      "attr_id" : 519007,
+      "cover" : 0,
+      "describe" : "受治疗加成(乘法)",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513806,
+      "add" : 1,
+      "attr_id" : 513806,
+      "cover" : 0,
+      "describe" : "造成伤害增加",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513906,
+      "add" : 1,
+      "attr_id" : 513906,
+      "cover" : 0,
+      "describe" : "治疗效果增加",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514006,
+      "add" : 1,
+      "attr_id" : 514006,
+      "cover" : 0,
+      "describe" : "造成伤害增加",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514106,
+      "add" : 1,
+      "attr_id" : 514106,
+      "cover" : 0,
+      "describe" : "治疗效果增加",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514206,
+      "add" : 1,
+      "attr_id" : 514206,
+      "cover" : 0,
+      "describe" : "受到的物理伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514306,
+      "add" : 1,
+      "attr_id" : 514306,
+      "cover" : 0,
+      "describe" : "受到的法术伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514406,
+      "add" : 1,
+      "attr_id" : 514406,
+      "cover" : 0,
+      "describe" : "受到伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514506,
+      "add" : 1,
+      "attr_id" : 514506,
+      "cover" : 0,
+      "describe" : "受到伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 507005,
+      "add" : 1,
+      "attr_id" : 507005,
+      "cover" : 0,
+      "describe" : "暴击率提升",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513406,
+      "add" : 1,
+      "attr_id" : 513406,
+      "cover" : 0,
+      "describe" : "物理伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513606,
+      "add" : 1,
+      "attr_id" : 513606,
+      "cover" : 0,
+      "describe" : "法术伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 513806,
+      "add" : 1,
+      "attr_id" : 513806,
+      "cover" : 0,
+      "describe" : "绝对伤害",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514606,
+      "add" : 1,
+      "attr_id" : 514606,
+      "cover" : 0,
+      "describe" : "技能伤害修正",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 517007,
+      "add" : 1,
+      "attr_id" : 517007,
+      "cover" : 0,
+      "describe" : "无视防御",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 507105,
+      "add" : 1,
+      "attr_id" : 507105,
+      "cover" : 0,
+      "describe" : "暴击抵抗率(正值)",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 506705,
+      "add" : 1,
+      "attr_id" : 506705,
+      "cover" : 0,
+      "describe" : "暴击伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 506706,
+      "add" : 1,
+      "attr_id" : 506706,
+      "cover" : 0,
+      "describe" : "暴击伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 506805,
+      "add" : 1,
+      "attr_id" : 506805,
+      "cover" : 0,
+      "describe" : "命中率加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 506905,
+      "add" : 1,
+      "attr_id" : 506905,
+      "cover" : 0,
+      "describe" : "闪避率加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 516507,
+      "add" : 1,
+      "attr_id" : 516507,
+      "cover" : 0,
+      "describe" : "吸血(百分比)",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 507905,
+      "add" : 1,
+      "attr_id" : 507905,
+      "cover" : 0,
+      "describe" : "吟唱修正",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 508005,
+      "add" : 1,
+      "attr_id" : 508005,
+      "cover" : 0,
+      "describe" : "无视防御概率",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518007,
+      "add" : 1,
+      "attr_id" : 518007,
+      "cover" : 0,
+      "describe" : "人族伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518107,
+      "add" : 1,
+      "attr_id" : 518107,
+      "cover" : 0,
+      "describe" : "精灵族伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518207,
+      "add" : 1,
+      "attr_id" : 518207,
+      "cover" : 0,
+      "describe" : "兽族伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518307,
+      "add" : 1,
+      "attr_id" : 518307,
+      "cover" : 0,
+      "describe" : "龙族伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518407,
+      "add" : 1,
+      "attr_id" : 518407,
+      "cover" : 0,
+      "describe" : "亡灵伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518507,
+      "add" : 1,
+      "attr_id" : 518507,
+      "cover" : 0,
+      "describe" : "恶魔族伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518008,
+      "add" : 1,
+      "attr_id" : 518008,
+      "cover" : 0,
+      "describe" : "人族伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518108,
+      "add" : 1,
+      "attr_id" : 518108,
+      "cover" : 0,
+      "describe" : "精灵族伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518208,
+      "add" : 1,
+      "attr_id" : 518208,
+      "cover" : 0,
+      "describe" : "兽族伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518308,
+      "add" : 1,
+      "attr_id" : 518308,
+      "cover" : 0,
+      "describe" : "龙族伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518408,
+      "add" : 1,
+      "attr_id" : 518408,
+      "cover" : 0,
+      "describe" : "亡灵伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 518508,
+      "add" : 1,
+      "attr_id" : 518508,
+      "cover" : 0,
+      "describe" : "恶魔族伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 517207,
+      "add" : 1,
+      "attr_id" : 517207,
+      "cover" : 0,
+      "describe" : "PK伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 517307,
+      "add" : 1,
+      "attr_id" : 517307,
+      "cover" : 0,
+      "describe" : "PK伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514706,
+      "add" : 1,
+      "attr_id" : 514706,
+      "cover" : 0,
+      "describe" : "PVE伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514806,
+      "add" : 1,
+      "attr_id" : 514806,
+      "cover" : 0,
+      "describe" : "PVE伤害减免",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 506505,
+      "add" : 1,
+      "attr_id" : 506505,
+      "cover" : 0,
+      "describe" : "初始怒气",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 514906,
+      "add" : 1,
+      "attr_id" : 514906,
+      "cover" : 0,
+      "describe" : "眩晕增强",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 515006,
+      "add" : 1,
+      "attr_id" : 515006,
+      "cover" : 0,
+      "describe" : "眩晕抵抗",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 519117,
+      "add" : 1,
+      "attr_id" : 519117,
+      "cover" : 0,
+      "describe" : "召唤物伤害加成",
+      "percent" : 0
+   },
+   {
+      "Attribute_number_id" : 519118,
+      "add" : 1,
+      "attr_id" : 519118,
+      "cover" : 0,
+      "describe" : "召唤物伤害减免",
+      "percent" : 0
+   }
+]

@@ -1,0 +1,10 @@
+{
+	"command" : [
+	"db_repair_20150202_handle_anci_artifact",
+	"db_repair_20150205_handle_repay_equip_card_info",
+	"db_repair_20150213_handle_elite_dungeon_reimburse",
+	"db_repair_20150328_handle_hero_and_feats",
+	"db_repair_20150321_handle_fashion",
+	"db_repair_20150321_handle_skill"
+	]
+}

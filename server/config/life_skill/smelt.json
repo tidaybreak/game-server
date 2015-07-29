@@ -1,0 +1,302 @@
+[
+   {
+      "skill_id" : 3001,
+      "skilled_gold" : 30000,
+      "skilled_max" : 10,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3002,
+      "skilled_gold" : 35000,
+      "skilled_max" : 20,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3003,
+      "skilled_gold" : 40000,
+      "skilled_max" : 30,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3004,
+      "skilled_gold" : 45000,
+      "skilled_max" : 50,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3005,
+      "skilled_gold" : 50000,
+      "skilled_max" : 60,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3006,
+      "skilled_gold" : 55000,
+      "skilled_max" : 70,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3007,
+      "skilled_gold" : 60000,
+      "skilled_max" : 80,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3008,
+      "skilled_gold" : 65000,
+      "skilled_max" : 90,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3009,
+      "skilled_gold" : 70000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3010,
+      "skilled_gold" : 75000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3101,
+      "skilled_gold" : 100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3102,
+      "skilled_gold" : 130000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3103,
+      "skilled_gold" : 170000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3104,
+      "skilled_gold" : 210000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3105,
+      "skilled_gold" : 250000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3106,
+      "skilled_gold" : 300000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3107,
+      "skilled_gold" : 350000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3108,
+      "skilled_gold" : 400000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3109,
+      "skilled_gold" : 480000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3110,
+      "skilled_gold" : 590000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3201,
+      "skilled_gold" : 700000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3202,
+      "skilled_gold" : 800000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3203,
+      "skilled_gold" : 950000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3204,
+      "skilled_gold" : 950000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3205,
+      "skilled_gold" : 1000000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3206,
+      "skilled_gold" : 1000000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3207,
+      "skilled_gold" : 1050000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3208,
+      "skilled_gold" : 1050000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3209,
+      "skilled_gold" : 1100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3210,
+      "skilled_gold" : 1100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3301,
+      "skilled_gold" : 1775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3302,
+      "skilled_gold" : 1775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3303,
+      "skilled_gold" : 1825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3304,
+      "skilled_gold" : 1825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3305,
+      "skilled_gold" : 1875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3306,
+      "skilled_gold" : 1875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3307,
+      "skilled_gold" : 1925000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3308,
+      "skilled_gold" : 1925000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3309,
+      "skilled_gold" : 1975000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3310,
+      "skilled_gold" : 1975000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3401,
+      "skilled_gold" : 2675000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3402,
+      "skilled_gold" : 2675000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3403,
+      "skilled_gold" : 2725000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3404,
+      "skilled_gold" : 2725000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3405,
+      "skilled_gold" : 2775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3406,
+      "skilled_gold" : 2775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3407,
+      "skilled_gold" : 2825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3408,
+      "skilled_gold" : 2825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3409,
+      "skilled_gold" : 2875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "skill_id" : 3410,
+      "skilled_gold" : 2875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   }
+]

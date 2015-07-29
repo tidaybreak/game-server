@@ -1,0 +1,101 @@
+{
+    "1000": {
+        "10001000": {
+            "targetStationId": "1002",
+            "position": [1032, 829.25],
+            "targetGatewayId": "10021000",
+            "gatewayId": "10001000"
+        },
+        "10001001": {
+            "targetStationId": "1001",
+            "position": [1121, 872],
+            "targetGatewayId": "10011000",
+            "gatewayId": "10001001"
+        },
+        "10001002": {
+            "targetStationId": "1003",
+            "position": [1236.25, 843.75],
+            "targetGatewayId": "10031001",
+            "gatewayId": "10001002"
+        },
+        "position": [1127, 822]
+    },
+    "1001": {
+        "10011000": {
+            "targetStationId": "1000",
+            "position": [1109, 972],
+            "targetGatewayId": "10001001",
+            "gatewayId": "10011000"
+        },
+        "10011001": {
+            "targetStationId": "1003",
+            "position": [1218.25, 993.75],
+            "targetGatewayId": "10031000",
+            "gatewayId": "10011001"
+        },
+        "10011002": {
+            "targetStationId": "1004",
+            "position": [1153, 1069.5],
+            "targetGatewayId": "10041000",
+            "gatewayId": "10011002"
+        },
+        "10011003": {
+            "targetStationId": "1002",
+            "position": [1014, 979.25],
+            "targetGatewayId": "10021001",
+            "gatewayId": "10011003"
+        },
+        "position": [1103, 1022]
+    },
+    "1002": {
+        "10021000": {
+            "targetStationId": "1000",
+            "position": [842, 843.75],
+            "targetGatewayId": "10001000",
+            "gatewayId": "10021000"
+        },
+        "10021001": {
+            "targetStationId": "1001",
+            "position": [836, 893.75],
+            "targetGatewayId": "10011003",
+            "gatewayId": "10021001"
+        },
+        "position": [747, 851]
+    },
+    "1003": {
+        "10031000": {
+            "targetStationId": "1001",
+            "position": [1448.75, 937.25],
+            "targetGatewayId": "10011001",
+            "gatewayId": "10031000"
+        },
+        "10031001": {
+            "targetStationId": "1000",
+            "position": [1454.75, 887.25],
+            "targetGatewayId": "10001002",
+            "gatewayId": "10031001"
+        },
+        "10031002": {
+            "targetStationId": "1004",
+            "position": [1498.75, 984.75],
+            "targetGatewayId": "10041001",
+            "gatewayId": "10031002"
+        },
+        "position": [1564, 909]
+    },
+    "1004": {
+        "10041000": {
+            "targetStationId": "1001",
+            "position": [1253, 1164.5],
+            "targetGatewayId": "10011002",
+            "gatewayId": "10041000"
+        },
+        "10041001": {
+            "targetStationId": "1003",
+            "position": [1368.25, 1136.25],
+            "targetGatewayId": "10031002",
+            "gatewayId": "10041001"
+        },
+        "position": [1303, 1212]
+    }
+}

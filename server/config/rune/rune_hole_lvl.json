@@ -1,0 +1,202 @@
+[
+   {
+      "cost_copper" : 200,
+      "energy" : 10,
+      "hole_lvl" : 1,
+      "material_id" : 20504401,
+      "material_num_once" : 1,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 6
+   },
+   {
+      "cost_copper" : 400,
+      "energy" : 40,
+      "hole_lvl" : 2,
+      "material_id" : 20504401,
+      "material_num_once" : 2,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 12
+   },
+   {
+      "cost_copper" : 600,
+      "energy" : 90,
+      "hole_lvl" : 3,
+      "material_id" : 20504401,
+      "material_num_once" : 3,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 19
+   },
+   {
+      "cost_copper" : 600,
+      "energy" : 160,
+      "hole_lvl" : 4,
+      "material_id" : 20504401,
+      "material_num_once" : 3,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 30
+   },
+   {
+      "cost_copper" : 800,
+      "energy" : 250,
+      "hole_lvl" : 5,
+      "material_id" : 20504401,
+      "material_num_once" : 4,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 45
+   },
+   {
+      "cost_copper" : 800,
+      "energy" : 360,
+      "hole_lvl" : 6,
+      "material_id" : 20504401,
+      "material_num_once" : 4,
+      "open_class" : 20,
+      "prop_val" : 80,
+      "prop_val_rate" : 63
+   },
+   {
+      "cost_copper" : 1000,
+      "energy" : 490,
+      "hole_lvl" : 7,
+      "material_id" : 20504401,
+      "material_num_once" : 5,
+      "open_class" : 35,
+      "prop_val" : 80,
+      "prop_val_rate" : 82
+   },
+   {
+      "cost_copper" : 1200,
+      "energy" : 640,
+      "hole_lvl" : 8,
+      "material_id" : 20504401,
+      "material_num_once" : 6,
+      "open_class" : 40,
+      "prop_val" : 80,
+      "prop_val_rate" : 100
+   },
+   {
+      "cost_copper" : 1600,
+      "energy" : 1000,
+      "hole_lvl" : 9,
+      "material_id" : 20504401,
+      "material_num_once" : 8,
+      "open_class" : 45,
+      "prop_val" : 80,
+      "prop_val_rate" : 125
+   },
+   {
+      "cost_copper" : 2000,
+      "energy" : 1440,
+      "hole_lvl" : 10,
+      "material_id" : 20504401,
+      "material_num_once" : 10,
+      "open_class" : 45,
+      "prop_val" : 80,
+      "prop_val_rate" : 157
+   },
+   {
+      "cost_copper" : 3000,
+      "energy" : 1960,
+      "hole_lvl" : 11,
+      "material_id" : 20504401,
+      "material_num_once" : 15,
+      "open_class" : 50,
+      "prop_val" : 80,
+      "prop_val_rate" : 200
+   },
+   {
+      "cost_copper" : 4000,
+      "energy" : 2560,
+      "hole_lvl" : 12,
+      "material_id" : 20504401,
+      "material_num_once" : 20,
+      "open_class" : 50,
+      "prop_val" : 80,
+      "prop_val_rate" : 250
+   },
+   {
+      "cost_copper" : 5000,
+      "energy" : 4000,
+      "hole_lvl" : 13,
+      "material_id" : 20504401,
+      "material_num_once" : 25,
+      "open_class" : 55,
+      "prop_val" : 80,
+      "prop_val_rate" : 313
+   },
+   {
+      "cost_copper" : 5000,
+      "energy" : 9000,
+      "hole_lvl" : 14,
+      "material_id" : 20504401,
+      "material_num_once" : 25,
+      "open_class" : 55,
+      "prop_val" : 80,
+      "prop_val_rate" : 400
+   },
+   {
+      "cost_copper" : 5000,
+      "energy" : 16000,
+      "hole_lvl" : 15,
+      "material_id" : 20504401,
+      "material_num_once" : 25,
+      "open_class" : 60,
+      "prop_val" : 80,
+      "prop_val_rate" : 525
+   },
+   {
+      "cost_copper" : 8000,
+      "energy" : 25000,
+      "hole_lvl" : 16,
+      "material_id" : 20504401,
+      "material_num_once" : 40,
+      "open_class" : 60,
+      "prop_val" : 80,
+      "prop_val_rate" : 700
+   },
+   {
+      "cost_copper" : 8000,
+      "energy" : 40000,
+      "hole_lvl" : 17,
+      "material_id" : 20504401,
+      "material_num_once" : 40,
+      "open_class" : 65,
+      "prop_val" : 80,
+      "prop_val_rate" : 850
+   },
+   {
+      "cost_copper" : 8000,
+      "energy" : 81000,
+      "hole_lvl" : 18,
+      "material_id" : 20504401,
+      "material_num_once" : 40,
+      "open_class" : 65,
+      "prop_val" : 80,
+      "prop_val_rate" : 1100
+   },
+   {
+      "cost_copper" : 12000,
+      "energy" : 144000,
+      "hole_lvl" : 19,
+      "material_id" : 20504401,
+      "material_num_once" : 60,
+      "open_class" : 70,
+      "prop_val" : 80,
+      "prop_val_rate" : 1500
+   },
+   {
+      "cost_copper" : 16000,
+      "energy" : 225000,
+      "hole_lvl" : 20,
+      "material_id" : 20504401,
+      "material_num_once" : 80,
+      "open_class" : 70,
+      "prop_val" : 80,
+      "prop_val_rate" : 2000
+   }
+]

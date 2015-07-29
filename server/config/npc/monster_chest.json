@@ -1,0 +1,20 @@
+[
+   {
+      "chestID" : 1,
+      "chest_name" : "金币恶魔箱",
+      "chest_priority" : 1,
+      "drop_type" : 1,
+      "dropid" : [ 60810018 ],
+      "jta" : 63800019,
+      "soul_max" : 3
+   },
+   {
+      "chestID" : 2,
+      "chest_name" : "英灵恶魔箱",
+      "chest_priority" : 2,
+      "drop_type" : 1,
+      "dropid" : [ 60810019 ],
+      "jta" : 63800019,
+      "soul_max" : 3
+   }
+]

@@ -1,0 +1,10 @@
+{
+   "20200001" : {
+      "effect" : {
+         "name" : "add_copper",
+         "value" : 1000
+      },
+      "name" : "µÍ¼¶Í­Ç®·û",
+      "target" : 3
+   }
+}

@@ -1,0 +1,142 @@
+[
+   {
+      "fashion_suit_id" : 100001,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100002,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100003,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100004,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100005,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100006,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100007,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100008,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100009,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100010,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100011,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100012,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100013,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100014,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100015,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100016,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100017,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100018,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100019,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   },
+   {
+      "fashion_suit_id" : 100020,
+      "mountings" : [ 100001, 100002 ],
+      "suit_prop" : [
+         [ 506505, 10 ]
+      ]
+   }
+]

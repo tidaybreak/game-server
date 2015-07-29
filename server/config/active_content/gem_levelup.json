@@ -1,0 +1,242 @@
+[
+   {
+      "act_id" : 20009,
+      "count" : 8,
+      "id" : 1,
+      "level" : 3,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505020,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20009,
+      "count" : 8,
+      "id" : 2,
+      "level" : 4,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505030,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20009,
+      "count" : 8,
+      "id" : 3,
+      "level" : 5,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505040,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20009,
+      "count" : 8,
+      "id" : 4,
+      "level" : 6,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505050,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 6,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20009,
+      "count" : 8,
+      "id" : 5,
+      "level" : 7,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505060,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 8,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20034,
+      "count" : 8,
+      "id" : 6,
+      "level" : 3,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505020,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20034,
+      "count" : 8,
+      "id" : 7,
+      "level" : 4,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505030,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20034,
+      "count" : 8,
+      "id" : 8,
+      "level" : 5,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505040,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20034,
+      "count" : 8,
+      "id" : 9,
+      "level" : 6,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505050,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 6,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20034,
+      "count" : 8,
+      "id" : 10,
+      "level" : 7,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505060,
+            "num" : 4,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 8,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20040,
+      "count" : 4,
+      "id" : 11,
+      "level" : 5,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505050,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20040,
+      "count" : 4,
+      "id" : 12,
+      "level" : 6,
+      "reward" : [
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 21505060,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "gem_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   }
+]

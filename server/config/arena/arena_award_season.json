@@ -1,0 +1,436 @@
+[
+   {
+      "award_index" : 1100,
+      "rank_award_gold" : 400000,
+      "rank_award_item" : [
+         [ 21003501, 10 ]
+      ],
+      "rank_award_soul" : 400000,
+      "season_rank" : 11
+   },
+   {
+      "award_index" : 1200,
+      "rank_award_gold" : 400000,
+      "rank_award_item" : [
+         [ 21003501, 10 ]
+      ],
+      "rank_award_soul" : 400000,
+      "season_rank" : 12
+   },
+   {
+      "award_index" : 1300,
+      "rank_award_gold" : 400000,
+      "rank_award_item" : [
+         [ 21003501, 10 ]
+      ],
+      "rank_award_soul" : 400000,
+      "season_rank" : 13
+   },
+   {
+      "award_index" : 1400,
+      "rank_award_gold" : 400000,
+      "rank_award_item" : [
+         [ 21003501, 10 ]
+      ],
+      "rank_award_soul" : 400000,
+      "season_rank" : 14
+   },
+   {
+      "award_index" : 1500,
+      "rank_award_gold" : 400000,
+      "rank_award_item" : [
+         [ 21003501, 10 ]
+      ],
+      "rank_award_soul" : 400000,
+      "season_rank" : 15
+   },
+   {
+      "award_index" : 2100,
+      "rank_award_gold" : 600000,
+      "rank_award_item" : [
+         [ 21003501, 15 ]
+      ],
+      "rank_award_soul" : 600000,
+      "season_rank" : 21
+   },
+   {
+      "award_index" : 2200,
+      "rank_award_gold" : 600000,
+      "rank_award_item" : [
+         [ 21003501, 15 ]
+      ],
+      "rank_award_soul" : 600000,
+      "season_rank" : 22
+   },
+   {
+      "award_index" : 2300,
+      "rank_award_gold" : 600000,
+      "rank_award_item" : [
+         [ 21003501, 15 ]
+      ],
+      "rank_award_soul" : 600000,
+      "season_rank" : 23
+   },
+   {
+      "award_index" : 2400,
+      "rank_award_gold" : 600000,
+      "rank_award_item" : [
+         [ 21003501, 15 ]
+      ],
+      "rank_award_soul" : 600000,
+      "season_rank" : 24
+   },
+   {
+      "award_index" : 2500,
+      "rank_award_gold" : 600000,
+      "rank_award_item" : [
+         [ 21003501, 15 ]
+      ],
+      "rank_award_soul" : 600000,
+      "season_rank" : 25
+   },
+   {
+      "award_index" : 3100,
+      "rank_award_gold" : 800000,
+      "rank_award_item" : [
+         [ 21003501, 20 ]
+      ],
+      "rank_award_soul" : 800000,
+      "season_rank" : 31
+   },
+   {
+      "award_index" : 3200,
+      "rank_award_gold" : 800000,
+      "rank_award_item" : [
+         [ 21003501, 20 ]
+      ],
+      "rank_award_soul" : 800000,
+      "season_rank" : 32
+   },
+   {
+      "award_index" : 3300,
+      "rank_award_gold" : 800000,
+      "rank_award_item" : [
+         [ 21003501, 20 ]
+      ],
+      "rank_award_soul" : 800000,
+      "season_rank" : 33
+   },
+   {
+      "award_index" : 3400,
+      "rank_award_gold" : 800000,
+      "rank_award_item" : [
+         [ 21003501, 20 ]
+      ],
+      "rank_award_soul" : 800000,
+      "season_rank" : 34
+   },
+   {
+      "award_index" : 3500,
+      "rank_award_gold" : 800000,
+      "rank_award_item" : [
+         [ 21003501, 20 ]
+      ],
+      "rank_award_soul" : 800000,
+      "season_rank" : 35
+   },
+   {
+      "award_index" : 4100,
+      "rank_award_gold" : 1000000,
+      "rank_award_item" : [
+         [ 21003501, 25 ]
+      ],
+      "rank_award_soul" : 1000000,
+      "season_rank" : 41
+   },
+   {
+      "award_index" : 4200,
+      "rank_award_gold" : 1000000,
+      "rank_award_item" : [
+         [ 21003501, 25 ]
+      ],
+      "rank_award_soul" : 1000000,
+      "season_rank" : 42
+   },
+   {
+      "award_index" : 4300,
+      "rank_award_gold" : 1000000,
+      "rank_award_item" : [
+         [ 21003501, 25 ]
+      ],
+      "rank_award_soul" : 1000000,
+      "season_rank" : 43
+   },
+   {
+      "award_index" : 4400,
+      "rank_award_gold" : 1000000,
+      "rank_award_item" : [
+         [ 21003501, 25 ]
+      ],
+      "rank_award_soul" : 1000000,
+      "season_rank" : 44
+   },
+   {
+      "award_index" : 4500,
+      "rank_award_gold" : 1000000,
+      "rank_award_item" : [
+         [ 21003501, 25 ]
+      ],
+      "rank_award_soul" : 1000000,
+      "season_rank" : 45
+   },
+   {
+      "award_index" : 5100,
+      "rank_award_gold" : 1200000,
+      "rank_award_item" : [
+         [ 21003501, 30 ]
+      ],
+      "rank_award_soul" : 1200000,
+      "season_rank" : 51
+   },
+   {
+      "award_index" : 5200,
+      "rank_award_gold" : 1200000,
+      "rank_award_item" : [
+         [ 21003501, 30 ]
+      ],
+      "rank_award_soul" : 1200000,
+      "season_rank" : 52
+   },
+   {
+      "award_index" : 5300,
+      "rank_award_gold" : 1200000,
+      "rank_award_item" : [
+         [ 21003501, 30 ]
+      ],
+      "rank_award_soul" : 1200000,
+      "season_rank" : 53
+   },
+   {
+      "award_index" : 5400,
+      "rank_award_gold" : 1200000,
+      "rank_award_item" : [
+         [ 21003501, 30 ]
+      ],
+      "rank_award_soul" : 1200000,
+      "season_rank" : 54
+   },
+   {
+      "award_index" : 5500,
+      "rank_award_gold" : 1200000,
+      "rank_award_item" : [
+         [ 21003501, 30 ]
+      ],
+      "rank_award_soul" : 1200000,
+      "season_rank" : 55
+   },
+   {
+      "award_index" : 6100,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 40 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6120,
+      "rank_award" : 20,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6119,
+      "rank_award" : 19,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6118,
+      "rank_award" : 18,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6117,
+      "rank_award" : 17,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6116,
+      "rank_award" : 16,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6115,
+      "rank_award" : 15,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6114,
+      "rank_award" : 14,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6113,
+      "rank_award" : 13,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6112,
+      "rank_award" : 12,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6111,
+      "rank_award" : 11,
+      "rank_award_gold" : 1500000,
+      "rank_award_item" : [
+         [ 21003501, 50 ]
+      ],
+      "rank_award_soul" : 1500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6110,
+      "rank_award" : 10,
+      "rank_award_gold" : 2000000,
+      "rank_award_item" : [
+         [ 21003501, 60 ]
+      ],
+      "rank_award_soul" : 2000000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6109,
+      "rank_award" : 9,
+      "rank_award_gold" : 2000000,
+      "rank_award_item" : [
+         [ 21003501, 60 ]
+      ],
+      "rank_award_soul" : 2000000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6108,
+      "rank_award" : 8,
+      "rank_award_gold" : 2000000,
+      "rank_award_item" : [
+         [ 21003501, 60 ]
+      ],
+      "rank_award_soul" : 2000000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6107,
+      "rank_award" : 7,
+      "rank_award_gold" : 2000000,
+      "rank_award_item" : [
+         [ 21003501, 60 ]
+      ],
+      "rank_award_soul" : 2000000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6106,
+      "rank_award" : 6,
+      "rank_award_gold" : 2000000,
+      "rank_award_item" : [
+         [ 21003501, 60 ]
+      ],
+      "rank_award_soul" : 2000000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6105,
+      "rank_award" : 5,
+      "rank_award_gold" : 2500000,
+      "rank_award_item" : [
+         [ 21003501, 70 ]
+      ],
+      "rank_award_soul" : 2500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6104,
+      "rank_award" : 4,
+      "rank_award_gold" : 2500000,
+      "rank_award_item" : [
+         [ 21003501, 70 ]
+      ],
+      "rank_award_soul" : 2500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6103,
+      "rank_award" : 3,
+      "rank_award_gold" : 2500000,
+      "rank_award_item" : [
+         [ 21003501, 80 ]
+      ],
+      "rank_award_soul" : 2500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6102,
+      "rank_award" : 2,
+      "rank_award_gold" : 2500000,
+      "rank_award_item" : [
+         [ 21003501, 90 ]
+      ],
+      "rank_award_soul" : 2500000,
+      "season_rank" : 61
+   },
+   {
+      "award_index" : 6101,
+      "rank_award" : 1,
+      "rank_award_gold" : 2500000,
+      "rank_award_item" : [
+         [ 21003501, 100 ]
+      ],
+      "rank_award_soul" : 2500000,
+      "season_rank" : 61
+   }
+]

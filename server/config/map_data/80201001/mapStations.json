@@ -1,0 +1,80 @@
+{
+    "1000": {
+        "10001000": {
+            "targetStationId": "1005",
+            "position": [975.5, 890.75],
+            "targetGatewayId": "10051000",
+            "gatewayId": "10001000"
+        },
+        "position": [840, 891]
+    },
+    "1001": {
+        "10011000": {
+            "targetStationId": "1005",
+            "position": [1685, 986.75],
+            "targetGatewayId": "10051001",
+            "gatewayId": "10011000"
+        },
+        "10011001": {
+            "targetStationId": "1002",
+            "position": [1859.75, 971.5],
+            "targetGatewayId": "10021000",
+            "gatewayId": "10011001"
+        },
+        "position": [1786, 1019]
+    },
+    "1002": {
+        "10021000": {
+            "targetStationId": "1001",
+            "position": [2007.25, 876.5],
+            "targetGatewayId": "10011001",
+            "gatewayId": "10021000"
+        },
+        "10021001": {
+            "targetStationId": "1003",
+            "position": [2121.25, 798],
+            "targetGatewayId": "10031000",
+            "gatewayId": "10021001"
+        },
+        "position": [2081, 829]
+    },
+    "1003": {
+        "10031000": {
+            "targetStationId": "1002",
+            "position": [2201.75, 736],
+            "targetGatewayId": "10021001",
+            "gatewayId": "10031000"
+        },
+        "10031001": {
+            "targetStationId": "1004",
+            "position": [2329, 702.25],
+            "targetGatewayId": "10041000",
+            "gatewayId": "10031001"
+        },
+        "position": [2242, 705]
+    },
+    "1004": {
+        "10041000": {
+            "targetStationId": "1003",
+            "position": [2503, 696.75],
+            "targetGatewayId": "10031001",
+            "gatewayId": "10041000"
+        },
+        "position": [2590, 694]
+    },
+    "1005": {
+        "10051000": {
+            "targetStationId": "1000",
+            "position": [1246.5, 890.25],
+            "targetGatewayId": "10001000",
+            "gatewayId": "10051000"
+        },
+        "10051001": {
+            "targetStationId": "1001",
+            "position": [1483, 922.25],
+            "targetGatewayId": "10011000",
+            "gatewayId": "10051001"
+        },
+        "position": [1382, 890]
+    }
+}

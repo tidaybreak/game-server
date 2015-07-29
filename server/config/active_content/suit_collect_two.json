@@ -1,0 +1,310 @@
+[
+   {
+      "act_id" : 20015,
+      "id" : 1,
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404402
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404403
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404404
+         }
+      ],
+      "reward" : [
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20904532,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20015,
+      "id" : 2,
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404502
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404503
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10104504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10204504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10304504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10404504
+         }
+      ],
+      "reward" : [
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20505543,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20036,
+      "id" : 3,
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105401
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205401
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305401
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405401
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105402
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205402
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305402
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405402
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105403
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205403
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305403
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405403
+         }
+      ],
+      "reward" : [
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20905532,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20036,
+      "id" : 4,
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105501
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205501
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305501
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405501
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105502
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205502
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305502
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405502
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10105503
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10205503
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10305503
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_two_item",
+            "item_id" : 10405503
+         }
+      ],
+      "reward" : [
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20505553,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "suit_collect_two_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   }
+]

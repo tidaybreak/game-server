@@ -1,0 +1,8 @@
+[
+   {
+      "max_invest_money" : 10000,
+      "max_level" : 40,
+      "min_invest_money" : 500,
+      "profit_immediately" : 0
+   }
+]

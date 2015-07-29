@@ -1,0 +1,308 @@
+[
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 1,
+      "rank_low" : 1,
+      "reward_rank_base_item" : [
+         [ 21003501, 12 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 1000000 ],
+         [ 502903, 1000000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 2,
+      "rank_low" : 2,
+      "reward_rank_base_item" : [
+         [ 21003501, 9 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 800000 ],
+         [ 502903, 800000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 3,
+      "rank_low" : 3,
+      "reward_rank_base_item" : [
+         [ 21003501, 6 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 600000 ],
+         [ 502903, 600000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 4,
+      "rank_low" : 4,
+      "reward_rank_base_money" : [
+         [ 501502, 580000 ],
+         [ 502903, 580000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 5,
+      "rank_low" : 5,
+      "reward_rank_base_money" : [
+         [ 501502, 560000 ],
+         [ 502903, 560000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 6,
+      "rank_low" : 6,
+      "reward_rank_base_money" : [
+         [ 501502, 540000 ],
+         [ 502903, 540000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 7,
+      "rank_low" : 7,
+      "reward_rank_base_money" : [
+         [ 501502, 520000 ],
+         [ 502903, 520000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 8,
+      "rank_low" : 8,
+      "reward_rank_base_money" : [
+         [ 501502, 500000 ],
+         [ 502903, 500000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 9,
+      "rank_low" : 9,
+      "reward_rank_base_money" : [
+         [ 501502, 480000 ],
+         [ 502903, 480000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 10,
+      "rank_low" : 10,
+      "reward_rank_base_money" : [
+         [ 501502, 460000 ],
+         [ 502903, 460000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 11,
+      "rank_low" : 20,
+      "reward_rank_base_money" : [
+         [ 501502, 420000 ],
+         [ 502903, 420000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 21,
+      "rank_low" : 30,
+      "reward_rank_base_money" : [
+         [ 501502, 360000 ],
+         [ 502903, 360000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 31,
+      "rank_low" : 50,
+      "reward_rank_base_money" : [
+         [ 501502, 200000 ],
+         [ 502903, 200000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 51,
+      "rank_low" : 100,
+      "reward_rank_base_money" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 101,
+      "rank_low" : 200,
+      "reward_rank_base_money" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ]
+   },
+   {
+      "level_group" : [ 1, 99 ],
+      "ranb_high" : 201,
+      "rank_low" : 99999,
+      "reward_rank_base_money" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 1,
+      "rank_low" : 1,
+      "reward_rank_base_item" : [
+         [ 21003501, 12 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 1000000 ],
+         [ 502903, 1000000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 2,
+      "rank_low" : 2,
+      "reward_rank_base_item" : [
+         [ 21003501, 9 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 800000 ],
+         [ 502903, 800000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 3,
+      "rank_low" : 3,
+      "reward_rank_base_item" : [
+         [ 21003501, 6 ]
+      ],
+      "reward_rank_base_money" : [
+         [ 501502, 600000 ],
+         [ 502903, 600000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 4,
+      "rank_low" : 4,
+      "reward_rank_base_money" : [
+         [ 501502, 580000 ],
+         [ 502903, 580000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 5,
+      "rank_low" : 5,
+      "reward_rank_base_money" : [
+         [ 501502, 560000 ],
+         [ 502903, 560000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 6,
+      "rank_low" : 6,
+      "reward_rank_base_money" : [
+         [ 501502, 540000 ],
+         [ 502903, 540000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 7,
+      "rank_low" : 7,
+      "reward_rank_base_money" : [
+         [ 501502, 520000 ],
+         [ 502903, 520000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 8,
+      "rank_low" : 8,
+      "reward_rank_base_money" : [
+         [ 501502, 500000 ],
+         [ 502903, 500000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 9,
+      "rank_low" : 9,
+      "reward_rank_base_money" : [
+         [ 501502, 480000 ],
+         [ 502903, 480000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 10,
+      "rank_low" : 10,
+      "reward_rank_base_money" : [
+         [ 501502, 460000 ],
+         [ 502903, 460000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 11,
+      "rank_low" : 20,
+      "reward_rank_base_money" : [
+         [ 501502, 420000 ],
+         [ 502903, 420000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 21,
+      "rank_low" : 30,
+      "reward_rank_base_money" : [
+         [ 501502, 360000 ],
+         [ 502903, 360000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 31,
+      "rank_low" : 50,
+      "reward_rank_base_money" : [
+         [ 501502, 200000 ],
+         [ 502903, 200000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 51,
+      "rank_low" : 100,
+      "reward_rank_base_money" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 101,
+      "rank_low" : 200,
+      "reward_rank_base_money" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ]
+   },
+   {
+      "level_group" : [ 100, 199 ],
+      "ranb_high" : 201,
+      "rank_low" : 99999,
+      "reward_rank_base_money" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ]
+   }
+]

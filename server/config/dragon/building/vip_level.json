@@ -1,0 +1,34 @@
+[
+   {
+      "max_queue_num" : 1,
+      "vip_level" : 0
+   },
+   {
+      "max_queue_num" : 2,
+      "vip_level" : 1
+   },
+   {
+      "max_queue_num" : 2,
+      "vip_level" : 2
+   },
+   {
+      "max_queue_num" : 2,
+      "vip_level" : 3
+   },
+   {
+      "max_queue_num" : 3,
+      "vip_level" : 4
+   },
+   {
+      "max_queue_num" : 3,
+      "vip_level" : 5
+   },
+   {
+      "max_queue_num" : 4,
+      "vip_level" : 6
+   },
+   {
+      "max_queue_num" : 4,
+      "vip_level" : 7
+   }
+]

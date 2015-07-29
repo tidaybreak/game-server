@@ -1,0 +1,102 @@
+[
+   {
+      "act_id" : 20019,
+      "id" : 1,
+      "num" : 1,
+      "reward" : [
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20706401,
+            "num" : 6,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 21002401,
+            "num" : 100,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20019,
+      "id" : 2,
+      "num" : 2,
+      "reward" : [
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20706401,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 21002401,
+            "num" : 200,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20041,
+      "id" : 3,
+      "num" : 1,
+      "reward" : [
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20706401,
+            "num" : 6,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 21002401,
+            "num" : 300,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20041,
+      "id" : 4,
+      "num" : 2,
+      "reward" : [
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20706401,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 21002401,
+            "num" : 500,
+            "type" : 1
+         },
+         {
+            "from_table" : "warer_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   }
+]

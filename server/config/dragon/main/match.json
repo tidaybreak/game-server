@@ -1,0 +1,58 @@
+[
+   {
+      "begin_level" : 10,
+      "end_level" : 15
+   },
+   {
+      "begin_level" : 16,
+      "end_level" : 19
+   },
+   {
+      "begin_level" : 20,
+      "end_level" : 25
+   },
+   {
+      "begin_level" : 26,
+      "end_level" : 30
+   },
+   {
+      "begin_level" : 31,
+      "end_level" : 35
+   },
+   {
+      "begin_level" : 36,
+      "end_level" : 40
+   },
+   {
+      "begin_level" : 41,
+      "end_level" : 45
+   },
+   {
+      "begin_level" : 46,
+      "end_level" : 50
+   },
+   {
+      "begin_level" : 51,
+      "end_level" : 55
+   },
+   {
+      "begin_level" : 56,
+      "end_level" : 60
+   },
+   {
+      "begin_level" : 61,
+      "end_level" : 65
+   },
+   {
+      "begin_level" : 66,
+      "end_level" : 70
+   },
+   {
+      "begin_level" : 71,
+      "end_level" : 75
+   },
+   {
+      "begin_level" : 76,
+      "end_level" : 80
+   }
+]

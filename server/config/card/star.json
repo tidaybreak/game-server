@@ -1,0 +1,22 @@
+[
+   {
+      "percent" : 20,
+      "star" : 1
+   },
+   {
+      "percent" : 30,
+      "star" : 2
+   },
+   {
+      "percent" : 40,
+      "star" : 3
+   },
+   {
+      "percent" : 50,
+      "star" : 4
+   },
+   {
+      "percent" : 60,
+      "star" : 5
+   }
+]

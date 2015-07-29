@@ -1,0 +1,236 @@
+[
+   {
+      "content" : [ 1, 2, 3, 7 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 101,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 6, 7 ],
+      "day" : -1,
+      "num" : 150,
+      "opera" : 3,
+      "time" : 0,
+      "type" : 111,
+      "week" : 1
+   },
+   {
+      "content" : [ 1, 2, 3, 4, 5 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 102,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 6, 4, 5 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 3,
+      "time" : 0,
+      "type" : 112,
+      "week" : 1
+   },
+   {
+      "content" : [ 1, 8, 2, 9, 10 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 4,
+      "time" : 30,
+      "type" : 103,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 8, 2, 6, 9, 11 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 4,
+      "time" : 0,
+      "type" : 113,
+      "week" : 1
+   },
+   {
+      "content" : [ 1, 2, 4, 29, 7 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 106,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 4, 28, 7 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 107,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 25, 26 ],
+      "day" : 6,
+      "num" : 50,
+      "opera" : 3,
+      "time" : 0,
+      "type" : 104,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 19, 27 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 105,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 11, 2, 14 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 30,
+      "type" : 201,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 11, 2, 6, 14 ],
+      "day" : 6,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 0,
+      "type" : 211,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 12, 2, 14 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 30,
+      "type" : 202,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 12, 2, 6, 14 ],
+      "day" : 6,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 0,
+      "type" : 212,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 13, 2, 14 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 30,
+      "type" : 203,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 13, 2, 6, 14 ],
+      "day" : 6,
+      "num" : 50,
+      "opera" : 5,
+      "time" : 0,
+      "type" : 213,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 23, 16 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 2,
+      "time" : 30,
+      "type" : 301,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 23, 6, 16 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 2,
+      "time" : 0,
+      "type" : 311,
+      "week" : 1
+   },
+   {
+      "content" : [ 1, 2, 3, 17 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 402,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 17 ],
+      "day" : -1,
+      "num" : 100,
+      "opera" : 3,
+      "time" : 30,
+      "type" : 403,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 19, 20, 21 ],
+      "day" : 6,
+      "num" : 20,
+      "opera" : 1,
+      "time" : 0,
+      "type" : 500,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 19, 6, 20, 22 ],
+      "day" : 6,
+      "num" : 30,
+      "opera" : 1,
+      "time" : 0,
+      "type" : 510,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 4, 22 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 2,
+      "time" : 30,
+      "type" : 601,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 2, 3, 4, 6, 22 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 2,
+      "time" : 0,
+      "type" : 611,
+      "week" : 1
+   },
+   {
+      "content" : [ 1, 19, 20, 24 ],
+      "day" : 6,
+      "num" : 50,
+      "opera" : 1,
+      "time" : 0,
+      "type" : 602,
+      "week" : 0
+   },
+   {
+      "content" : [ 1, 19, 6, 20, 24 ],
+      "day" : -1,
+      "num" : 50,
+      "opera" : 1,
+      "time" : 0,
+      "type" : 612,
+      "week" : 1
+   }
+]

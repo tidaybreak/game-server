@@ -1,0 +1,62 @@
+[
+   {
+      "cast_gold" : 10000,
+      "energy_cast" : 10,
+      "extra_base" : 1,
+      "item_id" : 21710301,
+      "material" : [
+         [ 28001101, 20 ],
+         [ 28001102, 10 ]
+      ],
+      "skill_id" : 3001,
+      "smelt_tab" : 101
+   },
+   {
+      "cast_gold" : 10000,
+      "energy_cast" : 10,
+      "extra_base" : 1,
+      "item_id" : 21710402,
+      "material" : [
+         [ 28001101, 20 ],
+         [ 28001102, 10 ]
+      ],
+      "skill_id" : 3002,
+      "smelt_tab" : 102
+   },
+   {
+      "cast_gold" : 10000,
+      "energy_cast" : 10,
+      "extra_base" : 1,
+      "item_id" : 21710403,
+      "material" : [
+         [ 28001101, 20 ],
+         [ 28001102, 10 ]
+      ],
+      "skill_id" : 3003,
+      "smelt_tab" : 103
+   },
+   {
+      "cast_gold" : 10000,
+      "energy_cast" : 10,
+      "extra_base" : 1,
+      "item_id" : 21710504,
+      "material" : [
+         [ 28001101, 20 ],
+         [ 28001102, 10 ]
+      ],
+      "skill_id" : 3004,
+      "smelt_tab" : 104
+   },
+   {
+      "cast_gold" : 10000,
+      "energy_cast" : 10,
+      "extra_base" : 1,
+      "item_id" : 21710505,
+      "material" : [
+         [ 28001101, 20 ],
+         [ 28001102, 10 ]
+      ],
+      "skill_id" : 3005,
+      "smelt_tab" : 105
+   }
+]

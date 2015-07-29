@@ -1,0 +1,364 @@
+[
+   {
+      "color" : 3,
+      "id" : 1,
+      "money" : 500,
+      "name" : "黄铜礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 50004708,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 200000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 200000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 50004708, 20513401 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 2,
+      "type_id" : 50004708
+   },
+   {
+      "color" : 3,
+      "id" : 2,
+      "money" : 1000,
+      "name" : "青铜礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21225306,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 30,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 300000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 300000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 21225306, 20505543 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 3,
+      "type_id" : 61340008
+   },
+   {
+      "color" : 4,
+      "id" : 3,
+      "money" : 2000,
+      "name" : "白银礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 50004708,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 40,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 50,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 15,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21002401,
+            "num" : 200,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 600000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 600000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 50004708, 21002401 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 2,
+      "type_id" : 50004708
+   },
+   {
+      "color" : 4,
+      "id" : 4,
+      "money" : 5000,
+      "name" : "白金礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 50004708,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 60,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 100,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21002401,
+            "num" : 500,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 1000000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 50004708, 21002401 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 2,
+      "type_id" : 50004708
+   },
+   {
+      "color" : 5,
+      "id" : 5,
+      "money" : 10000,
+      "name" : "黄金礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21201305,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 60,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 200,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 25,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21002401,
+            "num" : 1000,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 2000000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 21201305, 20505543 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 3,
+      "type_id" : 61311002
+   },
+   {
+      "ann_id" : 2001,
+      "color" : 5,
+      "id" : 6,
+      "money" : 20000,
+      "name" : "钻石礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 50004708,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 60,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 300,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 30,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21002401,
+            "num" : 1000,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 3000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 3000000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 50004708, 21002401 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 2,
+      "type_id" : 50004708
+   },
+   {
+      "ann_id" : 2002,
+      "color" : 5,
+      "id" : 7,
+      "money" : 50000,
+      "name" : "至尊礼包",
+      "reward" : [
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21221503,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20505543,
+            "num" : 60,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20513401,
+            "num" : 400,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 20511301,
+            "num" : 40,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 21002401,
+            "num" : 1000,
+            "type" : 1
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 502903,
+            "num" : 4000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "pay_feedback_reward",
+            "item_id" : 501502,
+            "num" : 4000000,
+            "type" : 2
+         }
+      ],
+      "showItem" : [ 21221503, 21002401 ],
+      "showItem_num" : [ 1, 1 ],
+      "type" : 3,
+      "type_id" : 61340007
+   }
+]

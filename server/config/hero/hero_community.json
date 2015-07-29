@@ -1,0 +1,674 @@
+[
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "…你这个笨蛋", "你真暖和" ],
+      "interact_answers" : [ "你都快烧起来了吧!", "来,靠着我" ],
+      "interact_id" : 1,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "呼,好冷啊…"
+   },
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "笨蛋,才不会被你看扁呢", "不要,我还能坚持一会" ],
+      "interact_answers" : [ "我背你吧", "那我们休息休息" ],
+      "interact_id" : 2,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我觉得有点累了"
+   },
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "嗯,你说得没错", "我一直这么认为" ],
+      "interact_answers" : [ "就快了,胜利一定是属于我们的", "相信我,这场战斗很快就会结束" ],
+      "interact_id" : 3,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "不知道战争还会持续多久"
+   },
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "你总是这样子..", "讨厌,认真一点嘛" ],
+      "interact_answers" : [ "这点小伤不碍事", "都是我的错,让你心疼了" ],
+      "interact_id" : 4,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "啊,你受伤了!"
+   },
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "真的吗?", "不知道你家乡是什么样子" ],
+      "interact_answers" : [ "战争结束后,那儿会变得更美", "我也是,好久没有回家了" ],
+      "interact_id" : 5,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我想念家乡的小屋"
+   },
+   {
+      "hero_id" : 60210001,
+      "hero_interact_answers" : [ "好的!我会努力的", "谢谢,我觉得好多了" ],
+      "interact_answers" : [ "加油,挫折总是让人变得更强", "所以我会一直陪着你啊" ],
+      "interact_id" : 6,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "长久的战斗总是令人疲惫"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "对!这是我们的信仰!", "力量..却总是让人们畏惧" ],
+      "interact_answers" : [ "荣耀!", "力量!" ],
+      "interact_id" : 7,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你觉得兽人象征什么?"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "哪有那么容易!", "我觉得你就挺合适的" ],
+      "interact_answers" : [ "找更强大的敌人去挑战!", "找一个对手,不断的去竞争" ],
+      "interact_id" : 8,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "我如何才能变得更强?"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "我?我还差得远呢", "我还需要努力!" ],
+      "interact_answers" : [ "你不就是一个?", "时机还未到而已" ],
+      "interact_id" : 9,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "兽人族很久没有出英雄了"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "好!这次不会输给你了", "好!不醉不归!" ],
+      "interact_answers" : [ "来打一场吧!", "走,我们去喝酒!" ],
+      "interact_id" : 10,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "好无聊啊…"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "这个提议有意思,应该试一试", "这么多年了,这招不管用" ],
+      "interact_answers" : [ "或许应该让他们多融入下社会", "保持他们的魅力就好" ],
+      "interact_id" : 11,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我的族群怎么才能更繁荣?"
+   },
+   {
+      "hero_id" : 60210002,
+      "hero_interact_answers" : [ "哈哈哈,果然还是太大意了", "他这个毛病果然很致命" ],
+      "interact_answers" : [ "他让我们两个一起上…", "他打架都不用脑子" ],
+      "interact_id" : 12,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你是怎么战胜古雷格的?"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "我觉得还挺轻的", "大概也就几千场而已" ],
+      "interact_answers" : [ "很笨重的样子", "看起来身经百战啊" ],
+      "interact_id" : 13,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "我这身盔甲如何?"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "是你在偷懒吧!", "哈哈哈,是你太弱了" ],
+      "interact_answers" : [ "挺轻松的", "多亏你在前面挡着" ],
+      "interact_id" : 14,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "昨天的战斗感觉如何?"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "你小子还挺会说话", "偶尔你也试试肉盾的感觉" ],
+      "interact_answers" : [ "大材小用了", "那还有谁能挡住敌人?" ],
+      "interact_id" : 15,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你觉得我站后排怎么样?"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "你小子还挺会说话", "下场战斗别让我上吧" ],
+      "interact_answers" : [ "能力越大,责任越大啊!", "好的,我也觉得你需要休息了" ],
+      "interact_id" : 16,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "什么时候我可以休息下?"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "没问题!这是我的强项", "好好!!我喜欢这个" ],
+      "interact_answers" : [ "我们去进攻恶魔吧!", "我们去吃一顿好的!" ],
+      "interact_id" : 17,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "好无聊啊…"
+   },
+   {
+      "hero_id" : 60210003,
+      "hero_interact_answers" : [ "没错,这就是我要的效果", "你说的也对" ],
+      "interact_answers" : [ "令人恐惧", "主要看用的主人是谁" ],
+      "interact_id" : 18,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "这把剑的威力如何?"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "什么时候才能消灭素有邪恶", "这个希望太诱人了" ],
+      "interact_answers" : [ "因为有邪恶的存在", "为了和平所以才要战斗" ],
+      "interact_id" : 19,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "为什么要继续战斗下去?"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "这是一个剑客的基础", "尽会耍滑头" ],
+      "interact_answers" : [ "你的眼神", "再快我就看不清了" ],
+      "interact_id" : 20,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "有什么比我的刀更快?"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "他们都是恶鬼!", "你说的没错" ],
+      "interact_answers" : [ "恶魔要是知道这些就好了", "对恶魔复仇倒是很有意思" ],
+      "interact_id" : 21,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "杀戮其实一点都没意思"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "你也要变得更强啊!", "我不会让你失望的" ],
+      "interact_answers" : [ "强大的伙伴值得付出这么多", "因为我相信你的实力" ],
+      "interact_id" : 22,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "招募我花了很多力气吧?"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "你也是个怕死的人啊", "什么时候你变得多愁善感了" ],
+      "interact_answers" : [ "恐惧,未知", "怜惜,哀伤" ],
+      "interact_id" : 23,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你觉得亡灵给人什么感觉?"
+   },
+   {
+      "hero_id" : 60210004,
+      "hero_interact_answers" : [ "哈,我没看错你", "哼哼,这就是我的魅力" ],
+      "interact_answers" : [ "怎么会,你是我的伙伴啊", "你战斗的时候挺令人畏惧的" ],
+      "interact_id" : 24,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你怕不怕我?"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "…好", "你真暖和" ],
+      "interact_answers" : [ "赶紧多穿几件衣服", "来,靠着我" ],
+      "interact_id" : 25,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "呼,好冷啊…"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "笨蛋,才不会被你看扁呢", "不要,我还能坚持一会" ],
+      "interact_answers" : [ "我背你吧", "那我们休息休息" ],
+      "interact_id" : 26,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我觉得有点累了"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "嗯,你说得没错", "我一直这么认为" ],
+      "interact_answers" : [ "就快了,胜利一定是属于我们的", "相信我,这场战斗很快就会结束" ],
+      "interact_id" : 27,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "不知道战争还会持续多久"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "你总是这样子..", "讨厌,认真一点嘛" ],
+      "interact_answers" : [ "这点小伤不碍事", "都是我的错,让你心疼了" ],
+      "interact_id" : 28,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "啊,你受伤了!"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "真的吗?", "不知道你家乡是什么样子" ],
+      "interact_answers" : [ "战争结束后,那儿会变得更美", "我也是,好久没有回家了" ],
+      "interact_id" : 29,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我想念家乡的小屋"
+   },
+   {
+      "hero_id" : 60210021,
+      "hero_interact_answers" : [ "好的!我会努力的", "谢谢,我觉得好多了" ],
+      "interact_answers" : [ "加油,挫折总是让人变得更强", "所以我会一直陪着你啊" ],
+      "interact_id" : 30,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "长久的战斗总是令人疲惫"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "什么时候才能消灭素有邪恶", "这个希望太诱人了" ],
+      "interact_answers" : [ "因为有邪恶的存在", "为了和平所以才要战斗" ],
+      "interact_id" : 31,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "为什么要继续战斗下去?"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "这是一个剑客的基础", "尽会耍滑头" ],
+      "interact_answers" : [ "你的眼神", "再快我就看不清了" ],
+      "interact_id" : 32,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "有什么比我的刀更快?"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "他们都是恶鬼!", "你说的没错" ],
+      "interact_answers" : [ "恶魔要是知道这些就好了", "对恶魔复仇倒是很有意思" ],
+      "interact_id" : 33,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "杀戮其实一点都没意思"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "你也要变得更强啊!", "我不会让你失望的" ],
+      "interact_answers" : [ "强大的伙伴值得付出这么多", "因为我相信你的实力" ],
+      "interact_id" : 34,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "招募我花了很多力气吧?"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "你也是个怕死的人啊", "什么时候你变得多愁善感了" ],
+      "interact_answers" : [ "恐惧,未知", "怜惜,哀伤" ],
+      "interact_id" : 35,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你觉得亡灵给人什么感觉?"
+   },
+   {
+      "hero_id" : 60220001,
+      "hero_interact_answers" : [ "哈,我没看错你", "哼哼,这就是我的魅力" ],
+      "interact_answers" : [ "怎么会,你是我的伙伴啊", "你战斗的时候挺令人畏惧的" ],
+      "interact_id" : 36,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你怕不怕我?"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "对!这是我们的信仰!", "力量..却总是让人们畏惧" ],
+      "interact_answers" : [ "荣耀!", "力量!" ],
+      "interact_id" : 37,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你觉得兽人象征什么?"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "哪有那么容易!", "我觉得你就挺合适的" ],
+      "interact_answers" : [ "找更强大的敌人去挑战!", "找一个对手,不断的去竞争" ],
+      "interact_id" : 38,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "我如何才能变得更强?"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "我?我还差得远呢", "我还需要努力!" ],
+      "interact_answers" : [ "你不就是一个?", "时机还未到而已" ],
+      "interact_id" : 39,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "兽人族很久没有出英雄了"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "好!这次不会输给你了", "好!不醉不归!" ],
+      "interact_answers" : [ "来打一场吧!", "走,我们去喝酒!" ],
+      "interact_id" : 40,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "好无聊啊…"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "这个提议有意思,应该试一试", "这么多年了,这招不管用" ],
+      "interact_answers" : [ "或许应该让他们多融入下社会", "保持他们的魅力就好" ],
+      "interact_id" : 41,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我的族群怎么才能更繁荣?"
+   },
+   {
+      "hero_id" : 60220002,
+      "hero_interact_answers" : [ "哈哈哈,果然还是太大意了", "他这个毛病果然很致命" ],
+      "interact_answers" : [ "他让我们两个一起上…", "他打架都不用脑子" ],
+      "interact_id" : 42,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你是怎么战胜古雷格的?"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "我觉得还挺轻的", "大概也就几千场而已" ],
+      "interact_answers" : [ "很笨重的样子", "看起来身经百战啊" ],
+      "interact_id" : 43,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "我这身盔甲如何?"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "是你在偷懒吧!", "哈哈哈,是你太弱了" ],
+      "interact_answers" : [ "挺轻松的", "多亏你在前面挡着" ],
+      "interact_id" : 44,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "昨天的战斗感觉如何?"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "你小子还挺会说话", "偶尔你也试试肉盾的感觉" ],
+      "interact_answers" : [ "大材小用了", "那还有谁能挡住敌人?" ],
+      "interact_id" : 45,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你觉得我站后排怎么样?"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "你小子还挺会说话", "下场战斗别让我上吧" ],
+      "interact_answers" : [ "能力越大,责任越大啊!", "好的,我也觉得你需要休息了" ],
+      "interact_id" : 46,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "什么时候我可以休息下?"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "没问题!这是我的强项", "好好!!我喜欢这个" ],
+      "interact_answers" : [ "我们去进攻恶魔吧!", "我们去吃一顿好的!" ],
+      "interact_id" : 47,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "好无聊啊…"
+   },
+   {
+      "hero_id" : 60220003,
+      "hero_interact_answers" : [ "没错,这就是我要的效果", "你说的也对" ],
+      "interact_answers" : [ "令人恐惧", "主要看用的主人是谁" ],
+      "interact_id" : 48,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "这把剑的威力如何?"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "…好", "你真暖和" ],
+      "interact_answers" : [ "赶紧多穿几件衣服", "来,靠着我" ],
+      "interact_id" : 49,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "呼,好冷啊…"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "笨蛋,才不会被你看扁呢", "不要,我还能坚持一会" ],
+      "interact_answers" : [ "我背你吧", "那我们休息休息" ],
+      "interact_id" : 50,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我觉得有点累了"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "嗯,你说得没错", "我一直这么认为" ],
+      "interact_answers" : [ "就快了,胜利一定是属于我们的", "相信我,这场战斗很快就会结束" ],
+      "interact_id" : 51,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "不知道战争还会持续多久"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "你总是这样子..", "讨厌,认真一点嘛" ],
+      "interact_answers" : [ "这点小伤不碍事", "都是我的错,让你心疼了" ],
+      "interact_id" : 52,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "啊,你受伤了!"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "真的吗?", "不知道你家乡是什么样子" ],
+      "interact_answers" : [ "战争结束后,那儿会变得更美", "我也是,好久没有回家了" ],
+      "interact_id" : 53,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我想念家乡的小屋"
+   },
+   {
+      "hero_id" : 60220004,
+      "hero_interact_answers" : [ "好的!我会努力的", "谢谢,我觉得好多了" ],
+      "interact_answers" : [ "加油,挫折总是让人变得更强", "所以我会一直陪着你啊" ],
+      "interact_id" : 54,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "长久的战斗总是令人疲惫"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "…好", "你真暖和" ],
+      "interact_answers" : [ "赶紧多穿几件衣服", "来,靠着我" ],
+      "interact_id" : 55,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "呼,好冷啊…"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "笨蛋,才不会被你看扁呢", "不要,我还能坚持一会" ],
+      "interact_answers" : [ "我背你吧", "那我们休息休息" ],
+      "interact_id" : 56,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我觉得有点累了"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "嗯,你说得没错", "我一直这么认为" ],
+      "interact_answers" : [ "就快了,胜利一定是属于我们的", "相信我,这场战斗很快就会结束" ],
+      "interact_id" : 57,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "不知道战争还会持续多久"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "你总是这样子..", "讨厌,认真一点嘛" ],
+      "interact_answers" : [ "这点小伤不碍事", "都是我的错,让你心疼了" ],
+      "interact_id" : 58,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "啊,你受伤了!"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "真的吗?", "不知道你家乡是什么样子" ],
+      "interact_answers" : [ "战争结束后,那儿会变得更美", "我也是,好久没有回家了" ],
+      "interact_id" : 59,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我想念家乡的小屋"
+   },
+   {
+      "hero_id" : 60230001,
+      "hero_interact_answers" : [ "好的!我会努力的", "谢谢,我觉得好多了" ],
+      "interact_answers" : [ "加油,挫折总是让人变得更强", "所以我会一直陪着你啊" ],
+      "interact_id" : 60,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "长久的战斗总是令人疲惫"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "你不懂~ 它很萌的", "讨厌,讨厌!" ],
+      "interact_answers" : [ "这也叫小可爱?!", "它说看到你就想跑" ],
+      "interact_id" : 61,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你看到我的小可爱了吗?"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "啊啊啊!看我不毙了你", "小心被咬哦!" ],
+      "interact_answers" : [ "不好!吃起来很麻烦!", "喜欢!摸起来很舒服!" ],
+      "interact_id" : 62,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你喜欢毛茸茸的东西吗?"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "这是你和大姐姐说话的态度吗!", "呵呵,不要开玩笑啦." ],
+      "interact_answers" : [ "一百来岁的小孩儿", "有桌子这么大" ],
+      "interact_id" : 63,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你觉得我多大?"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "你不来救我吗?", "你是想我被咬死吧!" ],
+      "interact_answers" : [ "每人赏他一粒枪子儿", "你可以卖萌" ],
+      "interact_id" : 64,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "如果我被怪物包围了怎么办?"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "这个名字是我起的哦", "谜团!打死他!" ],
+      "interact_answers" : [ "胖子", "谜团" ],
+      "interact_id" : 65,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你猜猜我的宝贝叫什么?"
+   },
+   {
+      "hero_id" : 60230002,
+      "hero_interact_answers" : [ "真没办法..", "…好自私啊" ],
+      "interact_answers" : [ "森林能创造财富啊", "森林里没法住人啊" ],
+      "interact_id" : 66,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "为什么人类要破坏森林?"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "…好", "你真暖和" ],
+      "interact_answers" : [ "赶紧多穿几件衣服", "来,靠着我" ],
+      "interact_id" : 67,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "呼,好冷啊…"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "笨蛋,才不会被你看扁呢", "不要,我还能坚持一会" ],
+      "interact_answers" : [ "我背你吧", "那我们休息休息" ],
+      "interact_id" : 68,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我觉得有点累了"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "嗯,你说得没错", "我一直这么认为" ],
+      "interact_answers" : [ "就快了,胜利一定是属于我们的", "相信我,这场战斗很快就会结束" ],
+      "interact_id" : 69,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "不知道战争还会持续多久"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "你总是这样子..", "讨厌,认真一点嘛" ],
+      "interact_answers" : [ "这点小伤不碍事", "都是我的错,让你心疼了" ],
+      "interact_id" : 70,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "啊,你受伤了!"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "真的吗?", "不知道你家乡是什么样子" ],
+      "interact_answers" : [ "战争结束后,那儿会变得更美", "我也是,好久没有回家了" ],
+      "interact_id" : 71,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "我想念家乡的小屋"
+   },
+   {
+      "hero_id" : 60230003,
+      "hero_interact_answers" : [ "好的!我会努力的", "谢谢,我觉得好多了" ],
+      "interact_answers" : [ "加油,挫折总是让人变得更强", "所以我会一直陪着你啊" ],
+      "interact_id" : 72,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "长久的战斗总是令人疲惫"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "你不懂~ 它很萌的", "讨厌,讨厌!" ],
+      "interact_answers" : [ "这只熊也叫小熊?!", "它说看到你就想跑" ],
+      "interact_id" : 73,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你看到我的小熊了吗?"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "啊啊啊!看我不毙了你", "小心被咬哦!" ],
+      "interact_answers" : [ "不好!吃起来很麻烦!", "喜欢!摸起来很舒服!" ],
+      "interact_id" : 74,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你喜欢毛茸茸的东西吗?"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "这是你和大姐姐说话的态度吗!", "呵呵,不要开玩笑啦." ],
+      "interact_answers" : [ "一百来岁的小孩儿", "有桌子这么大" ],
+      "interact_id" : 75,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你觉得我多大?"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "你不来救我吗?", "你是想我被咬死吧!" ],
+      "interact_answers" : [ "每人赏他一粒枪子儿", "你可以卖萌" ],
+      "interact_id" : 76,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "如果我被怪物包围了怎么办?"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "这个名字是我起的哦", "帕吉!咬他!" ],
+      "interact_answers" : [ "帕吉", "清蒸" ],
+      "interact_id" : 77,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你猜猜我的熊叫什么?"
+   },
+   {
+      "hero_id" : 60230004,
+      "hero_interact_answers" : [ "真没办法..", "…好自私啊" ],
+      "interact_answers" : [ "森林能创造财富啊", "森林里没法住人啊" ],
+      "interact_id" : 78,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "为什么人类要破坏森林?"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "什么时候才能消灭素有邪恶", "这个希望太诱人了" ],
+      "interact_answers" : [ "因为有邪恶的存在", "为了和平所以才要战斗" ],
+      "interact_id" : 79,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "为什么要继续战斗下去?"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "光其实更快", "尽会耍滑头" ],
+      "interact_answers" : [ "闪电", "再快我就看不清了" ],
+      "interact_id" : 80,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "有什么比魔法更快?"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "他们都是恶鬼!", "你说的没错" ],
+      "interact_answers" : [ "恶魔要是知道这些就好了", "对恶魔复仇倒是很有意思" ],
+      "interact_id" : 81,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "杀戮其实一点都没意思"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "你也要变得更强啊!", "我不会让你失望的" ],
+      "interact_answers" : [ "强大的伙伴值得付出这么多", "因为我相信你的实力" ],
+      "interact_id" : 82,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "招募我花了很多力气吧?"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "这是它的魅力所在", "其实魔法本身是温柔的" ],
+      "interact_answers" : [ "奇妙", "强大" ],
+      "interact_id" : 83,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你觉得魔法给人什么感觉?"
+   },
+   {
+      "hero_id" : 60230010,
+      "hero_interact_answers" : [ "哈,我没看错你", "哼哼,这就是我的魅力" ],
+      "interact_answers" : [ "怎么会,你是我的伙伴啊", "你战斗的时候挺令人畏惧的" ],
+      "interact_id" : 84,
+      "interact_intimacys" : [ 15, 10 ],
+      "interact_question" : "你怕不怕我?"
+   }
+]

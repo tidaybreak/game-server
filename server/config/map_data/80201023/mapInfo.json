@@ -1,0 +1,45 @@
+{
+    "mapId": 80201023,
+    "validRect": {"width": 5846, "x": 0, "height": 2014, "y": 0},
+	"fightPoints":
+	[
+		{
+			"centerPt":[4627,815],
+			"area":[4627,815,0,0]
+		},
+		{
+			"centerPt":[2914,1378],
+			"area":[2914,1378,0,0]
+		},
+		{
+			"centerPt":[1820,1683],
+			"area":[1820,1683,0,0]
+		},
+		{
+			"centerPt":[1398,1566],
+			"area":[1398,1566,0,0]
+		}
+	],
+	"baseMapIndex":0,
+	"mapLayers":
+	[
+		{
+			"tileWidth": 256,
+			"tileHeight": 256,
+			
+			"imgWidth":5846,
+			"imgHeight":2014,
+		
+			"width":5846,
+			"height":2014,
+			
+			"layerType":0,
+			"tileImgUrl":"skin/mmo_map/mapImages/",
+			"tileImgIndex":0,
+			
+			"thumbHeight": 201,
+			"thumbWidth": 584,
+			"thumbImgUrl":"skin/mmo_map/thumImgs/80201023_0.jpg"
+		}
+	]
+}

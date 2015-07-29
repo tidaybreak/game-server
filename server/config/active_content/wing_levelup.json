@@ -1,0 +1,230 @@
+[
+   {
+      "act_id" : 20010,
+      "id" : 1,
+      "level" : 6,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20010,
+      "id" : 2,
+      "level" : 11,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20010,
+      "id" : 3,
+      "level" : 16,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 40,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20010,
+      "id" : 4,
+      "level" : 21,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 80,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20010,
+      "id" : 5,
+      "level" : 26,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 120,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 6,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20010,
+      "id" : 6,
+      "level" : 31,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 240,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 8,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 7,
+      "level" : 6,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 8,
+      "level" : 11,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 9,
+      "level" : 16,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 40,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 10,
+      "level" : 21,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 80,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 11,
+      "level" : 26,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 120,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 6,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20048,
+      "id" : 12,
+      "level" : 31,
+      "reward" : [
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20503401,
+            "num" : 240,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_levelup_reward",
+            "item_id" : 20516401,
+            "num" : 8,
+            "type" : 1
+         }
+      ]
+   }
+]

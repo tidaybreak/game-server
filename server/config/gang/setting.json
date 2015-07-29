@@ -1,0 +1,34 @@
+[
+   {
+      "birth_coord" : [
+         [ 3314, 2540 ],
+         [ 4883, 1068 ],
+         [ 4333, 4143 ],
+         [ 6388, 2542 ],
+         [ 7777, 1075 ],
+         [ 8327, 4143 ],
+         [ 9329, 2545 ]
+      ],
+      "box_limit" : 1,
+      "contribute" : 10,
+      "empty_score" : 700,
+      "finish_time" : 1500,
+      "hold_score" : 3,
+      "kill_score" : 1,
+      "level_limit" : 25,
+      "mercit" : 10,
+      "obstacles" : [
+         [ 1200049, 1600, 1546 ],
+         [ 1200049, 5937, 1586 ]
+      ],
+      "ready_time" : 120,
+      "revive_time" : 20,
+      "skill_cd" : 180,
+      "tower_change_time" : 20,
+      "tower_score" : 2,
+      "tower_score_center" : 3,
+      "tower_score_tick" : 3,
+      "trans_limit" : 1000,
+      "win_score" : 2800
+   }
+]

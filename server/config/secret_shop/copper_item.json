@@ -1,0 +1,44 @@
+[
+   {
+      "cost" : 10,
+      "item" : 20403101,
+      "limit_num" : 10,
+      "num" : 100,
+      "remark" : "1级斗力药水"
+   },
+   {
+      "cost" : 100,
+      "item" : 20403202,
+      "limit_num" : 0,
+      "num" : 20,
+      "remark" : "2级斗力药水"
+   },
+   {
+      "cost" : 100,
+      "item" : 20403303,
+      "limit_num" : 0,
+      "num" : 30,
+      "remark" : "3级斗力药水"
+   },
+   {
+      "cost" : 100,
+      "item" : 20403304,
+      "limit_num" : 0,
+      "num" : 40,
+      "remark" : "4级斗力药水"
+   },
+   {
+      "cost" : 100,
+      "item" : 20403405,
+      "limit_num" : 10,
+      "num" : 40,
+      "remark" : "5级斗力药水"
+   },
+   {
+      "cost" : 100,
+      "item" : 20403406,
+      "limit_num" : 10,
+      "num" : 10,
+      "remark" : "6级斗力药水"
+   }
+]

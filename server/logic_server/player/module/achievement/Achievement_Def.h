@@ -1,0 +1,68 @@
+/*
+ * Achievement_Def.h
+ *
+ *  Created on: 2014年7月23日
+ *      Author: Linqiyou
+ */
+
+#ifndef ACHIEVEMENT_DEF_H_
+#define ACHIEVEMENT_DEF_H_
+
+namespace Achievement_Def {
+	enum Achievement_State {
+		CANNOT_APPLY	= 0,
+		CAN_APPLY		= 1,
+		ALREADY_APPLY	= 2,
+	};
+	enum Achievement_Type {
+		AT_LEVEL			= 1,
+		AT_PACK_GRID		= 2,
+		AT_GOLD				= 3,
+		AT_SUIT_PURPLE		= 4,
+		AT_RUNE_LVL			= 5,
+		AT_UNBAN_LVL		= 6,
+		AT_MASTER_LVL		= 7,
+		AT_FRIENDSHIP		= 8,
+		AT_FORCE			= 9,
+		AT_GANG_CONTRIBUTE	= 10,
+		AT_HERO_NUMS		= 11,
+		AT_WAR_KILL_NUMS		= 12,
+		AT_ARENA_WIN_NUMS		= 13,
+		AT_GANG_WAR_WIN_NUMS	= 14,
+		AT_EXPLOIT_LVL			= 15,
+		AT_FIRST_LVL_ROLE_ID		= 16,
+		AT_FIRST_LVL_CK				= 17,
+		AT_FIRST_LVL_ZS				= 18,
+		AT_FIRST_LVL_YSS			= 19,
+		AT_KILL_MONSTER_NUMS		= 20,
+		AT_SINGLE_DUNGEON_COMPLETE	= 21,
+		AT_TEAM_FB_COMPLETE_NUMS	= 22,
+		AT_HORSE_GET				= 23,
+		AT_RECHARGE_DIAMOND			= 24,
+		AT_SECRET_SHOP_BUY_NUMS		= 25,
+		AT_DW_ROB_SUCESS_TIMES		= 26,
+		AT_DW_STEP_FOOT_TIMES		= 27,
+		AT_DW_PLAY_DRAGON_TIMES		= 28,
+		AT_HERO_AWAKE_LVL			= 29,
+		AT_TASK_COMPLETE_NUMS		= 30,
+		AT_DW_GOLD_MINE_LVL			= 31,
+		AT_DW_MOON_WELL_LVL			= 32,
+		AT_DW_TOTEM_LVL				= 33,
+		AT_DW_DRIVE_THIEF_TIMES		= 34,
+		AT_DW_LIGHT_WIN_NUMS		= 35,
+		AT_DW_DRAK_WIN_NUMS			= 36,
+		AT_TASK_LIMIT_TIME			= 37,
+		AT_KILL_BOSS				= 38,
+		AT_HORSE_GET_NUMS			= 39,
+		AT_DRAGON_WALE_KEEP_LEVEL	= 40,
+		AT_RUNE_STONE_LEVEL			= 41,
+		AT_EQUIP_ON_LVL				= 42,
+		AT_ARENA_LVL				= 43,
+		AT_HERO_NUMS_BY_LVL			= 44,
+		AT_FIRST_BOSS_AGAINST		= 45,
+		AT_COMPLETE_SUIT		    = 46,
+	};
+}
+
+
+#endif /* ACHIEVEMENT_DEF_H_ */

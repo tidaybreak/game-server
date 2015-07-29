@@ -1,0 +1,50 @@
+[
+   {
+      "combine_rate" : 1,
+      "poten_interval" : [ 400, 600 ],
+      "quality" : 1,
+      "spirit_num" : [ 10, 200 ]
+   },
+   {
+      "combine_rate" : 1,
+      "poten_interval" : [ 601, 900 ],
+      "quality" : 2,
+      "spirit_num" : [ 10, 200 ]
+   },
+   {
+      "combine_rate" : 1,
+      "poten_interval" : [ 901, 1200 ],
+      "quality" : 3,
+      "spirit_num" : [ 10, 200 ]
+   },
+   {
+      "combine_rate" : 1,
+      "cost" : 200000,
+      "cost_item" : [
+         [ 20518001, 20, 2 ]
+      ],
+      "poten_interval" : [ 1201, 1600 ],
+      "quality" : 4,
+      "spirit_num" : [ 10, 200 ]
+   },
+   {
+      "combine_rate" : 1,
+      "cost" : 100000,
+      "cost_item" : [
+         [ 20518001, 10, 2 ]
+      ],
+      "poten_interval" : [ 1601, 2000 ],
+      "quality" : 5,
+      "spirit_num" : [ 10, 200 ]
+   },
+   {
+      "combine_rate" : 1,
+      "cost" : 100000,
+      "cost_item" : [
+         [ 20518001, 10, 2 ]
+      ],
+      "poten_interval" : [ 2001, 2400 ],
+      "quality" : 7,
+      "spirit_num" : [ 10, 200 ]
+   }
+]

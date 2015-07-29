@@ -1,0 +1,7302 @@
+[
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "主角斗魂",
+      "success_chance" : 0,
+      "type" : 1
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "主角斗魂",
+      "page_order" : 1,
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "主角斗魂",
+      "success_chance" : 100,
+      "type" : 1
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "主角斗魂",
+      "success_chance" : 90,
+      "type" : 1
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "主角斗魂",
+      "success_chance" : 80,
+      "type" : 1
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "主角斗魂",
+      "success_chance" : 70,
+      "type" : 1
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "主角斗魂",
+      "success_chance" : 60,
+      "type" : 1
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 50,
+      "type" : 1
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 40,
+      "type" : 1
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "主角斗魂",
+      "success_chance" : 30,
+      "type" : 1
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "主角甲魂",
+      "success_chance" : 0,
+      "type" : 2
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "主角甲魂",
+      "page_order" : 2,
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "主角甲魂",
+      "success_chance" : 100,
+      "type" : 2
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "主角甲魂",
+      "success_chance" : 90,
+      "type" : 2
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "主角甲魂",
+      "success_chance" : 80,
+      "type" : 2
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "主角甲魂",
+      "success_chance" : 70,
+      "type" : 2
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "主角甲魂",
+      "success_chance" : 60,
+      "type" : 2
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 50,
+      "type" : 2
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 40,
+      "type" : 2
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "主角甲魂",
+      "success_chance" : 30,
+      "type" : 2
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "主角血魂",
+      "success_chance" : 0,
+      "type" : 3
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "主角血魂",
+      "page_order" : 3,
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "主角血魂",
+      "success_chance" : 100,
+      "type" : 3
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "主角血魂",
+      "success_chance" : 90,
+      "type" : 3
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "主角血魂",
+      "success_chance" : 80,
+      "type" : 3
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "主角血魂",
+      "success_chance" : 70,
+      "type" : 3
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "主角血魂",
+      "success_chance" : 60,
+      "type" : 3
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 50,
+      "type" : 3
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 40,
+      "type" : 3
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "主角血魂",
+      "success_chance" : 30,
+      "type" : 3
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "英雄斗魂",
+      "success_chance" : 0,
+      "type" : 4
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "英雄斗魂",
+      "page_order" : 4,
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "英雄斗魂",
+      "success_chance" : 100,
+      "type" : 4
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "英雄斗魂",
+      "success_chance" : 90,
+      "type" : 4
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "英雄斗魂",
+      "success_chance" : 80,
+      "type" : 4
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "英雄斗魂",
+      "success_chance" : 70,
+      "type" : 4
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "英雄斗魂",
+      "success_chance" : 60,
+      "type" : 4
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 50,
+      "type" : 4
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 40,
+      "type" : 4
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄斗魂",
+      "success_chance" : 30,
+      "type" : 4
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "英雄甲魂",
+      "success_chance" : 0,
+      "type" : 5
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "英雄甲魂",
+      "page_order" : 5,
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "英雄甲魂",
+      "success_chance" : 100,
+      "type" : 5
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "英雄甲魂",
+      "success_chance" : 90,
+      "type" : 5
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "英雄甲魂",
+      "success_chance" : 80,
+      "type" : 5
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "英雄甲魂",
+      "success_chance" : 70,
+      "type" : 5
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "英雄甲魂",
+      "success_chance" : 60,
+      "type" : 5
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 50,
+      "type" : 5
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 40,
+      "type" : 5
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄甲魂",
+      "success_chance" : 30,
+      "type" : 5
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "英雄血魂",
+      "success_chance" : 0,
+      "type" : 6
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "英雄血魂",
+      "page_order" : 6,
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "英雄血魂",
+      "success_chance" : 100,
+      "type" : 6
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "英雄血魂",
+      "success_chance" : 90,
+      "type" : 6
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "英雄血魂",
+      "success_chance" : 80,
+      "type" : 6
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "英雄血魂",
+      "success_chance" : 70,
+      "type" : 6
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "英雄血魂",
+      "success_chance" : 60,
+      "type" : 6
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 50,
+      "type" : 6
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 40,
+      "type" : 6
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄血魂",
+      "success_chance" : 30,
+      "type" : 6
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "主角暴击",
+      "success_chance" : 0,
+      "type" : 7
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "主角暴击",
+      "page_order" : 7,
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "主角暴击",
+      "success_chance" : 100,
+      "type" : 7
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "主角暴击",
+      "success_chance" : 90,
+      "type" : 7
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "主角暴击",
+      "success_chance" : 80,
+      "type" : 7
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "主角暴击",
+      "success_chance" : 70,
+      "type" : 7
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "主角暴击",
+      "success_chance" : 60,
+      "type" : 7
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 50,
+      "type" : 7
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 40,
+      "type" : 7
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "主角暴击",
+      "success_chance" : 30,
+      "type" : 7
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "主角抗暴",
+      "success_chance" : 0,
+      "type" : 8
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "主角抗暴",
+      "page_order" : 8,
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "主角抗暴",
+      "success_chance" : 100,
+      "type" : 8
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "主角抗暴",
+      "success_chance" : 90,
+      "type" : 8
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "主角抗暴",
+      "success_chance" : 80,
+      "type" : 8
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "主角抗暴",
+      "success_chance" : 70,
+      "type" : 8
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "主角抗暴",
+      "success_chance" : 60,
+      "type" : 8
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 50,
+      "type" : 8
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 40,
+      "type" : 8
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "主角抗暴",
+      "success_chance" : 30,
+      "type" : 8
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "英雄暴击",
+      "success_chance" : 0,
+      "type" : 9
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "英雄暴击",
+      "page_order" : 9,
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "英雄暴击",
+      "success_chance" : 100,
+      "type" : 9
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "英雄暴击",
+      "success_chance" : 90,
+      "type" : 9
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "英雄暴击",
+      "success_chance" : 80,
+      "type" : 9
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "英雄暴击",
+      "success_chance" : 70,
+      "type" : 9
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "英雄暴击",
+      "success_chance" : 60,
+      "type" : 9
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 50,
+      "type" : 9
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 40,
+      "type" : 9
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄暴击",
+      "success_chance" : 30,
+      "type" : 9
+   },
+   {
+      "add_property" : 0,
+      "coin_num" : 1000,
+      "dragon_level" : 0,
+      "dragon_soul_num" : 0,
+      "name" : "英雄抗暴",
+      "success_chance" : 0,
+      "type" : 10
+   },
+   {
+      "add_property" : 50,
+      "coin_num" : 1000,
+      "dragon_level" : 1,
+      "dragon_soul_num" : 1500,
+      "name" : "英雄抗暴",
+      "page_order" : 10,
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 100,
+      "coin_num" : 1000,
+      "dragon_level" : 2,
+      "dragon_soul_num" : 2140,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 150,
+      "coin_num" : 1000,
+      "dragon_level" : 3,
+      "dragon_soul_num" : 2780,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 200,
+      "coin_num" : 1000,
+      "dragon_level" : 4,
+      "dragon_soul_num" : 3420,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 250,
+      "coin_num" : 1000,
+      "dragon_level" : 5,
+      "dragon_soul_num" : 4060,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 300,
+      "coin_num" : 1000,
+      "dragon_level" : 6,
+      "dragon_soul_num" : 4700,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 350,
+      "coin_num" : 1000,
+      "dragon_level" : 7,
+      "dragon_soul_num" : 5340,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 400,
+      "coin_num" : 1000,
+      "dragon_level" : 8,
+      "dragon_soul_num" : 5980,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 450,
+      "coin_num" : 1000,
+      "dragon_level" : 9,
+      "dragon_soul_num" : 6620,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 500,
+      "coin_num" : 1000,
+      "dragon_level" : 10,
+      "dragon_soul_num" : 7260,
+      "name" : "英雄抗暴",
+      "success_chance" : 100,
+      "type" : 10
+   },
+   {
+      "add_property" : 550,
+      "coin_num" : 1000,
+      "dragon_level" : 11,
+      "dragon_soul_num" : 8900,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 600,
+      "coin_num" : 1000,
+      "dragon_level" : 12,
+      "dragon_soul_num" : 10540,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 650,
+      "coin_num" : 1000,
+      "dragon_level" : 13,
+      "dragon_soul_num" : 12180,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 700,
+      "coin_num" : 1000,
+      "dragon_level" : 14,
+      "dragon_soul_num" : 13820,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 750,
+      "coin_num" : 1000,
+      "dragon_level" : 15,
+      "dragon_soul_num" : 15460,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 800,
+      "coin_num" : 1000,
+      "dragon_level" : 16,
+      "dragon_soul_num" : 17100,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 850,
+      "coin_num" : 1000,
+      "dragon_level" : 17,
+      "dragon_soul_num" : 18740,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 900,
+      "coin_num" : 1000,
+      "dragon_level" : 18,
+      "dragon_soul_num" : 20380,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 950,
+      "coin_num" : 1000,
+      "dragon_level" : 19,
+      "dragon_soul_num" : 22020,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 1000,
+      "coin_num" : 1000,
+      "dragon_level" : 20,
+      "dragon_soul_num" : 23660,
+      "name" : "英雄抗暴",
+      "success_chance" : 90,
+      "type" : 10
+   },
+   {
+      "add_property" : 1100,
+      "coin_num" : 1000,
+      "dragon_level" : 21,
+      "dragon_soul_num" : 23974,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1200,
+      "coin_num" : 1000,
+      "dragon_level" : 22,
+      "dragon_soul_num" : 27114,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1300,
+      "coin_num" : 1000,
+      "dragon_level" : 23,
+      "dragon_soul_num" : 30254,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1400,
+      "coin_num" : 1000,
+      "dragon_level" : 24,
+      "dragon_soul_num" : 33394,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1500,
+      "coin_num" : 1000,
+      "dragon_level" : 25,
+      "dragon_soul_num" : 36534,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1600,
+      "coin_num" : 1000,
+      "dragon_level" : 26,
+      "dragon_soul_num" : 39674,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1700,
+      "coin_num" : 1000,
+      "dragon_level" : 27,
+      "dragon_soul_num" : 42814,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1800,
+      "coin_num" : 1000,
+      "dragon_level" : 28,
+      "dragon_soul_num" : 45954,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 1900,
+      "coin_num" : 1000,
+      "dragon_level" : 29,
+      "dragon_soul_num" : 49094,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 2000,
+      "coin_num" : 1000,
+      "dragon_level" : 30,
+      "dragon_soul_num" : 57094,
+      "name" : "英雄抗暴",
+      "success_chance" : 80,
+      "type" : 10
+   },
+   {
+      "add_property" : 2150,
+      "coin_num" : 1000,
+      "dragon_level" : 31,
+      "dragon_soul_num" : 65094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 2300,
+      "coin_num" : 1000,
+      "dragon_level" : 32,
+      "dragon_soul_num" : 73094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 2450,
+      "coin_num" : 1000,
+      "dragon_level" : 33,
+      "dragon_soul_num" : 81094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 2600,
+      "coin_num" : 1000,
+      "dragon_level" : 34,
+      "dragon_soul_num" : 89094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 2750,
+      "coin_num" : 1000,
+      "dragon_level" : 35,
+      "dragon_soul_num" : 97094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 2900,
+      "coin_num" : 1000,
+      "dragon_level" : 36,
+      "dragon_soul_num" : 105094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 3050,
+      "coin_num" : 1000,
+      "dragon_level" : 37,
+      "dragon_soul_num" : 113094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 3200,
+      "coin_num" : 1000,
+      "dragon_level" : 38,
+      "dragon_soul_num" : 121094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 3350,
+      "coin_num" : 1000,
+      "dragon_level" : 39,
+      "dragon_soul_num" : 129094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 3500,
+      "coin_num" : 1000,
+      "dragon_level" : 40,
+      "dragon_soul_num" : 145094,
+      "name" : "英雄抗暴",
+      "success_chance" : 70,
+      "type" : 10
+   },
+   {
+      "add_property" : 3700,
+      "coin_num" : 1000,
+      "dragon_level" : 41,
+      "dragon_soul_num" : 161094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 3900,
+      "coin_num" : 1000,
+      "dragon_level" : 42,
+      "dragon_soul_num" : 177094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 4100,
+      "coin_num" : 1000,
+      "dragon_level" : 43,
+      "dragon_soul_num" : 193094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 4300,
+      "coin_num" : 1000,
+      "dragon_level" : 44,
+      "dragon_soul_num" : 209094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 4500,
+      "coin_num" : 1000,
+      "dragon_level" : 45,
+      "dragon_soul_num" : 225094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 4700,
+      "coin_num" : 1000,
+      "dragon_level" : 46,
+      "dragon_soul_num" : 241094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 4900,
+      "coin_num" : 1000,
+      "dragon_level" : 47,
+      "dragon_soul_num" : 257094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 5100,
+      "coin_num" : 1000,
+      "dragon_level" : 48,
+      "dragon_soul_num" : 273094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 5300,
+      "coin_num" : 1000,
+      "dragon_level" : 49,
+      "dragon_soul_num" : 289094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 5500,
+      "coin_num" : 1000,
+      "dragon_level" : 50,
+      "dragon_soul_num" : 321094,
+      "name" : "英雄抗暴",
+      "success_chance" : 60,
+      "type" : 10
+   },
+   {
+      "add_property" : 5750,
+      "coin_num" : 1000,
+      "dragon_level" : 51,
+      "dragon_soul_num" : 353094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 6000,
+      "coin_num" : 1000,
+      "dragon_level" : 52,
+      "dragon_soul_num" : 385094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 6250,
+      "coin_num" : 1000,
+      "dragon_level" : 53,
+      "dragon_soul_num" : 417094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 6500,
+      "coin_num" : 1000,
+      "dragon_level" : 54,
+      "dragon_soul_num" : 449094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 6750,
+      "coin_num" : 1000,
+      "dragon_level" : 55,
+      "dragon_soul_num" : 481094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 7000,
+      "coin_num" : 1000,
+      "dragon_level" : 56,
+      "dragon_soul_num" : 513094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 7250,
+      "coin_num" : 1000,
+      "dragon_level" : 57,
+      "dragon_soul_num" : 545094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 7500,
+      "coin_num" : 1000,
+      "dragon_level" : 58,
+      "dragon_soul_num" : 577094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 7750,
+      "coin_num" : 1000,
+      "dragon_level" : 59,
+      "dragon_soul_num" : 609094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 8000,
+      "coin_num" : 1000,
+      "dragon_level" : 60,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 50,
+      "type" : 10
+   },
+   {
+      "add_property" : 8300,
+      "coin_num" : 1000,
+      "dragon_level" : 61,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 8600,
+      "coin_num" : 1000,
+      "dragon_level" : 62,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 8900,
+      "coin_num" : 1000,
+      "dragon_level" : 63,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 9200,
+      "coin_num" : 1000,
+      "dragon_level" : 64,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 9500,
+      "coin_num" : 1000,
+      "dragon_level" : 65,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 9800,
+      "coin_num" : 1000,
+      "dragon_level" : 66,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 10100,
+      "coin_num" : 1000,
+      "dragon_level" : 67,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 10400,
+      "coin_num" : 1000,
+      "dragon_level" : 68,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 10700,
+      "coin_num" : 1000,
+      "dragon_level" : 69,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 11000,
+      "coin_num" : 1000,
+      "dragon_level" : 70,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 40,
+      "type" : 10
+   },
+   {
+      "add_property" : 11350,
+      "coin_num" : 1000,
+      "dragon_level" : 71,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 11700,
+      "coin_num" : 1000,
+      "dragon_level" : 72,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 12050,
+      "coin_num" : 1000,
+      "dragon_level" : 73,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 12400,
+      "coin_num" : 1000,
+      "dragon_level" : 74,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 12750,
+      "coin_num" : 1000,
+      "dragon_level" : 75,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 13100,
+      "coin_num" : 1000,
+      "dragon_level" : 76,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 13450,
+      "coin_num" : 1000,
+      "dragon_level" : 77,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 13800,
+      "coin_num" : 1000,
+      "dragon_level" : 78,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 14150,
+      "coin_num" : 1000,
+      "dragon_level" : 79,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   },
+   {
+      "add_property" : 14500,
+      "coin_num" : 1000,
+      "dragon_level" : 80,
+      "dragon_soul_num" : 673094,
+      "name" : "英雄抗暴",
+      "success_chance" : 30,
+      "type" : 10
+   }
+]

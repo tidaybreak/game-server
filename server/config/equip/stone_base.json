@@ -1,0 +1,27 @@
+[
+   {
+      "equip_color" : 1,
+      "initial_hole" : 1,
+      "limit_hole" : 1
+   },
+   {
+      "equip_color" : 2,
+      "initial_hole" : 1,
+      "limit_hole" : 1
+   },
+   {
+      "equip_color" : 3,
+      "initial_hole" : 1,
+      "limit_hole" : 2
+   },
+   {
+      "equip_color" : 4,
+      "initial_hole" : 1,
+      "limit_hole" : 3
+   },
+   {
+      "equip_color" : 5,
+      "initial_hole" : 1,
+      "limit_hole" : 4
+   }
+]

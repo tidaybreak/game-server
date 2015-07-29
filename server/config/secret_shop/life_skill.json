@@ -1,0 +1,63 @@
+[
+   {
+      "&life_skill_effect&effect_id&life_skill_effect" : [ 1001, 1002 ],
+      "life_skill_effect" : [
+         {
+            "effect_content" : 2,
+            "effect_id" : 1001,
+            "effect_type" : 1
+         },
+         {
+            "effect_content" : 1,
+            "effect_id" : 1002,
+            "effect_type" : 2
+         }
+      ],
+      "skill_des" : "可采集:<br>初级白晶<br>初级黄晶",
+      "skill_id" : 1001,
+      "skill_lv" : 1,
+      "skill_name" : "初级晶石采集（1级）",
+      "skill_type" : 1
+   },
+   {
+      "&life_skill_effect&effect_id&life_skill_effect" : [ 1003, 1004 ],
+      "life_skill_effect" : [
+         {
+            "effect_content" : 2,
+            "effect_id" : 1003,
+            "effect_type" : 1
+         },
+         {
+            "effect_content" : 1,
+            "effect_id" : 1004,
+            "effect_type" : 2
+         }
+      ],
+      "skill_des" : "可采集:<br>初级白晶<br>初级黄晶<br>初级蓝晶<br>初级绿晶",
+      "skill_id" : 1001,
+      "skill_lv" : 2,
+      "skill_name" : "初级晶石采集（2级）"
+   },
+   {
+      "&life_skill_effect&effect_id&life_skill_effect" : null,
+      "life_skill_effect" : null,
+      "skill_id" : 1002,
+      "skill_lv" : 1,
+      "skill_name" : "中级晶石采集（1级）"
+   },
+   {
+      "&life_skill_effect&effect_id&life_skill_effect" : null,
+      "life_skill_effect" : null,
+      "skill_des" : 0.0,
+      "skill_id" : 2001,
+      "skill_lv" : 1,
+      "skill_name" : "初级卡牌大师（1级）"
+   },
+   {
+      "&life_skill_effect&effect_id&life_skill_effect" : null,
+      "life_skill_effect" : null,
+      "skill_id" : 3001,
+      "skill_lv" : 1,
+      "skill_name" : "初级熔炼大师（1级）"
+   }
+]

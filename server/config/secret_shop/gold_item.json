@@ -1,0 +1,65 @@
+[
+   {
+      "cost" : 10,
+      "item" : 20501101,
+      "limit_num" : 10,
+      "num" : 10,
+      "remark" : "1级祝福石"
+   },
+   {
+      "cost" : 11,
+      "item" : 20501202,
+      "limit_num" : 11,
+      "num" : 11,
+      "remark" : "2级祝福石"
+   },
+   {
+      "cost" : 12,
+      "item" : 20501203,
+      "limit_num" : 12,
+      "num" : 12,
+      "remark" : "3级祝福石"
+   },
+   {
+      "cost" : 13,
+      "item" : 20501304,
+      "limit_num" : 13,
+      "num" : 13,
+      "remark" : "4级祝福石"
+   },
+   {
+      "cost" : 14,
+      "item" : 20501305,
+      "limit_num" : 14,
+      "num" : 14,
+      "remark" : "5级祝福石"
+   },
+   {
+      "cost" : 15,
+      "item" : 20501406,
+      "limit_num" : 15,
+      "num" : 15,
+      "remark" : "6级祝福石"
+   },
+   {
+      "cost" : 16,
+      "item" : 20501407,
+      "limit_num" : 16,
+      "num" : 16,
+      "remark" : "7级祝福石"
+   },
+   {
+      "cost" : 17,
+      "item" : 20501508,
+      "limit_num" : 17,
+      "num" : 17,
+      "remark" : "8级祝福石"
+   },
+   {
+      "cost" : 18,
+      "item" : 20501509,
+      "limit_num" : 18,
+      "num" : 18,
+      "remark" : "9级祝福石"
+   }
+]

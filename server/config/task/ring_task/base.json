@@ -1,0 +1,15 @@
+[
+   {
+      "collect_chance" : 10,
+      "commit_consume_item_chance" : 10,
+      "diamond" : 200,
+      "dragon_vale_op_chance" : 5,
+      "friend_ship" : 1000,
+      "hearUrl" : "skin/res/ui/task/60411029_A1.png",
+      "kill_monster_chance" : 5,
+      "limit_time_kill_chance" : 10,
+      "max_ring_num" : 300,
+      "npc_talk_chance" : 60,
+      "open_level" : 32
+   }
+]

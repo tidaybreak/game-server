@@ -1,0 +1,237 @@
+[
+   {
+      "card_ID" : 21311201,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21311202,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21311203,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21311204,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21311205,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21311301,
+      "display_pro" : 12,
+      "initial_pro" : 12
+   },
+   {
+      "card_ID" : 21311302,
+      "display_pro" : 12,
+      "initial_pro" : 12
+   },
+   {
+      "card_ID" : 21312201,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21312202,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21312203,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21312204,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21312205,
+      "display_pro" : 12,
+      "initial_pro" : 50
+   },
+   {
+      "card_ID" : 21312301,
+      "display_pro" : 50,
+      "initial_pro" : 12
+   },
+   {
+      "card_ID" : 21312302,
+      "display_pro" : 50,
+      "initial_pro" : 12
+   },
+   {
+      "card_ID" : 21313201,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21313202,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21313203,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21313204,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21313205,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21313301,
+      "display_pro" : 30,
+      "initial_pro" : 8
+   },
+   {
+      "card_ID" : 21313302,
+      "display_pro" : 30,
+      "initial_pro" : 8
+   },
+   {
+      "card_ID" : 21314201,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21314202,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21314203,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21314204,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21314205,
+      "display_pro" : 8,
+      "initial_pro" : 30
+   },
+   {
+      "card_ID" : 21314301,
+      "display_pro" : 30,
+      "initial_pro" : 8
+   },
+   {
+      "card_ID" : 21314302,
+      "display_pro" : 30,
+      "initial_pro" : 8
+   },
+   {
+      "card_ID" : 21321301,
+      "display_pro" : 45,
+      "initial_pro" : 5
+   },
+   {
+      "card_ID" : 21321302,
+      "display_pro" : 45,
+      "initial_pro" : 5
+   },
+   {
+      "card_ID" : 21321303,
+      "display_pro" : 45,
+      "initial_pro" : 5
+   },
+   {
+      "card_ID" : 21321401,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321402,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321304,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321403,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321404,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321305,
+      "display_pro" : 35,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321306,
+      "display_pro" : 35,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321307,
+      "display_pro" : 35,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321501,
+      "display_pro" : 55,
+      "initial_pro" : 1
+   },
+   {
+      "card_ID" : 21321405,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321406,
+      "display_pro" : 0,
+      "initial_pro" : 0
+   },
+   {
+      "card_ID" : 21321502,
+      "display_pro" : 15,
+      "initial_pro" : 0.50
+   },
+   {
+      "card_ID" : 21321407,
+      "display_pro" : 25,
+      "initial_pro" : 2
+   },
+   {
+      "card_ID" : 21321408,
+      "display_pro" : 0,
+      "initial_pro" : 0
+   },
+   {
+      "card_ID" : 21321503,
+      "display_pro" : 0,
+      "initial_pro" : 0
+   },
+   {
+      "card_ID" : 21331501,
+      "display_pro" : 0,
+      "initial_pro" : 0
+   }
+]

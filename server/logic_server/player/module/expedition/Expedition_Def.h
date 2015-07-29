@@ -1,0 +1,29 @@
+/*
+ * Expedition_Def.h
+ *
+ *  Created on: Oct 14, 2014
+ *      Author: xiaoliang
+ */
+
+#ifndef EXPEDITION_DEF_H_
+#define EXPEDITION_DEF_H_
+
+const int EXPEDITION_INNER_SCENE_ID = 80216001;
+
+enum Data_Channel {
+	ASK_KILL_BEAST				= 0,
+	ASK_COLLECT_CHEST			= 1,
+	SYNC_PLAYER_DETAIL			= 2,
+	SYNC_CHEST_BY_POINT			= 3,
+	ASK_COLLECT_BEAST			= 4,
+	COULD_COLLECT_BEAST			= 5,
+	COULD_COLLECT_CHEST			= 6,
+	COULD_COLLECT_CASTLE		= 7,
+	DEMAGE_AWARD				= 8,
+	REQ_ACV_DAILY_AWARD			= 9,
+	SYNC_REPEAT_TO_SCENE		= 10,
+	OCCUPY_CASTLE_AWARD_GET		= 12, //
+	START_ANNOUNCE				= 13,
+};
+
+#endif /* EXPEDITION_SCENE_DEF_H_ */

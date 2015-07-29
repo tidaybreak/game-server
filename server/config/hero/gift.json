@@ -1,0 +1,14 @@
+[
+   {
+      "gift_intimacy" : 100,
+      "gift_item_id" : 20512401,
+      "gift_type" : 1,
+      "gift_type_namegift_intimacy" : "食物"
+   },
+   {
+      "gift_intimacy" : 100,
+      "gift_item_id" : 20511301,
+      "gift_type" : 2,
+      "gift_type_namegift_intimacy" : "武器"
+   }
+]

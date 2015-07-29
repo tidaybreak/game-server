@@ -1,0 +1,34 @@
+[
+   {
+      "player_level" : 20,
+      "profit_percent" : 30
+   },
+   {
+      "player_level" : 25,
+      "profit_percent" : 30
+   },
+   {
+      "decription" : "此时收回成本",
+      "player_level" : 30,
+      "profit_percent" : 40
+   },
+   {
+      "player_level" : 35,
+      "profit_percent" : 50
+   },
+   {
+      "decription" : "此时获得2倍收益",
+      "player_level" : 40,
+      "profit_percent" : 50
+   },
+   {
+      "decription" : "此时获得2.5倍收益",
+      "player_level" : 50,
+      "profit_percent" : 50
+   },
+   {
+      "decription" : "此时获得3倍收益",
+      "player_level" : 60,
+      "profit_percent" : 50
+   }
+]

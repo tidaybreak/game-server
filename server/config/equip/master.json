@@ -1,0 +1,141 @@
+[
+   {
+      "gold" : 2000,
+      "luck_max" : 100,
+      "luck_once" : 20,
+      "master_lv" : 1,
+      "material" : [ 20509401, 1 ],
+      "percentage" : 30,
+      "role_lv" : 40,
+      "success_rate_base" : 1000,
+      "success_rate_once" : 1000
+   },
+   {
+      "gold" : 4000,
+      "luck_max" : 100,
+      "luck_once" : 20,
+      "master_lv" : 2,
+      "material" : [ 20509401, 3 ],
+      "percentage" : 60,
+      "role_lv" : 40,
+      "success_rate_base" : 800,
+      "success_rate_once" : 800
+   },
+   {
+      "gold" : 6000,
+      "luck_max" : 200,
+      "luck_once" : 20,
+      "master_lv" : 3,
+      "material" : [ 20509401, 5 ],
+      "percentage" : 90,
+      "role_lv" : 40,
+      "success_rate_base" : 500,
+      "success_rate_once" : 500
+   },
+   {
+      "gold" : 10000,
+      "luck_max" : 1000,
+      "luck_once" : 20,
+      "master_lv" : 4,
+      "material" : [ 20509401, 8 ],
+      "percentage" : 120,
+      "role_lv" : 40,
+      "success_rate_base" : 200,
+      "success_rate_once" : 200
+   },
+   {
+      "gold" : 20000,
+      "luck_max" : 2000,
+      "luck_once" : 20,
+      "master_lv" : 5,
+      "material" : [ 20509401, 12 ],
+      "percentage" : 150,
+      "role_lv" : 50,
+      "success_rate_base" : 100,
+      "success_rate_once" : 100
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 30000,
+      "luck_max" : 2000,
+      "luck_once" : 20,
+      "master_lv" : 6,
+      "material" : [ 20509401, 16 ],
+      "percentage" : 180,
+      "role_lv" : 50,
+      "success_rate_base" : 40,
+      "success_rate_once" : 50
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 50000,
+      "luck_max" : 2000,
+      "luck_once" : 20,
+      "master_lv" : 7,
+      "material" : [ 20509401, 20 ],
+      "percentage" : 210,
+      "role_lv" : 50,
+      "success_rate_base" : 30,
+      "success_rate_once" : 30
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 100000,
+      "luck_max" : 2000,
+      "luck_once" : 20,
+      "master_lv" : 8,
+      "material" : [ 20509401, 30 ],
+      "percentage" : 240,
+      "role_lv" : 60,
+      "success_rate_base" : 20,
+      "success_rate_once" : 20
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 200000,
+      "luck_max" : 2000,
+      "luck_once" : 20,
+      "master_lv" : 9,
+      "material" : [ 20509401, 40 ],
+      "percentage" : 270,
+      "role_lv" : 60,
+      "success_rate_base" : 0,
+      "success_rate_once" : 10
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 300000,
+      "luck_max" : 3000,
+      "luck_once" : 20,
+      "master_lv" : 10,
+      "material" : [ 20509401, 60 ],
+      "percentage" : 300,
+      "role_lv" : 70,
+      "success_rate_base" : 0,
+      "success_rate_once" : 6
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 500000,
+      "luck_max" : 4000,
+      "luck_once" : 20,
+      "master_lv" : 11,
+      "material" : [ 20509401, 80 ],
+      "percentage" : 360,
+      "role_lv" : 70,
+      "success_rate_base" : 0,
+      "success_rate_once" : 4
+   },
+   {
+      "broadcast" : 1,
+      "gold" : 800000,
+      "luck_max" : 8000,
+      "luck_once" : 20,
+      "master_lv" : 12,
+      "material" : [ 20509401, 120 ],
+      "percentage" : 450,
+      "role_lv" : 70,
+      "success_rate_base" : 0,
+      "success_rate_once" : 2
+   }
+]

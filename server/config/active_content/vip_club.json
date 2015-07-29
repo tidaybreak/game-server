@@ -1,0 +1,51 @@
+[
+   {
+      "id" : 1,
+      "needs_num" : 25,
+      "reward" : [
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 20704401,
+            "limit_vip_level" : 1,
+            "num" : 2,
+            "reward_id" : 1
+         },
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 20513401,
+            "limit_vip_level" : 1,
+            "num" : 2,
+            "reward_id" : 2
+         },
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 21004401,
+            "limit_vip_level" : 2,
+            "num" : 10,
+            "reward_id" : 3
+         },
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 20513401,
+            "limit_vip_level" : 2,
+            "num" : 5,
+            "reward_id" : 4
+         },
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 21004401,
+            "limit_vip_level" : 4,
+            "num" : 15,
+            "reward_id" : 5
+         },
+         {
+            "from_table" : "vip_club_item",
+            "item_id" : 20513401,
+            "limit_vip_level" : 4,
+            "num" : 10,
+            "reward_id" : 6
+         }
+      ],
+      "vip_level" : 4
+   }
+]

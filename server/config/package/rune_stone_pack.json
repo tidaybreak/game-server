@@ -1,0 +1,102 @@
+[
+   {
+      "diamond" : 0,
+      "grid" : 1,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 2,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 3,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 4,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 5,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 6,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 7,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 8,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 9,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 10,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 11,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 0,
+      "grid" : 12,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 50,
+      "grid" : 13,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 100,
+      "grid" : 14,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 200,
+      "grid" : 15,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 300,
+      "grid" : 16,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 400,
+      "grid" : 17,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 500,
+      "grid" : 18,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 600,
+      "grid" : 19,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 700,
+      "grid" : 20,
+      "lvl" : 1
+   }
+]

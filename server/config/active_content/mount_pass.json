@@ -1,0 +1,27 @@
+[
+   {
+      "id" : 1,
+      "level" : 4,
+      "mount_id" : 30101101,
+      "reward" : [
+         {
+            "from_table" : "mount_pass_reward",
+            "item_id" : 20505543,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "mount_pass_reward",
+            "item_id" : 20513401,
+            "num" : 30,
+            "type" : 1
+         },
+         {
+            "from_table" : "mount_pass_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   }
+]

@@ -1,0 +1,45 @@
+[
+   {
+      "event_content" : "%s加入公会",
+      "event_id" : 101900
+   },
+   {
+      "event_content" : "%s任命%s为公会%s",
+      "event_id" : 101901
+   },
+   {
+      "event_content" : "%s退出了公会",
+      "event_id" : 101902
+   },
+   {
+      "event_content" : "%s把%s踢出了公会",
+      "event_id" : 101903
+   },
+   {
+      "event_content" : "%s消耗%d公会财富，将公会升到了%d级",
+      "event_id" : 101904
+   },
+   {
+      "event_id" : 101905
+   },
+   {
+      "event_content" : "会长%s将公会转让给%s管理",
+      "event_id" : 101906
+   },
+   {
+      "event_content" : "%s发动了公会夺权，成为公会新的会长，%s职位由会长变为会员",
+      "event_id" : 101907
+   },
+   {
+      "event_content" : "公会排名变为%d",
+      "event_id" : 101908
+   },
+   {
+      "event_content" : "公会维护费用不足，%d日后仍不足扣取，公会将解散",
+      "event_id" : 101909
+   },
+   {
+      "event_content" : "%s修改了公会公告",
+      "event_id" : 101910
+   }
+]

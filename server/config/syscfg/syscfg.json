@@ -1,0 +1,16 @@
+[
+   {
+      "default_player_count" : 50,
+      "is_hide_hero_model" : 1,
+      "is_hide_role_model" : 1,
+      "is_hide_title" : 0,
+      "is_open_music" : 1,
+      "is_open_voice" : 1,
+      "is_skip_plot" : 0,
+      "is_total_open" : 0,
+      "max_player_count" : 100,
+      "min_player_count" : 1,
+      "music_num" : 25,
+      "voice_num" : 50
+   }
+]

@@ -1,0 +1,29 @@
+/*
+ * Exchange_Def.h
+ *
+ *  Created on: 2014年6月26日
+ *      Author: Linqiyou
+ */
+
+#ifndef EXCHANGE_DEF_H_
+#define EXCHANGE_DEF_H_
+
+enum Exchange_Type {
+	EXCHANGE_TYPE_START = 0,
+	EXCHANGE_TYPE_EQUIP = 0,
+	EXCHANGE_TYPE_MEDAL = 1,
+	EXCHANGE_TYPE_ITEM = 2,
+	EXCHANGE_TYPE_ACTIVITY =3,
+	EXCHANGE_TYPE_FRIEND = 4,
+	EXCHANGE_TYPE_END = 4,
+
+
+	EX_CAREER_ALL	= 0,
+	EX_CAREER_ZS	= 1,
+	EX_CAREER_CK	= 2,
+	EX_CAREER_YSS	= 3,
+	EX_CAREER_HERO	= 4,
+};
+
+
+#endif /* EXCHANGE_DEF_H_ */

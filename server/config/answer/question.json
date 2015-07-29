@@ -1,0 +1,1913 @@
+[
+   {
+      "answer" : "(双倍积分)选择人数多的一方是正确的一方",
+      "answer_a" : "效率",
+      "answer_b" : "公平",
+      "id" : 20003,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)选择人数少的一方是正确的一方",
+      "answer_a" : "真理",
+      "answer_b" : "知识",
+      "id" : 20004,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，排行榜战力第一的玩家是谁？",
+      "id" : 20005,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，排行榜战力第二的玩家是谁？",
+      "id" : 20006,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，排行榜战力第三的玩家是谁？",
+      "id" : 20007,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，竞技场第一名王者是谁？",
+      "id" : 20008,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，竞技场第二名王者是谁？",
+      "id" : 20009,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)活动开启时，竞技场第三名王者是谁？",
+      "id" : 20010,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)男性角色少的一方是正确的一方",
+      "answer_a" : "左方男性少",
+      "answer_b" : "右方男性少",
+      "id" : 20016,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)男性角色多的一方是正确的一方",
+      "answer_a" : "左方男性多",
+      "answer_b" : "右方男性多",
+      "id" : 20017,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)女性角色多的一方是正确的一方",
+      "answer_a" : "左方女性少",
+      "answer_b" : "右方女性少",
+      "id" : 20018,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)女性角色少的一方是正确的一方",
+      "answer_a" : "左方女性多",
+      "answer_b" : "右方女性多",
+      "id" : 20019,
+      "integral" : 4
+   },
+   {
+      "answer" : "(双倍积分)参加本次活动的男性角色多，还是女性角色多？",
+      "answer_a" : "男性多",
+      "answer_b" : "女性多",
+      "id" : 20020,
+      "integral" : 4
+   },
+   {
+      "answer" : "挖掘机技术哪家强？",
+      "answer_a" : "蓝翔",
+      "answer_b" : "新东方",
+      "id" : 10001,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "为什么欺骗相信你的人？",
+      "answer_a" : "因为爱情",
+      "answer_b" : "不信我的人骗不了",
+      "id" : 10002,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "5*9^2=？",
+      "answer_a" : 405,
+      "answer_b" : 415,
+      "id" : 10003,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "int有几个字节？",
+      "answer_a" : 4,
+      "answer_b" : 3,
+      "id" : 10004,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "琳娜口头禅是什么？",
+      "answer_a" : "想来一发冰弹吗?",
+      "answer_b" : "想来一发冰弹嘛?",
+      "id" : 10005,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "用鸽子和橄榄枝象征和平最初源于哪里？",
+      "answer_a" : "古罗马神话",
+      "answer_b" : "圣经故事",
+      "id" : 10006,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "在“精卫填海“的故事里“精卫”是？",
+      "answer_a" : "昆虫",
+      "answer_b" : "鸟",
+      "id" : 10007,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "在“世外桃源“这个典故中，哪个武陵的打鱼人是从什么地方进入桃花源界的？",
+      "answer_a" : "空间裂缝",
+      "answer_b" : "山洞",
+      "id" : 10008,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "在古龙武侠小说《楚留香传奇》中，神水宫宫主的绰号是？",
+      "answer_a" : "水母阴姬",
+      "answer_b" : "中原一点红",
+      "id" : 10009,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在古希腊神话中，爱与美的女神叫做什么？",
+      "answer_a" : "阿芙洛狄特",
+      "answer_b" : "雅典娜",
+      "id" : 10010,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "用金鸡纳树的树皮制成的“金鸡纳霜”可以治哪种传染病？",
+      "answer_a" : "疟疾",
+      "answer_b" : "霍乱",
+      "id" : 10011,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在我国古代有位名医活到100岁，被称为“百岁神医”，他是谁？",
+      "answer_a" : "孙思邈",
+      "answer_b" : "华佗",
+      "id" : 10012,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "中国的什么餐具在古代叫做箸？",
+      "answer_a" : "瓷碗",
+      "answer_b" : "筷子",
+      "id" : 10013,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "下列哪个岛国不是欧洲国家？",
+      "answer_a" : "日本",
+      "answer_b" : "冰岛",
+      "id" : 10014,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "下列哪一个不是我国的领海？",
+      "answer_a" : "北海",
+      "answer_b" : "南海",
+      "id" : 10015,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "下列哪一个城市不是我国的“三大火炉“(高温)之一？",
+      "answer_a" : "成都",
+      "answer_b" : "武汉",
+      "id" : 10016,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "下列哪一座山不属于我国道教四大名山之一的？",
+      "answer_a" : "四川峨眉山",
+      "answer_b" : "安徽齐云山",
+      "id" : 10017,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "“晓看红湿处，花重锦官城”描写的是下面哪个城市？",
+      "answer_a" : "昆明",
+      "answer_b" : "成都",
+      "id" : 10018,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“豫”是我国哪一个省份的简称？",
+      "answer_a" : "河北",
+      "answer_b" : "河南",
+      "id" : 10019,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "巴黎的埃菲尔铁塔高多少米？",
+      "answer_a" : "324米",
+      "answer_b" : "301米",
+      "id" : 10020,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "蝌蚪没有尾巴，成了青蛙。如果猴子没有尾巴，是什么？      ",
+      "answer_a" : "猴子",
+      "answer_b" : "古猿人",
+      "id" : 10021,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在厕所遇见朋友时，最好不要问哪一句话？",
+      "answer_a" : "吃了没有",
+      "answer_b" : "上完了吗",
+      "id" : 10022,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "为什么妈妈几个月都不给弟弟吃饭，但弟弟仍然健康成长。为什么？",
+      "answer_a" : "在妈妈肚子里",
+      "answer_b" : "弟弟喝水",
+      "id" : 10023,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "六条命葬送在小张的手上，为什么没判死刑？",
+      "answer_a" : "打死的是蚊子",
+      "answer_b" : "不是小张杀的",
+      "id" : 10024,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "什么东西倒着放，比正着放好？",
+      "answer_a" : "福字",
+      "answer_b" : "春联",
+      "id" : 10025,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "什么人是人们说时很崇拜，但却不想见到的人？",
+      "answer_a" : "主席",
+      "answer_b" : "上帝",
+      "id" : 10026,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么东西打碎后自然会和好？",
+      "answer_a" : "鸭蛋",
+      "answer_b" : "水面",
+      "id" : 10027,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么光完全没有亮度？",
+      "answer_a" : "时光",
+      "answer_b" : "日光",
+      "id" : 10028,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "请问你，什么狗不会叫？",
+      "answer_a" : "热狗",
+      "answer_b" : "斑点狗",
+      "id" : 10029,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "好与坏的中间是什么？",
+      "answer_a" : "坏",
+      "answer_b" : "与",
+      "id" : 10030,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么东西越洗越脏？ ",
+      "answer_a" : "洗衣粉",
+      "answer_b" : "水",
+      "id" : 10031,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "冰变成水最快的方法是什么？ ",
+      "answer_a" : "去掉冰的两点水",
+      "answer_b" : "丢进热水",
+      "id" : 10032,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "什么东西天气越热，它爬的越高？",
+      "answer_a" : "温度计",
+      "answer_b" : "蜗牛",
+      "id" : 10033,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "太平洋中间是什么啊 ？ ",
+      "answer_a" : "平字",
+      "answer_b" : "北冰洋",
+      "id" : 10034,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "鱼为什么生活在水里？",
+      "answer_a" : "水里比较暖",
+      "answer_b" : "因为岸上有猫",
+      "id" : 10035,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "一斤棉花和一斤铁块哪一样比较重？",
+      "answer_a" : "不清楚",
+      "answer_b" : "一样重",
+      "id" : 10036,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "冬瓜、黄瓜、西瓜、南瓜都能吃，什么瓜不能吃？",
+      "answer_a" : "傻瓜",
+      "answer_b" : "水瓜",
+      "id" : 10037,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小华在家里，和谁长得最像？",
+      "answer_a" : "镜中的小华",
+      "answer_b" : "妈妈",
+      "id" : 10038,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小方读了十三年书，为什么还在一年级班上？",
+      "answer_a" : "老师",
+      "answer_b" : "大学一年级",
+      "id" : 10039,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "做什么事会身不由己？",
+      "answer_a" : "做梦",
+      "answer_b" : "坏事",
+      "id" : 10040,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "谁总是脱掉干衣换上湿衣？",
+      "answer_a" : "模特",
+      "answer_b" : "晾衣架",
+      "id" : 10041,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么车坐不了？",
+      "answer_a" : "跑车",
+      "answer_b" : "风车",
+      "id" : 10042,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么花走着开？",
+      "answer_a" : "水仙花",
+      "answer_b" : "浪花",
+      "id" : 10043,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "动物园中，大象鼻子最长，鼻子第二长的是什么？",
+      "answer_a" : "长颈鹿",
+      "answer_b" : "小象",
+      "id" : 10044,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "最坚固的锁怕什么？",
+      "answer_a" : "小偷",
+      "answer_b" : "钥匙",
+      "id" : 10045,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "小李遇见一个鬼，那鬼落荒而逃，为什么？",
+      "answer_a" : "小李不怕鬼",
+      "answer_b" : "胆小鬼",
+      "id" : 10046,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么东西肥的快，瘦得更快？",
+      "answer_a" : "气球",
+      "answer_b" : "胖子",
+      "id" : 10047,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "胖妞生病了，最怕别人来探病时说什么？ ",
+      "answer_a" : "你还好吗",
+      "answer_b" : "多保重",
+      "id" : 10048,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "不必花力气打的东西是什么？",
+      "answer_a" : "屁股",
+      "answer_b" : "瞌睡",
+      "id" : 10049,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么人始终不敢洗澡？",
+      "answer_a" : "泥人",
+      "answer_b" : "冰人",
+      "id" : 10050,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "一年四季都盛开的花是什么花？ ",
+      "answer_a" : "月季花",
+      "answer_b" : "塑料花",
+      "id" : 10051,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么英文字母最多人喜欢听？ ",
+      "answer_a" : "CD",
+      "answer_b" : "MJ",
+      "id" : 10052,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明知道试卷的答案，为什么还频频看同学的？ ",
+      "answer_a" : "小明是老师",
+      "answer_b" : "小明担心犯错",
+      "id" : 10053,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "为什么大部分佛教徒都住在北半球？",
+      "answer_a" : "南无阿弥陀佛",
+      "answer_b" : "因为孤单北半球",
+      "id" : 10054,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "为什么暑假一定比寒假长？",
+      "answer_a" : "暑假比较热闹",
+      "answer_b" : "热胀冷缩",
+      "id" : 10055,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "9月28日是孔子诞辰日，那么10月28日是什么日子？",
+      "answer_a" : "孔子忌日",
+      "answer_b" : "孔子满月日",
+      "id" : 10056,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么动物天天熬夜？",
+      "answer_a" : "猫",
+      "answer_b" : "熊猫",
+      "id" : 10057,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "哪种动物像猫一样大小，和老虎一个长相？ ",
+      "answer_a" : "小猫",
+      "answer_b" : "小老虎",
+      "id" : 10058,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么酒不能喝？ ",
+      "answer_a" : "酒精",
+      "answer_b" : "碘酒",
+      "id" : 10059,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "什么路最窄？",
+      "answer_a" : "冤家路窄",
+      "answer_b" : "小巷子",
+      "id" : 10060,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "我国古代的体育项目拔距就是现代的什么运动？",
+      "answer_a" : "跳远",
+      "answer_b" : "拔河",
+      "id" : 10061,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "北京奥运会文化节标志是采用的哪种图案？",
+      "answer_a" : "灯笼",
+      "answer_b" : "人形窗花",
+      "id" : 10062,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "古代奥运会的战车赛，获胜的战马可以享有什么特殊待遇？",
+      "answer_a" : "死后葬在主人的墓地",
+      "answer_b" : "免除下面的比赛",
+      "id" : 10063,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "如果古代奥运会的裁判被发现误判，将会做如何处理？",
+      "answer_a" : "剥夺裁判的资格",
+      "answer_b" : "处以罚金",
+      "id" : 10064,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "曾被国际奥委会除名的国家是？",
+      "answer_a" : "南非",
+      "answer_b" : "新西兰",
+      "id" : 10065,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "目前历史最为悠久的羽毛球比赛是？",
+      "answer_a" : "中国羽毛球大师赛",
+      "answer_b" : "全英羽毛球锦标赛",
+      "id" : 10066,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "下列哪个国家因“卒可攻王，攻后”而禁止下国际象棋？",
+      "answer_a" : "沙特阿拉伯",
+      "answer_b" : "印尼",
+      "id" : 10067,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "许海峰在男子什么比赛项目中夺得中国首枚奥运会金牌？",
+      "answer_a" : "乒乓球",
+      "answer_b" : "自选手枪",
+      "id" : 10068,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "一场国际篮球赛每个运动员最多允许犯规？",
+      "answer_a" : "5次",
+      "answer_b" : "6次",
+      "id" : 10069,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "围棋棋子的标准数量是白棋多还是黑棋多？",
+      "answer_a" : "轮流多",
+      "answer_b" : "黑棋多",
+      "id" : 10070,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "高尔夫球类似于我国古代哪项游戏",
+      "answer_a" : "投壶",
+      "answer_b" : "捶丸",
+      "id" : 10071,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "正式比赛中，“跨栏赛跑”共设几个栏架？",
+      "answer_a" : "10个",
+      "answer_b" : "9个",
+      "id" : 10072,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "奥林匹克五环是由五环相互套接的，分别是什么颜色？",
+      "answer_a" : "蓝、黄、白、绿、红",
+      "answer_b" : "蓝、黄、黑、绿、红",
+      "id" : 10073,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "中国有史以来的第一个“棋圣”是谁？",
+      "answer_a" : "聂卫平",
+      "answer_b" : "庄泳",
+      "id" : 10074,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "奥运会第一个只有女子才能参加的比赛项目是？",
+      "answer_a" : "艺术体操",
+      "answer_b" : "跳水",
+      "id" : 10075,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "国际象棋共有多少颗棋子？",
+      "answer_a" : "32颗",
+      "answer_b" : "36颗",
+      "id" : 10076,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "京剧中，霸王背后插了几杆旗？",
+      "answer_a" : "6杆旗",
+      "answer_b" : "4杆旗",
+      "id" : 10077,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "《小放牛》是我国哪个省的民歌？",
+      "answer_a" : "河北",
+      "answer_b" : "山东",
+      "id" : 10078,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "王洛宾整理的《花儿与少年》是哪个地区的民歌？",
+      "answer_a" : "青海",
+      "answer_b" : "内蒙",
+      "id" : 10079,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "中国哪个民族的舞蹈表现骏马奔驰的形象特别多？",
+      "answer_a" : "维吾尔族",
+      "answer_b" : "蒙古族",
+      "id" : 10080,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "电影《刘三姐》是反映-什么民族的生活故事？",
+      "answer_a" : "壮族",
+      "answer_b" : "回族",
+      "id" : 10081,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "京剧中，饰演性格活泼，开朗的青年女性的应是？",
+      "answer_a" : "花旦",
+      "answer_b" : "青衣",
+      "id" : 10082,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "创作芭蕾舞剧“天鹅湖”的音乐家是谁？",
+      "answer_a" : "海顿",
+      "answer_b" : "柴可夫斯基",
+      "id" : 10083,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“草圣”是指哪位书法家？",
+      "answer_a" : "王献之",
+      "answer_b" : "张旭",
+      "id" : 10084,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“轻拢慢捻抹复挑，初为霓裳后六幺”，这首诗形容的乐器是？",
+      "answer_a" : "琵琶",
+      "answer_b" : "古筝",
+      "id" : 10085,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "电影《王子复仇记》是改编自莎士比亚的哪一篇作品？",
+      "answer_a" : "哈姆雷特",
+      "answer_b" : "麦克白",
+      "id" : 10086,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "京剧《宇宙锋》讲的是秦朝奸臣赵高之女赵艳容的故事，这个“宇宙锋”实际上是？",
+      "answer_a" : "宝剑",
+      "answer_b" : "衣服",
+      "id" : 10087,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "京剧名角人称“江南武松”的是？",
+      "answer_a" : "盖叫天",
+      "answer_b" : "裘盛戎",
+      "id" : 10088,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "京剧戏衣基本上沿用的是哪个朝代的服装？",
+      "answer_a" : "明代",
+      "answer_b" : "清代",
+      "id" : 10089,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "法国画家大卫的《马拉之死》是一幅什么性质的画？",
+      "answer_a" : "历史画",
+      "answer_b" : "风景画",
+      "id" : 10090,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "歌剧诞生于哪个国家？",
+      "answer_a" : "土耳其",
+      "answer_b" : "意大利",
+      "id" : 10091,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "工笔是哪种绘画形式的技法？",
+      "answer_a" : "版画",
+      "answer_b" : "国画",
+      "id" : 10092,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "国画《愚公移山》的作者是？",
+      "answer_a" : "齐白石",
+      "answer_b" : "徐悲鸿",
+      "id" : 10093,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“好来宝”是我国哪个民族的文艺形式？",
+      "answer_a" : "蒙古族",
+      "answer_b" : "回族",
+      "id" : 10094,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "“黄梅戏”是哪个省的地方戏？",
+      "answer_a" : "安徽",
+      "answer_b" : "湖南",
+      "id" : 10095,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "黄梅戏是安徽的地方戏曲剧种之一，因主要曲调由黄梅传入而得名。黄梅在哪个省？",
+      "answer_a" : "湖北",
+      "answer_b" : "江苏",
+      "id" : 10096,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "蒙古族最具代表性的乐器是？",
+      "answer_a" : "马头琴",
+      "answer_b" : "高胡",
+      "id" : 10097,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "西洋木管乐器中的“巴松”又称为？",
+      "answer_a" : "大管",
+      "answer_b" : "萨克管",
+      "id" : 10098,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "下列音乐作品中，由柴可夫斯基作曲的是？",
+      "answer_a" : "交响变奏曲",
+      "answer_b" : "《天鹅湖》",
+      "id" : 10099,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "以书画闻名的宋代皇帝是？",
+      "answer_a" : "宋徽宗",
+      "answer_b" : "宋高宗",
+      "id" : 10100,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "被称为“第七艺术”的是？",
+      "answer_a" : "电影",
+      "answer_b" : "游戏",
+      "id" : 10101,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "被称为“命运交响曲”的是贝多芬的？",
+      "answer_a" : "第五交响曲",
+      "answer_b" : "小调交响曲",
+      "id" : 10102,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "被称为“交响乐团的心脏”的是？",
+      "answer_a" : "弦乐器",
+      "answer_b" : "木管乐器",
+      "id" : 10103,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "被称为“乐圣”的外国音乐家为？",
+      "answer_a" : "贝多芬",
+      "answer_b" : "海顿",
+      "id" : 10104,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "被称为“书圣”的古代书法家是谁？",
+      "answer_a" : "颜真卿",
+      "answer_b" : "王羲之",
+      "id" : 10105,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "被公认为体育运动和健美体魄象征的雕像是？",
+      "answer_a" : "掷铁饼者",
+      "answer_b" : "思想者",
+      "id" : 10106,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "“蒙太奇”原是什么术语？",
+      "answer_a" : "景观学",
+      "answer_b" : "建筑学",
+      "id" : 10107,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "唢呐原是哪个地方的乐器？",
+      "answer_a" : "朝鲜",
+      "answer_b" : "波斯",
+      "id" : 10108,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "古代五音：宫、商、角、征、羽，相当于现行简谱上的？",
+      "answer_a" : "1、2、3、5、6",
+      "answer_b" : "1、2、3、4、5",
+      "id" : 10109,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "好莱坞第一位真正独立制片的艺术家是？",
+      "answer_a" : "卓别林",
+      "answer_b" : "阿尔弗雷德·希区柯克",
+      "id" : 10110,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "好莱坞位于美国什么州？",
+      "answer_a" : "加利福尼亚洲",
+      "answer_b" : "阿拉斯加州",
+      "id" : 10111,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "吉它有几根弦？",
+      "answer_a" : "6根",
+      "answer_b" : "5根",
+      "id" : 10112,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "六弦琴是什么乐器的别称？",
+      "answer_a" : "小提琴",
+      "answer_b" : "吉他",
+      "id" : 10113,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "马头琴是我国哪一民族的拉弦乐器？",
+      "answer_a" : "蒙古族",
+      "answer_b" : "回族",
+      "id" : 10114,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "漫画《三毛流浪记》的作者是？",
+      "answer_a" : "张乐平",
+      "answer_b" : "冰心",
+      "id" : 10115,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "中国传统人物画《女史箴图》的作者是人物画的奠基人，他是谁？",
+      "answer_a" : "顾闳中",
+      "answer_b" : "顾恺之\t",
+      "id" : 10116,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "唐人张萱的作品《虢国夫人游春图》描绘的是谁游春的景象？",
+      "answer_a" : "太平公主\t",
+      "answer_b" : "杨贵妃姊妹",
+      "id" : 10117,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "擅长绮罗人物画的盛唐宫廷画家是谁，他的代表作是《簪花仕女图》？",
+      "answer_a" : "吴道子",
+      "answer_b" : "周昉",
+      "id" : 10118,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "被称为“明四家”的明代四位画家是沈周、仇英、唐寅和？",
+      "answer_a" : "巨源",
+      "answer_b" : "文征明",
+      "id" : 10119,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "张择端是宋代社会风俗画杰出代表，被誉为现实主义绘画典范的作品是？",
+      "answer_a" : "《清明上河图》",
+      "answer_b" : "《韩熙载夜宴图》\t",
+      "id" : 10120,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "中国著名的佛教四大石窟是麦积山石窟、云岗石窟、龙门石窟和下面的哪一个？",
+      "answer_a" : "敦煌莫高窟",
+      "answer_b" : "新疆克孜尔石窟\t",
+      "id" : 10121,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "中国古典园林分为皇家园林和私人园林，它们的代表作分别为？",
+      "answer_a" : "承德避暑山庄与拙政园\t",
+      "answer_b" : "颐和园与拙政园",
+      "id" : 10122,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "北京故宫是我国现存最大、规模最完整的宫殿建筑组群，它始建于什么朝代？",
+      "answer_a" : "宋",
+      "answer_b" : "明代\t",
+      "id" : 10123,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "位于埃及首都开罗西南的吉萨是古埃及王朝的法老陵墓，其中最高的一座金字塔是谁的？",
+      "answer_a" : "胡夫金字塔",
+      "answer_b" : "玛雅金字塔",
+      "id" : 10124,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "达·芬奇是意大利文艺复兴时期的著名画家，下列哪一幅作品不是他创作的？",
+      "answer_a" : "《诽谤》\t",
+      "answer_b" : "《最后的晚餐》",
+      "id" : 10125,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "《思想者》饱含了作者对法国当前现实的深沉思考，它的作者是谁？",
+      "answer_a" : "培根",
+      "answer_b" : "罗丹\t",
+      "id" : 10126,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "希腊神话中被誉为冥界之王之王的是？",
+      "answer_a" : "哈根达斯",
+      "answer_b" : "哈迪斯",
+      "id" : 10127,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "立体主义代表画家毕加索是下列哪个国家的画家？",
+      "answer_a" : "西班牙",
+      "answer_b" : "法国\t",
+      "id" : 10128,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "表现主义画家爱德华·蒙克是哪国画家？",
+      "answer_a" : "美国\t",
+      "answer_b" : "挪威\t",
+      "id" : 10129,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "以下人物以瘦金体闻名的是？",
+      "answer_a" : "唐伯虎",
+      "answer_b" : "宋徽宗",
+      "id" : 10130,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "宋朝张择端所绘《清明上河图》反映了当时哪一城市的繁华景象？",
+      "answer_a" : "汴京",
+      "answer_b" : "南京",
+      "id" : 10131,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "阿诗玛是我国云南哪个民族塑造的艺术形象？",
+      "answer_a" : "彝族",
+      "answer_b" : "白族",
+      "id" : 10132,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "传统彩瓷“素三彩”之所以称“素”是因不用什么颜色？",
+      "answer_a" : "红色",
+      "answer_b" : "绿色",
+      "id" : 10133,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "古曲《高山流水》是用什么乐器演奏的？",
+      "answer_a" : "琵琶",
+      "answer_b" : "古筝",
+      "id" : 10134,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "我国发现的最古老的乐器是什么？",
+      "answer_a" : "骨笛",
+      "answer_b" : "竹哨",
+      "id" : 10135,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "苏州四大园林之一的留园建于哪一年代？",
+      "answer_a" : "清",
+      "answer_b" : "元",
+      "id" : 10136,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "下面哪一宗教是发源于中国本身的？",
+      "answer_a" : "基督教",
+      "answer_b" : "道教",
+      "id" : 10137,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "塔是宗教建筑之一，最早的古塔是从哪个国家传入中国的？",
+      "answer_a" : "埃及",
+      "answer_b" : "印度",
+      "id" : 10138,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "自由女神像是哪个国家送给美国的礼物？",
+      "answer_a" : "法国\t",
+      "answer_b" : "英国",
+      "id" : 10139,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "道教首创之地是哪里？",
+      "answer_a" : "武当山",
+      "answer_b" : "鹤鸣山",
+      "id" : 10140,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“信天游”是民歌的一种，属山歌性质，曲调纯朴、高亢、悠长、节奏自由，它流行于？",
+      "answer_a" : "西南",
+      "answer_b" : "陕北",
+      "id" : 10141,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "古筝和古琴哪一个的弦更多？",
+      "answer_a" : "古琴",
+      "answer_b" : "一样多",
+      "id" : 10142,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "《黄河大合唱》的作曲者是谁？",
+      "answer_a" : "冼星海",
+      "answer_b" : "本叔同",
+      "id" : 10143,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "“蒙太奇”一词源于哪国语言？",
+      "answer_a" : "英国",
+      "answer_b" : "法国",
+      "id" : 10144,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "中国的尼姑最早是何时出现的？",
+      "answer_a" : "晋朝",
+      "answer_b" : "南北朝",
+      "id" : 10145,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "埃及艳后克莉奥佩脱拉原本是哪个国家的人？",
+      "answer_a" : "古罗马",
+      "answer_b" : "埃及",
+      "id" : 10146,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "《洛神赋图》是谁的作品？",
+      "answer_a" : "李昭道",
+      "answer_b" : "顾恺之",
+      "id" : 10147,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "中国象棋的双方各有几种棋子？",
+      "answer_a" : "7种",
+      "answer_b" : "6种",
+      "id" : 10148,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "《掀起你的盖头来》是哪个民族的民歌？",
+      "answer_a" : "蒙古族",
+      "answer_b" : "维吾尔族",
+      "id" : 10149,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "世界上第一个国际电影节是什么国际电影节？",
+      "answer_a" : "法国戛纳电影节",
+      "answer_b" : "威尼斯电影节",
+      "id" : 10150,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "最早的春联是是写在什么地方放的？",
+      "answer_a" : "写在纸上",
+      "answer_b" : "刻在木上",
+      "id" : 10151,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "冬不拉是哪个民族的乐器？",
+      "answer_a" : "哈萨克族",
+      "answer_b" : "汉族",
+      "id" : 10152,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "凯旋门的建造是为了纪念谁？",
+      "answer_a" : "拿破仑",
+      "answer_b" : "路易十三",
+      "id" : 10153,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "电影“百花奖”是由谁评选的？",
+      "answer_a" : "群众",
+      "answer_b" : "媒体",
+      "id" : 10154,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "撒尿小孩铜像坐落在哪个地方？",
+      "answer_a" : "首尔",
+      "answer_b" : "布鲁塞尔",
+      "id" : 10155,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "下列艺术家中有“钢琴诗人”之称的是哪位？",
+      "answer_a" : "莫扎特",
+      "answer_b" : "肖邦",
+      "id" : 10156,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "“蜃楼疑海上，鸟道没云中”赞美的是下面哪一座建筑的？",
+      "answer_a" : "悬空寺",
+      "answer_b" : "寒山寺",
+      "id" : 10157,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在江浙一带最流行的地方戏曲是什么？",
+      "answer_a" : "黄梅戏",
+      "answer_b" : "越剧",
+      "id" : 10158,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "美术作品:开国大典是一幅什么画？",
+      "answer_a" : "水粉画",
+      "answer_b" : "油画",
+      "id" : 10159,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "著名影片《魂断蓝桥》的桥是哪座桥？",
+      "answer_a" : "滑铁卢桥",
+      "answer_b" : "康桥",
+      "id" : 10160,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "海尔兄弟为什么只穿内裤",
+      "answer_a" : "因为热",
+      "answer_b" : "买不起QQ秀",
+      "id" : 10161,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "阿克蒙蒂斯是什么种族？",
+      "answer_a" : "龙族",
+      "answer_b" : "兽族",
+      "id" : 10162,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "请给我一把武器，是谁的口头禅？",
+      "answer_a" : "凯莱布利安",
+      "answer_b" : "谢尔格拉",
+      "id" : 10163,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "为什么维尔不脱掉他的面具？",
+      "answer_a" : "亡灵没有实体",
+      "answer_b" : "因为帅",
+      "id" : 10164,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "还记得第一次和魔化叛军战斗，对方有几个人？",
+      "answer_a" : 2,
+      "answer_b" : 3,
+      "id" : 10165,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "粉钻和钻石最大的区别是什么？",
+      "answer_a" : "粉钻能够交易",
+      "answer_b" : "钻石能够交易",
+      "id" : 10166,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "凯莱布利安的口头禅是什么？",
+      "answer_a" : "请给我一把武器",
+      "answer_b" : "我不需要武器",
+      "id" : 10167,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "瓦尔迷娜的武器是什么？",
+      "answer_a" : "头骨",
+      "answer_b" : "书",
+      "id" : 10168,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "所有英雄中，胸围最大的是谁？",
+      "answer_a" : "马拉凯斯",
+      "answer_b" : "瓦尔迷娜",
+      "id" : 10169,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "所有英雄中，最高的是谁？",
+      "answer_a" : "莫拉",
+      "answer_b" : "梅鲁斯大衮",
+      "id" : 10170,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "法国巴黎有名的凯旋门是为了纪念哪位名人建造的",
+      "answer_a" : "凯撒",
+      "answer_b" : "拿破仑",
+      "id" : 10171,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "世界上出现麦田怪圈最多的国家是",
+      "answer_a" : "英国",
+      "answer_b" : "美国",
+      "id" : 10172,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "美国奥斯卡奖历史上只有一人连续两届获得最佳男演员奖",
+      "answer_a" : "汤姆克鲁斯",
+      "answer_b" : "汤姆汉克斯  ",
+      "id" : 10173,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "知行合一，是哪位哲学家提出来的理念?",
+      "answer_a" : "王阳明",
+      "answer_b" : "朱熹",
+      "id" : 10174,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "通常所说的计算机的“大脑”指的是电脑的什么部件",
+      "answer_a" : "主板",
+      "answer_b" : "CPU",
+      "id" : 10175,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "小明的电脑解压缩速度很慢，最可能影响到的配件是?",
+      "answer_a" : "CPU",
+      "answer_b" : "内存",
+      "id" : 10176,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明的电脑开很多网页的时候会变得很卡，最可能的原因是?",
+      "answer_a" : "内存不足",
+      "answer_b" : "CPU负荷重",
+      "id" : 10177,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明在玩3d游戏开高画质的时候会变得很卡，最可能的原因是?",
+      "answer_a" : "显卡太弱",
+      "answer_b" : "CPU太弱",
+      "id" : 10178,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明的电脑突然黑屏，之后开机屏幕一片黑，最可能的原因是?",
+      "answer_a" : "系统出错",
+      "answer_b" : "硬件烧坏了",
+      "id" : 10179,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "小明的电脑总是运行的时候很慢，而且很容易死机，最可能的原因是?",
+      "answer_a" : "硬盘坏了",
+      "answer_b" : "CPU坏了",
+      "id" : 10180,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明的电脑断网了，但是可以登录路由器，最可能的原因是?",
+      "answer_a" : "电信线路故障",
+      "answer_b" : "路由器故障",
+      "id" : 10181,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "小明在游戏里发现BUG，遭到了损失，找客服有什么好处?",
+      "answer_a" : "可以骂人",
+      "answer_b" : "客服发放补偿",
+      "id" : 10182,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "小明电脑很久都没有反应，怎么判断是不是死机?",
+      "answer_a" : "看键盘指示灯有没有反应",
+      "answer_b" : "看显示器亮不亮",
+      "id" : 10183,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "战斗中，遇到毒系的怪物一般怎么克制?",
+      "answer_a" : "带防御型的天赋或英雄",
+      "answer_b" : "带有治疗的天赋或英雄",
+      "id" : 10184,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "战士的第一天赋名为?",
+      "answer_a" : "战狂",
+      "answer_b" : "斗士",
+      "id" : 10185,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "战士的第二天赋名为?",
+      "answer_a" : "防御",
+      "answer_b" : "圣盾",
+      "id" : 10186,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "战士的第三天赋名为?",
+      "answer_a" : "将神",
+      "answer_b" : "统帅",
+      "id" : 10187,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "刺客的第一天赋名为?",
+      "answer_a" : "猎手",
+      "answer_b" : "疾刺",
+      "id" : 10188,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "刺客的第二天赋名为?",
+      "answer_a" : "忍术",
+      "answer_b" : "幻影",
+      "id" : 10189,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "刺客的第三天赋名为?",
+      "answer_a" : "剧毒",
+      "answer_b" : "毒刃",
+      "id" : 10190,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "元素师的第一天赋名为?",
+      "answer_a" : "电闪",
+      "answer_b" : "雷鸣",
+      "id" : 10191,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "元素师的第二天赋名为?",
+      "answer_a" : "圣光",
+      "answer_b" : "治愈",
+      "id" : 10192,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "元素师的第三天赋名为?",
+      "answer_a" : "元素",
+      "answer_b" : "暗影",
+      "id" : 10193,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "美国历史上唯一一位任期达四届的总统是?",
+      "answer_a" : "华盛顿",
+      "answer_b" : "罗斯福",
+      "id" : 10194,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "世界上最大的禽类蛋是现存的哪种动物的蛋?",
+      "answer_a" : "秃鹫",
+      "answer_b" : "鸵鸟",
+      "id" : 10195,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "漫画<海贼王>中蒙奇含义是什么?",
+      "answer_a" : "猴子",
+      "answer_b" : "蒙太奇",
+      "id" : 10196,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "绰号红魔是哪个足球俱乐部?",
+      "answer_a" : "巴萨",
+      "answer_b" : "曼联",
+      "id" : 10197,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "明清时期成为中国三大商帮之一的“晋商”指的是现在哪个省的商人?",
+      "answer_a" : "浙江",
+      "answer_b" : "山西",
+      "id" : 10198,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "满汉全席始于清朝哪位皇帝在位时期?",
+      "answer_a" : "乾隆",
+      "answer_b" : "康熙",
+      "id" : 10199,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "近代西方最早进行殖民扩张的国家是葡萄牙和哪个国家?",
+      "answer_a" : "西班牙",
+      "answer_b" : "葡萄牙",
+      "id" : 10200,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "全国各药品零售业所悬挂的统以标识是什么颜色的十字标志?",
+      "answer_a" : "绿色",
+      "answer_b" : "红色",
+      "id" : 10201,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "歌剧《卡门》中的女主角卡门是哪个种族的女郎?",
+      "answer_a" : "吉普赛",
+      "answer_b" : "杰西卡",
+      "id" : 10202,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "哪家美国电影公司的LOGO是头咆哮的雄狮并成为了美国电影的象征?",
+      "answer_a" : "狮门电影公司",
+      "answer_b" : "米高梅电影公司",
+      "id" : 10203,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "老干妈豆瓣酱是在哪里发明的?",
+      "answer_a" : "长沙",
+      "answer_b" : "贵州",
+      "id" : 10204,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "手臂上一条条被称为“青筋”是什么血管?",
+      "answer_a" : "动脉",
+      "answer_b" : "静脉",
+      "id" : 10205,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "世界上嘴巴最大的陆生哺乳类动物是什么?",
+      "answer_a" : "河马",
+      "answer_b" : "鳄鱼",
+      "id" : 10206,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在标准大气压强下，冰融化的熔点是多少摄氏度?",
+      "answer_a" : "4摄氏度",
+      "answer_b" : "0摄氏度",
+      "id" : 10207,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "冰淇淋最初是由哪个国家发明的?",
+      "answer_a" : "中国",
+      "answer_b" : "美国",
+      "id" : 10208,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "蛋筒冰淇淋最初是由哪个国家发明的?",
+      "answer_a" : "中国",
+      "answer_b" : "美国",
+      "id" : 10209,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "西楚霸王项羽的坐骑叫什么?",
+      "answer_a" : "乌骓马",
+      "answer_b" : "的卢马",
+      "id" : 10210,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "夺得NBA年度总冠军的成员每人都可以获得一枚什么?",
+      "answer_a" : "勋章",
+      "answer_b" : "戒指",
+      "id" : 10211,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "哪个国家举办过最多次数的奥运会?",
+      "answer_a" : "英国",
+      "answer_b" : "美国",
+      "id" : 10212,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "电压的单位是V，电流的单位是什么?",
+      "answer_a" : "安",
+      "answer_b" : "度",
+      "id" : 10213,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "伯纳乌球场是那支著名西甲走球俱乐部的主场?",
+      "answer_a" : "巴萨",
+      "answer_b" : "皇家马德里",
+      "id" : 10214,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "以“玲珑身材”和“完美操控”闻名的“MINI”系列属于哪个德国汽车品牌?",
+      "answer_a" : "大众",
+      "answer_b" : "宝马",
+      "id" : 10215,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "亚洲第一个举办奥运会的是哪个国家?",
+      "answer_a" : "韩国",
+      "answer_b" : "日本",
+      "id" : 10216,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "著名的泰晤士桥在哪个国家?",
+      "answer_a" : "英国",
+      "answer_b" : "法国",
+      "id" : 10217,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "流行甜品的“提拉米苏”源自哪个欧洲国家?",
+      "answer_a" : "意大利",
+      "answer_b" : "法国",
+      "id" : 10218,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "欧盟会旗上12颗星星的颜色是什么?",
+      "answer_a" : "白色",
+      "answer_b" : "黄色",
+      "id" : 10219,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "被称为“地球之肺”的是哪里?",
+      "answer_a" : "哥伦比亚",
+      "answer_b" : "亚马逊",
+      "id" : 10220,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "沙龙”一词来源于哪种语言?",
+      "answer_a" : "法语",
+      "answer_b" : "英语",
+      "id" : 10221,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "泰坦尼克号沉没在哪个大洋?",
+      "answer_a" : "大平洋",
+      "answer_b" : "大西洋",
+      "id" : 10222,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "尤伯杯和汤姆斯杯是哪项体育赛事的冠军杯?",
+      "answer_a" : "羽毛球",
+      "answer_b" : "网球",
+      "id" : 10223,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "在打针或手术前医生在皮肤上涂抹的浅棕色消毒药水是?",
+      "answer_a" : "碘酒",
+      "answer_b" : "高浓酒精",
+      "id" : 10224,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "传说中七宗罪中淫欲的代表恶魔是?",
+      "answer_a" : "玛门",
+      "answer_b" : "阿斯蒙蒂斯",
+      "id" : 10225,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "联合国六大机构之一的国际法庭位于欧洲的那个国家?",
+      "answer_a" : "荷兰",
+      "answer_b" : "法国",
+      "id" : 10226,
+      "integral" : 2,
+      "true_answer" : 1
+   },
+   {
+      "answer" : "犹太教、基督教和伊斯兰教的圣地是哪个城市?",
+      "answer_a" : "梵蒂冈",
+      "answer_b" : "耶路撒冷",
+      "id" : 10227,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "现代钢琴按形状分，主要为立式钢琴和什么钢琴?",
+      "answer_a" : "平式钢琴",
+      "answer_b" : "三角钢琴",
+      "id" : 10228,
+      "integral" : 2,
+      "true_answer" : 2
+   },
+   {
+      "answer" : "被称为“西伯利亚的蓝眼睛”是世界上最深的淡水湖?",
+      "answer_a" : "贝尔加湖",
+      "answer_b" : "西伯利亚湖",
+      "id" : 10229,
+      "integral" : 2,
+      "true_answer" : 1
+   }
+]

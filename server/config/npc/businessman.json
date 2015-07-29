@@ -1,0 +1,152 @@
+[
+   {
+      "cost" : 8,
+      "id" : 20511301,
+      "key" : 1,
+      "limit_num" : 5,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 10,
+      "org_cost" : 10,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 8,
+      "id" : 20511401,
+      "key" : 2,
+      "limit_num" : 5,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 10,
+      "org_cost" : 10,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 8,
+      "id" : 20513401,
+      "key" : 3,
+      "limit_num" : 5,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 10,
+      "org_cost" : 10,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 8,
+      "id" : 20503401,
+      "key" : 4,
+      "limit_num" : 5,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 10,
+      "org_cost" : 10,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 40,
+      "id" : 20201413,
+      "key" : 5,
+      "limit_num" : 1,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 2,
+      "org_cost" : 50,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 0,
+      "id" : 20501101,
+      "key" : 6,
+      "limit_num" : 3,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 6,
+      "org_cost" : 0,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 3200,
+      "id" : 20501202,
+      "key" : 7,
+      "limit_num" : 3,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 6,
+      "org_cost" : 4000,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 6400,
+      "id" : 20501203,
+      "key" : 8,
+      "limit_num" : 3,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 6,
+      "org_cost" : 8000,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 12800,
+      "id" : 20501304,
+      "key" : 9,
+      "limit_num" : 3,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 6,
+      "org_cost" : 16000,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 25600,
+      "id" : 20501305,
+      "key" : 10,
+      "limit_num" : 3,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 6,
+      "org_cost" : 32000,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 16000,
+      "id" : 20506402,
+      "key" : 11,
+      "limit_num" : 5,
+      "monster_id" : [ 61601001, 61601002 ],
+      "num" : 10,
+      "org_cost" : 20000,
+      "sys_sell_type" : 1
+   },
+   {
+      "cost" : 2,
+      "id" : 20501304,
+      "key" : 12,
+      "limit_num" : 1,
+      "monster_id" : [ 61601003 ],
+      "num" : 1,
+      "org_cost" : 10,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 12,
+      "id" : 21501020,
+      "key" : 13,
+      "limit_num" : 1,
+      "monster_id" : [ 61601003 ],
+      "num" : 1,
+      "org_cost" : 20,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 12,
+      "id" : 21502020,
+      "key" : 14,
+      "limit_num" : 1,
+      "monster_id" : [ 61601003 ],
+      "num" : 1,
+      "org_cost" : 20,
+      "sys_sell_type" : 3
+   },
+   {
+      "cost" : 12,
+      "id" : 21505020,
+      "key" : 15,
+      "limit_num" : 1,
+      "monster_id" : [ 61601003 ],
+      "num" : 1,
+      "org_cost" : 20,
+      "sys_sell_type" : 3
+   }
+]

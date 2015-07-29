@@ -1,0 +1,22 @@
+[
+   {
+      "level" : 2,
+      "times" : 4
+   },
+   {
+      "level" : 4,
+      "times" : 16
+   },
+   {
+      "level" : 5,
+      "times" : 30
+   },
+   {
+      "level" : 6,
+      "times" : 30
+   },
+   {
+      "level" : 7,
+      "times" : 30
+   }
+]

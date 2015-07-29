@@ -1,0 +1,37 @@
+[
+   {
+      "continuity" : 1000,
+      "continuity_award" : [
+         [ 20213036, 1 ]
+      ],
+      "des" : "首胜"
+   },
+   {
+      "continuity" : 1001,
+      "continuity_award" : [
+         [ 20213037, 1 ]
+      ],
+      "des" : "十战"
+   },
+   {
+      "continuity" : 3,
+      "continuity_award" : [
+         [ 20213038, 1 ]
+      ],
+      "des" : "三连胜"
+   },
+   {
+      "continuity" : 5,
+      "continuity_award" : [
+         [ 20213039, 1 ]
+      ],
+      "des" : "五连胜"
+   },
+   {
+      "continuity" : 10,
+      "continuity_award" : [
+         [ 20213040, 1 ]
+      ],
+      "des" : "十连胜"
+   }
+]

@@ -1,0 +1,26 @@
+[
+   {
+      "chance" : 25,
+      "dragon_feeling" : 0
+   },
+   {
+      "chance" : 40,
+      "dragon_feeling" : 1
+   },
+   {
+      "chance" : 55,
+      "dragon_feeling" : 2
+   },
+   {
+      "chance" : 70,
+      "dragon_feeling" : 3
+   },
+   {
+      "chance" : 85,
+      "dragon_feeling" : 4
+   },
+   {
+      "chance" : 100,
+      "dragon_feeling" : 5
+   }
+]

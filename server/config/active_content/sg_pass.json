@@ -1,0 +1,27 @@
+[
+   {
+      "act_id" : 20012,
+      "id" : 1,
+      "reward" : [
+         {
+            "from_table" : "sg_pass_reward",
+            "item_id" : 21002401,
+            "num" : 200,
+            "type" : 1
+         },
+         {
+            "from_table" : "sg_pass_reward",
+            "item_id" : 20701202,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "sg_pass_reward",
+            "item_id" : 20703301,
+            "num" : 5,
+            "type" : 1
+         }
+      ],
+      "sg_id" : 80202048
+   }
+]

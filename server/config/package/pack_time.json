@@ -1,0 +1,72 @@
+[
+   {
+      "cost" : 2000,
+      "gird_time" : 1,
+      "time" : 1800
+   },
+   {
+      "cost" : 2800,
+      "gird_time" : 2,
+      "time" : 3960
+   },
+   {
+      "cost" : 3920,
+      "gird_time" : 3,
+      "time" : 6552
+   },
+   {
+      "cost" : 5488,
+      "gird_time" : 4,
+      "time" : 9662
+   },
+   {
+      "cost" : 7683,
+      "gird_time" : 5,
+      "time" : 13394
+   },
+   {
+      "cost" : 10756,
+      "gird_time" : 6,
+      "time" : 17872
+   },
+   {
+      "cost" : 15058,
+      "gird_time" : 7,
+      "time" : 23246
+   },
+   {
+      "cost" : 21081,
+      "gird_time" : 8,
+      "time" : 29695
+   },
+   {
+      "cost" : 29513,
+      "gird_time" : 9,
+      "time" : 37434
+   },
+   {
+      "cost" : 41318,
+      "gird_time" : 10,
+      "time" : 46721
+   },
+   {
+      "cost" : 57845,
+      "gird_time" : 11,
+      "time" : 57865
+   },
+   {
+      "cost" : 80983,
+      "gird_time" : 12,
+      "time" : 71238
+   },
+   {
+      "cost" : 113376,
+      "gird_time" : 13,
+      "time" : 87286
+   },
+   {
+      "cost" : 158726,
+      "gird_time" : 14,
+      "time" : 106544
+   }
+]

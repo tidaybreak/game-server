@@ -1,0 +1,91 @@
+[
+   {
+      "artifactSkin" : "AnningZhiJian",
+      "chapter" : 1,
+      "chapter_name" : "第一章  安宁之剑",
+      "drops" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ],
+         [ 501702, 100 ]
+      ],
+      "finish_scene" : 80201007,
+      "scene" : 80100001
+   },
+   {
+      "artifactSkin" : "MinJieZhiGong",
+      "chapter" : 2,
+      "chapter_name" : "第二章  敏捷之弓",
+      "drops" : [
+         [ 501502, 300000 ],
+         [ 502903, 300000 ],
+         [ 20201413, 5 ],
+         [ 501702, 150 ]
+      ],
+      "finish_scene" : 80201017,
+      "scene" : 80100002
+   },
+   {
+      "artifactSkin" : "AiRenZhiShu",
+      "chapter" : 3,
+      "chapter_name" : "第三章  死灵之书",
+      "drops" : [
+         [ 501502, 800000 ],
+         [ 502903, 800000 ],
+         [ 501702, 200 ],
+         [ 20201413, 10 ]
+      ],
+      "finish_scene" : 80201029,
+      "scene" : 80100003
+   },
+   {
+      "artifactSkin" : "ShenJieZhiGuan",
+      "chapter" : 4,
+      "chapter_name" : "第四章  疯狂之心",
+      "drops" : [
+         [ 501502, 1000000 ],
+         [ 502903, 1000000 ],
+         [ 501702, 250 ],
+         [ 20501305, 10 ]
+      ],
+      "finish_scene" : 80201037,
+      "scene" : 80100003
+   },
+   {
+      "artifactSkin" : "ShouRenZhanChui",
+      "chapter" : 5,
+      "chapter_name" : "第五章  月光女神",
+      "drops" : [
+         [ 501502, 1500000 ],
+         [ 502903, 1500000 ],
+         [ 501702, 300 ],
+         [ 20501406, 15 ]
+      ],
+      "finish_scene" : 80201045,
+      "scene" : 80100003
+   },
+   {
+      "artifactSkin" : "ShouRenZhanChui",
+      "chapter" : 6,
+      "chapter_name" : "第六章  冥王之盔",
+      "drops" : [
+         [ 501502, 1500000 ],
+         [ 502903, 1500000 ],
+         [ 501702, 400 ],
+         [ 20501406, 15 ]
+      ],
+      "finish_scene" : 80201052,
+      "scene" : 80100003
+   },
+   {
+      "chapter" : 7,
+      "chapter_name" : "第七章  罪恶剃刀",
+      "drops" : [
+         [ 501502, 2000000 ],
+         [ 502903, 2000000 ],
+         [ 501702, 500 ],
+         [ 20501406, 20 ]
+      ],
+      "finish_scene" : 80201091,
+      "scene" : 80100003
+   }
+]

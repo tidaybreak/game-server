@@ -1,0 +1,75 @@
+[
+   {
+      "boss_open_tiem" : 25,
+      "boss_weak_buff1" : [
+         31010101,
+         [ -1 ],
+         [ 514206, 0.20 ]
+      ],
+      "boss_weak_buff2" : [
+         31010102,
+         [ -1 ],
+         [ 514306, 0.20 ]
+      ],
+      "boss_weak_hp" : [ 800, 600, 400 ],
+      "common_reborn_cost" : 100,
+      "common_reborn_num" : 3,
+      "gold_bless" : [ 10, 10, 10, 10, 10 ],
+      "gold_bless_costtype" : 1,
+      "gold_bless_effect" : [ 20, 20, 20, 20, 20 ],
+      "kill_time" : 480,
+      "leader_buff" : [
+         11160201,
+         [ -1, -1 ],
+         [ 511106, 0.20 ],
+         [ 511206, 0.20 ]
+      ],
+      "leader_hurt" : 3,
+      "power_up_buff" : [
+         11160101,
+         [ -1, -1 ],
+         [ 511106, 0.20 ],
+         [ 511206, 0.20 ]
+      ],
+      "power_up_cost" : [ 10, 10, 10, 10, 10, 10, 10, 10 ],
+      "power_up_num" : [ 5, 5, 5, 6, 6, 6, 7, 8 ],
+      "powerup_costtype" : 1,
+      "reborn_cost" : [
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4,
+         4
+      ],
+      "reborn_costtype" : 1,
+      "reborn_num" : [ 30, 30, 30, 30, 30, 30, 30, 30 ],
+      "reborn_time" : 30,
+      "reborn_time_fix" : 25,
+      "reborn_time_fix_max" : 5
+   }
+]

@@ -1,0 +1,21 @@
+[
+   {
+      "batch_evolution_num" : 50,
+      "chance" : 5,
+      "down_feeling_time" : 360,
+      "dragon_born_level" : 36,
+      "dragon_born_time" : 120,
+      "dragon_vale_op_type" : 503403,
+      "egg_module" : 60410057,
+      "energy" : 10,
+      "evolveOpenLevel" : 99,
+      "match" : 60430112,
+      "max_evolution" : 5,
+      "max_feeling" : 5,
+      "money_num" : 20,
+      "money_type" : 2,
+      "notice" : 60410059,
+      "play_dragon_max_award_num" : 10,
+      "play_dragon_time" : 10
+   }
+]

@@ -1,0 +1,87 @@
+[
+   {
+      "money_cost" : 10,
+      "num" : 0,
+      "rate" : 1000
+   },
+   {
+      "money_cost" : 500,
+      "num" : 1,
+      "rate" : 500
+   },
+   {
+      "money_cost" : 1000,
+      "num" : 2,
+      "rate" : 400
+   },
+   {
+      "money_cost" : 50000,
+      "num" : 3,
+      "rate" : 300
+   },
+   {
+      "money_cost" : 100000,
+      "num" : 4,
+      "rate" : 200
+   },
+   {
+      "money_cost" : 140000,
+      "num" : 5,
+      "rate" : 200
+   },
+   {
+      "money_cost" : 200000,
+      "num" : 6,
+      "rate" : 200
+   },
+   {
+      "money_cost" : 250000,
+      "num" : 7,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 8,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 9,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 10,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 11,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 12,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 13,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 14,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 15,
+      "rate" : 100
+   },
+   {
+      "money_cost" : 500000,
+      "num" : 16,
+      "rate" : 100
+   }
+]

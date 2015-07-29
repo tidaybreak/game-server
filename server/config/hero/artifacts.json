@@ -1,0 +1,281 @@
+[
+   {
+      "aptitude" : [
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60200000,
+      "artifact_name" : "安宁之剑",
+      "artifact_pic" : 60200000,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "恐怖的上古卷轴,蕴含着无比神力",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60200001,
+      "artifact_name" : "安宁之剑",
+      "artifact_pic" : 60200000,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "恐怖的上古卷轴,蕴含着无比神力",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60200002,
+      "artifact_name" : "安宁之剑",
+      "artifact_pic" : 60200000,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "恐怖的上古卷轴,蕴含着无比神力",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60200003,
+      "artifact_name" : "安宁之剑",
+      "artifact_pic" : 60200000,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "恐怖的上古卷轴,蕴含着无比神力",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505905, 0.60 ]
+      ],
+      "artifact_id" : 60210021,
+      "artifact_name" : "女神之泪",
+      "artifact_pic" : 60210021,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "母亲留下的项链,有着女神的魔力",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 506205, 0.50 ]
+      ],
+      "artifact_id" : 60210002,
+      "artifact_name" : "魔人战锤",
+      "artifact_pic" : 60210002,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "兽人族强大的武器",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ]
+      ],
+      "artifact_id" : 60230003,
+      "artifact_name" : "星空轮盘",
+      "artifact_pic" : 60230003,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "蕴含魔法的",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ]
+      ],
+      "artifact_id" : 60220001,
+      "artifact_name" : "冥王之盔",
+      "artifact_pic" : 60220001,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ]
+      ],
+      "artifact_id" : 60230001,
+      "artifact_name" : "疯狂之心",
+      "artifact_pic" : 60230001,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504905, 0.50 ]
+      ],
+      "artifact_id" : 60210003,
+      "artifact_name" : "嗜血魔刃",
+      "artifact_pic" : 60210003,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505605, 0.70 ]
+      ],
+      "artifact_id" : 60220002,
+      "artifact_name" : "月光女神",
+      "artifact_pic" : 60220002,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 506305, 1 ]
+      ],
+      "artifact_id" : 60230010,
+      "artifact_name" : "死灵之书",
+      "artifact_pic" : 60230010,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505705, 0.70 ]
+      ],
+      "artifact_id" : 60230002,
+      "artifact_name" : "腐坏头骨",
+      "artifact_pic" : 60230002,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 506305, 1 ]
+      ],
+      "artifact_id" : 60220004,
+      "artifact_name" : "娜米拉之戒",
+      "artifact_pic" : 60220004,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 506405, 1 ]
+      ],
+      "artifact_id" : 60220003,
+      "artifact_name" : "鲁涅斯剃刀",
+      "artifact_pic" : 60220003,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504905, 0.50 ]
+      ],
+      "artifact_id" : 60230006,
+      "artifact_name" : "破法者",
+      "artifact_pic" : 60230006,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 506405, 1 ]
+      ],
+      "artifact_id" : 60220006,
+      "artifact_name" : "乌木之刃",
+      "artifact_pic" : 60220006,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60210001,
+      "artifact_name" : "封魔剑",
+      "artifact_pic" : 60210001,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ]
+      ],
+      "artifact_id" : 60210004,
+      "artifact_name" : "血腥玫瑰",
+      "artifact_pic" : 60210004,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ],
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60220005,
+      "artifact_name" : "骷髅钥匙",
+      "artifact_pic" : 60220005,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ],
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60230007,
+      "artifact_name" : "阿祖拉之心",
+      "artifact_pic" : 60230007,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 504605, 0.50 ],
+         [ 505005, 0.50 ]
+      ],
+      "artifact_id" : 60230009,
+      "artifact_name" : "雷霆之语",
+      "artifact_pic" : 60230009,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   },
+   {
+      "aptitude" : [
+         [ 505805, 0.70 ]
+      ],
+      "artifact_id" : 60230004,
+      "artifact_name" : "机械巨炮",
+      "artifact_pic" : 60230004,
+      "cost_item_param" : 1,
+      "cost_soul_param" : 1,
+      "describe" : "隐藏着力量之神的力量",
+      "max_lvl" : 100
+   }
+]

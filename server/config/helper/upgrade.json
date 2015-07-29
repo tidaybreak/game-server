@@ -1,0 +1,5000 @@
+[
+   {
+      "desc" : "等级、品质越高，战力提升越高",
+      "dieHelperIndex" : 0,
+      "expect_val" : [
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 2, 3, 1, 5 ],
+      "iconId" : "equipment",
+      "id" : 1,
+      "level" : 15,
+      "name" : "高级装备",
+      "type" : 1
+   },
+   {
+      "desc" : "英雄升级可提升英雄战斗力",
+      "dieHelperIndex" : 2,
+      "get_mode" : [ 37 ],
+      "iconId" : "hero_up",
+      "id" : 2,
+      "level" : 6,
+      "name" : "英雄升级",
+      "openModule" : "GameHero",
+      "type" : 1
+   },
+   {
+      "desc" : "强化等级越高，提升战力越多",
+      "dieHelperIndex" : 12,
+      "get_mode" : [ 6 ],
+      "iconId" : "equipment",
+      "id" : 3,
+      "level" : 12,
+      "name" : "装备强化",
+      "openModule" : "0|GameSmithy",
+      "type" : 1
+   },
+   {
+      "desc" : "宝石等级越高，提升战力越多",
+      "dieHelperIndex" : 19,
+      "expect_val" : [
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 7680,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 7680,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 7680,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 15360,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 23040,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 30720,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 46080,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 12 ],
+      "iconId" : "equipment",
+      "id" : 4,
+      "level" : 16,
+      "name" : "宝石升级",
+      "openModule" : "2|GameSmithy",
+      "type" : 2
+   },
+   {
+      "desc" : "学习公会技能，获得更高战力",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 1200,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 3600,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 3600,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 3600,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 3600,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 6000,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 7200,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 8400,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 8400,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 8400,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 8400,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 8400,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 9600,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 10800,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 12000,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 9 ],
+      "iconId" : "union_skill",
+      "id" : 5,
+      "level" : 26,
+      "name" : "公会技能",
+      "openModule" : "GuildSkill",
+      "type" : 3
+   },
+   {
+      "desc" : "龙培养等级越高，战力提升越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 1500,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 1650,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 1800,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 1800,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 1950,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 1950,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 2100,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 2250,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 2400,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 2550,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 2700,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 2850,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 3000,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 3225,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 3450,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 3675,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 3900,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 4125,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 4350,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 4575,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 5025,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 5250,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 5550,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 5850,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 6150,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 6450,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 6750,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 7050,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 7350,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 7650,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 7950,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 8250,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 8250,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 8625,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 8625,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 9000,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 9000,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 9375,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 9375,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 9750,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 9750,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 10125,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 27 ],
+      "iconId" : "long",
+      "id" : 6,
+      "level" : 36,
+      "name" : "龙培养",
+      "type" : 3
+   },
+   {
+      "desc" : "符石品质越高，提升战力越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 2880,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 5760,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 8640,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 8640,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 8640,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 8640,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 11520,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 11520,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 11520,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 11520,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 11520,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 18000,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 21600,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 25920,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 25920,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 25920,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 25920,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 25920,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 30240,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 30240,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 30240,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 30240,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 40320,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 40320,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 40320,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 40320,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 40320,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 45360,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 45360,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 45360,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 45360,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 45360,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 51840,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 11 ],
+      "iconId" : "fushi",
+      "id" : 7,
+      "level" : 35,
+      "name" : "符石熔炼",
+      "openModule" : "RuneStoneSmelleMod",
+      "type" : 3
+   },
+   {
+      "desc" : "装备精通可大幅提升装备属性",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 64,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 7 ],
+      "iconId" : "equipment",
+      "id" : 8,
+      "level" : 40,
+      "name" : "装备精通",
+      "openModule" : "6|GameSmithy",
+      "type" : 3
+   },
+   {
+      "desc" : "附魔星数越多，提升战力越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 16,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 32,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 48,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 72,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 72,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 72,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 72,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 72,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 84,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 84,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 84,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 84,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 96,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 8 ],
+      "iconId" : "equipment",
+      "id" : 9,
+      "level" : 18,
+      "name" : "装备附魔",
+      "openModule" : "4|GameSmithy",
+      "type" : 2
+   },
+   {
+      "desc" : "坐骑培养可大幅提升战力",
+      "dieHelperIndex" : -1,
+      "get_mode" : [ 13 ],
+      "iconId" : "mount",
+      "id" : 10,
+      "level" : 24,
+      "name" : "坐骑培养",
+      "openModule" : "GameMountMod",
+      "type" : 2
+   },
+   {
+      "desc" : "魔翼进阶可百分比提升战力",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 15 ],
+      "iconId" : "wing",
+      "id" : 11,
+      "level" : 40,
+      "name" : "魔翼进阶",
+      "openModule" : "DevilWingMod",
+      "type" : 3
+   },
+   {
+      "desc" : "时装强化可提升初始怒气",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 15,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 30,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 45,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 60,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 75,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 75,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 75,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 75,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 75,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 90,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 90,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 90,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 90,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 90,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 105,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 14 ],
+      "iconId" : "fashion",
+      "id" : 12,
+      "level" : 1000,
+      "name" : "时装强化",
+      "openModule" : "GameFashionMod",
+      "type" : 3
+   },
+   {
+      "desc" : "激活坐骑越多，提升战力越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 1,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 2,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 4,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 5,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 16 ],
+      "iconId" : "mount_gather",
+      "id" : 13,
+      "level" : 24,
+      "name" : "坐骑收集",
+      "openModule" : "GameMountMod",
+      "type" : 3
+   },
+   {
+      "desc" : "收集时装越多，提升战力越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 3,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 6,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 9,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 12,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 17 ],
+      "iconId" : "fashion",
+      "id" : 14,
+      "level" : 30,
+      "name" : "时装收集",
+      "openModule" : "GameFashionMod",
+      "type" : 3
+   },
+   {
+      "desc" : "神器进阶可获得更多属性加成",
+      "dieHelperIndex" : -1,
+      "get_mode" : [ 10 ],
+      "iconId" : "artifact",
+      "id" : 15,
+      "level" : 1000,
+      "name" : "神器进阶",
+      "openModule" : "2|GameHero",
+      "type" : 3
+   },
+   {
+      "desc" : "等级/品质越高，提升战力越多",
+      "dieHelperIndex" : -1,
+      "expect_val" : [
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 1
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 2
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 3
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 4
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 5
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 6
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 7
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 8
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 9
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 10
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 11
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 12
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 13
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 14
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 15
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 16
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 17
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 18
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 19
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 20
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 21
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 22
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 23
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 24
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 25
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 26
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 27
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 28
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 29
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 30
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 31
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 32
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 33
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 34
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 35
+         },
+         {
+            "expect_val" : 4800,
+            "from_table" : "实力提升预期值",
+            "level" : 36
+         },
+         {
+            "expect_val" : 6000,
+            "from_table" : "实力提升预期值",
+            "level" : 37
+         },
+         {
+            "expect_val" : 6000,
+            "from_table" : "实力提升预期值",
+            "level" : 38
+         },
+         {
+            "expect_val" : 6000,
+            "from_table" : "实力提升预期值",
+            "level" : 39
+         },
+         {
+            "expect_val" : 6000,
+            "from_table" : "实力提升预期值",
+            "level" : 40
+         },
+         {
+            "expect_val" : 11184,
+            "from_table" : "实力提升预期值",
+            "level" : 41
+         },
+         {
+            "expect_val" : 11250,
+            "from_table" : "实力提升预期值",
+            "level" : 42
+         },
+         {
+            "expect_val" : 11316,
+            "from_table" : "实力提升预期值",
+            "level" : 43
+         },
+         {
+            "expect_val" : 11382,
+            "from_table" : "实力提升预期值",
+            "level" : 44
+         },
+         {
+            "expect_val" : 11478,
+            "from_table" : "实力提升预期值",
+            "level" : 45
+         },
+         {
+            "expect_val" : 11544,
+            "from_table" : "实力提升预期值",
+            "level" : 46
+         },
+         {
+            "expect_val" : 11610,
+            "from_table" : "实力提升预期值",
+            "level" : 47
+         },
+         {
+            "expect_val" : 11676,
+            "from_table" : "实力提升预期值",
+            "level" : 48
+         },
+         {
+            "expect_val" : 11742,
+            "from_table" : "实力提升预期值",
+            "level" : 49
+         },
+         {
+            "expect_val" : 13800,
+            "from_table" : "实力提升预期值",
+            "level" : 50
+         },
+         {
+            "expect_val" : 15600,
+            "from_table" : "实力提升预期值",
+            "level" : 51
+         },
+         {
+            "expect_val" : 17400,
+            "from_table" : "实力提升预期值",
+            "level" : 52
+         },
+         {
+            "expect_val" : 19200,
+            "from_table" : "实力提升预期值",
+            "level" : 53
+         },
+         {
+            "expect_val" : 21000,
+            "from_table" : "实力提升预期值",
+            "level" : 54
+         },
+         {
+            "expect_val" : 22800,
+            "from_table" : "实力提升预期值",
+            "level" : 55
+         },
+         {
+            "expect_val" : 24600,
+            "from_table" : "实力提升预期值",
+            "level" : 56
+         },
+         {
+            "expect_val" : 26400,
+            "from_table" : "实力提升预期值",
+            "level" : 57
+         },
+         {
+            "expect_val" : 28200,
+            "from_table" : "实力提升预期值",
+            "level" : 58
+         },
+         {
+            "expect_val" : 30000,
+            "from_table" : "实力提升预期值",
+            "level" : 59
+         },
+         {
+            "expect_val" : 31800,
+            "from_table" : "实力提升预期值",
+            "level" : 60
+         },
+         {
+            "expect_val" : 33600,
+            "from_table" : "实力提升预期值",
+            "level" : 61
+         },
+         {
+            "expect_val" : 35400,
+            "from_table" : "实力提升预期值",
+            "level" : 62
+         },
+         {
+            "expect_val" : 37200,
+            "from_table" : "实力提升预期值",
+            "level" : 63
+         },
+         {
+            "expect_val" : 39000,
+            "from_table" : "实力提升预期值",
+            "level" : 64
+         },
+         {
+            "expect_val" : 40800,
+            "from_table" : "实力提升预期值",
+            "level" : 65
+         },
+         {
+            "expect_val" : 42600,
+            "from_table" : "实力提升预期值",
+            "level" : 66
+         },
+         {
+            "expect_val" : 44400,
+            "from_table" : "实力提升预期值",
+            "level" : 67
+         },
+         {
+            "expect_val" : 46200,
+            "from_table" : "实力提升预期值",
+            "level" : 68
+         },
+         {
+            "expect_val" : 48000,
+            "from_table" : "实力提升预期值",
+            "level" : 69
+         },
+         {
+            "expect_val" : 49800,
+            "from_table" : "实力提升预期值",
+            "level" : 70
+         },
+         {
+            "expect_val" : 53400,
+            "from_table" : "实力提升预期值",
+            "level" : 71
+         },
+         {
+            "expect_val" : 57000,
+            "from_table" : "实力提升预期值",
+            "level" : 72
+         },
+         {
+            "expect_val" : 60600,
+            "from_table" : "实力提升预期值",
+            "level" : 73
+         },
+         {
+            "expect_val" : 64200,
+            "from_table" : "实力提升预期值",
+            "level" : 74
+         },
+         {
+            "expect_val" : 67800,
+            "from_table" : "实力提升预期值",
+            "level" : 75
+         },
+         {
+            "expect_val" : 71400,
+            "from_table" : "实力提升预期值",
+            "level" : 76
+         },
+         {
+            "expect_val" : 75000,
+            "from_table" : "实力提升预期值",
+            "level" : 77
+         },
+         {
+            "expect_val" : 78600,
+            "from_table" : "实力提升预期值",
+            "level" : 78
+         },
+         {
+            "expect_val" : 82200,
+            "from_table" : "实力提升预期值",
+            "level" : 79
+         },
+         {
+            "expect_val" : 85800,
+            "from_table" : "实力提升预期值",
+            "level" : 80
+         }
+      ],
+      "get_mode" : [ 5 ],
+      "iconId" : "kapai",
+      "id" : 16,
+      "level" : 33,
+      "name" : "卡牌属性",
+      "openModule" : "EquipSoulMod",
+      "type" : 2
+   }
+]

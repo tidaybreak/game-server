@@ -1,0 +1,86 @@
+[
+   {
+      "background" : 105,
+      "chapter" : 1,
+      "chapter_name" : "自然之塔",
+      "high" : 9
+   },
+   {
+      "background" : 102,
+      "chapter" : 2,
+      "chapter_name" : "变身之塔",
+      "high" : 9
+   },
+   {
+      "background" : 101,
+      "chapter" : 3,
+      "chapter_name" : "狂暴之塔",
+      "high" : 9
+   },
+   {
+      "background" : 104,
+      "chapter" : 4,
+      "chapter_name" : "剧毒之塔",
+      "high" : 9
+   },
+   {
+      "background" : 103,
+      "chapter" : 5,
+      "chapter_name" : "英雄之塔",
+      "high" : 5
+   },
+   {
+      "background" : 104,
+      "chapter" : 6,
+      "chapter_name" : "守护之塔",
+      "high" : 9
+   },
+   {
+      "background" : 105,
+      "chapter" : 7,
+      "chapter_name" : "再生之塔",
+      "high" : 9
+   },
+   {
+      "background" : 102,
+      "chapter" : 8,
+      "chapter_name" : "反弹之塔",
+      "high" : 9
+   },
+   {
+      "background" : 105,
+      "chapter" : 9,
+      "chapter_name" : "控制之塔",
+      "high" : 9
+   },
+   {
+      "background" : 103,
+      "chapter" : 10,
+      "chapter_name" : "英雄之塔【魔】",
+      "high" : 5
+   },
+   {
+      "background" : 102,
+      "chapter" : 11,
+      "chapter_name" : "高级召唤之塔",
+      "high" : 9
+   },
+   {
+      "background" : 101,
+      "chapter" : 12,
+      "chapter_name" : "高级狂暴之塔",
+      "high" : 9
+   },
+   {
+      "background" : 104,
+      "chapter" : 13,
+      "chapter_name" : "高级剧毒之塔",
+      "high" : 9
+   },
+   {
+      "background" : 103,
+      "chapter" : 14,
+      "chapter_name" : "英雄幻境",
+      "high" : 5
+   }
+]

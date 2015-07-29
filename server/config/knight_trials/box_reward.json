@@ -1,0 +1,982 @@
+[
+   {
+      "boxType" : 0,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611403,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 0,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611404,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611405,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611404,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611406,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611405,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611403,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611404,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611405,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611404,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611406,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611405,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611408,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611413,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611408,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611413,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611408,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 40,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611413,
+      "slevel" : 20,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 40,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 20,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 40,
+      "end" : 10,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 20,
+      "start" : 4,
+      "type" : 2
+   },
+   {
+      "boxType" : 0,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 0,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 50,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 40,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 50,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 40,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 50,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 40,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 50,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 40,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 50,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 40,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 50,
+      "end" : 10,
+      "rate" : 200,
+      "reward_id" : 20611402,
+      "slevel" : 40,
+      "start" : 5,
+      "type" : 2
+   },
+   {
+      "boxType" : 0,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 0,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 1,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611414,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 3,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611418,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611411,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 4,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611412,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611409,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 6,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611410,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611414,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 7,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611418,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611414,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 20611418,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611415,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611414,
+      "slevel" : 50,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 20611418,
+      "slevel" : 50,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611415,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 21611414,
+      "slevel" : 50,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 4,
+      "rate" : 200,
+      "reward_id" : 20611418,
+      "slevel" : 50,
+      "start" : 2,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 2,
+      "rate" : 200,
+      "reward_id" : 21611415,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 10,
+      "rate" : 200,
+      "reward_id" : 21611415,
+      "slevel" : 50,
+      "start" : 5,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21401101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21402101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21403101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21404101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21405101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21406101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21408101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 2,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21409101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21401101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21402101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21403101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21404101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21405101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21406101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21408101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 5,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21409101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21401101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21402101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21403101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21404101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21405101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21406101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21408101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 8,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21409101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21401101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21402101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21403101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21404101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21405101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21406101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21408101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   },
+   {
+      "boxType" : 9,
+      "elevel" : 80,
+      "end" : 1,
+      "rate" : 2,
+      "reward_id" : 21409101,
+      "slevel" : 50,
+      "start" : 1,
+      "type" : 2
+   }
+]

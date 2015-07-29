@@ -1,0 +1,23 @@
+[
+   {
+      "control" : 2,
+      "elite_base_num" : 5,
+      "elite_control" : 0,
+      "elite_cost" : 2,
+      "elite_cost_item" : 20515402,
+      "elite_cost_money" : 20,
+      "elite_cost_num" : 2,
+      "elite_cost_type" : 1,
+      "elite_level_limit" : 0,
+      "elite_time" : 60,
+      "hor_elite_wipe_id" : 80202127,
+      "hor_open_id" : 80202123,
+      "hor_open_lv" : 60,
+      "lord_control" : 3,
+      "nor_elite_wipe_id" : 80202100,
+      "single_cost" : 2,
+      "single_level_limit" : 16,
+      "single_time" : 180,
+      "single_wipe_no_cd_lv" : 22
+   }
+]

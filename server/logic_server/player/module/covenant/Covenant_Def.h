@@ -1,0 +1,45 @@
+/*
+ * Covenant_Def.h
+ *
+ *  Created on: 2014-07-15
+ *      Author: xiaoliang
+ */
+
+#ifndef COVENANT_DEF_H_
+#define COVENANT_DEF_H_
+
+enum COVENANT_TYPE {
+	CURE_COVENANT = 1,	//治疗精灵
+	RESET_POINT_COVENANT = 2,	//洗点精灵
+	FIGHT_COVENANT = 3,	//战斗精灵
+	REWARD_COVENANT = 4,	//悬赏精灵
+	RAIDS_COVENANT	= 5 ,//扫荡精灵
+};
+
+enum COVENANT_BUY_TYPE {
+	COVENANT_BUY_ONE = 1,	//开通或续费一个
+	COVENANT_BUY_ALL_NOT_OPEN = 2,//开通所有
+	COVENANT_BUY_ALL_OPEN = 3,//续费所有
+};
+
+enum COVENANT_HANDSEL_TYPE {
+	COVENANT_HANDSEL_ONE = 1,//赠送一个
+	COVENANT_HANDSEL_ALL = 2,//赠送所有
+};
+
+enum COVENANT_INIT_STATUS {
+	COVENANT_NEVER_BUY = 0,//从未开通过
+	COVENANT_HAVE_BUY = 1,//开通过
+	COVENANT_HAVE_EXPIRED = 2, //开通过;但也提示过过期
+};
+
+enum COVENANT_COMMON_DEF {
+	COVENANT_SEND_HANDSEL_ONE_MAIL_ID = 1010,//赠送一个的邮件
+	COVENANT_SEND_HANDSEL_ALL_MAIL_ID = 1011,//赠送所有的邮件
+	COVEANT_ALL_OPEN_CARD_ID = 20601411,//开通所有精灵盟约的卡ID
+	COVEANT_ALL_OPEN_EXP_CARD_ID = 20601312,//开通所有精灵盟约的体验卡ID
+	COVEANT_CARD_OPEN_TYPE_OPEN = 0,//通过精灵盟约卡开通
+	COVEANT_CARD_OPEN_TYPE_RENEWALS = 1,//通过精灵盟约卡续费
+};
+
+#endif /* COVENANT_DEF_H_ */

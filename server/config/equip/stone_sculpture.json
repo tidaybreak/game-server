@@ -1,0 +1,185 @@
+[
+   {
+      "Stats" : 10,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 1,
+      "max" : 600
+   },
+   {
+      "Stats" : 12,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 2,
+      "max" : 800
+   },
+   {
+      "Stats" : 14,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 3,
+      "max" : 1000
+   },
+   {
+      "Stats" : 16,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 4,
+      "max" : 1200
+   },
+   {
+      "Stats" : 18,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 5,
+      "max" : 1400
+   },
+   {
+      "Stats" : 20,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 6,
+      "max" : 1600
+   },
+   {
+      "Stats" : 22,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 7,
+      "max" : 1800
+   },
+   {
+      "Stats" : 24,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 8,
+      "max" : 2000
+   },
+   {
+      "Stats" : 26,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 9,
+      "max" : 2200
+   },
+   {
+      "Stats" : 28,
+      "broadcast_id" : 9015,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 10,
+      "max" : 2400
+   },
+   {
+      "Stats" : 30,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 11,
+      "max" : 2600
+   },
+   {
+      "Stats" : 32,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 12,
+      "max" : 2800
+   },
+   {
+      "Stats" : 34,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 13,
+      "max" : 3000
+   },
+   {
+      "Stats" : 36,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 14,
+      "max" : 3200
+   },
+   {
+      "Stats" : 38,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 15,
+      "max" : 3400
+   },
+   {
+      "Stats" : 40,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 16,
+      "max" : 3600
+   },
+   {
+      "Stats" : 42,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 17,
+      "max" : 3800
+   },
+   {
+      "Stats" : 44,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 18,
+      "max" : 4000
+   },
+   {
+      "Stats" : 46,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 19,
+      "max" : 4200
+   },
+   {
+      "Stats" : 48,
+      "broadcast_id" : 9016,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 20,
+      "max" : 4400
+   },
+   {
+      "Stats" : 50,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 21,
+      "max" : 4600
+   },
+   {
+      "Stats" : 52,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 22,
+      "max" : 4800
+   },
+   {
+      "Stats" : 54,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 23,
+      "max" : 5000
+   },
+   {
+      "Stats" : 56,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 24,
+      "max" : 5200
+   },
+   {
+      "Stats" : 58,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 25,
+      "max" : 5400
+   },
+   {
+      "Stats" : 60,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 26,
+      "max" : 5600
+   },
+   {
+      "Stats" : 62,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 27,
+      "max" : 5800
+   },
+   {
+      "Stats" : 64,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 28,
+      "max" : 6000
+   },
+   {
+      "Stats" : 66,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 29,
+      "max" : 6200
+   },
+   {
+      "Stats" : 68,
+      "broadcast_id" : 9017,
+      "item_base" : [ 21008001, 1 ],
+      "level" : 30,
+      "max" : 6400
+   }
+]

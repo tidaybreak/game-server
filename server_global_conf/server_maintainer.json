@@ -1,0 +1,52 @@
+{
+    "game_server_flag" : "108_dev1", 	/// 服标识, 用于一机多服情况标识
+	"platform_des" : "108", 			/// 平台描述(一般游戏公告或聊天里出现)
+    "game_open_time" : 1385049600, 		/// 开服时间
+    "game_merge_time": 1385622000, 		/// 合服时间(大于开服时间,小于当前时间才有效)
+    "game_solution_id" : 12, 			/// 方案(单台/多台机开服)
+    "game_port_prefix" : 7, 			/// 端口首位
+    "game_ver_type" : 0,				/// 区别国内版本.0国内，1国外
+	"inner_tick_time" : 5000,			/// 内部心跳时间
+	"inner_time_out" : 50,				/// 内部超时时间(超时说明服务器内部反映延时，这时不让登陆)	
+    "server_close_delay" : 60, 			/// Daemon关闭后其它进程延迟关闭时间(秒),用来关服前提示
+    "db_work_num" : 3,					/// mongodb数据库线程数量
+	"package_frequency" : 90,			/// 3秒内最大包数量(外服用90)
+	"config_not_update" : false,		/// 配制是否不热更(外服用0)
+	"valgrind_allow" : false,			/// valgrind总开关(外网false)
+	"verify_msg_time" : false,			/// 验证包时间
+	"record_id" : 0,					/// 日志服id,默认0(跨服日志服用,一般是1)
+    "record_output_type" : 1,			/// 日志服输出设置 0:调试版输出 1:输出到文件 2:输出到文件&all(外服用1)
+	"record_log_level" : "11110",	   	/// STREAM  USER_TRACE  USER  DEBUG  TRACE_ABORT(外服压力大情况下USER DEBUG可关, 外服TRACE_ABORT要关)
+    "local_log_level"  : "11110",    	/// SYSTEM  USER_TRACE  USER  DEBUG  TRACE_ABORT(外服压力大情况下USER DEBUG可关, 外服TRACE_ABORT要关)
+    "md5_key" : "",
+    "mongodb_server" : {
+        "ip" : "127.0.0.1",
+        "port" : 27017
+    },
+    "mysql_server" : {
+        "ip" : "",
+        "port" : 3306,
+        "user" : "root",
+        "passwd" : "123456",
+		"dbname" : "game_platform"
+    },
+    "game_server_list" : {
+        "1" : {
+            "telecom_ip" : "127.0.0.1",
+            "unicom_ip" : "127.0.0.1"
+        },
+        "2" : {
+            "telecom_ip" : "127.0.0.1",
+            "unicom_ip" : "127.0.0.1"
+        },
+		/* 跨服 */
+        "8001" : {
+            "telecom_ip" : "192.168.8.108",
+            "unicom_ip" : "192.168.8.108"
+        },
+        "9001" : {
+            "telecom_ip" : "192.168.8.108",
+            "unicom_ip" : "192.168.8.108"
+        }
+    }
+}

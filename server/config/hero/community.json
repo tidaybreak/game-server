@@ -1,0 +1,9 @@
+[
+   {
+      "hero_id" : 60210021,
+      "interact_answers" : [ "好的", "不好" ],
+      "interact_id" : 1,
+      "interact_intimacys" : [ 10, 15 ],
+      "interact_question" : "你觉得我 怎样"
+   }
+]

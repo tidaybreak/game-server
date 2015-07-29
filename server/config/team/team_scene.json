@@ -1,0 +1,58 @@
+[
+   {
+      "content" : "第一个组队副本",
+      "cost" : [ 2, 1 ],
+      "difficulty" : 1,
+      "entrance" : 1,
+      "exp" : 100,
+      "gold" : 100,
+      "id" : 80204001,
+      "lv" : 25,
+      "name" : "多人副本1",
+      "pass_con" : 4,
+      "soul" : 100,
+      "team_lim" : 2
+   },
+   {
+      "content" : "第二个组队副本",
+      "cost" : [ 2, 1 ],
+      "difficulty" : 1,
+      "entrance" : 1,
+      "exp" : 100,
+      "gold" : 100,
+      "id" : 80204002,
+      "lv" : 30,
+      "name" : "多人副本2",
+      "pass_con" : 4,
+      "soul" : 100,
+      "team_lim" : 2
+   },
+   {
+      "content" : "第三个组队副本",
+      "cost" : [ 2, 1 ],
+      "difficulty" : 1,
+      "entrance" : 1,
+      "exp" : 100,
+      "gold" : 100,
+      "id" : 80204003,
+      "lv" : 35,
+      "name" : "多人副本3",
+      "pass_con" : 4,
+      "soul" : 100,
+      "team_lim" : 2
+   },
+   {
+      "content" : "第四个组队副本",
+      "cost" : [ 2, 1 ],
+      "difficulty" : 1,
+      "entrance" : 1,
+      "exp" : 100,
+      "gold" : 100,
+      "id" : 80204004,
+      "lv" : 40,
+      "name" : "多人副本4",
+      "pass_con" : 4,
+      "soul" : 100,
+      "team_lim" : 2
+   }
+]

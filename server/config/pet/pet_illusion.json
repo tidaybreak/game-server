@@ -1,0 +1,122 @@
+[
+   {
+      "active_cond" : 1,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 2,
+      "comment" : "1阶自动激活",
+      "id" : 1,
+      "model" : 61100002,
+      "name" : "亚必戈"
+   },
+   {
+      "active_cond" : 6,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 2,
+      "comment" : "进阶至2阶自动激活",
+      "id" : 2,
+      "model" : 61100003,
+      "name" : "阿加洛斯"
+   },
+   {
+      "active_cond" : 11,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 2,
+      "comment" : "进阶至3阶自动激活",
+      "id" : 3,
+      "model" : 61100004,
+      "name" : "艾尼"
+   },
+   {
+      "active_cond" : 16,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 2,
+      "comment" : "进阶至4阶自动激活",
+      "id" : 4,
+      "model" : 61100005,
+      "name" : "安力瑟"
+   },
+   {
+      "active_cond" : 21,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 3,
+      "comment" : "进阶至5阶自动激活",
+      "id" : 5,
+      "model" : 61100006,
+      "name" : "安洛先"
+   },
+   {
+      "active_cond" : 26,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 3,
+      "comment" : "进阶至6阶自动激活",
+      "id" : 6,
+      "model" : 61100007,
+      "name" : "安林恩"
+   },
+   {
+      "active_cond" : 31,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 3,
+      "comment" : "进阶至7阶自动激活",
+      "id" : 7,
+      "model" : 61100007,
+      "name" : "亚迈蒙"
+   },
+   {
+      "active_cond" : 36,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 4,
+      "comment" : "进阶至8阶自动激活",
+      "id" : 8,
+      "model" : 61100007,
+      "name" : "安布西亚斯"
+   },
+   {
+      "active_cond" : 41,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 4,
+      "comment" : "进阶至9阶自动激活",
+      "id" : 9,
+      "model" : 61100007,
+      "name" : "亚蒙"
+   },
+   {
+      "active_cond" : 46,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 4,
+      "comment" : "进阶至10阶自动激活",
+      "id" : 10,
+      "model" : 61100007,
+      "name" : "亚米"
+   },
+   {
+      "active_cond" : 20519001,
+      "attrs" : [
+         [ 504905, 10 ]
+      ],
+      "color" : 3,
+      "comment" : "运营活动获得幻化书",
+      "id" : 3,
+      "name" : "哇哈哈"
+   }
+]

@@ -1,0 +1,42 @@
+[
+   {
+      "consume" : 10000,
+      "stone_lv" : 1
+   },
+   {
+      "consume" : 20000,
+      "stone_lv" : 2
+   },
+   {
+      "consume" : 40000,
+      "stone_lv" : 3
+   },
+   {
+      "consume" : 80000,
+      "stone_lv" : 4
+   },
+   {
+      "consume" : 160000,
+      "stone_lv" : 5
+   },
+   {
+      "consume" : 320000,
+      "stone_lv" : 6
+   },
+   {
+      "consume" : 640000,
+      "stone_lv" : 7
+   },
+   {
+      "consume" : 1280000,
+      "stone_lv" : 8
+   },
+   {
+      "consume" : 2560000,
+      "stone_lv" : 9
+   },
+   {
+      "consume" : 5120000,
+      "stone_lv" : 10
+   }
+]

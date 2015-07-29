@@ -1,0 +1,402 @@
+[
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 1
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 2
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 3
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 4
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 5
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 6
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 7
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 8
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 9
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 10
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 11
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 12
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 13
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 14
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 15
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 16
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 17
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 18
+   },
+   {
+      "aima" : 0,
+      "gold" : 0,
+      "level" : 19
+   },
+   {
+      "aima" : 25000,
+      "gold" : 25000,
+      "level" : 20
+   },
+   {
+      "aima" : 25500,
+      "gold" : 25500,
+      "level" : 21
+   },
+   {
+      "aima" : 26000,
+      "gold" : 26000,
+      "level" : 22
+   },
+   {
+      "aima" : 26500,
+      "gold" : 26500,
+      "level" : 23
+   },
+   {
+      "aima" : 27000,
+      "gold" : 27000,
+      "level" : 24
+   },
+   {
+      "aima" : 27500,
+      "gold" : 27500,
+      "level" : 25
+   },
+   {
+      "aima" : 28000,
+      "gold" : 28000,
+      "level" : 26
+   },
+   {
+      "aima" : 28500,
+      "gold" : 28500,
+      "level" : 27
+   },
+   {
+      "aima" : 29000,
+      "gold" : 29000,
+      "level" : 28
+   },
+   {
+      "aima" : 29500,
+      "gold" : 29500,
+      "level" : 29
+   },
+   {
+      "aima" : 30000,
+      "gold" : 30000,
+      "level" : 30
+   },
+   {
+      "aima" : 31000,
+      "gold" : 31000,
+      "level" : 31
+   },
+   {
+      "aima" : 32000,
+      "gold" : 32000,
+      "level" : 32
+   },
+   {
+      "aima" : 33000,
+      "gold" : 33000,
+      "level" : 33
+   },
+   {
+      "aima" : 34000,
+      "gold" : 34000,
+      "level" : 34
+   },
+   {
+      "aima" : 35000,
+      "gold" : 35000,
+      "level" : 35
+   },
+   {
+      "aima" : 36000,
+      "gold" : 36000,
+      "level" : 36
+   },
+   {
+      "aima" : 37000,
+      "gold" : 37000,
+      "level" : 37
+   },
+   {
+      "aima" : 38000,
+      "gold" : 38000,
+      "level" : 38
+   },
+   {
+      "aima" : 39000,
+      "gold" : 39000,
+      "level" : 39
+   },
+   {
+      "aima" : 40000,
+      "gold" : 40000,
+      "level" : 40
+   },
+   {
+      "aima" : 41000,
+      "gold" : 41000,
+      "level" : 41
+   },
+   {
+      "aima" : 42000,
+      "gold" : 42000,
+      "level" : 42
+   },
+   {
+      "aima" : 43000,
+      "gold" : 43000,
+      "level" : 43
+   },
+   {
+      "aima" : 44000,
+      "gold" : 44000,
+      "level" : 44
+   },
+   {
+      "aima" : 45000,
+      "gold" : 45000,
+      "level" : 45
+   },
+   {
+      "aima" : 46000,
+      "gold" : 46000,
+      "level" : 46
+   },
+   {
+      "aima" : 47000,
+      "gold" : 47000,
+      "level" : 47
+   },
+   {
+      "aima" : 48000,
+      "gold" : 48000,
+      "level" : 48
+   },
+   {
+      "aima" : 49000,
+      "gold" : 49000,
+      "level" : 49
+   },
+   {
+      "aima" : 50000,
+      "gold" : 50000,
+      "level" : 50
+   },
+   {
+      "aima" : 51000,
+      "gold" : 51000,
+      "level" : 51
+   },
+   {
+      "aima" : 52000,
+      "gold" : 52000,
+      "level" : 52
+   },
+   {
+      "aima" : 53000,
+      "gold" : 53000,
+      "level" : 53
+   },
+   {
+      "aima" : 54000,
+      "gold" : 54000,
+      "level" : 54
+   },
+   {
+      "aima" : 55000,
+      "gold" : 55000,
+      "level" : 55
+   },
+   {
+      "aima" : 56000,
+      "gold" : 56000,
+      "level" : 56
+   },
+   {
+      "aima" : 57000,
+      "gold" : 57000,
+      "level" : 57
+   },
+   {
+      "aima" : 58000,
+      "gold" : 58000,
+      "level" : 58
+   },
+   {
+      "aima" : 59000,
+      "gold" : 59000,
+      "level" : 59
+   },
+   {
+      "aima" : 60000,
+      "gold" : 60000,
+      "level" : 60
+   },
+   {
+      "aima" : 61000,
+      "gold" : 61000,
+      "level" : 61
+   },
+   {
+      "aima" : 63000,
+      "gold" : 63000,
+      "level" : 62
+   },
+   {
+      "aima" : 65000,
+      "gold" : 65000,
+      "level" : 63
+   },
+   {
+      "aima" : 67000,
+      "gold" : 67000,
+      "level" : 64
+   },
+   {
+      "aima" : 69000,
+      "gold" : 69000,
+      "level" : 65
+   },
+   {
+      "aima" : 71000,
+      "gold" : 71000,
+      "level" : 66
+   },
+   {
+      "aima" : 73000,
+      "gold" : 73000,
+      "level" : 67
+   },
+   {
+      "aima" : 75000,
+      "gold" : 75000,
+      "level" : 68
+   },
+   {
+      "aima" : 77000,
+      "gold" : 77000,
+      "level" : 69
+   },
+   {
+      "aima" : 79000,
+      "gold" : 79000,
+      "level" : 70
+   },
+   {
+      "aima" : 81000,
+      "gold" : 81000,
+      "level" : 71
+   },
+   {
+      "aima" : 84000,
+      "gold" : 84000,
+      "level" : 72
+   },
+   {
+      "aima" : 87000,
+      "gold" : 87000,
+      "level" : 73
+   },
+   {
+      "aima" : 90000,
+      "gold" : 90000,
+      "level" : 74
+   },
+   {
+      "aima" : 93000,
+      "gold" : 93000,
+      "level" : 75
+   },
+   {
+      "aima" : 96000,
+      "gold" : 96000,
+      "level" : 76
+   },
+   {
+      "aima" : 99000,
+      "gold" : 99000,
+      "level" : 77
+   },
+   {
+      "aima" : 102000,
+      "gold" : 102000,
+      "level" : 78
+   },
+   {
+      "aima" : 105000,
+      "gold" : 105000,
+      "level" : 79
+   },
+   {
+      "aima" : 108000,
+      "gold" : 108000,
+      "level" : 80
+   }
+]

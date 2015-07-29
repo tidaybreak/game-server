@@ -1,0 +1,110 @@
+[
+   {
+      "continuity_merit" : 10,
+      "continuity_reputation" : 30,
+      "merit" : 0,
+      "reputation" : 0,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 0
+   },
+   {
+      "continuity_merit" : 10,
+      "continuity_reputation" : 33,
+      "merit" : 0,
+      "reputation" : 0,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 1
+   },
+   {
+      "continuity_merit" : 10,
+      "continuity_reputation" : 36,
+      "merit" : 10,
+      "reputation" : 20,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 2
+   },
+   {
+      "continuity_merit" : 12,
+      "continuity_reputation" : 39,
+      "merit" : 20,
+      "reputation" : 50,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 3
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_reputation" : 42,
+      "merit" : 30,
+      "reputation" : 55,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 4
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_reputation" : 45,
+      "merit" : 40,
+      "reputation" : 60,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 5
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_reputation" : 45,
+      "merit" : 50,
+      "reputation" : 65,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 6
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_reputation" : 45,
+      "merit" : 60,
+      "reputation" : 70,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 7
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_reputation" : 45,
+      "merit" : 60,
+      "reputation" : 75,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 8
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_reputation" : 45,
+      "merit" : 60,
+      "reputation" : 80,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 9
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_reputation" : 45,
+      "merit" : 60,
+      "reputation" : 85,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 10
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_reputation" : 45,
+      "merit" : 60,
+      "reputation" : 100,
+      "score" : 15,
+      "score_pct" : 0.150,
+      "streak_kill_num" : 11
+   }
+]

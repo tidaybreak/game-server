@@ -1,0 +1,1402 @@
+[
+   {
+      "aima_charged" : 2,
+      "aima_money_sub_type" : 3,
+      "chances" : 1,
+      "charged" : 2,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 2,
+      "aima_money_sub_type" : 3,
+      "chances" : 2,
+      "charged" : 2,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 2,
+      "aima_money_sub_type" : 3,
+      "chances" : 3,
+      "charged" : 2,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 2,
+      "aima_money_sub_type" : 3,
+      "chances" : 4,
+      "charged" : 2,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 2,
+      "aima_money_sub_type" : 3,
+      "chances" : 5,
+      "charged" : 2,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 4,
+      "aima_money_sub_type" : 3,
+      "chances" : 6,
+      "charged" : 4,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 4,
+      "aima_money_sub_type" : 3,
+      "chances" : 7,
+      "charged" : 4,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 4,
+      "aima_money_sub_type" : 3,
+      "chances" : 8,
+      "charged" : 4,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 4,
+      "aima_money_sub_type" : 3,
+      "chances" : 9,
+      "charged" : 4,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 4,
+      "aima_money_sub_type" : 3,
+      "chances" : 10,
+      "charged" : 4,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 8,
+      "aima_money_sub_type" : 3,
+      "chances" : 11,
+      "charged" : 8,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 8,
+      "aima_money_sub_type" : 3,
+      "chances" : 12,
+      "charged" : 8,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 8,
+      "aima_money_sub_type" : 3,
+      "chances" : 13,
+      "charged" : 8,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 8,
+      "aima_money_sub_type" : 3,
+      "chances" : 14,
+      "charged" : 8,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 8,
+      "aima_money_sub_type" : 3,
+      "chances" : 15,
+      "charged" : 8,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 16,
+      "aima_money_sub_type" : 3,
+      "chances" : 16,
+      "charged" : 16,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 16,
+      "aima_money_sub_type" : 3,
+      "chances" : 17,
+      "charged" : 16,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 16,
+      "aima_money_sub_type" : 3,
+      "chances" : 18,
+      "charged" : 16,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 16,
+      "aima_money_sub_type" : 3,
+      "chances" : 19,
+      "charged" : 16,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 16,
+      "aima_money_sub_type" : 3,
+      "chances" : 20,
+      "charged" : 16,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 24,
+      "aima_money_sub_type" : 3,
+      "chances" : 21,
+      "charged" : 24,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 24,
+      "aima_money_sub_type" : 3,
+      "chances" : 22,
+      "charged" : 24,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 24,
+      "aima_money_sub_type" : 3,
+      "chances" : 23,
+      "charged" : 24,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 24,
+      "aima_money_sub_type" : 3,
+      "chances" : 24,
+      "charged" : 24,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 24,
+      "aima_money_sub_type" : 3,
+      "chances" : 25,
+      "charged" : 24,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 36,
+      "aima_money_sub_type" : 3,
+      "chances" : 26,
+      "charged" : 36,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 36,
+      "aima_money_sub_type" : 3,
+      "chances" : 27,
+      "charged" : 36,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 36,
+      "aima_money_sub_type" : 3,
+      "chances" : 28,
+      "charged" : 36,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 36,
+      "aima_money_sub_type" : 3,
+      "chances" : 29,
+      "charged" : 36,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 36,
+      "aima_money_sub_type" : 3,
+      "chances" : 30,
+      "charged" : 36,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 48,
+      "aima_money_sub_type" : 3,
+      "chances" : 31,
+      "charged" : 48,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 48,
+      "aima_money_sub_type" : 3,
+      "chances" : 32,
+      "charged" : 48,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 48,
+      "aima_money_sub_type" : 3,
+      "chances" : 33,
+      "charged" : 48,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 48,
+      "aima_money_sub_type" : 3,
+      "chances" : 34,
+      "charged" : 48,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 48,
+      "aima_money_sub_type" : 3,
+      "chances" : 35,
+      "charged" : 48,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 60,
+      "aima_money_sub_type" : 3,
+      "chances" : 36,
+      "charged" : 60,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 60,
+      "aima_money_sub_type" : 3,
+      "chances" : 37,
+      "charged" : 60,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 60,
+      "aima_money_sub_type" : 3,
+      "chances" : 38,
+      "charged" : 60,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 60,
+      "aima_money_sub_type" : 3,
+      "chances" : 39,
+      "charged" : 60,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 60,
+      "aima_money_sub_type" : 3,
+      "chances" : 40,
+      "charged" : 60,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 72,
+      "aima_money_sub_type" : 3,
+      "chances" : 41,
+      "charged" : 72,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 72,
+      "aima_money_sub_type" : 3,
+      "chances" : 42,
+      "charged" : 72,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 72,
+      "aima_money_sub_type" : 3,
+      "chances" : 43,
+      "charged" : 72,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 72,
+      "aima_money_sub_type" : 3,
+      "chances" : 44,
+      "charged" : 72,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 72,
+      "aima_money_sub_type" : 3,
+      "chances" : 45,
+      "charged" : 72,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 84,
+      "aima_money_sub_type" : 3,
+      "chances" : 46,
+      "charged" : 84,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 84,
+      "aima_money_sub_type" : 3,
+      "chances" : 47,
+      "charged" : 84,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 84,
+      "aima_money_sub_type" : 3,
+      "chances" : 48,
+      "charged" : 84,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 84,
+      "aima_money_sub_type" : 3,
+      "chances" : 49,
+      "charged" : 84,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 84,
+      "aima_money_sub_type" : 3,
+      "chances" : 50,
+      "charged" : 84,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 96,
+      "aima_money_sub_type" : 3,
+      "chances" : 51,
+      "charged" : 96,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 96,
+      "aima_money_sub_type" : 3,
+      "chances" : 52,
+      "charged" : 96,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 96,
+      "aima_money_sub_type" : 3,
+      "chances" : 53,
+      "charged" : 96,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 96,
+      "aima_money_sub_type" : 3,
+      "chances" : 54,
+      "charged" : 96,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 96,
+      "aima_money_sub_type" : 3,
+      "chances" : 55,
+      "charged" : 96,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 108,
+      "aima_money_sub_type" : 3,
+      "chances" : 56,
+      "charged" : 108,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 108,
+      "aima_money_sub_type" : 3,
+      "chances" : 57,
+      "charged" : 108,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 108,
+      "aima_money_sub_type" : 3,
+      "chances" : 58,
+      "charged" : 108,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 108,
+      "aima_money_sub_type" : 3,
+      "chances" : 59,
+      "charged" : 108,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 108,
+      "aima_money_sub_type" : 3,
+      "chances" : 60,
+      "charged" : 108,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 120,
+      "aima_money_sub_type" : 3,
+      "chances" : 61,
+      "charged" : 120,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 120,
+      "aima_money_sub_type" : 3,
+      "chances" : 62,
+      "charged" : 120,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 120,
+      "aima_money_sub_type" : 3,
+      "chances" : 63,
+      "charged" : 120,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 120,
+      "aima_money_sub_type" : 3,
+      "chances" : 64,
+      "charged" : 120,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 120,
+      "aima_money_sub_type" : 3,
+      "chances" : 65,
+      "charged" : 120,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 132,
+      "aima_money_sub_type" : 3,
+      "chances" : 66,
+      "charged" : 132,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 132,
+      "aima_money_sub_type" : 3,
+      "chances" : 67,
+      "charged" : 132,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 132,
+      "aima_money_sub_type" : 3,
+      "chances" : 68,
+      "charged" : 132,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 132,
+      "aima_money_sub_type" : 3,
+      "chances" : 69,
+      "charged" : 132,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 132,
+      "aima_money_sub_type" : 3,
+      "chances" : 70,
+      "charged" : 132,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 144,
+      "aima_money_sub_type" : 3,
+      "chances" : 71,
+      "charged" : 144,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 144,
+      "aima_money_sub_type" : 3,
+      "chances" : 72,
+      "charged" : 144,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 144,
+      "aima_money_sub_type" : 3,
+      "chances" : 73,
+      "charged" : 144,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 144,
+      "aima_money_sub_type" : 3,
+      "chances" : 74,
+      "charged" : 144,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 144,
+      "aima_money_sub_type" : 3,
+      "chances" : 75,
+      "charged" : 144,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 156,
+      "aima_money_sub_type" : 3,
+      "chances" : 76,
+      "charged" : 156,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 156,
+      "aima_money_sub_type" : 3,
+      "chances" : 77,
+      "charged" : 156,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 156,
+      "aima_money_sub_type" : 3,
+      "chances" : 78,
+      "charged" : 156,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 156,
+      "aima_money_sub_type" : 3,
+      "chances" : 79,
+      "charged" : 156,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 156,
+      "aima_money_sub_type" : 3,
+      "chances" : 80,
+      "charged" : 156,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 168,
+      "aima_money_sub_type" : 3,
+      "chances" : 81,
+      "charged" : 168,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 168,
+      "aima_money_sub_type" : 3,
+      "chances" : 82,
+      "charged" : 168,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 168,
+      "aima_money_sub_type" : 3,
+      "chances" : 83,
+      "charged" : 168,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 168,
+      "aima_money_sub_type" : 3,
+      "chances" : 84,
+      "charged" : 168,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 168,
+      "aima_money_sub_type" : 3,
+      "chances" : 85,
+      "charged" : 168,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 180,
+      "aima_money_sub_type" : 3,
+      "chances" : 86,
+      "charged" : 180,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 180,
+      "aima_money_sub_type" : 3,
+      "chances" : 87,
+      "charged" : 180,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 180,
+      "aima_money_sub_type" : 3,
+      "chances" : 88,
+      "charged" : 180,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 180,
+      "aima_money_sub_type" : 3,
+      "chances" : 89,
+      "charged" : 180,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 180,
+      "aima_money_sub_type" : 3,
+      "chances" : 90,
+      "charged" : 180,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 192,
+      "aima_money_sub_type" : 3,
+      "chances" : 91,
+      "charged" : 192,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 192,
+      "aima_money_sub_type" : 3,
+      "chances" : 92,
+      "charged" : 192,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 192,
+      "aima_money_sub_type" : 3,
+      "chances" : 93,
+      "charged" : 192,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 192,
+      "aima_money_sub_type" : 3,
+      "chances" : 94,
+      "charged" : 192,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 192,
+      "aima_money_sub_type" : 3,
+      "chances" : 95,
+      "charged" : 192,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 204,
+      "aima_money_sub_type" : 3,
+      "chances" : 96,
+      "charged" : 204,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 204,
+      "aima_money_sub_type" : 3,
+      "chances" : 97,
+      "charged" : 204,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 204,
+      "aima_money_sub_type" : 3,
+      "chances" : 98,
+      "charged" : 204,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 204,
+      "aima_money_sub_type" : 3,
+      "chances" : 99,
+      "charged" : 204,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 204,
+      "aima_money_sub_type" : 3,
+      "chances" : 100,
+      "charged" : 204,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 216,
+      "aima_money_sub_type" : 3,
+      "chances" : 101,
+      "charged" : 216,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 216,
+      "aima_money_sub_type" : 3,
+      "chances" : 102,
+      "charged" : 216,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 216,
+      "aima_money_sub_type" : 3,
+      "chances" : 103,
+      "charged" : 216,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 216,
+      "aima_money_sub_type" : 3,
+      "chances" : 104,
+      "charged" : 216,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 216,
+      "aima_money_sub_type" : 3,
+      "chances" : 105,
+      "charged" : 216,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 228,
+      "aima_money_sub_type" : 3,
+      "chances" : 106,
+      "charged" : 228,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 228,
+      "aima_money_sub_type" : 3,
+      "chances" : 107,
+      "charged" : 228,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 228,
+      "aima_money_sub_type" : 3,
+      "chances" : 108,
+      "charged" : 228,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 228,
+      "aima_money_sub_type" : 3,
+      "chances" : 109,
+      "charged" : 228,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 228,
+      "aima_money_sub_type" : 3,
+      "chances" : 110,
+      "charged" : 228,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 240,
+      "aima_money_sub_type" : 3,
+      "chances" : 111,
+      "charged" : 240,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 240,
+      "aima_money_sub_type" : 3,
+      "chances" : 112,
+      "charged" : 240,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 240,
+      "aima_money_sub_type" : 3,
+      "chances" : 113,
+      "charged" : 240,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 240,
+      "aima_money_sub_type" : 3,
+      "chances" : 114,
+      "charged" : 240,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 240,
+      "aima_money_sub_type" : 3,
+      "chances" : 115,
+      "charged" : 240,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 252,
+      "aima_money_sub_type" : 3,
+      "chances" : 116,
+      "charged" : 252,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 252,
+      "aima_money_sub_type" : 3,
+      "chances" : 117,
+      "charged" : 252,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 252,
+      "aima_money_sub_type" : 3,
+      "chances" : 118,
+      "charged" : 252,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 252,
+      "aima_money_sub_type" : 3,
+      "chances" : 119,
+      "charged" : 252,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 252,
+      "aima_money_sub_type" : 3,
+      "chances" : 120,
+      "charged" : 252,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 264,
+      "aima_money_sub_type" : 3,
+      "chances" : 121,
+      "charged" : 264,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 264,
+      "aima_money_sub_type" : 3,
+      "chances" : 122,
+      "charged" : 264,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 264,
+      "aima_money_sub_type" : 3,
+      "chances" : 123,
+      "charged" : 264,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 264,
+      "aima_money_sub_type" : 3,
+      "chances" : 124,
+      "charged" : 264,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 264,
+      "aima_money_sub_type" : 3,
+      "chances" : 125,
+      "charged" : 264,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 276,
+      "aima_money_sub_type" : 3,
+      "chances" : 126,
+      "charged" : 276,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 276,
+      "aima_money_sub_type" : 3,
+      "chances" : 127,
+      "charged" : 276,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 276,
+      "aima_money_sub_type" : 3,
+      "chances" : 128,
+      "charged" : 276,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 276,
+      "aima_money_sub_type" : 3,
+      "chances" : 129,
+      "charged" : 276,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 276,
+      "aima_money_sub_type" : 3,
+      "chances" : 130,
+      "charged" : 276,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 288,
+      "aima_money_sub_type" : 3,
+      "chances" : 131,
+      "charged" : 288,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 288,
+      "aima_money_sub_type" : 3,
+      "chances" : 132,
+      "charged" : 288,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 288,
+      "aima_money_sub_type" : 3,
+      "chances" : 133,
+      "charged" : 288,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 288,
+      "aima_money_sub_type" : 3,
+      "chances" : 134,
+      "charged" : 288,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 288,
+      "aima_money_sub_type" : 3,
+      "chances" : 135,
+      "charged" : 288,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 300,
+      "aima_money_sub_type" : 3,
+      "chances" : 136,
+      "charged" : 300,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 300,
+      "aima_money_sub_type" : 3,
+      "chances" : 137,
+      "charged" : 300,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 300,
+      "aima_money_sub_type" : 3,
+      "chances" : 138,
+      "charged" : 300,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 300,
+      "aima_money_sub_type" : 3,
+      "chances" : 139,
+      "charged" : 300,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 300,
+      "aima_money_sub_type" : 3,
+      "chances" : 140,
+      "charged" : 300,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 312,
+      "aima_money_sub_type" : 3,
+      "chances" : 141,
+      "charged" : 312,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 312,
+      "aima_money_sub_type" : 3,
+      "chances" : 142,
+      "charged" : 312,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 312,
+      "aima_money_sub_type" : 3,
+      "chances" : 143,
+      "charged" : 312,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 312,
+      "aima_money_sub_type" : 3,
+      "chances" : 144,
+      "charged" : 312,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 312,
+      "aima_money_sub_type" : 3,
+      "chances" : 145,
+      "charged" : 312,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 324,
+      "aima_money_sub_type" : 3,
+      "chances" : 146,
+      "charged" : 324,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 324,
+      "aima_money_sub_type" : 3,
+      "chances" : 147,
+      "charged" : 324,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 324,
+      "aima_money_sub_type" : 3,
+      "chances" : 148,
+      "charged" : 324,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 324,
+      "aima_money_sub_type" : 3,
+      "chances" : 149,
+      "charged" : 324,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 324,
+      "aima_money_sub_type" : 3,
+      "chances" : 150,
+      "charged" : 324,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 336,
+      "aima_money_sub_type" : 3,
+      "chances" : 151,
+      "charged" : 336,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 336,
+      "aima_money_sub_type" : 3,
+      "chances" : 152,
+      "charged" : 336,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 336,
+      "aima_money_sub_type" : 3,
+      "chances" : 153,
+      "charged" : 336,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 336,
+      "aima_money_sub_type" : 3,
+      "chances" : 154,
+      "charged" : 336,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 336,
+      "aima_money_sub_type" : 3,
+      "chances" : 155,
+      "charged" : 336,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 348,
+      "aima_money_sub_type" : 3,
+      "chances" : 156,
+      "charged" : 348,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 348,
+      "aima_money_sub_type" : 3,
+      "chances" : 157,
+      "charged" : 348,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 348,
+      "aima_money_sub_type" : 3,
+      "chances" : 158,
+      "charged" : 348,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 348,
+      "aima_money_sub_type" : 3,
+      "chances" : 159,
+      "charged" : 348,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 348,
+      "aima_money_sub_type" : 3,
+      "chances" : 160,
+      "charged" : 348,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 360,
+      "aima_money_sub_type" : 3,
+      "chances" : 161,
+      "charged" : 360,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 360,
+      "aima_money_sub_type" : 3,
+      "chances" : 162,
+      "charged" : 360,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 360,
+      "aima_money_sub_type" : 3,
+      "chances" : 163,
+      "charged" : 360,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 360,
+      "aima_money_sub_type" : 3,
+      "chances" : 164,
+      "charged" : 360,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 360,
+      "aima_money_sub_type" : 3,
+      "chances" : 165,
+      "charged" : 360,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 372,
+      "aima_money_sub_type" : 3,
+      "chances" : 166,
+      "charged" : 372,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 372,
+      "aima_money_sub_type" : 3,
+      "chances" : 167,
+      "charged" : 372,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 372,
+      "aima_money_sub_type" : 3,
+      "chances" : 168,
+      "charged" : 372,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 372,
+      "aima_money_sub_type" : 3,
+      "chances" : 169,
+      "charged" : 372,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 372,
+      "aima_money_sub_type" : 3,
+      "chances" : 170,
+      "charged" : 372,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 384,
+      "aima_money_sub_type" : 3,
+      "chances" : 171,
+      "charged" : 384,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 384,
+      "aima_money_sub_type" : 3,
+      "chances" : 172,
+      "charged" : 384,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 384,
+      "aima_money_sub_type" : 3,
+      "chances" : 173,
+      "charged" : 384,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 384,
+      "aima_money_sub_type" : 3,
+      "chances" : 174,
+      "charged" : 384,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 384,
+      "aima_money_sub_type" : 3,
+      "chances" : 175,
+      "charged" : 384,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 396,
+      "aima_money_sub_type" : 3,
+      "chances" : 176,
+      "charged" : 396,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 396,
+      "aima_money_sub_type" : 3,
+      "chances" : 177,
+      "charged" : 396,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 396,
+      "aima_money_sub_type" : 3,
+      "chances" : 178,
+      "charged" : 396,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 396,
+      "aima_money_sub_type" : 3,
+      "chances" : 179,
+      "charged" : 396,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 396,
+      "aima_money_sub_type" : 3,
+      "chances" : 180,
+      "charged" : 396,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 408,
+      "aima_money_sub_type" : 3,
+      "chances" : 181,
+      "charged" : 408,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 408,
+      "aima_money_sub_type" : 3,
+      "chances" : 182,
+      "charged" : 408,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 408,
+      "aima_money_sub_type" : 3,
+      "chances" : 183,
+      "charged" : 408,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 408,
+      "aima_money_sub_type" : 3,
+      "chances" : 184,
+      "charged" : 408,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 408,
+      "aima_money_sub_type" : 3,
+      "chances" : 185,
+      "charged" : 408,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 420,
+      "aima_money_sub_type" : 3,
+      "chances" : 186,
+      "charged" : 420,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 420,
+      "aima_money_sub_type" : 3,
+      "chances" : 187,
+      "charged" : 420,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 420,
+      "aima_money_sub_type" : 3,
+      "chances" : 188,
+      "charged" : 420,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 420,
+      "aima_money_sub_type" : 3,
+      "chances" : 189,
+      "charged" : 420,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 420,
+      "aima_money_sub_type" : 3,
+      "chances" : 190,
+      "charged" : 420,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 432,
+      "aima_money_sub_type" : 3,
+      "chances" : 191,
+      "charged" : 432,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 432,
+      "aima_money_sub_type" : 3,
+      "chances" : 192,
+      "charged" : 432,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 432,
+      "aima_money_sub_type" : 3,
+      "chances" : 193,
+      "charged" : 432,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 432,
+      "aima_money_sub_type" : 3,
+      "chances" : 194,
+      "charged" : 432,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 432,
+      "aima_money_sub_type" : 3,
+      "chances" : 195,
+      "charged" : 432,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 444,
+      "aima_money_sub_type" : 3,
+      "chances" : 196,
+      "charged" : 444,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 444,
+      "aima_money_sub_type" : 3,
+      "chances" : 197,
+      "charged" : 444,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 444,
+      "aima_money_sub_type" : 3,
+      "chances" : 198,
+      "charged" : 444,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 444,
+      "aima_money_sub_type" : 3,
+      "chances" : 199,
+      "charged" : 444,
+      "money_sub_type" : 3
+   },
+   {
+      "aima_charged" : 444,
+      "aima_money_sub_type" : 3,
+      "chances" : 200,
+      "charged" : 444,
+      "money_sub_type" : 3
+   }
+]

@@ -1,0 +1,226 @@
+[
+   {
+      "cond" : [ 1011, 1012 ],
+      "icon" : "gem1",
+      "id" : 101,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 365, 190 ]
+   },
+   {
+      "cond" : [ 1021, 1022 ],
+      "icon" : "gem2",
+      "id" : 102,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 516, 110 ]
+   },
+   {
+      "cond" : [ 1032, 1031 ],
+      "icon" : "gem3",
+      "id" : 103,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 690, 90 ]
+   },
+   {
+      "cond" : [ 1041 ],
+      "icon" : "gem4",
+      "id" : 104,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 576, 300 ]
+   },
+   {
+      "cond" : [ 2011, 2012 ],
+      "icon" : "gem1",
+      "id" : 201,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 250 ]
+   },
+   {
+      "cond" : [ 2021, 2022 ],
+      "icon" : "gem2",
+      "id" : 202,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 695, 100 ]
+   },
+   {
+      "cond" : [ 2031, 2032 ],
+      "icon" : "gem3",
+      "id" : 203,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 448, 380 ]
+   },
+   {
+      "cond" : [ 2041 ],
+      "icon" : "gem4",
+      "id" : 204,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 700, 290 ]
+   },
+   {
+      "cond" : [ 3011, 3012 ],
+      "icon" : "gem1",
+      "id" : 301,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 130 ]
+   },
+   {
+      "cond" : [ 3021, 3022 ],
+      "icon" : "gem2",
+      "id" : 302,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 390, 351 ]
+   },
+   {
+      "cond" : [ 3031, 3032 ],
+      "icon" : "gem3",
+      "id" : 303,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 696, 76 ]
+   },
+   {
+      "cond" : [ 3041, 3042 ],
+      "icon" : "gem4",
+      "id" : 304,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 720, 306 ]
+   },
+   {
+      "cond" : [ 4011, 4012 ],
+      "icon" : "gem1",
+      "id" : 401,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 400, 340 ]
+   },
+   {
+      "cond" : [ 4021, 4022 ],
+      "icon" : "gem2",
+      "id" : 402,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 100 ]
+   },
+   {
+      "cond" : [ 4031 ],
+      "icon" : "gem3",
+      "id" : 403,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 726, 106 ]
+   },
+   {
+      "cond" : [ 4041, 4042 ],
+      "icon" : "gem4",
+      "id" : 404,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 656, 340 ]
+   },
+   {
+      "cond" : [ 5011, 5012 ],
+      "icon" : "gem1",
+      "id" : 501,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 400, 340 ]
+   },
+   {
+      "cond" : [ 5021, 5022 ],
+      "icon" : "gem2",
+      "id" : 502,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 100 ]
+   },
+   {
+      "cond" : [ 5031 ],
+      "icon" : "gem3",
+      "id" : 503,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 726, 106 ]
+   },
+   {
+      "cond" : [ 5041, 5042 ],
+      "icon" : "gem4",
+      "id" : 504,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 656, 340 ]
+   },
+   {
+      "cond" : [ 6011, 6012 ],
+      "icon" : "gem1",
+      "id" : 601,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 400, 340 ]
+   },
+   {
+      "cond" : [ 6021, 6022 ],
+      "icon" : "gem2",
+      "id" : 602,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 100 ]
+   },
+   {
+      "cond" : [ 6031, 6032 ],
+      "icon" : "gem3",
+      "id" : 603,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 726, 106 ]
+   },
+   {
+      "cond" : [ 6041, 6042 ],
+      "icon" : "gem4",
+      "id" : 604,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 656, 340 ]
+   },
+   {
+      "cond" : [ 7011, 7012 ],
+      "icon" : "gem1",
+      "id" : 701,
+      "name" : "力量之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 400, 340 ]
+   },
+   {
+      "cond" : [ 7021, 7022 ],
+      "icon" : "gem2",
+      "id" : 702,
+      "name" : "敏捷之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 340, 100 ]
+   },
+   {
+      "cond" : [ 7031 ],
+      "icon" : "gem3",
+      "id" : 703,
+      "name" : "守护之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 726, 106 ]
+   },
+   {
+      "cond" : [ 7041, 7042 ],
+      "icon" : "gem4",
+      "id" : 704,
+      "name" : "勇者之星",
+      "perfectPoint" : 10,
+      "posXY" : [ 656, 340 ]
+   }
+]

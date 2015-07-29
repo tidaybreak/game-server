@@ -1,0 +1,402 @@
+[
+   {
+      "max_level" : 8,
+      "role_level" : 1,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 2,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 3,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 4,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 5,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 6,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 7,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 8,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 9,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 10,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 11,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 12,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 13,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 14,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 15,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 16,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 17,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 18,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 19,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 20,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 21,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 22,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 23,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 24,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 25,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 26,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 27,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 28,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 8,
+      "role_level" : 29,
+      "upgrade_level" : 30
+   },
+   {
+      "max_level" : 9,
+      "role_level" : 30,
+      "upgrade_level" : 35
+   },
+   {
+      "max_level" : 9,
+      "role_level" : 31,
+      "upgrade_level" : 35
+   },
+   {
+      "max_level" : 9,
+      "role_level" : 32,
+      "upgrade_level" : 35
+   },
+   {
+      "max_level" : 9,
+      "role_level" : 33,
+      "upgrade_level" : 35
+   },
+   {
+      "max_level" : 9,
+      "role_level" : 34,
+      "upgrade_level" : 35
+   },
+   {
+      "max_level" : 10,
+      "role_level" : 35,
+      "upgrade_level" : 40
+   },
+   {
+      "max_level" : 10,
+      "role_level" : 36,
+      "upgrade_level" : 40
+   },
+   {
+      "max_level" : 10,
+      "role_level" : 37,
+      "upgrade_level" : 40
+   },
+   {
+      "max_level" : 10,
+      "role_level" : 38,
+      "upgrade_level" : 40
+   },
+   {
+      "max_level" : 10,
+      "role_level" : 39,
+      "upgrade_level" : 40
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 40,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 41,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 42,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 43,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 44,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 45,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 46,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 47,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 48,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 15,
+      "role_level" : 49,
+      "upgrade_level" : 50
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 50,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 51,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 52,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 53,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 54,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 55,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 56,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 57,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 58,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 20,
+      "role_level" : 59,
+      "upgrade_level" : 60
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 60,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 61,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 62,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 63,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 64,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 65,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 66,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 67,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 68,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 30,
+      "role_level" : 69,
+      "upgrade_level" : 70
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 70,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 71,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 72,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 73,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 74,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 75,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 76,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 77,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 78,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 79,
+      "upgrade_level" : 99
+   },
+   {
+      "max_level" : 40,
+      "role_level" : 80,
+      "upgrade_level" : 99
+   }
+]

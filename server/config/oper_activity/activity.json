@@ -1,0 +1,2280 @@
+[
+   {
+      "act_id" : 70031,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "荣耀竞技场胜利[0]次",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "rec_id" : 1,
+            "reward" : [
+               [ 20402201, 1 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "荣耀竞技场胜利[0]次",
+            "from_table" : "activity_detail",
+            "num" : 3,
+            "rec_id" : 2,
+            "reward" : [
+               [ 20704401, 1 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "荣耀竞技场胜利[0]次",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 3,
+            "reward" : [
+               [ 20704401, 2 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "荣耀竞技场胜利[0]次",
+            "from_table" : "activity_detail",
+            "num" : 10,
+            "rec_id" : 4,
+            "reward" : [
+               [ 20704401, 4 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "荣耀竞技场胜利[0]次",
+            "from_table" : "activity_detail",
+            "num" : 20,
+            "rec_id" : 5,
+            "reward" : [
+               [ 20704401, 6 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 1
+         }
+      ],
+      "index" : 3,
+      "mail_id" : 1049,
+      "pageName" : "荣耀竞技",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_jj",
+            "contentText" : "每天参与指定数量的荣耀竞技,获得丰厚额外奖励",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp33",
+            "openMod" : [ "80219001" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70032,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "远征攻城[0]次",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "rec_id" : 6,
+            "reward" : [
+               [ 20512401, 1 ]
+            ],
+            "type" : 2
+         },
+         {
+            "cellText" : "远征攻城[0]次",
+            "from_table" : "activity_detail",
+            "num" : 3,
+            "rec_id" : 7,
+            "reward" : [
+               [ 20512401, 2 ]
+            ],
+            "type" : 2
+         },
+         {
+            "cellText" : "远征攻城[0]次",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 8,
+            "reward" : [
+               [ 20512401, 3 ]
+            ],
+            "type" : 2
+         },
+         {
+            "cellText" : "远征攻城[0]次",
+            "from_table" : "activity_detail",
+            "num" : 7,
+            "rec_id" : 9,
+            "reward" : [
+               [ 20512401, 4 ]
+            ],
+            "type" : 2
+         },
+         {
+            "cellText" : "远征攻城[0]次",
+            "from_table" : "activity_detail",
+            "num" : 10,
+            "rec_id" : 10,
+            "reward" : [
+               [ 20512401, 5 ]
+            ],
+            "type" : 2
+         }
+      ],
+      "index" : 2,
+      "mail_id" : 1050,
+      "not_show" : 1,
+      "pageName" : "英雄远征",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_jj",
+            "contentText" : "每天参与指定数量的远征战斗,获得丰厚额外奖励",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp31",
+            "openMod" : [ "80216001" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70033,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "英雄之门通关[0]次（每日）",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "rec_id" : 11,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 5 ]
+            ],
+            "type" : 4
+         },
+         {
+            "cellText" : "荣耀竞技场获胜[0]次（每日）",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 12,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 20 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "组队竞技获胜[0]次（每日）",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 13,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 10 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "竞技场挑战[0]次（每日）",
+            "from_table" : "activity_detail",
+            "num" : 10,
+            "rec_id" : 14,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 10 ]
+            ],
+            "type" : 6
+         },
+         {
+            "cellText" : "炼金[0]次（每日）",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 15,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 10 ]
+            ],
+            "type" : 7
+         },
+         {
+            "cellText" : "使用[0]本手册驯养坐骑（每日）",
+            "from_table" : "activity_detail",
+            "num" : 10,
+            "rec_id" : 16,
+            "refresh" : 1,
+            "reward" : [
+               [ 22000001, 10 ]
+            ],
+            "type" : 3
+         },
+         {
+            "cellText" : "使用[0]本手册驯养坐骑（可重复）",
+            "ditto" : 1,
+            "from_table" : "activity_detail",
+            "num" : 50,
+            "rec_id" : 17,
+            "reward" : [
+               [ 22000001, 50 ]
+            ],
+            "type" : 9
+         }
+      ],
+      "index" : 1,
+      "mail_id" : 1051,
+      "pageName" : "复活节彩蛋",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_dh",
+            "contentText" : "复活节期间,完成指定日常活动,即可获得丰厚奖励",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp32",
+            "openMod" : [ "ActivityExchangeMod" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70036,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 1,
+            "rec_id" : 18,
+            "reward" : [
+               [ 20513401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 20402201, 2 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 2,
+            "rec_id" : 19,
+            "reward" : [
+               [ 20513401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 21001401, 30 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 3,
+            "rec_id" : 20,
+            "reward" : [
+               [ 20513401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 20611402, 30 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 4,
+            "rec_id" : 21,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20516001, 2 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 5,
+            "rec_id" : 22,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20504402, 1 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 6,
+            "rec_id" : 23,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 21505030, 1 ]
+            ],
+            "type" : 10
+         },
+         {
+            "cellText" : "第[0]天任意充值",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "parm" : 7,
+            "rec_id" : 24,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 5 ],
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20516002, 2 ]
+            ],
+            "type" : 10
+         }
+      ],
+      "index" : 5,
+      "pageName" : "充值送大礼",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "每日充值任意数量的钻石即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp36",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70037,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 1,
+            "processType" : 1,
+            "rec_id" : 25,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 20503401, 1 ],
+               [ 20402201, 1 ],
+               [ 20501305, 1 ],
+               [ 20704401, 1 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 2,
+            "processType" : 1,
+            "rec_id" : 26,
+            "reward" : [
+               [ 20513401, 2 ],
+               [ 20503401, 2 ],
+               [ 20402201, 1 ],
+               [ 20501305, 2 ],
+               [ 20704401, 1 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 3,
+            "processType" : 1,
+            "rec_id" : 27,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20503401, 3 ],
+               [ 20402201, 1 ],
+               [ 20501305, 3 ],
+               [ 20704401, 1 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 4,
+            "processType" : 1,
+            "rec_id" : 28,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20503401, 3 ],
+               [ 20402201, 1 ],
+               [ 20501305, 3 ],
+               [ 20704401, 1 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 5,
+            "processType" : 1,
+            "rec_id" : 29,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20503401, 3 ],
+               [ 20402201, 1 ],
+               [ 20501305, 3 ],
+               [ 21002401, 50 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 6,
+            "processType" : 1,
+            "rec_id" : 30,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20503401, 3 ],
+               [ 20402201, 1 ],
+               [ 20501305, 3 ],
+               [ 21002401, 100 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 7,
+            "processType" : 1,
+            "rec_id" : 31,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20503401, 3 ],
+               [ 20402201, 1 ],
+               [ 20501305, 3 ],
+               [ 21002401, 500 ]
+            ],
+            "type" : 13
+         }
+      ],
+      "index" : 6,
+      "pageName" : "累计登陆充值",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间累计登陆，充值钻石数量达到指定数值，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp37",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70038,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "参与战场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 2,
+            "rec_id" : 32,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 14
+         },
+         {
+            "cellText" : "参与竞技场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 33,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 20
+         },
+         {
+            "cellText" : "参与组队竞技[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 34,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "参与英雄之门[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 2,
+            "rec_id" : 35,
+            "refresh" : 1,
+            "reward" : [
+               [ 21001401, 50 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 15
+         },
+         {
+            "cellText" : "对世界BOSS<br>造成[0]%伤害",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 3,
+            "rec_id" : 36,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 1 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 16
+         },
+         {
+            "cellText" : "炼金[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 37,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 1 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 7
+         },
+         {
+            "cellText" : "充值任意金额",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 1,
+            "rec_id" : 38,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20704401, 4 ],
+               [ 20516401, 2 ],
+               [ 20516001, 2 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "消费钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 1,
+            "rec_id" : 39,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20704401, 4 ],
+               [ 20516401, 2 ],
+               [ 20516001, 2 ]
+            ],
+            "type" : 17
+         }
+      ],
+      "index" : 7,
+      "pageName" : "日常挑战",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间完成指定数量的系统内容，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp38",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70039,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 1,
+            "rec_id" : 40,
+            "reward" : [
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 20402201, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 2,
+            "rec_id" : 41,
+            "reward" : [
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 20513401, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 3,
+            "rec_id" : 42,
+            "reward" : [
+               [ 20701202, 3 ],
+               [ 20703301, 3 ],
+               [ 20501305, 3 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 4,
+            "rec_id" : 43,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20503401, 2 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 5,
+            "rec_id" : 44,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 21505030, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 6,
+            "rec_id" : 45,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20504402, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "icon_location" : 140,
+            "num" : 7,
+            "rec_id" : 46,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20516002, 1 ]
+            ],
+            "type" : 12
+         }
+      ],
+      "index" : 10,
+      "pageName" : "累计登陆",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间，登陆游戏即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp39",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70040,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "每日累计充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 116,
+            "num" : 100,
+            "processType" : 1,
+            "rec_id" : 47,
+            "refresh" : 1,
+            "reward" : [
+               [ 20503401, 3 ],
+               [ 20513401, 3 ],
+               [ 50001901, 2 ],
+               [ 20705402, 5 ],
+               [ 21009001, 1 ],
+               [ 20301201, 1 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "每日累计充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 116,
+            "num" : 200,
+            "processType" : 1,
+            "rec_id" : 48,
+            "refresh" : 1,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20513401, 5 ],
+               [ 50001901, 3 ],
+               [ 21009001, 1 ],
+               [ 20301201, 1 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "每日累计充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 116,
+            "num" : 500,
+            "processType" : 1,
+            "rec_id" : 49,
+            "refresh" : 1,
+            "reward" : [
+               [ 20503401, 10 ],
+               [ 20513401, 10 ],
+               [ 50001901, 5 ],
+               [ 21009002, 1 ],
+               [ 21009001, 1 ],
+               [ 20301201, 3 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "每日累计充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 116,
+            "num" : 1000,
+            "processType" : 1,
+            "rec_id" : 50,
+            "refresh" : 1,
+            "reward" : [
+               [ 20503401, 15 ],
+               [ 20513401, 15 ],
+               [ 50001901, 8 ],
+               [ 21009002, 1 ],
+               [ 20301201, 5 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "每日累计充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 126,
+            "num" : 2000,
+            "processType" : 1,
+            "rec_id" : 51,
+            "refresh" : 1,
+            "reward" : [
+               [ 20503401, 33 ],
+               [ 20513401, 33 ],
+               [ 50001901, 12 ],
+               [ 21009002, 1 ],
+               [ 20301302, 1 ]
+            ],
+            "type" : 11
+         }
+      ],
+      "index" : 11,
+      "pageName" : "每日累计充值",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，每日累计充值达到指定数量的钻石，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp40",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70041,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 3 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 52,
+            "reward" : [
+               [ 20505543, 5 ],
+               [ 20501509, 1 ],
+               [ 20513401, 5 ],
+               [ 21009001, 4 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 6 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 53,
+            "reward" : [
+               [ 20505543, 15 ],
+               [ 20501509, 2 ],
+               [ 20513401, 7 ],
+               [ 21009001, 9 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 12 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 54,
+            "reward" : [
+               [ 20505543, 20 ],
+               [ 20501509, 3 ],
+               [ 20513401, 9 ],
+               [ 21009001, 14 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 18 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 55,
+            "reward" : [
+               [ 20505543, 30 ],
+               [ 20501509, 4 ],
+               [ 20513401, 11 ],
+               [ 21009001, 21 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 25 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 56,
+            "reward" : [
+               [ 20505543, 40 ],
+               [ 20501509, 6 ],
+               [ 20513401, 12 ],
+               [ 21009001, 28 ],
+               [ 20301302, 1 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "parm" : [
+               [ 21009001, 33 ],
+               [ 20513401, 1 ]
+            ],
+            "rec_id" : 57,
+            "reward" : [
+               [ 20505543, 50 ],
+               [ 20501509, 7 ],
+               [ 20513401, 13 ],
+               [ 20301302, 1 ]
+            ],
+            "type" : 18
+         }
+      ],
+      "index" : 13,
+      "pageName" : "大奖欢乐兑",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell12",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，集齐兑换所需道具，即可兑换超值奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp41",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70042,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 2,
+            "rec_id" : 58,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 3,
+            "rec_id" : 59,
+            "reward" : [
+               [ 20503401, 20 ],
+               [ 20516401, 2 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 4,
+            "rec_id" : 60,
+            "reward" : [
+               [ 20503401, 40 ],
+               [ 20516401, 4 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 5,
+            "rec_id" : 61,
+            "reward" : [
+               [ 20503401, 80 ],
+               [ 20516401, 5 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 6,
+            "rec_id" : 62,
+            "reward" : [
+               [ 20503401, 120 ],
+               [ 20516401, 6 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 7,
+            "rec_id" : 63,
+            "reward" : [
+               [ 20503401, 240 ],
+               [ 20516401, 8 ]
+            ],
+            "type" : 22
+         }
+      ],
+      "index" : 4,
+      "pageName" : "魔翼进阶",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，魔翼进阶至指定阶，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp42",
+            "openMod" : [ "recharge" ]
+         },
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，魔翼进阶至指定阶，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp10",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70043,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 200,
+            "parm" : 1,
+            "processType" : 1,
+            "rec_id" : 64,
+            "reward" : [
+               [ 20513401, 2 ],
+               [ 20501305, 2 ],
+               [ 20701202, 4 ],
+               [ 20704401, 4 ],
+               [ 20402201, 2 ],
+               [ 21002401, 50 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 500,
+            "parm" : 2,
+            "processType" : 1,
+            "rec_id" : 65,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20501305, 3 ],
+               [ 20701202, 5 ],
+               [ 20704401, 5 ],
+               [ 20402201, 2 ],
+               [ 21002401, 100 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 3,
+            "processType" : 1,
+            "rec_id" : 66,
+            "reward" : [
+               [ 20503401, 4 ],
+               [ 20501305, 4 ],
+               [ 20701202, 6 ],
+               [ 20704401, 6 ],
+               [ 20402201, 2 ],
+               [ 21002401, 150 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1500,
+            "parm" : 4,
+            "processType" : 1,
+            "rec_id" : 67,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 6 ],
+               [ 20701202, 7 ],
+               [ 20704401, 7 ],
+               [ 20402201, 2 ],
+               [ 21002401, 200 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 2000,
+            "parm" : 5,
+            "processType" : 1,
+            "rec_id" : 68,
+            "reward" : [
+               [ 21505030, 2 ],
+               [ 20501305, 8 ],
+               [ 20701202, 8 ],
+               [ 20704401, 8 ],
+               [ 20402201, 2 ],
+               [ 21002401, 250 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 2500,
+            "parm" : 6,
+            "processType" : 1,
+            "rec_id" : 69,
+            "reward" : [
+               [ 21505040, 1 ],
+               [ 20501305, 10 ],
+               [ 20701202, 9 ],
+               [ 20704401, 9 ],
+               [ 20402201, 2 ],
+               [ 21002401, 300 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值<br>[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 3000,
+            "parm" : 7,
+            "processType" : 1,
+            "rec_id" : 70,
+            "reward" : [
+               [ 20503401, 10 ],
+               [ 20501305, 12 ],
+               [ 20701202, 9 ],
+               [ 20704401, 9 ],
+               [ 20402201, 2 ],
+               [ 21002401, 350 ]
+            ],
+            "type" : 13
+         }
+      ],
+      "index" : 12,
+      "pageName" : "累计登陆充值",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间累计登陆，充值钻石数量达到指定数值，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp37",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70044,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "参与战场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 2,
+            "rec_id" : 71,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 14
+         },
+         {
+            "cellText" : "参与竞技场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 72,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 20
+         },
+         {
+            "cellText" : "参与组队竞技[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 73,
+            "refresh" : 1,
+            "reward" : [
+               [ 20706401, 4 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "参与英雄之门[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 2,
+            "rec_id" : 74,
+            "refresh" : 1,
+            "reward" : [
+               [ 21001401, 50 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 15
+         },
+         {
+            "cellText" : "对世界BOSS<br>造成[0]%伤害",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 3,
+            "rec_id" : 75,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 1 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 16
+         },
+         {
+            "cellText" : "炼金[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 10,
+            "rec_id" : 76,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 1 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 7
+         },
+         {
+            "cellText" : "充值任意金额",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 1,
+            "rec_id" : 77,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20704401, 4 ],
+               [ 20516401, 2 ],
+               [ 20516001, 2 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "消费钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 165,
+            "num" : 1,
+            "rec_id" : 78,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20704401, 4 ],
+               [ 20516401, 2 ],
+               [ 20516001, 2 ]
+            ],
+            "type" : 17
+         }
+      ],
+      "index" : 9,
+      "pageName" : "每日挑战",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间,完成指定日常活动,即可获得丰厚奖励",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp38",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70045,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "index" : 14,
+      "pageName" : "荣耀竞技场",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "荣誉竞技获胜指定数量，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp33",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70046,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20513401, 10 ]
+            ],
+            "rec_id" : 79,
+            "reward" : [
+               [ 20513401, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20503401, 10 ]
+            ],
+            "rec_id" : 80,
+            "reward" : [
+               [ 20503401, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 21505020, 10 ]
+            ],
+            "rec_id" : 81,
+            "reward" : [
+               [ 21505020, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20402201, 5 ]
+            ],
+            "rec_id" : 82,
+            "reward" : [
+               [ 20402201, 8 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20301201, 9 ]
+            ],
+            "rec_id" : 83,
+            "reward" : [
+               [ 20301201, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20511301, 10 ]
+            ],
+            "rec_id" : 84,
+            "reward" : [
+               [ 20511301, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         },
+         {
+            "cellText" : "兑换次数: [0]",
+            "from_table" : "activity_detail",
+            "icon_location" : 80,
+            "num" : 1,
+            "parm" : [
+               [ 21009002, 3 ],
+               [ 20511401, 10 ]
+            ],
+            "rec_id" : 85,
+            "reward" : [
+               [ 20511401, 15 ],
+               [ 20505553, 30 ]
+            ],
+            "type" : 18
+         }
+      ],
+      "index" : 15,
+      "pageName" : "极品大兑换",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell12",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，集齐兑换所需道具，即可兑换超值奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp41",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70047,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 2,
+            "rec_id" : 86,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 3,
+            "rec_id" : 87,
+            "reward" : [
+               [ 20503401, 20 ],
+               [ 20516401, 2 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 4,
+            "rec_id" : 88,
+            "reward" : [
+               [ 20503401, 40 ],
+               [ 20516401, 4 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 5,
+            "rec_id" : 89,
+            "reward" : [
+               [ 20503401, 80 ],
+               [ 20516401, 5 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 6,
+            "rec_id" : 90,
+            "reward" : [
+               [ 20503401, 120 ],
+               [ 20516401, 6 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 7,
+            "rec_id" : 91,
+            "reward" : [
+               [ 20503401, 240 ],
+               [ 20516401, 8 ]
+            ],
+            "type" : 22
+         }
+      ],
+      "index" : 8,
+      "pageName" : "魔翼进阶",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，魔翼进阶至指定阶，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp10",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70136,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "from_table" : "activity_detail",
+            "rec_id" : 92
+         }
+      ],
+      "index" : 19,
+      "pageName" : "充值送大礼"
+   },
+   {
+      "act_id" : 70137,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 200,
+            "parm" : 1,
+            "processType" : 1,
+            "rec_id" : 93,
+            "reward" : [
+               [ 20513401, 2 ],
+               [ 20501305, 2 ],
+               [ 20701202, 4 ],
+               [ 20704401, 4 ],
+               [ 20402201, 2 ],
+               [ 21002401, 50 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 500,
+            "parm" : 2,
+            "processType" : 1,
+            "rec_id" : 94,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20501305, 3 ],
+               [ 20701202, 5 ],
+               [ 20704401, 5 ],
+               [ 20402201, 2 ],
+               [ 21002401, 100 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1000,
+            "parm" : 3,
+            "processType" : 1,
+            "rec_id" : 95,
+            "reward" : [
+               [ 20503401, 4 ],
+               [ 20501305, 4 ],
+               [ 20701202, 6 ],
+               [ 20704401, 6 ],
+               [ 20402201, 2 ],
+               [ 21002401, 150 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 1500,
+            "parm" : 4,
+            "processType" : 1,
+            "rec_id" : 96,
+            "reward" : [
+               [ 20503401, 5 ],
+               [ 20501305, 6 ],
+               [ 20701202, 7 ],
+               [ 20704401, 7 ],
+               [ 20402201, 2 ],
+               [ 21002401, 200 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 2000,
+            "parm" : 5,
+            "processType" : 1,
+            "rec_id" : 97,
+            "reward" : [
+               [ 21505030, 2 ],
+               [ 20501305, 8 ],
+               [ 20701202, 8 ],
+               [ 20704401, 8 ],
+               [ 20402201, 2 ],
+               [ 21002401, 250 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 2500,
+            "parm" : 6,
+            "processType" : 1,
+            "rec_id" : 98,
+            "reward" : [
+               [ 21505040, 1 ],
+               [ 20501305, 10 ],
+               [ 20701202, 9 ],
+               [ 20704401, 9 ],
+               [ 20402201, 2 ],
+               [ 21002401, 300 ]
+            ],
+            "type" : 13
+         },
+         {
+            "cellText" : "第[1]天充值[0]钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 114,
+            "num" : 3000,
+            "parm" : 7,
+            "processType" : 1,
+            "rec_id" : 99,
+            "reward" : [
+               [ 20503401, 10 ],
+               [ 20501305, 12 ],
+               [ 20701202, 9 ],
+               [ 20704401, 9 ],
+               [ 20402201, 2 ],
+               [ 21002401, 350 ]
+            ],
+            "type" : 13
+         }
+      ],
+      "index" : 18,
+      "pageName" : "累计登陆充值",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间累计登陆，充值钻石数量达到指定数值，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp37",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70138,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "参与战场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 2,
+            "rec_id" : 100,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 502803, 30000 ],
+               [ 501502, 30000 ]
+            ],
+            "type" : 14
+         },
+         {
+            "cellText" : "参与竞技场[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 10,
+            "rec_id" : 101,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 502803, 30000 ],
+               [ 501502, 30000 ]
+            ],
+            "type" : 20
+         },
+         {
+            "cellText" : "参与组队竞技[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 5,
+            "rec_id" : 102,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 502803, 60000 ],
+               [ 501502, 60000 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "参与英雄之门[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 2,
+            "rec_id" : 103,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 502803, 30000 ],
+               [ 501502, 30000 ]
+            ],
+            "type" : 15
+         },
+         {
+            "cellText" : "荣誉竞技场获胜[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 10,
+            "rec_id" : 104,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 3 ],
+               [ 20704401, 2 ],
+               [ 20701202, 2 ],
+               [ 20706401, 10 ]
+            ],
+            "type" : 1
+         },
+         {
+            "cellText" : "炼金[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 10,
+            "rec_id" : 105,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 1 ],
+               [ 502803, 60000 ],
+               [ 501502, 30000 ]
+            ],
+            "type" : 7
+         },
+         {
+            "cellText" : "充值任意金额",
+            "from_table" : "activity_detail",
+            "icon_location" : 105,
+            "num" : 1,
+            "rec_id" : 106,
+            "refresh" : 1,
+            "reward" : [
+               [ 20513401, 5 ],
+               [ 20701202, 4 ],
+               [ 20703301, 4 ],
+               [ 20704401, 4 ],
+               [ 20516401, 1 ],
+               [ 20516001, 1 ]
+            ],
+            "type" : 11
+         },
+         {
+            "cellText" : "消费钻石",
+            "from_table" : "activity_detail",
+            "icon_location" : 155,
+            "num" : 1,
+            "rec_id" : 107,
+            "refresh" : 1,
+            "reward" : [
+               [ 20701202, 2 ],
+               [ 20703301, 2 ],
+               [ 20704401, 2 ],
+               [ 20516401, 1 ]
+            ],
+            "type" : 17
+         }
+      ],
+      "index" : 19,
+      "pageName" : "日常挑战",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间,完成指定日常活动,即可获得丰厚奖励",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp38",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70139,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 1,
+            "rec_id" : 108,
+            "reward" : [
+               [ 501502, 50000 ],
+               [ 502903, 50000 ],
+               [ 20402201, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 2,
+            "rec_id" : 109,
+            "reward" : [
+               [ 501502, 70000 ],
+               [ 502903, 70000 ],
+               [ 20513401, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 3,
+            "rec_id" : 110,
+            "reward" : [
+               [ 501502, 100000 ],
+               [ 502903, 100000 ],
+               [ 20501305, 3 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 4,
+            "rec_id" : 111,
+            "reward" : [
+               [ 501502, 120000 ],
+               [ 502903, 120000 ],
+               [ 20503401, 2 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 5,
+            "rec_id" : 112,
+            "reward" : [
+               [ 501502, 150000 ],
+               [ 502903, 150000 ],
+               [ 21505030, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 6,
+            "rec_id" : 113,
+            "reward" : [
+               [ 501502, 180000 ],
+               [ 502903, 180000 ],
+               [ 20504402, 1 ]
+            ],
+            "type" : 12
+         },
+         {
+            "cellText" : "累计登陆[0]天",
+            "from_table" : "activity_detail",
+            "num" : 7,
+            "rec_id" : 114,
+            "reward" : [
+               [ 501502, 200000 ],
+               [ 502903, 200000 ],
+               [ 20516002, 1 ]
+            ],
+            "type" : 12
+         }
+      ],
+      "index" : 20,
+      "pageName" : "累计登陆",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间，登陆游戏即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp39",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70141,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "index" : 22,
+      "pageName" : "大奖欢乐兑"
+   },
+   {
+      "act_id" : 70142,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 2,
+            "rec_id" : 115,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 4,
+            "rec_id" : 116,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 22
+         },
+         {
+            "cellText" : "魔翼进阶至[0]阶",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 6,
+            "rec_id" : 117,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 22
+         }
+      ],
+      "index" : 23,
+      "pageName" : "魔翼进阶",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_ Type07",
+            "contentText" : "活动期间内，魔翼进阶至指定阶，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp10",
+            "openMod" : [ "recharge" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70143,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "独角兽[0]星",
+            "from_table" : "activity_detail",
+            "icon_location" : 120,
+            "num" : 3,
+            "parm" : 30101101,
+            "rec_id" : 118,
+            "reward" : [
+               [ 20513401, 10 ],
+               [ 503003, 50 ]
+            ],
+            "type" : 21
+         },
+         {
+            "cellText" : "独角兽[0]星",
+            "from_table" : "activity_detail",
+            "icon_location" : 120,
+            "num" : 5,
+            "parm" : 30101101,
+            "rec_id" : 119,
+            "reward" : [
+               [ 20513401, 20 ],
+               [ 503003, 500 ]
+            ],
+            "type" : 21
+         },
+         {
+            "cellText" : "塔布羊[0]星",
+            "from_table" : "activity_detail",
+            "icon_location" : 120,
+            "num" : 1,
+            "parm" : 30502306,
+            "rec_id" : 120,
+            "reward" : [
+               [ 20513401, 30 ],
+               [ 503003, 1000 ],
+               [ 501502, 500000 ],
+               [ 502803, 500000 ],
+               [ 502903, 500000 ]
+            ],
+            "type" : 21
+         },
+         {
+            "cellText" : "塔布羊[0]星",
+            "from_table" : "activity_detail",
+            "icon_location" : 120,
+            "num" : 5,
+            "parm" : 30502306,
+            "rec_id" : 121,
+            "reward" : [
+               [ 20513401, 60 ],
+               [ 503003, 2000 ],
+               [ 501502, 500000 ],
+               [ 502803, 500000 ],
+               [ 502903, 500000 ]
+            ],
+            "type" : 21
+         }
+      ],
+      "index" : 24,
+      "pageName" : "坐骑驯养",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_-Type15",
+            "contentText" : "坐骑驯养至指定星级，即可领取丰厚奖励。",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp11",
+            "openMod" : [ "GameMountMod" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70144,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "附魔[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 10,
+            "rec_id" : 122,
+            "refresh" : 1,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 23
+         },
+         {
+            "cellText" : "附魔[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 20,
+            "rec_id" : 123,
+            "refresh" : 1,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 23
+         },
+         {
+            "cellText" : "附魔[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 30,
+            "rec_id" : 124,
+            "refresh" : 1,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 23
+         }
+      ],
+      "index" : 25,
+      "pageName" : "每日附魔",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_jj",
+            "contentText" : "每日附魔",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp21",
+            "openMod" : [ "4|GameSmithy" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70145,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "符石熔炼[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 50,
+            "rec_id" : 125,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 24
+         },
+         {
+            "cellText" : "符石熔炼[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 500,
+            "rec_id" : 126,
+            "reward" : [
+               [ 20511301, 3 ],
+               [ 20511401, 1 ]
+            ],
+            "type" : 24
+         },
+         {
+            "cellText" : "符石熔炼[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 5000,
+            "rec_id" : 127,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 24
+         }
+      ],
+      "index" : 26,
+      "pageName" : "符石熔炼",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_jj",
+            "contentText" : "符石熔炼",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp22",
+            "openMod" : [ "RuneStoneSmelleMod" ]
+         }
+      ]
+   },
+   {
+      "act_id" : 70146,
+      "className" : "ui.panel.OperateActivatePanel1",
+      "detail" : [
+         {
+            "cellText" : "组队竞技获胜[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 10,
+            "rec_id" : 128,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "组队竞技获胜[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 20,
+            "rec_id" : 129,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "组队竞技获胜[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 30,
+            "rec_id" : 130,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 5
+         },
+         {
+            "cellText" : "组队竞技获胜[0]次",
+            "from_table" : "activity_detail",
+            "icon_location" : 220,
+            "num" : 50,
+            "rec_id" : 131,
+            "reward" : [
+               [ 20511301, 5 ],
+               [ 20511401, 2 ]
+            ],
+            "type" : 5
+         }
+      ],
+      "index" : 27,
+      "pageName" : "组队竞技",
+      "panel1" : [
+         {
+            "CellClass" : "ui.cell.OperateActivateCell11",
+            "btnNameUrl" : "png.operateActivate.kf_jj",
+            "contentText" : "组队竞技",
+            "from_table" : "panel1",
+            "imageBgUrl" : "jpg.operateActivate.kf_jp17",
+            "openMod" : [ "ArenaTeamSearch" ]
+         }
+      ]
+   }
+]

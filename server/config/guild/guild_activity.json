@@ -1,0 +1,50 @@
+[
+   {
+      "action" : 1,
+      "activity" : "dakai gonghuijineng",
+      "explainStr" : "公会专属技能",
+      "icon" : "png.guild.skill",
+      "level" : 1,
+      "nameIcon" : "png.guild.gonghuijineng"
+   },
+   {
+      "action" : 3,
+      "activity" : "jinru gonghuibosschangjing",
+      "explainStr" : "查看公会专有BOSS",
+      "icon" : "png.guild.boss",
+      "level" : 99,
+      "nameIcon" : "png.guild.gonghuiboss"
+   },
+   {
+      "action" : 4,
+      "activity" : "jinru gonghuizhanchangjing",
+      "explainStr" : "无",
+      "icon" : "png.guild.war",
+      "level" : 1,
+      "nameIcon" : "png.guild.gonghuizhan"
+   },
+   {
+      "action" : 5,
+      "activity" : "jinru gonghuimijingchangjing",
+      "explainStr" : "公会专属领地",
+      "icon" : "png.guild.manor",
+      "level" : 1,
+      "nameIcon" : "png.guild.gonghuilingdi"
+   },
+   {
+      "action" : 6,
+      "activity" : "dakai gonghuichoujiang",
+      "explainStr" : "公会祭坛抽奖",
+      "icon" : "png.guild.altar",
+      "level" : 1,
+      "nameIcon" : "png.guild.gonghuijitan"
+   },
+   {
+      "action" : 2,
+      "activity" : "dakai gonghuishangdian",
+      "explainStr" : "稀有物品公会专卖",
+      "icon" : "png.guild.shop",
+      "level" : 1,
+      "nameIcon" : "png.guild.gonghuishangdian"
+   }
+]

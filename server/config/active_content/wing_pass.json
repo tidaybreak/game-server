@@ -1,0 +1,26 @@
+[
+   {
+      "id" : 1,
+      "level" : 4,
+      "reward" : [
+         {
+            "from_table" : "wing_pass_reward",
+            "item_id" : 20505543,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_pass_reward",
+            "item_id" : 20503401,
+            "num" : 40,
+            "type" : 1
+         },
+         {
+            "from_table" : "wing_pass_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   }
+]

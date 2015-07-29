@@ -1,0 +1,876 @@
+[
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 1</font> 可采集 初级白水晶<br>进阶后</font>可采集高等级晶石",
+      "effect_des" : "可在远征场景中采集晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1000,
+      "effect_name" : "晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 2</font> 可采集 初级红水晶<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102 ],
+      "effect_des" : "可采集:<br>初级白水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1001,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 4</font> 可采集 初级蓝晶石<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1002,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 4</font> 可采集 初级蓝晶石<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1003,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 6</font> 可采集 初级翠榴石<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1004,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 6</font> 可采集 初级翠榴石<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1005,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 8</font> 可采集 初级紫黄晶<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石<br>初级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1006,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 8</font> 可采集 初级紫黄晶<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石<br>初级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1007,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 10</font> 可采集 初级琥珀<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石<br>初级翠榴石<br>初级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1008,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "初级 <font color='#ff7900'>Lv. 10</font> 可采集 初级琥珀<br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石<br>初级翠榴石<br>初级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1009,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "进阶后可采集高等级晶石",
+      "effect_content" : [ 28001101, 28001102, 28002101, 28002102, 28003101, 28003102 ],
+      "effect_des" : "可采集:<br>初级白水晶<br>初级红水晶<br>初级蓝晶石<br>初级翠榴石<br>初级紫黄晶<br>初级琥珀",
+      "effect_icon" : 10001,
+      "effect_id" : 1010,
+      "effect_name" : "初级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 2</font> 可采集 <font color='#00f700'>中级红水晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202 ],
+      "effect_des" : "可采集:<br>中级白水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1101,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#00f700'>中级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1102,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#00f700'>中级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1103,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#00f700'>中级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1104,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#00f700'>中级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1105,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#00f700'>中级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石<br>中级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1106,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#00f700'>中级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石<br>中级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1107,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#00f700'>中级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石<br>中级翠榴石<br>中级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1108,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "中级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#00f700'>中级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石<br>中级翠榴石<br>中级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1109,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "进阶后可采集高等级晶石",
+      "effect_content" : [ 28001201, 28001202, 28002201, 28002202, 28003201, 28003202 ],
+      "effect_des" : "可采集:<br>中级白水晶<br>中级红水晶<br>中级蓝晶石<br>中级翠榴石<br>中级紫黄晶<br>中级琥珀",
+      "effect_icon" : 10001,
+      "effect_id" : 1110,
+      "effect_name" : "中级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 2</font> 可采集 <font color='#1a98ff'>高级红水晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302 ],
+      "effect_des" : "可采集:<br>高级白水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1201,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#1a98ff'>高级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1202,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#1a98ff'>高级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1203,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#1a98ff'>高级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1204,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#1a98ff'>高级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1205,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#1a98ff'>高级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石<br>高级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1206,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#1a98ff'>高级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石<br>高级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1207,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#1a98ff'>高级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石<br>高级翠榴石<br>高级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1208,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "高级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#1a98ff'>高级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石<br>高级翠榴石<br>高级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1209,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "进阶后可采集高等级晶石",
+      "effect_content" : [ 28001301, 28001302, 28002301, 28002302, 28003301, 28003302 ],
+      "effect_des" : "可采集:<br>高级白水晶<br>高级红水晶<br>高级蓝晶石<br>高级翠榴石<br>高级紫黄晶<br>高级琥珀",
+      "effect_icon" : 10001,
+      "effect_id" : 1210,
+      "effect_name" : "高级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 2</font> 可采集 <font color='#b200ff'>特级红水晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402 ],
+      "effect_des" : "可采集:<br>特级白水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1301,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#b200ff'>特级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1302,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#b200ff'>特级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1303,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#b200ff'>特级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1304,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#b200ff'>特级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1305,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#b200ff'>特级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石<br>特级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1306,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#b200ff'>特级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石<br>特级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1307,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#b200ff'>特级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石<br>特级翠榴石<br>特级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1308,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "特级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#b200ff'>特级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石<br>特级翠榴石<br>特级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1309,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "进阶后可采集高等级晶石",
+      "effect_content" : [ 28001401, 28001402, 28002401, 28002402, 28003401, 28003402 ],
+      "effect_des" : "可采集:<br>特级白水晶<br>特级红水晶<br>特级蓝晶石<br>特级翠榴石<br>特级紫黄晶<br>特级琥珀",
+      "effect_icon" : 10001,
+      "effect_id" : 1310,
+      "effect_name" : "特级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 2</font> 可采集 <font color='#ffea00'>顶级红水晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502 ],
+      "effect_des" : "可采集:<br>顶级白水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1401,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#ffea00'>顶级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1402,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 4</font> 可采集 <font color='#ffea00'>顶级蓝晶石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1403,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#ffea00'>顶级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1404,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 6</font> 可采集 <font color='#ffea00'>顶级翠榴石</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石",
+      "effect_icon" : 10001,
+      "effect_id" : 1405,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#ffea00'>顶级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石<br>顶级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1406,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 8</font> 可采集 <font color='#ffea00'>顶级紫黄晶</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石<br>顶级翠榴石",
+      "effect_icon" : 10001,
+      "effect_id" : 1407,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#ffea00'>顶级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石<br>顶级翠榴石<br>顶级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1408,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "顶级 <font color='#ff7900'>Lv. 10</font> 可采集 <font color='#ffea00'>顶级琥珀</font><br>进阶后</font>可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石<br>顶级翠榴石<br>顶级紫黄晶",
+      "effect_icon" : 10001,
+      "effect_id" : 1409,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "add_desc" : "进阶后可采集高等级晶石",
+      "effect_content" : [ 28001501, 28001502, 28002501, 28002502, 28003501, 28003502 ],
+      "effect_des" : "可采集:<br>顶级白水晶<br>顶级红水晶<br>顶级蓝晶石<br>顶级翠榴石<br>顶级紫黄晶<br>顶级琥珀",
+      "effect_icon" : 10001,
+      "effect_id" : 1410,
+      "effect_name" : "顶级晶石采集",
+      "effect_type" : 1,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可在远征场景中击杀怪物掠夺晶石",
+      "effect_icon" : 10005,
+      "effect_id" : 2000,
+      "effect_name" : "晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_content" : 1,
+      "effect_des" : "提高击杀怪物掠夺晶石概率",
+      "effect_icon" : 10005,
+      "effect_id" : 2001,
+      "effect_name" : "初级晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_content" : 2,
+      "effect_des" : "提高击杀怪物掠夺晶石概率",
+      "effect_icon" : 10005,
+      "effect_id" : 2101,
+      "effect_name" : "中级晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_content" : 3,
+      "effect_des" : "提高击杀怪物掠夺晶石概率",
+      "effect_icon" : 10005,
+      "effect_id" : 2201,
+      "effect_name" : "高级晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_content" : 4,
+      "effect_des" : "提高击杀怪物掠夺晶石概率",
+      "effect_icon" : 10005,
+      "effect_id" : 2301,
+      "effect_name" : "特级晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_content" : 5,
+      "effect_des" : "提高击杀怪物掠夺晶石概率",
+      "effect_icon" : 10005,
+      "effect_id" : 2401,
+      "effect_name" : "顶级晶石掠夺",
+      "effect_type" : 2,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼晶石提升晶石品质",
+      "effect_icon" : 10004,
+      "effect_id" : 3000,
+      "effect_name" : "晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼初级晶石",
+      "effect_icon" : 10004,
+      "effect_id" : 3001,
+      "effect_name" : "初级晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼中级晶石",
+      "effect_icon" : 10004,
+      "effect_id" : 3101,
+      "effect_name" : "中级晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼高级晶石",
+      "effect_icon" : 10004,
+      "effect_id" : 3201,
+      "effect_name" : "高级晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼特级晶石",
+      "effect_icon" : 10004,
+      "effect_id" : 3301,
+      "effect_name" : "特级晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "可精炼特殊晶石产物",
+      "effect_icon" : 10004,
+      "effect_id" : 3401,
+      "effect_name" : "顶级晶石精炼",
+      "effect_type" : 3,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4000,
+      "effect_name" : "卡牌大师",
+      "effect_type" : 4,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作白色装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4001,
+      "effect_name" : "初级卡牌大师",
+      "effect_type" : 4,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作绿色装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4101,
+      "effect_name" : "中级卡牌大师",
+      "effect_type" : 5,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作蓝色装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4201,
+      "effect_name" : "高级卡牌大师",
+      "effect_type" : 6,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作紫色装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4301,
+      "effect_name" : "特级卡牌大师",
+      "effect_type" : 7,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "使用晶石制作金色装备卡牌",
+      "effect_icon" : 10002,
+      "effect_id" : 4401,
+      "effect_name" : "顶级卡牌大师",
+      "effect_type" : 8,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "白色帽子卡牌",
+      "effect_icon" : "mini1",
+      "effect_id" : 5001,
+      "effect_name" : "白色帽子卡牌",
+      "effect_type" : 5,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "绿色帽子卡牌",
+      "effect_icon" : "mini2",
+      "effect_id" : 5101,
+      "effect_name" : "绿色帽子卡牌",
+      "effect_type" : 5,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "蓝色帽子卡牌",
+      "effect_icon" : "mini3",
+      "effect_id" : 5201,
+      "effect_name" : "蓝色帽子卡牌",
+      "effect_type" : 5,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "紫色帽子卡牌",
+      "effect_icon" : "mini4",
+      "effect_id" : 5301,
+      "effect_name" : "紫色帽子卡牌",
+      "effect_type" : 5,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "金色帽子卡牌",
+      "effect_icon" : "mini5",
+      "effect_id" : 5401,
+      "effect_name" : "金色帽子卡牌",
+      "effect_type" : 5,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "白色衣服卡牌",
+      "effect_icon" : "mini1",
+      "effect_id" : 6001,
+      "effect_name" : "白色衣服卡牌",
+      "effect_type" : 6,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "绿色衣服卡牌",
+      "effect_icon" : "mini2",
+      "effect_id" : 6101,
+      "effect_name" : "绿色衣服卡牌",
+      "effect_type" : 6,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "蓝色衣服卡牌",
+      "effect_icon" : "mini3",
+      "effect_id" : 6201,
+      "effect_name" : "蓝色衣服卡牌",
+      "effect_type" : 6,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "紫色衣服卡牌",
+      "effect_icon" : "mini4",
+      "effect_id" : 6301,
+      "effect_name" : "紫色衣服卡牌",
+      "effect_type" : 6,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "金色衣服卡牌",
+      "effect_icon" : "mini5",
+      "effect_id" : 6401,
+      "effect_name" : "金色衣服卡牌",
+      "effect_type" : 6,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "白色鞋子卡牌",
+      "effect_icon" : "mini1",
+      "effect_id" : 7001,
+      "effect_name" : "白色鞋子卡牌",
+      "effect_type" : 7,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "绿色鞋子卡牌",
+      "effect_icon" : "mini2",
+      "effect_id" : 7101,
+      "effect_name" : "绿色鞋子卡牌",
+      "effect_type" : 7,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "蓝色鞋子卡牌",
+      "effect_icon" : "mini3",
+      "effect_id" : 7201,
+      "effect_name" : "蓝色鞋子卡牌",
+      "effect_type" : 7,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "紫色鞋子卡牌",
+      "effect_icon" : "mini4",
+      "effect_id" : 7301,
+      "effect_name" : "紫色鞋子卡牌",
+      "effect_type" : 7,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "金色鞋子卡牌",
+      "effect_icon" : "mini5",
+      "effect_id" : 7401,
+      "effect_name" : "金色鞋子卡牌",
+      "effect_type" : 7,
+      "iconType" : 2
+   },
+   {
+      "effect_des" : "使用晶石制作各类道具和神秘坐骑",
+      "effect_icon" : 10003,
+      "effect_id" : 8000,
+      "effect_name" : "熔炼大师",
+      "effect_type" : 8,
+      "iconType" : 1
+   },
+   {
+      "effect_des" : "初级图纸熔炼",
+      "effect_icon" : 21710301,
+      "effect_id" : 8001,
+      "effect_name" : "初级图纸熔炼",
+      "effect_type" : 8,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "中级图纸熔炼",
+      "effect_icon" : 21710402,
+      "effect_id" : 8101,
+      "effect_name" : "中级图纸熔炼",
+      "effect_type" : 8,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "高级图纸熔炼",
+      "effect_icon" : 21710403,
+      "effect_id" : 8201,
+      "effect_name" : "高级图纸熔炼",
+      "effect_type" : 8,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "特级图纸熔炼",
+      "effect_icon" : 21710504,
+      "effect_id" : 8301,
+      "effect_name" : "特级图纸熔炼",
+      "effect_type" : 8,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "顶级图纸熔炼",
+      "effect_icon" : 21710505,
+      "effect_id" : 8401,
+      "effect_name" : "顶级图纸熔炼",
+      "effect_type" : 8,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "初级道具熔炼",
+      "effect_icon" : 21710403,
+      "effect_id" : 8002,
+      "effect_name" : "初级道具熔炼",
+      "effect_type" : 9,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "中级道具熔炼",
+      "effect_icon" : 21710403,
+      "effect_id" : 8102,
+      "effect_name" : "中级道具熔炼",
+      "effect_type" : 9,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "高级道具熔炼",
+      "effect_icon" : 20515402,
+      "effect_id" : 8202,
+      "effect_name" : "高级道具熔炼",
+      "effect_type" : 9,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "特级道具熔炼",
+      "effect_icon" : 21710403,
+      "effect_id" : 8302,
+      "effect_name" : "特级道具熔炼",
+      "effect_type" : 9,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "顶级道具熔炼",
+      "effect_icon" : 21710403,
+      "effect_id" : 8402,
+      "effect_name" : "顶级道具熔炼",
+      "effect_type" : 9,
+      "iconType" : 3
+   },
+   {
+      "effect_des" : "极品坐骑熔炼",
+      "effect_icon" : 21204401,
+      "effect_id" : 8403,
+      "effect_name" : "极品坐骑熔炼",
+      "effect_type" : 10,
+      "iconType" : 3
+   }
+]

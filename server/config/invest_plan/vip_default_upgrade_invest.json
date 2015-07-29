@@ -1,0 +1,10 @@
+[
+   {
+      "default_invest" : 500,
+      "vip_level" : 0
+   },
+   {
+      "default_invest" : 5000,
+      "vip_level" : 3
+   }
+]

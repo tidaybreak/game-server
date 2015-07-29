@@ -1,0 +1,116 @@
+[
+   {
+      "id" : 1,
+      "level" : 3,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 200000,
+            "type" : 2
+         }
+      ],
+      "type" : 2
+   },
+   {
+      "id" : 2,
+      "level" : 4,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 400000,
+            "type" : 2
+         }
+      ],
+      "type" : 2
+   },
+   {
+      "id" : 3,
+      "level" : 5,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 600000,
+            "type" : 2
+         }
+      ],
+      "type" : 2
+   },
+   {
+      "id" : 4,
+      "level" : 3,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 502903,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 21503040,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1
+   },
+   {
+      "id" : 5,
+      "level" : 4,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 1500000,
+            "type" : 2
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 20904512,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 21505040,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1
+   },
+   {
+      "id" : 6,
+      "level" : 5,
+      "reward" : [
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 501502,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 20505543,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "guild_level_reward",
+            "item_id" : 21505050,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1
+   }
+]

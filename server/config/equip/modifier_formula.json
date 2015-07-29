@@ -1,0 +1,26 @@
+[
+   {
+      "enchant_num" : [ 0, 4 ],
+      "ratio" : 1
+   },
+   {
+      "enchant_num" : [ 5, 9 ],
+      "ratio" : 1
+   },
+   {
+      "enchant_num" : [ 10, 14 ],
+      "ratio" : 2
+   },
+   {
+      "enchant_num" : [ 15, 19 ],
+      "ratio" : 3
+   },
+   {
+      "enchant_num" : [ 20, 29 ],
+      "ratio" : 4
+   },
+   {
+      "enchant_num" : [ 30, 999999 ],
+      "ratio" : 5
+   }
+]

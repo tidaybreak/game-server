@@ -1,0 +1,376 @@
+[
+   {
+      "id" : 1011,
+      "name" : "将等级提升至10级",
+      "num" : 10,
+      "perfectPoint" : 10,
+      "type" : 1
+   },
+   {
+      "id" : 1012,
+      "name" : "将等级提升至15级",
+      "num" : 15,
+      "perfectPoint" : 10,
+      "type" : 1
+   },
+   {
+      "id" : 1021,
+      "name" : "<a href='event:1|GameHero'><u>任意一个英雄觉醒到蓝色</u></a>",
+      "num" : 2,
+      "perfectPoint" : 8,
+      "type" : 29
+   },
+   {
+      "cond_ext" : 2,
+      "id" : 1022,
+      "name" : "<a href='event:1|GameSmithy|1'><u>主角/英雄1颗宝石达到2级</u></a>",
+      "num" : 1,
+      "perfectPoint" : 8,
+      "type" : 5
+   },
+   {
+      "cond_ext" : 9,
+      "id" : 1032,
+      "name" : "<a href='event:1|GameSmithy'><u>任意一个部位强化到9级</u></a>",
+      "num" : 9,
+      "perfectPoint" : 8,
+      "type" : 6
+   },
+   {
+      "id" : 1031,
+      "name" : "<a href='event:1|GameCopy'><u>击杀50只怪物</u></a>",
+      "num" : 50,
+      "perfectPoint" : 8,
+      "type" : 20
+   },
+   {
+      "id" : 1041,
+      "name" : "<a href='event:1|Guild'><u>获得10点公会贡献</u></a>",
+      "num" : 10,
+      "perfectPoint" : 8,
+      "type" : 10
+   },
+   {
+      "id" : 2011,
+      "name" : "将等级提升至20级",
+      "num" : 20,
+      "perfectPoint" : 10,
+      "type" : 1
+   },
+   {
+      "id" : 2012,
+      "name" : "将等级提升至25级",
+      "num" : 25,
+      "perfectPoint" : 10,
+      "type" : 1
+   },
+   {
+      "id" : 2021,
+      "name" : "<a href='event:1|Guild'><u>获得200点公会贡献</u></a>",
+      "num" : 200,
+      "perfectPoint" : 8,
+      "type" : 10
+   },
+   {
+      "id" : 2022,
+      "name" : "<a href='event:1|GameCopy'><u>击杀100只怪物</u></a>",
+      "num" : 100,
+      "perfectPoint" : 8,
+      "type" : 20
+   },
+   {
+      "id" : 2031,
+      "name" : "<a href='event:1|GameHero'><u>任意一个英雄觉醒到紫色</u></a>",
+      "num" : 3,
+      "perfectPoint" : 8,
+      "type" : 29
+   },
+   {
+      "cond_ext" : 2,
+      "id" : 2032,
+      "name" : "<a href='event:1|GameSmithy|1'><u>主角/英雄4颗宝石达到2级</u></a>",
+      "num" : 4,
+      "perfectPoint" : 8,
+      "type" : 5
+   },
+   {
+      "cond_ext" : 4,
+      "id" : 2041,
+      "name" : "<a href='event:1|GameExchangeMod'><u>主角/英雄装备12件紫装</u></a>",
+      "num" : 12,
+      "perfectPoint" : 8,
+      "type" : 42
+   },
+   {
+      "id" : 3011,
+      "name" : "等级达到30级",
+      "num" : 30,
+      "perfectPoint" : 7,
+      "type" : 1
+   },
+   {
+      "id" : 3012,
+      "name" : "等级达到35级",
+      "num" : 35,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "cond_ext" : 35,
+      "id" : 3021,
+      "name" : "<a href='event:1|CopyTeamSearch'><u>通关35级组队副本</u></a>",
+      "num" : 1,
+      "perfectPoint" : 7,
+      "type" : 22
+   },
+   {
+      "id" : 3022,
+      "name" : "<a href='event:1|Guild'><u>获得2000点公会贡献</u></a>",
+      "num" : 2000,
+      "perfectPoint" : 8,
+      "type" : 10
+   },
+   {
+      "cond_ext" : 3,
+      "id" : 3031,
+      "name" : "<a href='event:1|GameHero'><u>拥有两个紫色英雄</u></a>",
+      "num" : 2,
+      "perfectPoint" : 7,
+      "type" : 44
+   },
+   {
+      "cond_ext" : 3,
+      "id" : 3032,
+      "name" : "<a href='event:1|GameSmithy|1'><u>主角/英雄4颗宝石达到3级</u></a>",
+      "num" : 4,
+      "perfectPoint" : 8,
+      "type" : 5
+   },
+   {
+      "id" : 3041,
+      "name" : "<a href='event:1|BattlefieldEntranceMod'><u>在战场的光明阵营胜利4场</u></a>",
+      "num" : 4,
+      "perfectPoint" : 7,
+      "type" : 35
+   },
+   {
+      "id" : 3042,
+      "name" : "<a href='event:1|GameArenaNew'><u>竞技场达到白银一段</u></a>",
+      "num" : 21,
+      "perfectPoint" : 8,
+      "type" : 43
+   },
+   {
+      "id" : 4011,
+      "name" : "等级达到40级",
+      "num" : 40,
+      "perfectPoint" : 7,
+      "type" : 1
+   },
+   {
+      "id" : 4012,
+      "name" : "等级达到45级",
+      "num" : 45,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "cond_ext" : 4,
+      "id" : 4021,
+      "name" : "<a href='event:1|GameSmithy|1'><u>主角/英雄1颗宝石达到4级</u></a>",
+      "num" : 1,
+      "perfectPoint" : 10,
+      "type" : 5
+   },
+   {
+      "id" : 4022,
+      "name" : "总战斗力达到35000",
+      "num" : 35000,
+      "perfectPoint" : 8,
+      "type" : 9
+   },
+   {
+      "cond_ext" : 3,
+      "id" : 4031,
+      "name" : "<a href='event:1|GameHero'><u>任拥有3个紫色英雄</u></a>",
+      "num" : 3,
+      "perfectPoint" : 7,
+      "type" : 44
+   },
+   {
+      "id" : 4041,
+      "name" : "<a href='event:1|GameArenaNew'><u>竞技场达到黄金一段</u></a>",
+      "num" : 31,
+      "perfectPoint" : 10,
+      "type" : 43
+   },
+   {
+      "id" : 4042,
+      "name" : "<a href='event:1|Guild'><u>获得5000点公会贡献</u></a>",
+      "num" : 5000,
+      "perfectPoint" : 10,
+      "type" : 10
+   },
+   {
+      "id" : 5011,
+      "name" : "等级达到50级",
+      "num" : 50,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "id" : 5012,
+      "name" : "等级达到55级",
+      "num" : 55,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "id" : 5021,
+      "name" : "<a href='event:1|GameCopy'><u>击杀10000只怪物</u></a>",
+      "num" : 10000,
+      "perfectPoint" : 10,
+      "type" : 20
+   },
+   {
+      "id" : 5022,
+      "name" : "总战斗力达到80000",
+      "num" : 80000,
+      "perfectPoint" : 8,
+      "type" : 9
+   },
+   {
+      "cond_ext" : 3,
+      "id" : 5031,
+      "name" : "<a href='event:1|GameHero'><u>任拥有5个紫色英雄</u></a>",
+      "num" : 5,
+      "perfectPoint" : 8,
+      "type" : 44
+   },
+   {
+      "cond_ext" : 21,
+      "id" : 5041,
+      "name" : "<a href='event:1|GameSmithy'><u>任意一个部位强化到21级</u></a>",
+      "num" : 21,
+      "perfectPoint" : 8,
+      "type" : 6
+   },
+   {
+      "id" : 5042,
+      "name" : "<a href='event:1|GameArenaNew'><u>竞技场达到至尊一段</u></a>",
+      "num" : 51,
+      "perfectPoint" : 10,
+      "type" : 43
+   },
+   {
+      "id" : 6011,
+      "name" : "等级达到60级",
+      "num" : 60,
+      "perfectPoint" : 7,
+      "type" : 1
+   },
+   {
+      "id" : 6012,
+      "name" : "等级达到65级",
+      "num" : 65,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "id" : 6021,
+      "name" : "<a href='event:1|GameCopy'><u>击杀20000只怪物</u></a>",
+      "num" : 20000,
+      "perfectPoint" : 7,
+      "type" : 20
+   },
+   {
+      "id" : 6022,
+      "name" : "总战斗力达到120000",
+      "num" : 120000,
+      "perfectPoint" : 8,
+      "type" : 9
+   },
+   {
+      "cond_ext" : 3,
+      "id" : 6031,
+      "name" : "<a href='event:1|GameHero'><u>任拥有7个紫色英雄</u></a>",
+      "num" : 7,
+      "perfectPoint" : 7,
+      "type" : 44
+   },
+   {
+      "cond_ext" : 4,
+      "id" : 6032,
+      "name" : "<a href='event:1|GameHero'><u>任拥有4个金色英雄</u></a>",
+      "num" : 4,
+      "perfectPoint" : 8,
+      "type" : 44
+   },
+   {
+      "cond_ext" : 30,
+      "id" : 6041,
+      "name" : "<a href='event:1|GameSmithy'><u>任意一个部位强化到30级</u></a>",
+      "num" : 30,
+      "perfectPoint" : 7,
+      "type" : 6
+   },
+   {
+      "id" : 6042,
+      "name" : "<a href='event:1|RuneStoneMod'><u>装备1个6级符石</u></a>",
+      "num" : 6,
+      "perfectPoint" : 8,
+      "type" : 41
+   },
+   {
+      "id" : 7011,
+      "name" : "等级达到70级",
+      "num" : 70,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "id" : 7012,
+      "name" : "等级达到75级",
+      "num" : 75,
+      "perfectPoint" : 8,
+      "type" : 1
+   },
+   {
+      "id" : 7021,
+      "name" : "<a href='event:1|GameCopy'><u>击杀50000只怪物</u></a>",
+      "num" : 50000,
+      "perfectPoint" : 8,
+      "type" : 20
+   },
+   {
+      "id" : 7022,
+      "name" : "总战斗力达到150000",
+      "num" : 150000,
+      "perfectPoint" : 8,
+      "type" : 9
+   },
+   {
+      "cond_ext" : 4,
+      "id" : 7031,
+      "name" : "<a href='event:1|GameHero'><u>任拥有5个金色英雄</u></a>",
+      "num" : 5,
+      "perfectPoint" : 8,
+      "type" : 44
+   },
+   {
+      "cond_ext" : 5,
+      "id" : 7041,
+      "name" : "<a href='event:1|GameExchangeMod'><u>主角/英雄装备2件金装</u></a>",
+      "num" : 2,
+      "perfectPoint" : 10,
+      "type" : 42
+   },
+   {
+      "cond_ext" : 5,
+      "id" : 7042,
+      "name" : "<a href='event:1|GameSmithy|1'><u>主角/英雄2颗宝石达到5级</u></a>",
+      "num" : 2,
+      "perfectPoint" : 10,
+      "type" : 5
+   }
+]

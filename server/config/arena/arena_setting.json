@@ -1,0 +1,23 @@
+[
+   {
+      "arena_open_lv" : 15,
+      "athletics_buy_limit" : 10,
+      "athletics_buy_limit_vip_lv" : 1,
+      "athletics_cost_increase" : 0,
+      "athletics_initial_cost" : 40,
+      "athletics_number" : 10,
+      "bronze_refer_force" : 8000,
+      "cd" : 180,
+      "fight_map_id" : 80208001,
+      "mail_content" : "竞技场排名奖励\r本次排名 第%d名\r获得奖励:\r",
+      "mail_sender" : "竞技场",
+      "mail_title" : "竞技场排名奖励",
+      "min_cd" : 720,
+      "refresh_match_cost" : 25,
+      "refresh_match_time" : 300,
+      "reset_cd_cost" : 8,
+      "text_copper" : "金币",
+      "text_exploit" : "功勋",
+      "text_soul" : "英灵"
+   }
+]

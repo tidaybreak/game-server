@@ -1,0 +1,266 @@
+[
+   {
+      "act_id" : 20020,
+      "id" : 1,
+      "num" : 5,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 50000,
+            "type" : 2
+         }
+      ]
+   },
+   {
+      "act_id" : 20020,
+      "id" : 2,
+      "num" : 10,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20020,
+      "id" : 3,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20020,
+      "id" : 4,
+      "num" : 30,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20032,
+      "id" : 5,
+      "num" : 5,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 50000,
+            "type" : 2
+         }
+      ]
+   },
+   {
+      "act_id" : 20032,
+      "id" : 6,
+      "num" : 10,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20032,
+      "id" : 7,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20032,
+      "id" : 8,
+      "num" : 30,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20035,
+      "id" : 9,
+      "num" : 5,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 50000,
+            "type" : 2
+         }
+      ]
+   },
+   {
+      "act_id" : 20035,
+      "id" : 10,
+      "num" : 10,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20035,
+      "id" : 11,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20035,
+      "id" : 12,
+      "num" : 30,
+      "reward" : [
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20801501,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "reward_task_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   }
+]

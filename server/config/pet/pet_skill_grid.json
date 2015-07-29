@@ -1,0 +1,42 @@
+[
+   {
+      "grid_num" : 3,
+      "stage" : 1
+   },
+   {
+      "grid_num" : 3,
+      "stage" : 2
+   },
+   {
+      "grid_num" : 4,
+      "stage" : 3
+   },
+   {
+      "grid_num" : 5,
+      "stage" : 4
+   },
+   {
+      "grid_num" : 6,
+      "stage" : 5
+   },
+   {
+      "grid_num" : 8,
+      "stage" : 6
+   },
+   {
+      "grid_num" : 10,
+      "stage" : 7
+   },
+   {
+      "grid_num" : 12,
+      "stage" : 8
+   },
+   {
+      "grid_num" : 14,
+      "stage" : 9
+   },
+   {
+      "grid_num" : 16,
+      "stage" : 10
+   }
+]

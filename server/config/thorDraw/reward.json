@@ -1,0 +1,1523 @@
+[
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 4000,
+      "id" : 21203101,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 1,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001701,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001705,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002702,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002703,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000707,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000710,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50003306,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001607,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001605,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001307,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001901,
+      "num" : 1,
+      "order" : 4,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 1,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 1,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 1,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20504402,
+      "num" : 1,
+      "order" : 8,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511301,
+      "num" : 2,
+      "order" : 9,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511401,
+      "num" : 1,
+      "order" : 10,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20513401,
+      "num" : 2,
+      "order" : 11,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20505543,
+      "num" : 20,
+      "order" : 12,
+      "season_id" : 1,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 4000,
+      "id" : 21203101,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 1,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001701,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001705,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002702,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002703,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000707,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000710,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50003306,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001607,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001605,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001307,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001901,
+      "num" : 1,
+      "order" : 4,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 2,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 2,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 2,
+      "weight" : 2
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20504402,
+      "num" : 1,
+      "order" : 8,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511301,
+      "num" : 2,
+      "order" : 9,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511401,
+      "num" : 1,
+      "order" : 10,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20513401,
+      "num" : 2,
+      "order" : 11,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20505553,
+      "num" : 20,
+      "order" : 12,
+      "season_id" : 2,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 4000,
+      "id" : 21203101,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 1,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001701,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50001705,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002702,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50002703,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000707,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "exchange_cost" : 500,
+      "id" : 50000710,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 2,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50003306,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001607,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001605,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001307,
+      "num" : 1,
+      "order" : 3,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 50001901,
+      "num" : 1,
+      "order" : 4,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507010,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507020,
+      "num" : 1,
+      "order" : 5,
+      "season_id" : 3,
+      "weight" : 200
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507030,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 40
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507040,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 6,
+      "season_id" : 3,
+      "weight" : 10
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507050,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 5
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21505060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21501060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21502060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21503060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21504060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21506060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 21507060,
+      "is_broad" : 1,
+      "num" : 1,
+      "order" : 7,
+      "season_id" : 3,
+      "weight" : 3
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20504402,
+      "num" : 1,
+      "order" : 8,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511301,
+      "num" : 2,
+      "order" : 9,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20511401,
+      "num" : 1,
+      "order" : 10,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20513401,
+      "num" : 2,
+      "order" : 11,
+      "season_id" : 3,
+      "weight" : 100
+   },
+   {
+      "bind_state" : 1,
+      "id" : 20505563,
+      "num" : 20,
+      "order" : 12,
+      "season_id" : 3,
+      "weight" : 100
+   }
+]

@@ -1,0 +1,52 @@
+[
+   {
+      "base_prop_factor" : 0.10,
+      "enchant_star" : 1,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 0.20,
+      "enchant_star" : 2,
+      "race_prop_factor" : 2
+   },
+   {
+      "base_prop_factor" : 0.30,
+      "enchant_star" : 3,
+      "race_prop_factor" : 3
+   },
+   {
+      "base_prop_factor" : 0.40,
+      "enchant_star" : 4,
+      "race_prop_factor" : 4
+   },
+   {
+      "base_prop_factor" : 0.50,
+      "enchant_star" : 5,
+      "race_prop_factor" : 5
+   },
+   {
+      "base_prop_factor" : 0.60,
+      "enchant_star" : 6,
+      "race_prop_factor" : 6
+   },
+   {
+      "base_prop_factor" : 0.70,
+      "enchant_star" : 7,
+      "race_prop_factor" : 7
+   },
+   {
+      "base_prop_factor" : 0.80,
+      "enchant_star" : 8,
+      "race_prop_factor" : 8
+   },
+   {
+      "base_prop_factor" : 0.90,
+      "enchant_star" : 9,
+      "race_prop_factor" : 9
+   },
+   {
+      "base_prop_factor" : 1,
+      "enchant_star" : 10,
+      "race_prop_factor" : 10
+   }
+]

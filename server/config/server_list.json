@@ -1,0 +1,20 @@
+{
+	"list" : [
+	   {
+		  "ip" : "192.168.8.108",	// 第一个为合服目标(下面的服合到这个服)
+		  "port" : 27023,           // mongo端口
+		  "mysql_port" : 3306,
+		  "mysql_user" : "root",
+		  "mysql_pw" : "zg_PWD_jD20rootpass",
+		  "mysql_dbname" : "test_tod"
+	   },
+	   {
+		  "ip" : "192.168.8.108",	// 第一个合服源
+		  "port" : 27024,
+		  "mysql_port" : 3306,
+		  "mysql_user" : "root",
+		  "mysql_pw" : "zg_PWD_jD20rootpass",
+		  "mysql_dbname" : "test"
+	   }
+	]
+}

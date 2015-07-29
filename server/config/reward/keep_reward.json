@@ -1,0 +1,26 @@
+[
+   {
+      "item_id" : 20701202,
+      "num" : 1,
+      "state" : 2,
+      "type" : 1
+   },
+   {
+      "item_id" : 20703301,
+      "num" : 1,
+      "state" : 2,
+      "type" : 1
+   },
+   {
+      "item_id" : 20501202,
+      "num" : 10,
+      "state" : 2,
+      "type" : 1
+   },
+   {
+      "item_id" : 20504402,
+      "num" : 1,
+      "state" : 2,
+      "type" : 1
+   }
+]

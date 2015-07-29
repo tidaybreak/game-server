@@ -1,0 +1,21 @@
+[
+   {
+      "act_id" : 20027,
+      "id" : 1,
+      "num" : 100,
+      "reward" : [
+         {
+            "from_table" : "mount_lvup_x_reward",
+            "item_id" : 20513401,
+            "num" : 50,
+            "type" : 1
+         },
+         {
+            "from_table" : "mount_lvup_x_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   }
+]

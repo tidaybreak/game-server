@@ -1,0 +1,254 @@
+[
+   {
+      "add_prop_rate" : 13,
+      "cost_copper" : 845,
+      "sell" : 424,
+      "success_rate" : 100,
+      "unban_lvl" : 1
+   },
+   {
+      "add_prop_rate" : 26,
+      "cost_copper" : 1098,
+      "sell" : 1100,
+      "success_rate" : 90,
+      "unban_lvl" : 2
+   },
+   {
+      "add_prop_rate" : 39,
+      "cost_copper" : 1427,
+      "sell" : 2181,
+      "success_rate" : 80,
+      "unban_lvl" : 3
+   },
+   {
+      "add_prop_rate" : 52,
+      "cost_copper" : 1855,
+      "sell" : 3911,
+      "success_rate" : 70,
+      "unban_lvl" : 4
+   },
+   {
+      "add_prop_rate" : 65,
+      "cost_copper" : 2411,
+      "sell" : 6679,
+      "success_rate" : 60,
+      "unban_lvl" : 5
+   },
+   {
+      "add_prop_rate" : 78,
+      "cost_copper" : 3134,
+      "sell" : 11108,
+      "success_rate" : 50,
+      "unban_lvl" : 6
+   },
+   {
+      "add_prop_rate" : 91,
+      "cost_copper" : 4074,
+      "sell" : 18192,
+      "success_rate" : 40,
+      "unban_lvl" : 7
+   },
+   {
+      "add_prop_rate" : 104,
+      "cost_copper" : 5296,
+      "sell" : 27403,
+      "success_rate" : 30,
+      "unban_lvl" : 8
+   },
+   {
+      "add_prop_rate" : 117,
+      "cost_copper" : 6884,
+      "sell" : 39377,
+      "success_rate" : 20,
+      "unban_lvl" : 9
+   },
+   {
+      "add_prop_rate" : 130,
+      "cost_copper" : 8949,
+      "sell" : 54520,
+      "success_rate" : 10,
+      "unban_lvl" : 10
+   },
+   {
+      "add_prop_rate" : 143,
+      "cost_copper" : 11633,
+      "sell" : 72523,
+      "success_rate" : 10,
+      "unban_lvl" : 11
+   },
+   {
+      "add_prop_rate" : 156,
+      "cost_copper" : 15122,
+      "sell" : 93856,
+      "success_rate" : 10,
+      "unban_lvl" : 12
+   },
+   {
+      "add_prop_rate" : 169,
+      "cost_copper" : 19658,
+      "sell" : 119023,
+      "success_rate" : 10,
+      "unban_lvl" : 13
+   },
+   {
+      "add_prop_rate" : 182,
+      "cost_copper" : 25555,
+      "sell" : 148531,
+      "success_rate" : 10,
+      "unban_lvl" : 14
+   },
+   {
+      "add_prop_rate" : 195,
+      "cost_copper" : 33221,
+      "sell" : 182834,
+      "success_rate" : 10,
+      "unban_lvl" : 15
+   },
+   {
+      "add_prop_rate" : 208,
+      "cost_copper" : 43187,
+      "sell" : 222225,
+      "success_rate" : 10,
+      "unban_lvl" : 16
+   },
+   {
+      "add_prop_rate" : 221,
+      "cost_copper" : 56143,
+      "sell" : 268786,
+      "success_rate" : 10,
+      "unban_lvl" : 17
+   },
+   {
+      "add_prop_rate" : 234,
+      "cost_copper" : 67371,
+      "sell" : 323738,
+      "success_rate" : 10,
+      "unban_lvl" : 18
+   },
+   {
+      "add_prop_rate" : 247,
+      "cost_copper" : 80845,
+      "sell" : 388483,
+      "success_rate" : 10,
+      "unban_lvl" : 19
+   },
+   {
+      "add_prop_rate" : 260,
+      "cost_copper" : 97014,
+      "sell" : 466177,
+      "success_rate" : 10,
+      "unban_lvl" : 20
+   },
+   {
+      "add_prop_rate" : 273,
+      "cost_copper" : 116416,
+      "sell" : 564229,
+      "success_rate" : 10,
+      "unban_lvl" : 21
+   },
+   {
+      "add_prop_rate" : 286,
+      "cost_copper" : 139699,
+      "sell" : 687914,
+      "success_rate" : 10,
+      "unban_lvl" : 22
+   },
+   {
+      "add_prop_rate" : 299,
+      "cost_copper" : 167638,
+      "sell" : 843866,
+      "success_rate" : 10,
+      "unban_lvl" : 23
+   },
+   {
+      "add_prop_rate" : 312,
+      "cost_copper" : 201165,
+      "sell" : 1040420,
+      "success_rate" : 10,
+      "unban_lvl" : 24
+   },
+   {
+      "add_prop_rate" : 325,
+      "cost_copper" : 241398,
+      "sell" : 1288049,
+      "success_rate" : 10,
+      "unban_lvl" : 25
+   },
+   {
+      "add_prop_rate" : 338,
+      "cost_copper" : 289677,
+      "sell" : 1599910,
+      "success_rate" : 10,
+      "unban_lvl" : 26
+   },
+   {
+      "add_prop_rate" : 351,
+      "cost_copper" : 347612,
+      "sell" : 1992524,
+      "success_rate" : 10,
+      "unban_lvl" : 27
+   },
+   {
+      "add_prop_rate" : 364,
+      "cost_copper" : 417134,
+      "sell" : 2486639,
+      "success_rate" : 10,
+      "unban_lvl" : 28
+   },
+   {
+      "add_prop_rate" : 377,
+      "cost_copper" : 500560,
+      "sell" : 3108297,
+      "success_rate" : 10,
+      "unban_lvl" : 29
+   },
+   {
+      "add_prop_rate" : 390,
+      "cost_copper" : 570638,
+      "sell" : 3849469,
+      "success_rate" : 10,
+      "unban_lvl" : 30
+   },
+   {
+      "add_prop_rate" : 403,
+      "cost_copper" : 650527,
+      "sell" : 4732851,
+      "success_rate" : 10,
+      "unban_lvl" : 31
+   },
+   {
+      "add_prop_rate" : 416,
+      "cost_copper" : 741600,
+      "sell" : 5785381,
+      "success_rate" : 10,
+      "unban_lvl" : 32
+   },
+   {
+      "add_prop_rate" : 429,
+      "cost_copper" : 845424,
+      "sell" : 7039006,
+      "success_rate" : 10,
+      "unban_lvl" : 33
+   },
+   {
+      "add_prop_rate" : 442,
+      "cost_copper" : 963783,
+      "sell" : 8531591,
+      "success_rate" : 10,
+      "unban_lvl" : 34
+   },
+   {
+      "add_prop_rate" : 455,
+      "cost_copper" : 1098712,
+      "sell" : 10307987,
+      "success_rate" : 10,
+      "unban_lvl" : 35
+   },
+   {
+      "add_prop_rate" : 468,
+      "cost_copper" : 1208583,
+      "sell" : 12421281,
+      "success_rate" : 10,
+      "unban_lvl" : 36
+   }
+]

@@ -1,0 +1,51 @@
+[
+   {
+      "award" : [
+         [ 20707401, 2, 2 ]
+      ],
+      "reputation" : 100,
+      "total_kill_num" : 1
+   },
+   {
+      "award" : [
+         [ 20707401, 4, 2 ]
+      ],
+      "reputation" : 200,
+      "total_kill_num" : 3
+   },
+   {
+      "award" : [
+         [ 20707401, 6, 2 ]
+      ],
+      "reputation" : 300,
+      "total_kill_num" : 5
+   },
+   {
+      "award" : [
+         [ 20707401, 9, 2 ]
+      ],
+      "reputation" : 450,
+      "total_kill_num" : 10
+   },
+   {
+      "award" : [
+         [ 20707401, 13, 2 ]
+      ],
+      "reputation" : 650,
+      "total_kill_num" : 20
+   },
+   {
+      "award" : [
+         [ 20707401, 23, 2 ]
+      ],
+      "reputation" : 1150,
+      "total_kill_num" : 40
+   },
+   {
+      "award" : [
+         [ 20707401, 45, 2 ]
+      ],
+      "reputation" : 2250,
+      "total_kill_num" : 70
+   }
+]

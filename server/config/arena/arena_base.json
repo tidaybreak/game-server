@@ -1,0 +1,846 @@
+[
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 1,
+      "arena_name" : "青铜1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 5,
+      "arena_punish_hard" : 5,
+      "arena_shearch" : 12,
+      "bronze_refer_force" : 4000,
+      "loser_award" : 5000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 10000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 1,
+      "arena_name" : "青铜2段",
+      "arena_part" : 2,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 5,
+      "arena_punish_hard" : 5,
+      "arena_shearch" : 13,
+      "bronze_refer_force" : 10000,
+      "loser_award" : 5500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 11000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 1,
+      "arena_name" : "青铜3段",
+      "arena_part" : 3,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 5,
+      "arena_punish_hard" : 5,
+      "arena_shearch" : 14,
+      "loser_award" : 6000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 12000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 1,
+      "arena_name" : "青铜4段",
+      "arena_part" : 4,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 5,
+      "arena_punish_hard" : 5,
+      "arena_shearch" : 15,
+      "loser_award" : 6500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 13000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 1,
+      "arena_name" : "青铜5段",
+      "arena_part" : 5,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 5,
+      "arena_punish_hard" : 5,
+      "arena_shearch" : 21,
+      "loser_award" : 7000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 14000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 2,
+      "arena_name" : "白银1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 22,
+      "loser_award" : 7500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 15000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 2,
+      "arena_name" : "白银2段",
+      "arena_part" : 2,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 23,
+      "loser_award" : 8000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 16000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 2,
+      "arena_name" : "白银3段",
+      "arena_part" : 3,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 24,
+      "loser_award" : 8500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 17000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 2,
+      "arena_name" : "白银4段",
+      "arena_part" : 4,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 25,
+      "loser_award" : 9000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 18000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 2,
+      "arena_name" : "白银5段",
+      "arena_part" : 5,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 31,
+      "loser_award" : 9500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 19000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 3,
+      "arena_name" : "黄金1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 32,
+      "loser_award" : 10000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 20000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 3,
+      "arena_name" : "黄金2段",
+      "arena_part" : 2,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 33,
+      "loser_award" : 10500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 21000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 3,
+      "arena_name" : "黄金3段",
+      "arena_part" : 3,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 34,
+      "loser_award" : 11000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 22000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 3,
+      "arena_name" : "黄金4段",
+      "arena_part" : 4,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 35,
+      "loser_award" : 11500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 23000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 3,
+      "arena_name" : "黄金5段",
+      "arena_part" : 5,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_shearch" : 41,
+      "loser_award" : 12000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 24000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 4,
+      "arena_name" : "钻石1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 42,
+      "loser_award" : 12500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 25000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 4,
+      "arena_name" : "钻石2段",
+      "arena_part" : 2,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 43,
+      "loser_award" : 13000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 26000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 4,
+      "arena_name" : "钻石3段",
+      "arena_part" : 3,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 44,
+      "loser_award" : 13500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 27000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 4,
+      "arena_name" : "钻石4段",
+      "arena_part" : 4,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 45,
+      "loser_award" : 14000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 28000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 4,
+      "arena_name" : "钻石5段",
+      "arena_part" : 5,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 51,
+      "loser_award" : 14500,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 29000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 5,
+      "arena_name" : "至尊1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 52,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 5,
+      "arena_name" : "至尊2段",
+      "arena_part" : 2,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 53,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 5,
+      "arena_name" : "至尊3段",
+      "arena_part" : 3,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 54,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 5,
+      "arena_name" : "至尊4段",
+      "arena_part" : 4,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 55,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 5,
+      "arena_name" : "至尊5段",
+      "arena_part" : 5,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 5,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "arena_shearch" : 61,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   },
+   {
+      "arena_award" : 10,
+      "arena_award_gold" : 20,
+      "arena_award_hard" : 15,
+      "arena_group" : 6,
+      "arena_name" : "王者1段",
+      "arena_part" : 1,
+      "arena_promote" : 60,
+      "arena_promote_awarditem" : [
+         [ 21002401, 1000, 120 ]
+      ],
+      "arena_promote_punish" : 15,
+      "arena_punish" : 0,
+      "arena_punish_gold" : 0,
+      "arena_punish_hard" : 0,
+      "arena_serve" : 1,
+      "loser_award" : 15000,
+      "loser_award_item" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award" : 30000,
+      "winer_award_item" : [
+         [ 503003, 1000, 20 ],
+         [ 21003501, 400, 1 ]
+      ],
+      "winer_award_item_gold" : [
+         [ 503003, 1000, 10 ]
+      ],
+      "winer_award_item_hard" : [
+         [ 503003, 1000, 5 ]
+      ]
+   }
+]

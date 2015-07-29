@@ -1,0 +1,74 @@
+[
+   {
+      "desc_1" : "30级武器卷轴 ——",
+      "desc_2" : "30级魔晶石 ———",
+      "getMod" : "GameSmithy,2",
+      "getModDesc" : "装备合成",
+      "hero_item_id" : [],
+      "item_id" : [ 10103402, 10103403, 10103404 ],
+      "materialMod_1" : "GameExchangeMod",
+      "materialMod_2" : "GameCopy"
+   },
+   {
+      "desc_1" : "30级帽子卷轴 ——",
+      "desc_2" : "30级魔晶石 ———",
+      "getMod" : "GameSmithy,2",
+      "getModDesc" : "装备合成",
+      "hero_item_id" : [ 10203405 ],
+      "item_id" : [ 10203402, 10203403, 10203404 ],
+      "materialMod_1" : "GameExchangeMod",
+      "materialMod_2" : "GameCopy"
+   },
+   {
+      "desc_1" : "30级衣服卷轴 ——",
+      "desc_2" : "30级魔晶石 ———",
+      "getMod" : "GameSmithy,2",
+      "getModDesc" : "装备合成",
+      "hero_item_id" : [ 10303405 ],
+      "item_id" : [ 10303402, 10303403, 10303404 ],
+      "materialMod_1" : "GameExchangeMod",
+      "materialMod_2" : "GameCopy"
+   },
+   {
+      "desc_1" : "30级鞋子卷轴 ——",
+      "desc_2" : "30级魔晶石 ———",
+      "getMod" : "GameSmithy,2",
+      "getModDesc" : "装备合成",
+      "hero_item_id" : [ 10403405 ],
+      "item_id" : [ 10403402, 10403403, 10403404 ],
+      "materialMod_1" : "GameExchangeMod",
+      "materialMod_2" : "GameCopy"
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10503401 ],
+      "hero_other_id" : [ 10503402 ],
+      "item_id" : [ 10503401, 10503401, 10503401 ],
+      "other_id" : [ 10503402 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10503402 ],
+      "hero_other_id" : [ 10503401 ],
+      "item_id" : [ 10503402, 10503402, 10503402 ],
+      "other_id" : [ 10503401 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10603401 ],
+      "hero_other_id" : [ 10603402 ],
+      "item_id" : [ 10603401, 10603401, 10603401 ],
+      "other_id" : [ 10603402 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10603402 ],
+      "hero_other_id" : [ 10603401 ],
+      "item_id" : [ 10603402, 10603402, 10603402 ],
+      "other_id" : [ 10603401 ]
+   }
+]

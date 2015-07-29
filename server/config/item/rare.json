@@ -1,0 +1,31 @@
+[
+   {
+      "!item!id!usetype" : 29001401,
+      "type" : 1
+   },
+   {
+      "!item!id!usetype" : 29002401,
+      "content" : 80218001,
+      "type" : 2
+   },
+   {
+      "!item!id!usetype" : 29002402,
+      "content" : 80100002,
+      "type" : 2
+   },
+   {
+      "!item!id!usetype" : 29002403,
+      "content" : 80100001,
+      "type" : 2
+   },
+   {
+      "!item!id!usetype" : 29002404,
+      "content" : 80221001,
+      "type" : 2
+   },
+   {
+      "!item!id!usetype" : 29002405,
+      "content" : 80221002,
+      "type" : 2
+   }
+]

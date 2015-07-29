@@ -1,0 +1,32 @@
+[
+   {
+      "get_skill" : 0,
+      "high_star" : 6,
+      "quality" : 1,
+      "skill_num" : 1
+   },
+   {
+      "get_skill" : 0,
+      "high_star" : 6,
+      "quality" : 2,
+      "skill_num" : 1
+   },
+   {
+      "get_skill" : 0,
+      "high_star" : 9,
+      "quality" : 3,
+      "skill_num" : 2
+   },
+   {
+      "get_skill" : 0,
+      "high_star" : 13,
+      "quality" : 4,
+      "skill_num" : 2
+   },
+   {
+      "get_skill" : 0,
+      "high_star" : 13,
+      "quality" : 5,
+      "skill_num" : 3
+   }
+]

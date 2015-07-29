@@ -1,0 +1,27 @@
+[
+   {
+      "cd_seize_power" : 172800,
+      "copper_to_contrib" : 0.0010,
+      "create_cost_copper" : 200000,
+      "diam_to_contrib" : 0.50,
+      "diam_upgrade_gift" : 20,
+      "group_mail_cost" : 100,
+      "guild_cd_friendset" : 0,
+      "guild_cd_notice" : 60000,
+      "guild_change_chief" : 200,
+      "guild_change_noticecd" : 0,
+      "guild_cost_Diamond" : 100,
+      "guild_cost_Diamond_add" : 0,
+      "guild_cost_friendset" : 0,
+      "guild_cost_money" : 50000,
+      "guild_cost_money_add" : 0,
+      "guild_cost_notice" : 1,
+      "guild_create_cost" : 200,
+      "guild_create_level" : 16,
+      "guild_join_cd" : 0,
+      "max_gang_lvl" : 10,
+      "min_donate_copper" : 1000,
+      "min_donate_diam" : 2,
+      "upgrade_cd_clear_rate" : 600
+   }
+]

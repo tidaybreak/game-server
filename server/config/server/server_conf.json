@@ -1,0 +1,5 @@
+{
+	"command" : ["role_info","total","v","battle_scene_debug","size","gang_se"],
+	"default_solution_id" : 111,
+	"center_url" : "http://center.tod.37wan.com/web/clientRequestIsLevelThirty.php"
+}

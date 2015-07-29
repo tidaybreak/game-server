@@ -1,0 +1,120 @@
+[
+   {
+      "key" : "auto_fight_level",
+      "value" : 15
+   },
+   {
+      "key" : "fight_start_music",
+      "value" : "music/zhandoukaishi.mp3"
+   },
+   {
+      "key" : "fight_victory_music",
+      "value" : "music/zhandoushengli.mp3"
+   },
+   {
+      "key" : "fight_fail_music",
+      "value" : "music/zhandoushibai.mp3"
+   },
+   {
+      "key" : "skill_bar_raise_effect_level",
+      "value" : 99
+   },
+   {
+      "key" : "skill_advance",
+      "value" : 15
+   },
+   {
+      "isServer" : 1,
+      "key" : "fight_giveup_time",
+      "value" : 30
+   },
+   {
+      "isServer" : 1,
+      "key" : "fight_time_arena",
+      "value" : 300
+   },
+   {
+      "key" : "skill_effect_level",
+      "value" : 35
+   },
+   {
+      "key" : "skilltype110",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体爆发,横扫千军</font>\n<font color='#ec0303'>不能同时和怒火</font>上阵"
+   },
+   {
+      "key" : "skilltype111",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体强攻,怒火爆发</font>\n<font color='#ec0303'>不能同时和横扫</font>上阵"
+   },
+   {
+      "key" : "skilltype120",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体防御,圣盾守护</font>\n<font color='#ec0303'>不能同时和守护</font>上阵"
+   },
+   {
+      "key" : "skilltype121",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体守护,支援全体</font>\n<font color='#ec0303'>不能同时和圣盾</font>上阵"
+   },
+   {
+      "key" : "skilltype130",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体防御,圣盾守护</font>\n<font color='#ec0303'>不能同时和守护</font>上阵"
+   },
+   {
+      "key" : "skilltype131",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体守护,支援全体</font>\n<font color='#ec0303'>不能同时和圣盾</font>上阵"
+   },
+   {
+      "key" : "skilltype210",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体强攻,斩杀弱者</font>\n<font color='#ec0303'>不能同时和乱武</font>上阵"
+   },
+   {
+      "key" : "skilltype211",
+      "value" : "技能特性:\n<font color='#fcee6d'>群攻乱舞,暴雨如剑</font>\n<font color='#ec0303'>不能同时和淘汰</font>上阵"
+   },
+   {
+      "key" : "skilltype220",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体削弱,迷雾鬼影</font>\n<font color='#ec0303'>不能同时和cisha</font>上阵"
+   },
+   {
+      "key" : "skilltype221",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体强攻,出其不意</font>\n<font color='#ec0303'>不能同时和迷雾</font>上阵"
+   },
+   {
+      "key" : "skilltype230",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体削弱,迷雾鬼影</font>\n<font color='#ec0303'>不能同时和cisha</font>上阵"
+   },
+   {
+      "key" : "skilltype231",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体强攻,出其不意</font>\n<font color='#ec0303'>不能同时和迷雾</font>上阵"
+   },
+   {
+      "key" : "skilltype310",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体攻击,雷霆万钧</font>\n<font color='#ec0303'>不能同时和电击</font>上阵"
+   },
+   {
+      "key" : "skilltype311",
+      "value" : "技能特性:\n<font color='#fcee6d'>随机爆发,无情霹雳</font>\n<font color='#ec0303'>不能同时和雷霆</font>上阵"
+   },
+   {
+      "key" : "skilltype320",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体治疗,返老还童</font>\n<font color='#ec0303'>不能同时和庇佑</font>上阵"
+   },
+   {
+      "key" : "skilltype321",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体保护,庇佑痛苦</font>\n<font color='#ec0303'>不能同时和群疗</font>上阵"
+   },
+   {
+      "key" : "skilltype330",
+      "value" : "技能特性:\n<font color='#fcee6d'>群体治疗,返老还童</font>\n<font color='#ec0303'>不能同时和庇佑</font>上阵"
+   },
+   {
+      "key" : "skilltype331",
+      "value" : "技能特性:\n<font color='#fcee6d'>单体保护,庇佑痛苦</font>\n<font color='#ec0303'>不能同时和群疗</font>上阵"
+   },
+   {
+      "key" : "QuickSelectHeroOpenLevel",
+      "value" : 20
+   },
+   {
+      "key" : "skillhide",
+      "value" : 20
+   }
+]

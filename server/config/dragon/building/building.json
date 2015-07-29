@@ -1,0 +1,282 @@
+[
+   {
+      "id" : 1200001,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200001,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200002,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200002,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200003,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200003,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200004,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200004,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200005,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200005,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200006,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200006,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200007,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200007,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200008,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200008,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200009,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 1,
+      "type" : 2
+   },
+   {
+      "id" : 1200009,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 1,
+      "type" : 3
+   },
+   {
+      "id" : 1200010,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200010,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200011,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200011,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200012,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200012,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200013,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200013,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200014,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200014,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200015,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200015,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200016,
+      "module" : 60610015,
+      "name" : "英灵收集石",
+      "openLevel" : 90,
+      "type" : 2
+   },
+   {
+      "id" : 1200016,
+      "module" : 60610014,
+      "name" : "龙魂收集石",
+      "openLevel" : 90,
+      "type" : 3
+   },
+   {
+      "id" : 1200017,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 1,
+      "type" : 1
+   },
+   {
+      "id" : 1200018,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 1,
+      "type" : 1
+   },
+   {
+      "id" : 1200019,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 1,
+      "type" : 1
+   },
+   {
+      "id" : 1200020,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 90,
+      "type" : 1
+   },
+   {
+      "id" : 1200021,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 90,
+      "type" : 1
+   },
+   {
+      "id" : 1200022,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 90,
+      "type" : 1
+   },
+   {
+      "id" : 1200023,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 90,
+      "type" : 1
+   },
+   {
+      "id" : 1200024,
+      "module" : 60610016,
+      "name" : "金矿",
+      "openLevel" : 90,
+      "type" : 1
+   }
+]

@@ -1,0 +1,15 @@
+[
+   {
+      "friendship" : 60,
+      "max_player" : 3,
+      "offline_limit" : 600,
+      "profile_num" : 2,
+      "profile_num_defend" : 1,
+      "profile_num_hero_dream" : 2,
+      "profile_num_sports" : 25,
+      "robot_task" : 10100245,
+      "world_invite_cost" : [
+         [ 20506403, 1 ]
+      ]
+   }
+]

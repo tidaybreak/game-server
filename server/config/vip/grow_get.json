@@ -1,0 +1,58 @@
+[
+   {
+      "cost_ratio" : 100,
+      "get_val" : 10,
+      "lost_val" : 5,
+      "need_val" : 0,
+      "pri_num" : 15,
+      "vip_level" : 1
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 10,
+      "lost_val" : 5,
+      "need_val" : 150,
+      "pri_num" : 16,
+      "vip_level" : 2
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 10,
+      "lost_val" : 5,
+      "need_val" : 200,
+      "pri_num" : 16,
+      "vip_level" : 3
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 15,
+      "lost_val" : 5,
+      "need_val" : 300,
+      "pri_num" : 23,
+      "vip_level" : 4
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 15,
+      "lost_val" : 5,
+      "need_val" : 400,
+      "pri_num" : 23,
+      "vip_level" : 5
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 15,
+      "lost_val" : 5,
+      "need_val" : 2000,
+      "pri_num" : 23,
+      "vip_level" : 6
+   },
+   {
+      "cost_ratio" : 100,
+      "get_val" : 15,
+      "lost_val" : 5,
+      "need_val" : 5000,
+      "pri_num" : 23,
+      "vip_level" : 7
+   }
+]

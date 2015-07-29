@@ -1,0 +1,34 @@
+{
+	"rename_mail" : [{
+		"id" : 101,
+		"item" : [
+			[ 20601404, 1, 0 ]
+		],
+		"mail_content" : "因合服数据互通处理，玩家角色名增加后缀，特补偿更名卡一张，快给自己取个炫酷霸气的新名字吧~",
+		"mail_title" : "合服福利",
+		"sender_name" : "系统"
+	},
+	{
+		"id" : 201,
+		"item" : [
+			[ 20601404, 1, 0 ]
+		],
+		"mail_content" : "rename name",
+		"mail_title" : "rename name",
+		"sender_name" : "system"
+	},
+	{
+		"id" : 0,
+		"item" : [
+			[ 20601404, 1, 0 ]
+		],
+		"mail_content" : "因合服数据互通处理，玩家角色名增加后缀，特补偿更名卡一张，快给自己取个炫酷霸气的新名字吧~",
+		"mail_title" : "合服福利",
+		"sender_name" : "系统"
+	}],
+	"filter" : {			// 清僵尸号(符合下面条件且无元宝)
+		"level_lt" : 10, 	// 等级小于等于xx级
+		"last_login" : 30	// 且最近30天(包括30)未登录
+
+	}
+}

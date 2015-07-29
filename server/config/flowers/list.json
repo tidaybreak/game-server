@@ -1,0 +1,27 @@
+[
+   {
+      "charm" : 1,
+      "effect" : 0,
+      "friend" : 1,
+      "have_msg" : 0,
+      "id" : 1,
+      "item_id" : 20301201
+   },
+   {
+      "charm" : 99,
+      "effect" : 1,
+      "friend" : 99,
+      "have_msg" : 1,
+      "id" : 2,
+      "item_id" : 20301302
+   },
+   {
+      "announ" : 1301,
+      "charm" : 999,
+      "effect" : 2,
+      "friend" : 999,
+      "have_msg" : 1,
+      "id" : 3,
+      "item_id" : 20301403
+   }
+]

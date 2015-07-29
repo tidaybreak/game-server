@@ -1,0 +1,12 @@
+[
+   {
+      "avoid" : 100,
+      "blood_max" : 100,
+      "hit_rate" : 100,
+      "level" : 3,
+      "magic_attack" : 100,
+      "magic_defence" : 100,
+      "physical_attack" : 100,
+      "physical_defence" : 100
+   }
+]

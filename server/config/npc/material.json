@@ -1,0 +1,15 @@
+[
+   {
+      "coord" : [ 1, 2450, 2249 ],
+      "drops" : [ 20401101 ],
+      "gather_time" : 3,
+      "gather_times" : 0,
+      "id" : 1,
+      "material_id" : 60500001,
+      "rate" : 1000,
+      "refresh_time" : 3,
+      "refresh_times" : -1,
+      "scene_key" : 80100003,
+      "type" : 0
+   }
+]

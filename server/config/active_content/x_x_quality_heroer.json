@@ -1,0 +1,42 @@
+[
+   {
+      "act_id" : 20026,
+      "id" : 1,
+      "num" : 1,
+      "reward" : [
+         {
+            "from_table" : "x_x_quality_heroer_reward",
+            "item_id" : 21002401,
+            "num" : 500,
+            "type" : 1
+         },
+         {
+            "from_table" : "x_x_quality_heroer_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ],
+      "type" : 4
+   },
+   {
+      "act_id" : 20026,
+      "id" : 2,
+      "num" : 2,
+      "reward" : [
+         {
+            "from_table" : "x_x_quality_heroer_reward",
+            "item_id" : 21002401,
+            "num" : 1000,
+            "type" : 1
+         },
+         {
+            "from_table" : "x_x_quality_heroer_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ],
+      "type" : 4
+   }
+]

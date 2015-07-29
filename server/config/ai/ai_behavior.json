@@ -1,0 +1,122 @@
+{
+	"2" : [
+		{
+			"node" : "root",
+			"type" : "Selector",
+			"child_node" : [
+				{
+					"node" : "死亡处理",
+					"type" : "Sequence",
+					"child_node" : [
+						{
+							"node" : "co_是否是死亡状态",
+							"type" : "Condition"
+						},
+						{
+							"node" : "be_空闲",
+							"type" : "Behavior"
+						}
+					]
+				},
+				{
+					"node" : "非死亡处理",
+					"type" : "Selector",
+					"child_node" : [
+						{
+							"node" : "返回处理",
+							"type" : "Sequence",
+							"child_node" : [
+								{
+									"node" : "co_是否返回状态",
+									"type" : "Condition"
+								},						
+								{
+									"node" : "be_返回模式",
+									"type" : "Behavior"
+								}
+							]
+						},	
+						{
+							"node" : "追击处理",
+							"type" : "Sequence",
+							"child_node" : [
+								{
+									"node" : "co_是否有仇恨对象",
+									"type" : "Condition"
+								},						
+								{
+									"node" : "be_追击模式",
+									"type" : "Behavior"
+								}
+							]
+						},				
+						{
+							"node" : "be_A巡逻模式",
+							"type" : "Behavior"
+						}
+					]
+				}
+			]
+		}
+	],
+	"3" : [
+		{
+			"node" : "root",
+			"type" : "Selector",
+			"child_node" : [
+				{
+					"node" : "死亡处理",
+					"type" : "Sequence",
+					"child_node" : [
+						{
+							"node" : "co_是否是死亡状态",
+							"type" : "Condition"
+						},
+						{
+							"node" : "be_空闲",
+							"type" : "Behavior"
+						}
+					]
+				},
+				{
+					"node" : "非死亡处理",
+					"type" : "Selector",
+					"child_node" : [
+						{
+							"node" : "返回处理",
+							"type" : "Sequence",
+							"child_node" : [
+								{
+									"node" : "co_是否返回状态",
+									"type" : "Condition"
+								},						
+								{
+									"node" : "be_返回模式",
+									"type" : "Behavior"
+								}
+							]
+						},	
+						{
+							"node" : "追击处理",
+							"type" : "Sequence",
+							"child_node" : [
+								{
+									"node" : "co_是否有仇恨对象",
+									"type" : "Condition"
+								},						
+								{
+									"node" : "be_追击模式",
+									"type" : "Behavior"
+								}
+							]
+						},
+						{
+							"node" : "be_B移动模式",
+							"type" : "Behavior"
+						}
+					]
+				}
+			]
+		}
+	]
+}

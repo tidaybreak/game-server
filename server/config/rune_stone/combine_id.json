@@ -1,0 +1,74 @@
+[
+   {
+      "&count_2&combine_id&2" : 10001,
+      "&count_3&combine_id&3" : null,
+      "&count_4&combine_id&4" : 10001,
+      "2" : {
+         "504905" : 400,
+         "combine_id" : 10001
+      },
+      "3" : null,
+      "4" : {
+         "504605" : 400,
+         "combine_id" : 10001
+      },
+      "combine_id" : 10001,
+      "combine_name" : "兽血沸腾",
+      "discribe" : "护卫者",
+      "item_ids" : [ 40000501, 40000502, 40000503, 40000504 ]
+   },
+   {
+      "&count_2&combine_id&2" : 10002,
+      "&count_3&combine_id&3" : null,
+      "&count_4&combine_id&4" : 10002,
+      "2" : {
+         "504905" : 400,
+         "combine_id" : 10002
+      },
+      "3" : null,
+      "4" : {
+         "504605" : 400,
+         "combine_id" : 10002
+      },
+      "combine_id" : 10002,
+      "combine_name" : "星辰之力",
+      "discribe" : "永恒",
+      "item_ids" : [ 40000505, 40000506, 40000507, 40000508 ]
+   },
+   {
+      "&count_2&combine_id&2" : 10003,
+      "&count_3&combine_id&3" : null,
+      "&count_4&combine_id&4" : 10003,
+      "2" : {
+         "504905" : 400,
+         "combine_id" : 10003
+      },
+      "3" : null,
+      "4" : {
+         "504605" : 400,
+         "combine_id" : 10003
+      },
+      "combine_id" : 10003,
+      "combine_name" : "元素之魂",
+      "discribe" : "守护",
+      "item_ids" : [ 40000509, 40000510, 40000511, 40000512 ]
+   },
+   {
+      "&count_2&combine_id&2" : 10004,
+      "&count_3&combine_id&3" : null,
+      "&count_4&combine_id&4" : 10004,
+      "2" : {
+         "504905" : 400,
+         "combine_id" : 10004
+      },
+      "3" : null,
+      "4" : {
+         "504605" : 400,
+         "combine_id" : 10004
+      },
+      "combine_id" : 10004,
+      "combine_name" : "亡魂之力",
+      "discribe" : "驻守",
+      "item_ids" : [ 40000513, 40000514, 40000515, 40000516 ]
+   }
+]

@@ -1,0 +1,250 @@
+[
+   {
+      "id" : 1,
+      "skill_ai_strike" : [
+         [ 1, 1, 10 ],
+         [ 2, 100001, 5 ]
+      ],
+      "skill_id" : 11000001,
+      "skill_priority_add" : -1
+   },
+   {
+      "id" : 2,
+      "skill_ai_strike" : [
+         [ 3, 1, 30 ],
+         [ 2, 100001, 5 ]
+      ],
+      "skill_id" : 11000001,
+      "skill_priority_add" : -1
+   },
+   {
+      "id" : 3,
+      "skill_id" : 11100101,
+      "skill_priority_add" : 9
+   },
+   {
+      "id" : 4,
+      "skill_id" : 11100201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 5,
+      "skill_id" : 11100301,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 6,
+      "skill_id" : 11100401,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 7,
+      "skill_id" : 11100501,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 8,
+      "skill_id" : 12000001,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 9,
+      "skill_id" : 12100101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 10,
+      "skill_id" : 12100201,
+      "skill_priority_add" : 2
+   },
+   {
+      "id" : 11,
+      "skill_id" : 12100301,
+      "skill_priority_add" : 3
+   },
+   {
+      "id" : 12,
+      "skill_id" : 12100401,
+      "skill_priority_add" : 4
+   },
+   {
+      "id" : 13,
+      "skill_id" : 12100501,
+      "skill_priority_add" : 5
+   },
+   {
+      "id" : 14,
+      "skill_id" : 12100601,
+      "skill_priority_add" : 6
+   },
+   {
+      "id" : 15,
+      "skill_id" : 12300201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 16,
+      "skill_id" : 12300301,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 17,
+      "skill_id" : 12300401,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 18,
+      "skill_id" : 12300501,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 19,
+      "skill_id" : 12300601,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 20,
+      "skill_id" : 12200201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 21,
+      "skill_id" : 12200301,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 22,
+      "skill_id" : 12200401,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 23,
+      "skill_id" : 12200501,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 24,
+      "skill_id" : 12200601,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 25,
+      "skill_id" : 13000001,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 26,
+      "skill_id" : 13100101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 27,
+      "skill_id" : 13100201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 28,
+      "skill_id" : 13100301,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 29,
+      "skill_id" : 13100401,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 30,
+      "skill_id" : 13100501,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 31,
+      "skill_id" : 21000001,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 32,
+      "skill_id" : 21000002,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 33,
+      "skill_id" : 21010101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 34,
+      "skill_id" : 21010201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 35,
+      "skill_id" : 21020101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 36,
+      "skill_id" : 21020201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 37,
+      "skill_id" : 21030101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 38,
+      "skill_id" : 21030201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 39,
+      "skill_id" : 31000101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 40,
+      "skill_id" : 31000102,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 41,
+      "skill_id" : 61100101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 42,
+      "skill_id" : 61100201,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 43,
+      "skill_id" : 61100301,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 44,
+      "skill_id" : 61100401,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 45,
+      "skill_id" : 61100501,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 46,
+      "skill_id" : 81010101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 47,
+      "skill_id" : 81020101,
+      "skill_priority_add" : 1
+   },
+   {
+      "id" : 48,
+      "skill_id" : 81030101,
+      "skill_priority_add" : 1
+   }
+]

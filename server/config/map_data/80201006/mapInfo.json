@@ -1,0 +1,72 @@
+{
+    "mapId": 80201006,
+    "validRect": {"width": 1920, "x": 0, "height": 1200, "y": 0},
+	"fightPoints":
+	[
+		{
+			"centerPt":[980,926],
+			"area":[980,926,0,0]
+		}
+	],
+	"baseMapIndex":2,
+	"mapLayers":
+	[
+		{
+			"tileWidth": 256,
+			"tileHeight": 256,
+			
+			"imgWidth":1920,
+			"imgHeight":1200,
+		
+			"width":1920,
+			"height":1200,
+			
+			"layerType":1,
+			"tileImgUrl":"skin/mmo_map/mapImages/",
+			"tileImgIndex":0,
+			
+			"thumbHeight": 192,
+			"thumbWidth": 120,
+			"thumbImgUrl":"skin/mmo_map/thumImgs/80201006_0.jpg",
+			
+			"loopY":-5
+		},
+		{
+			"tileWidth": 256,
+			"tileHeight": 256,
+			
+			"imgWidth":1920,
+			"imgHeight":1200,
+		
+			"width":1920,
+			"height":1200,
+			
+			"layerType":1,
+			"tileImgUrl":"skin/mmo_map/mapImages/",
+			"tileImgIndex":1,
+			
+			"thumbHeight": 192,
+			"thumbWidth": 120,
+			"thumbImgUrl":"skin/mmo_map/thumImgs/80201006_1.png",
+			"loopY":-10
+		},
+		{
+			"tileWidth": 256,
+			"tileHeight": 256,
+			
+			"imgWidth":1920,
+			"imgHeight":1200,
+		
+			"width":1920,
+			"height":1200,
+			
+			"layerType":0,
+			"tileImgUrl":"skin/mmo_map/mapImages/",
+			"tileImgIndex":2,
+			
+			"thumbHeight": 192,
+			"thumbWidth": 120,
+			"thumbImgUrl":"skin/mmo_map/thumImgs/80201006_2.png"
+		}
+	]
+}

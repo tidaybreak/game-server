@@ -1,0 +1,3002 @@
+[
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 1,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 2,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 3,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 4,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 5,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 6,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 7,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 8,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 9,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 10,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 11,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 12,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 13,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 14,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 15,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 16,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 17,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 18,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 19,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 20,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 21,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 22,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 23,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 24,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 25,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 26,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 27,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 28,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 29,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 30,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 31,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 32,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 33,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 34,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 35,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 36,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 37,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 38,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 100,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 39,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 40,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 41,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 42,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 43,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 44,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 45,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 46,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 47,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 48,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 200,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 49,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 50,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 51,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 52,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 53,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 54,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 55,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 56,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 57,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 58,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 300,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 59,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 60,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 61,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 62,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 63,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 64,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 65,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 66,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 67,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 68,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 400,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 69,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 70,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 71,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 72,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 73,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 74,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 75,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 76,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 77,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 78,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 500,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 79,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 80,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 81,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 82,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 83,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 84,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 85,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 86,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 87,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 88,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 89,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 90,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 91,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 92,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 93,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 94,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 95,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 96,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 97,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 98,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 99,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 100,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 101,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 102,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 103,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 104,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 105,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 106,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 107,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 108,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 109,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 110,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 111,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 112,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 113,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 114,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 115,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 116,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 117,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 118,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 119,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 120,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 121,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 122,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 123,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 124,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 125,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 126,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 127,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 128,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 129,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 130,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 131,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 132,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 133,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 134,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 135,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 136,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 137,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 138,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 139,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 140,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 141,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 142,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 143,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 144,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 145,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 146,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 147,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 148,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 149,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 150,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 151,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 152,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 153,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 154,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 155,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 156,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 157,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 158,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 159,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 160,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 161,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 162,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 163,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 164,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 165,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 166,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 167,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 168,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 169,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 170,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 171,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 172,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 173,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 174,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 175,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 176,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 177,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 178,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 179,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 180,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 181,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 182,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 183,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 184,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 185,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 186,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 187,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 188,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 189,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 190,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 191,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 192,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 193,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 194,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 195,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 196,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 197,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 198,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 199,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 200,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 201,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 202,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 203,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 204,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 205,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 206,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 207,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 208,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 209,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 210,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 211,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 212,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 213,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 214,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 215,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 216,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 217,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 218,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 219,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 220,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 221,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 222,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 223,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 224,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 225,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 226,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 227,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 228,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 229,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 230,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 231,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 232,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 233,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 234,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 235,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 236,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 237,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 238,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 239,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 240,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 241,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 242,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 243,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 244,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 245,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 246,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 247,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 248,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 249,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 250,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 251,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 252,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 253,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 254,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 255,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 256,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 257,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 258,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 259,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 260,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 261,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 262,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 263,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 264,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 265,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 266,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 267,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 268,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 269,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 270,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 271,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 272,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 273,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 274,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 275,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 276,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 277,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 278,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 279,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 280,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 281,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 282,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 283,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 284,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 285,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 286,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 287,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 288,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 289,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 290,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 291,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 292,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 293,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 294,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 295,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 296,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 297,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 298,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 299,
+      "soul_percent" : 100
+   },
+   {
+      "coin_percent" : 100,
+      "exp_percent" : 1000,
+      "item1_percent" : 1,
+      "item2_percent" : 1,
+      "item3_percent" : 1,
+      "item4_percent" : 1,
+      "player_level" : 300,
+      "soul_percent" : 100
+   }
+]

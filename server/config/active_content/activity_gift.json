@@ -1,0 +1,92 @@
+[
+   {
+      "act_id" : 21045,
+      "id" : 1,
+      "num" : 30,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 501702,
+            "num" : 50,
+            "type" : 2
+         }
+      ]
+   },
+   {
+      "act_id" : 21045,
+      "id" : 2,
+      "num" : 50,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20513401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21045,
+      "id" : 3,
+      "num" : 70,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20511301,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20511401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21045,
+      "id" : 4,
+      "num" : 90,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20513502,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21045,
+      "id" : 5,
+      "num" : 110,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20506401,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20402201,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 21045,
+      "id" : 6,
+      "num" : 130,
+      "reward" : [
+         {
+            "from_table" : "activity_gift_reward",
+            "item_id" : 20504402,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   }
+]

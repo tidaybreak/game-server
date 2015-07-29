@@ -1,0 +1,52 @@
+[
+   {
+      "base_prop_factor" : 0.40,
+      "equip_lvl" : 1,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 0.60,
+      "equip_lvl" : 10,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 0.60,
+      "equip_lvl" : 15,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 0.80,
+      "equip_lvl" : 20,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 1.20,
+      "equip_lvl" : 30,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 1.60,
+      "equip_lvl" : 40,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 2.40,
+      "equip_lvl" : 50,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 3.60,
+      "equip_lvl" : 60,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 5.20,
+      "equip_lvl" : 70,
+      "race_prop_factor" : 1
+   },
+   {
+      "base_prop_factor" : 7.50,
+      "equip_lvl" : 80,
+      "race_prop_factor" : 1
+   }
+]

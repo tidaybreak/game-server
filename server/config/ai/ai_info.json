@@ -1,0 +1,31 @@
+{
+    "100000001": {
+        "distance_of_fight": 150,
+        "vision_type": 0,
+        "name": "普通随机移动主动怪",
+        "vision_tick": 1000,
+        "vision_area": 100,
+        "tick": 1000,
+        "patrol_tick": 10000,
+		"distance_of_patrol": 200
+    },
+    "100000002": {
+        "distance_of_fight": 500,
+        "vision_type": 0,
+        "name": "黑暗守护者",
+        "vision_tick": 1000,
+        "vision_area": 20,
+        "tick": 1000,
+        "patrol_tick": 10000,
+		"walk_path": [
+            [
+                60,
+                28
+            ],
+            [
+                66,
+                29
+            ]
+        ]
+    }
+}

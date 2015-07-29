@@ -1,0 +1,77 @@
+[
+   {
+      "days" : 3,
+      "id" : 1,
+      "mail_id" : 1006,
+      "name" : "治疗精灵",
+      "price" : 18,
+      "status_val" : [
+         {
+            "d_effect_val1" : 0,
+            "from_table" : "status_val",
+            "i_effect_val1" : 507405,
+            "status_id" : 11100300
+         },
+         {
+            "d_effect_val1" : 0,
+            "from_table" : "status_val",
+            "i_effect_val1" : 507405,
+            "status_id" : 34020100
+         }
+      ]
+   },
+   {
+      "become_time" : 30,
+      "days" : 3,
+      "id" : 3,
+      "mail_id" : 1009,
+      "name" : "战斗精灵",
+      "price" : 25,
+      "status_val" : [
+         {
+            "d_effect_val2" : 0.050,
+            "from_table" : "status_val",
+            "i_effect_val1" : 505605,
+            "status_id" : 11100200
+         },
+         {
+            "d_effect_val2" : 0.050,
+            "from_table" : "status_val",
+            "i_effect_val1" : 505705,
+            "status_id" : 11100200
+         },
+         {
+            "d_effect_val2" : 0.050,
+            "from_table" : "status_val",
+            "i_effect_val1" : 505805,
+            "status_id" : 11100200
+         },
+         {
+            "d_effect_val2" : 0.050,
+            "from_table" : "status_val",
+            "i_effect_val1" : 505905,
+            "status_id" : 11100200
+         },
+         {
+            "d_effect_val2" : 0.050,
+            "from_table" : "status_val",
+            "i_effect_val1" : 506205,
+            "status_id" : 11100200
+         }
+      ]
+   },
+   {
+      "days" : 3,
+      "id" : 4,
+      "mail_id" : 1008,
+      "name" : "悬赏精灵",
+      "price" : 25
+   },
+   {
+      "days" : 3,
+      "id" : 5,
+      "mail_id" : 1031,
+      "name" : "加速精灵",
+      "price" : 25
+   }
+]

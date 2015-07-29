@@ -1,0 +1,733 @@
+[
+   {
+      "condition" : [
+         {
+            "cond" : 1,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到1级",
+      "id" : 10020001,
+      "name" : "列兵",
+      "prop" : [
+         [ 504905, 10 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 2,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到2级",
+      "id" : 10020002,
+      "name" : "精兵",
+      "prop" : [
+         [ 505005, 10 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 3,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到3级",
+      "id" : 10020003,
+      "name" : "护卫",
+      "prop" : [
+         [ 504605, 10 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 4,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到4级",
+      "id" : 10020004,
+      "name" : "斗士",
+      "prop" : [
+         [ 504905, 20 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 5,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到5级",
+      "id" : 10020005,
+      "name" : "十字军",
+      "prop" : [
+         [ 505005, 20 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 6,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到6级",
+      "id" : 10020006,
+      "name" : "圣骑士",
+      "prop" : [
+         [ 504605, 20 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 7,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到7级",
+      "id" : 10020007,
+      "name" : "将军",
+      "prop" : [
+         [ 504905, 50 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 8,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到8级",
+      "id" : 10020008,
+      "name" : "神圣领主",
+      "prop" : [
+         [ 505005, 50 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 9,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到9级",
+      "id" : 10020009,
+      "name" : "帝国元帅",
+      "prop" : [
+         [ 504605, 50 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 10,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到10级",
+      "id" : 10020010,
+      "name" : "神佑骑士",
+      "prop" : [
+         [ 504905, 100 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 11,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到11级",
+      "id" : 10020011,
+      "name" : "神佑男爵",
+      "prop" : [
+         [ 505005, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 12,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到12级",
+      "id" : 10020012,
+      "name" : "神佑子爵",
+      "prop" : [
+         [ 504605, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 13,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到13级",
+      "id" : 10020013,
+      "name" : "神佑伯爵",
+      "prop" : [
+         [ 504905, 150 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 14,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到14级",
+      "id" : 10020014,
+      "name" : "神佑侯爵",
+      "prop" : [
+         [ 505005, 150 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 15,
+            "from_table" : "exploit"
+         }
+      ],
+      "dec" : "功勋等级达到15级",
+      "id" : 10020015,
+      "name" : "神佑公爵",
+      "prop" : [
+         [ 504605, 150 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 3,
+            "from_table" : "war_scene_win"
+         }
+      ],
+      "dec" : "战场获胜3次",
+      "id" : 10030001,
+      "name" : "战场赢家",
+      "prop" : [
+         [ 505005, 10 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 2,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 1000,
+            "from_table" : "war_scene_kill"
+         }
+      ],
+      "dec" : "战场击杀1000人",
+      "id" : 10040001,
+      "name" : "千人斩",
+      "prop" : [
+         [ 504605, 100 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 2,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 1000,
+            "from_table" : "arena_win"
+         }
+      ],
+      "dec" : "竞技场获胜1000次",
+      "id" : 10050001,
+      "name" : "竞技王者",
+      "prop" : [
+         [ 504605, 100 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 2,
+      "validity" : 0
+   },
+   {
+      "ann_sign_in" : 1388,
+      "condition" : [
+         {
+            "cond" : [ 1 ],
+            "from_table" : "force_rank"
+         }
+      ],
+      "dec" : "全服战斗力第一名",
+      "id" : 10080001,
+      "name" : "众神之王",
+      "prop" : [
+         [ 504605, 200 ]
+      ],
+      "quality" : 4,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 86400
+   },
+   {
+      "announ" : 1,
+      "condition" : [
+         {
+            "cond" : [ 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "from_table" : "force_rank"
+         }
+      ],
+      "dec" : "全服战斗力前十名",
+      "id" : 10080002,
+      "name" : "十大战神",
+      "prop" : [
+         [ 504605, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 86400
+   },
+   {
+      "condition" : [
+         {
+            "cond" : [ 1 ],
+            "from_table" : "level_rank"
+         }
+      ],
+      "dec" : "全服等级第一名",
+      "id" : 10090001,
+      "name" : "等级王",
+      "prop" : [
+         [ 505005, 200 ]
+      ],
+      "quality" : 4,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 86400
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 30000,
+            "from_table" : "gang_contribute"
+         }
+      ],
+      "dec" : "公会贡献达到3w",
+      "id" : 10130001,
+      "name" : "公会是我家",
+      "prop" : [
+         [ 505005, 100 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : 300000,
+            "from_table" : "gang_contribute"
+         }
+      ],
+      "dec" : "公会贡献达到30w",
+      "id" : 10130002,
+      "name" : "为了公会",
+      "prop" : [
+         [ 505005, 200 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 0
+   },
+   {
+      "id" : 99990001,
+      "name" : "英雄之门",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990002,
+      "name" : "竞技场",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990003,
+      "name" : "铁匠铺",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990004,
+      "name" : "悬赏任务",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990005,
+      "name" : "英雄梦境",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990006,
+      "name" : "精英副本",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990007,
+      "name" : "神秘商人",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990008,
+      "name" : "拍卖行",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990009,
+      "name" : "战场",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990010,
+      "name" : "骑士试炼",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990011,
+      "name" : "资源回收官",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990012,
+      "name" : "战场指挥官",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990013,
+      "name" : "环任务",
+      "quality" : 5,
+      "titleH" : 48,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990014,
+      "name" : "组队竞技",
+      "quality" : 5,
+      "titleH" : 35,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990015,
+      "name" : "单人竞技",
+      "quality" : 5,
+      "titleH" : 35,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990016,
+      "name" : "战场",
+      "quality" : 5,
+      "titleH" : 35,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "id" : 99990017,
+      "name" : "公会战",
+      "quality" : 5,
+      "titleH" : 35,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "cond_type" : 1,
+      "dec" : "集齐10级紫色武器、帽子、衣服、鞋子+20级项链（晨星之守护、荣誉之守护）+20级戒指（风息戒指、临风戒指）",
+      "id" : 10160001,
+      "name" : "兽族新兵",
+      "prop" : [
+         [ 504905, 10 ]
+      ],
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "cond" : 30,
+      "cond_type" : 2,
+      "dec" : "成为全服第一个达到30级的战士/刺客/元素师",
+      "id" : 10170001,
+      "name" : "冲级王子",
+      "prop" : [
+         [ 505005, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : [ 1 ],
+            "from_table" : "glamour_rank"
+         }
+      ],
+      "dec" : "魅力榜第一名",
+      "id" : 10180001,
+      "name" : "万人迷",
+      "prop" : [
+         [ 517307, -0.050 ]
+      ],
+      "quality" : 4,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 86400
+   },
+   {
+      "announ" : 1,
+      "condition" : [
+         {
+            "cond" : [ 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "from_table" : "glamour_rank"
+         }
+      ],
+      "dec" : "魅力榜前十名",
+      "id" : 10180002,
+      "name" : "魅力之星",
+      "prop" : [
+         [ 504905, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 86400
+   },
+   {
+      "condition" : [
+         {
+            "cond" : [ 1 ],
+            "from_table" : "friendly_rank"
+         }
+      ],
+      "dec" : "友情榜第一名",
+      "id" : 10190001,
+      "name" : "雷锋",
+      "prop" : [
+         [ 505005, 200 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 86400
+   },
+   {
+      "announ" : 1,
+      "condition" : [
+         {
+            "cond" : [ 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+            "from_table" : "friendly_rank"
+         }
+      ],
+      "dec" : "友情榜前十名",
+      "id" : 10200001,
+      "name" : "幼年雷锋",
+      "prop" : [
+         [ 505005, 100 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 86400
+   },
+   {
+      "dec" : "通关上古之塔70层",
+      "id" : 10210001,
+      "name" : "副本挑战者",
+      "prop" : [
+         [ 506205, 3000 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "dec" : "通关上古之塔100层",
+      "id" : 10220001,
+      "name" : "副本终结者",
+      "prop" : [
+         [ 506205, 5000 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 1,
+      "validity" : 0
+   },
+   {
+      "cond_type" : 3,
+      "dec" : "对世界boss进行最后一击",
+      "id" : 10230001,
+      "name" : "补刀小王子",
+      "prop" : [
+         [ 506205, 3000 ]
+      ],
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 0
+   },
+   {
+      "condition" : [
+         {
+            "cond" : [ 1 ],
+            "from_table" : "gang_war"
+         }
+      ],
+      "dec" : "公会战第一名会长",
+      "id" : 10120001,
+      "name" : "第一会长",
+      "prop" : [
+         [ 504905, 100 ],
+         [ 505005, 100 ]
+      ],
+      "quality" : 3,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 604800
+   },
+   {
+      "cond" : 10,
+      "cond_type" : 4,
+      "dec" : "拥有10个称号",
+      "id" : 10240001,
+      "name" : "称号爱好者",
+      "quality" : 1,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 0
+   },
+   {
+      "cond" : 20,
+      "cond_type" : 4,
+      "dec" : "拥有20个称号",
+      "id" : 10240002,
+      "name" : "称号收藏家",
+      "quality" : 2,
+      "titleH" : 18,
+      "type" : 3,
+      "validity" : 0
+   }
+]

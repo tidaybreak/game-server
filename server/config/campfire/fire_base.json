@@ -1,0 +1,19 @@
+[
+   {
+      "birth" : [ 1, 150, 150 ],
+      "dancing_time" : 11,
+      "fire_range" : 500,
+      "level_limit" : 16,
+      "meat_cont" : [ 1, 10 ],
+      "open_time" : [
+         [ 1200, 1800 ],
+         [ 1800, 1800 ]
+      ],
+      "text_enter_other_fire" : "获得%s公会篝火buff，非该公会玩家经验收益减半",
+      "text_enter_own_fire" : "获得公会篝火buff，持续获得经验，金色符石熔炼概率翻倍",
+      "text_fire_success" : "点火成功",
+      "text_firewood_success" : "添柴成功",
+      "text_leave_fire" : "已远离篝火，篝火buff消失",
+      "time" : 10
+   }
+]

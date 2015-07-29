@@ -1,0 +1,152 @@
+[
+   {
+      "intimacy_convert" : 0.10,
+      "intimacy_exp" : 100,
+      "intimacy_lvl" : 1
+   },
+   {
+      "intimacy_convert" : 0.20,
+      "intimacy_exp" : 200,
+      "intimacy_lvl" : 2
+   },
+   {
+      "intimacy_convert" : 0.30,
+      "intimacy_exp" : 300,
+      "intimacy_lvl" : 3
+   },
+   {
+      "intimacy_convert" : 0.40,
+      "intimacy_exp" : 400,
+      "intimacy_lvl" : 4
+   },
+   {
+      "intimacy_convert" : 0.50,
+      "intimacy_exp" : 500,
+      "intimacy_lvl" : 5
+   },
+   {
+      "intimacy_convert" : 0.60,
+      "intimacy_exp" : 600,
+      "intimacy_lvl" : 6
+   },
+   {
+      "intimacy_convert" : 0.70,
+      "intimacy_exp" : 700,
+      "intimacy_lvl" : 7
+   },
+   {
+      "intimacy_convert" : 0.80,
+      "intimacy_exp" : 800,
+      "intimacy_lvl" : 8
+   },
+   {
+      "intimacy_convert" : 0.90,
+      "intimacy_exp" : 900,
+      "intimacy_lvl" : 9
+   },
+   {
+      "intimacy_convert" : 1,
+      "intimacy_exp" : 1000,
+      "intimacy_lvl" : 10
+   },
+   {
+      "intimacy_convert" : 1.10,
+      "intimacy_exp" : 1100,
+      "intimacy_lvl" : 11
+   },
+   {
+      "intimacy_convert" : 1.20,
+      "intimacy_exp" : 1200,
+      "intimacy_lvl" : 12
+   },
+   {
+      "intimacy_convert" : 1.30,
+      "intimacy_exp" : 1300,
+      "intimacy_lvl" : 13
+   },
+   {
+      "intimacy_convert" : 1.40,
+      "intimacy_exp" : 1400,
+      "intimacy_lvl" : 14
+   },
+   {
+      "intimacy_convert" : 1.50,
+      "intimacy_exp" : 1500,
+      "intimacy_lvl" : 15
+   },
+   {
+      "intimacy_convert" : 1.60,
+      "intimacy_exp" : 1600,
+      "intimacy_lvl" : 16
+   },
+   {
+      "intimacy_convert" : 1.70,
+      "intimacy_exp" : 1700,
+      "intimacy_lvl" : 17
+   },
+   {
+      "intimacy_convert" : 1.80,
+      "intimacy_exp" : 1800,
+      "intimacy_lvl" : 18
+   },
+   {
+      "intimacy_convert" : 1.90,
+      "intimacy_exp" : 1900,
+      "intimacy_lvl" : 19
+   },
+   {
+      "intimacy_convert" : 2,
+      "intimacy_exp" : 2000,
+      "intimacy_lvl" : 20
+   },
+   {
+      "intimacy_convert" : 2.10,
+      "intimacy_exp" : 2100,
+      "intimacy_lvl" : 21
+   },
+   {
+      "intimacy_convert" : 2.20,
+      "intimacy_exp" : 2200,
+      "intimacy_lvl" : 22
+   },
+   {
+      "intimacy_convert" : 2.30,
+      "intimacy_exp" : 2300,
+      "intimacy_lvl" : 23
+   },
+   {
+      "intimacy_convert" : 2.40,
+      "intimacy_exp" : 2400,
+      "intimacy_lvl" : 24
+   },
+   {
+      "intimacy_convert" : 2.50,
+      "intimacy_exp" : 2500,
+      "intimacy_lvl" : 25
+   },
+   {
+      "intimacy_convert" : 2.60,
+      "intimacy_exp" : 2600,
+      "intimacy_lvl" : 26
+   },
+   {
+      "intimacy_convert" : 2.70,
+      "intimacy_exp" : 2700,
+      "intimacy_lvl" : 27
+   },
+   {
+      "intimacy_convert" : 2.80,
+      "intimacy_exp" : 2800,
+      "intimacy_lvl" : 28
+   },
+   {
+      "intimacy_convert" : 2.90,
+      "intimacy_exp" : 2900,
+      "intimacy_lvl" : 29
+   },
+   {
+      "intimacy_convert" : 3,
+      "intimacy_exp" : 3000,
+      "intimacy_lvl" : 30
+   }
+]

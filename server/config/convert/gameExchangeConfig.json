@@ -1,0 +1,267 @@
+[
+   {
+      "binding" : 0,
+      "condition" : "通关恶魔舰队后开启",
+      "id" : 10103301,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "残暴攻击",
+      "scene" : 80201003,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关恶魔舰队后开启",
+      "id" : 10203301,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "兽纹战盔",
+      "scene" : 80201003,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关恶魔舰队后开启",
+      "id" : 10503301,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "兽纹项链",
+      "scene" : 80201003,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关恶魔舰队后开启",
+      "id" : 10503302,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "骨骼纹章",
+      "scene" : 80201003,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关普通精英·街道后开启",
+      "hard" : 0,
+      "id" : 10603301,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "契约戒指",
+      "scene" : 80202002,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关噩梦精英·街道后开启",
+      "hard" : 1,
+      "id" : 10603302,
+      "index" : 0,
+      "level" : 30,
+      "money" : 20,
+      "moneytype" : 20701401,
+      "name" : "同盟戒指",
+      "scene" : 80202002,
+      "type" : 1
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关单人副本第一章后开启",
+      "id" : 10104501,
+      "index" : 0,
+      "level" : 40,
+      "money" : 25,
+      "moneytype" : 20701401,
+      "name" : "谜团",
+      "scene" : 80201008,
+      "type" : 0
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关单人副本第一章后开启",
+      "id" : 10204501,
+      "index" : 0,
+      "level" : 40,
+      "money" : 25,
+      "moneytype" : 20701401,
+      "name" : "藏匿",
+      "scene" : 80201008,
+      "type" : 0
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关单人副本第一章后开启",
+      "id" : 10304501,
+      "index" : 0,
+      "level" : 40,
+      "money" : 25,
+      "moneytype" : 20701401,
+      "name" : "虚影",
+      "scene" : 80201008,
+      "type" : 0
+   },
+   {
+      "binding" : 0,
+      "condition" : "通关单人副本第一章后开启",
+      "id" : 10404501,
+      "index" : 0,
+      "level" : 40,
+      "money" : 25,
+      "moneytype" : 20701401,
+      "name" : "蒸发",
+      "scene" : 80201008,
+      "type" : 0
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 10,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 15,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 20,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 25,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 30,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 35,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 40,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 45,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 50,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 10700101,
+      "index" : 1,
+      "level" : 55,
+      "money" : 30,
+      "moneytype" : 20701401,
+      "name" : "入门勋章"
+   },
+   {
+      "binding" : 1,
+      "id" : 20602301,
+      "index" : 2,
+      "level" : 10,
+      "money" : 2,
+      "moneytype" : 20701401,
+      "name" : "经验卷轴",
+      "pageName" : "卷轴",
+      "pages" : 0
+   },
+   {
+      "binding" : 1,
+      "id" : 20401301,
+      "index" : 2,
+      "level" : 10,
+      "money" : 2,
+      "moneytype" : 20701401,
+      "name" : "初级血包",
+      "pageName" : "药剂",
+      "pages" : 1
+   },
+   {
+      "binding" : 1,
+      "id" : 20401402,
+      "index" : 2,
+      "level" : 10,
+      "money" : 4,
+      "moneytype" : 20701401,
+      "name" : "中级血包",
+      "pageName" : "药剂",
+      "pages" : 1
+   },
+   {
+      "binding" : 1,
+      "id" : 20401503,
+      "index" : 2,
+      "level" : 10,
+      "money" : 6,
+      "moneytype" : 20701401,
+      "name" : "高级血包",
+      "pageName" : "药剂",
+      "pages" : 1
+   },
+   {
+      "binding" : 0,
+      "id" : 20200001,
+      "index" : 3,
+      "level" : 1,
+      "money" : 100,
+      "moneytype" : 503403,
+      "name" : "一个礼包"
+   }
+]

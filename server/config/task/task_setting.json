@@ -1,0 +1,20 @@
+{
+	"task_type":{
+		"main":1,
+		"branch":2,
+		"routine":3,
+		"league":4
+	},
+	"cond_type":{
+		"kill":1,
+		"collect":2,
+		"talk":3,
+		"lvl_up":4,
+		"activity":5,
+		"script":6,
+		"recharge":7,
+		"package":8
+	},
+	"cond_enum":[1,2,3,4,5,6,7,8],
+	"daily_reset":["routine","league"]
+}

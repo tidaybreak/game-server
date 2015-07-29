@@ -1,0 +1,170 @@
+[
+   {
+      "credit" : 0,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 0,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 0,
+      "victory" : 1
+   },
+   {
+      "credit" : -5,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 1,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 1,
+      "victory" : 1
+   },
+   {
+      "credit" : -10,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 2,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 2,
+      "victory" : 1
+   },
+   {
+      "credit" : -15,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 3,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 3,
+      "victory" : 1
+   },
+   {
+      "credit" : -20,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 4,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 4,
+      "victory" : 1
+   },
+   {
+      "credit" : -30,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 5,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 5,
+      "victory" : 1
+   },
+   {
+      "credit" : -40,
+      "exp" : 0,
+      "friendly" : 30,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 6, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 6,
+      "victory" : 0
+   },
+   {
+      "credit" : 20,
+      "exp" : 0,
+      "friendly" : 60,
+      "gold" : 0,
+      "item" : [
+         [ 21002401, 20, 2 ]
+      ],
+      "merit" : 0,
+      "tier" : 6,
+      "victory" : 1
+   }
+]

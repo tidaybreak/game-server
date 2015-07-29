@@ -1,0 +1,20 @@
+[
+   {
+      "ann_costs" : 20000,
+      "ann_id" : 1368,
+      "continue_time" : 6,
+      "keep_costs" : 4000
+   },
+   {
+      "ann_costs" : 20000,
+      "ann_id" : 1368,
+      "continue_time" : 12,
+      "keep_costs" : 6000
+   },
+   {
+      "ann_costs" : 20000,
+      "ann_id" : 1368,
+      "continue_time" : 24,
+      "keep_costs" : 8000
+   }
+]

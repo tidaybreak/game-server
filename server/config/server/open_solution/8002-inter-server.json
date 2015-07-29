@@ -1,0 +1,197 @@
+/**
+	enum MONITOR_TYPE {
+		MONITOR_ALL		= 0,
+		MONITOR_LOGIC	= 1,	逻辑服 
+		MONITOR_SCEME	= 2,	场景服 
+		MONITOR_CHAT	= 3,	聊天服 
+		MONITOR_GATE	= 4,	网关
+		MONITOR_RECORD	= 5,	日志服
+		MONITOR_CLIENT	= 10,	client
+		MONITOR_END
+	};
+	服务器拥护，请稍候再试!
+	多进程标准版：每个Monitor在各一个进程
+*/
+{
+	// 
+	"solution_id" : 8002,
+	"monitor_list" : [
+	{
+		"name" : "record",
+		"command" : "--record",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 5,		// 跨服日志服[必选]
+				"inner_port_suffix" : 8502,
+				"ingore_prefix" : 1,
+				"list" : [[1,0]]
+			}
+		]
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 战场跨服场景服1
+				"inner_port_suffix" : 11001,
+				"ingore_prefix" : 1,
+				"list" : [[80207001,0]]
+			}
+		],
+		"check" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 战场跨服场景服2
+				"inner_port_suffix" : 11002,
+				"ingore_prefix" : 1,
+				"list" : [[80207001,1]]
+			}
+		],
+		"check_" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 组队竞技跨服场景服1
+				"inner_port_suffix" : 12001,
+				"ingore_prefix" : 1,
+				"list" : [[80211002,0]]
+			}
+		],
+		"check" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 组队竞技跨服场景服2
+				"inner_port_suffix" : 12002,
+				"ingore_prefix" : 1,
+				"list" : [[80211002,1]]
+			}
+		],
+		"check_" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 公会战跨服场景服1
+				"inner_port_suffix" : 13001,
+				"ingore_prefix" : 1,
+				"list" : [[80213001,0]]
+			}
+		],
+		"check" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 公会战跨服场景服2
+				"inner_port_suffix" : 13002,
+				"ingore_prefix" : 1,
+				"list" : [[80213001,1]]
+			}
+		],
+		"check_" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 龙谷跨服场景服1
+				"inner_port_suffix" : 14001,
+				"ingore_prefix" : 1,
+				"list" : [[80212001,0]]
+			}
+		],
+		"check" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 龙谷跨服场景服2
+				"inner_port_suffix" : 14002,
+				"ingore_prefix" : 1,
+				"list" : [[80212001,1]]
+			}
+		],
+		"check_" : "/usr/local/bin/valgrind --tool=memcheck --leak-check=full --time-stamp=yes --show-possibly-lost=no --log-file=scene_server_%s_valgrind.txt"
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 远征跨服场景服1
+				"inner_port_suffix" : 15001,
+				"ingore_prefix" : 1,
+				"list" : [[80216001,0]]
+			}
+		]
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 远征跨服场景服2
+				"inner_port_suffix" : 15002,
+				"ingore_prefix" : 1,
+				"list" : [[80216001,1]]
+			}
+		]
+	},
+	{
+		"name" : "scene",
+		"command" : "--scene",
+		"run_on" : 9001,
+		"acceptor" : [
+			{
+				"monitor_type" : 2,		// 中央信息服
+				"inner_port_suffix" : 9001,
+				"ingore_prefix" : 1,
+				"list" : [[80000000,0]]
+			}
+		]
+	},	
+	{
+		"name" : "chat",
+		"command" : "--chat",
+		"run_on" : 8001,
+		"acceptor" : [
+			{
+				"monitor_type" : 3,		// 跨服聊天服[必选]
+				"inner_port_suffix" : 8010,
+				"ingore_prefix" : 1,
+				"list" : [[1,0]]
+			}
+		]
+	}
+	]
+}

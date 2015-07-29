@@ -1,0 +1,8 @@
+{
+    "command" : { 					
+        "mode" : 1,						/// 命令开关 0:关闭 1:全开 2:开放部分命令
+        "command" : ["role_info"]
+    },
+	"chat_monitor_url" : "http://api.gamechat.37.com/postChatV2.php",//为空不发
+	"chat_monitor_key" : "j*~ha,5mJr;,LK6MJcZ49FUci9D7"
+}

@@ -1,0 +1,66 @@
+[
+   {
+      "power_tpyeid" : 1,
+      "power_type" : "允许所有人加入公会"
+   },
+   {
+      "power_tpyeid" : 2,
+      "power_type" : "批准加入公会"
+   },
+   {
+      "power_tpyeid" : 3,
+      "power_type" : "邀请别人进入公会"
+   },
+   {
+      "power_tpyeid" : 4,
+      "power_type" : "踢出公会"
+   },
+   {
+      "power_tpyeid" : 5,
+      "power_type" : "解散公会"
+   },
+   {
+      "power_tpyeid" : 6,
+      "power_type" : "移交公会"
+   },
+   {
+      "power_tpyeid" : 7,
+      "power_type" : "任命下级成员官职"
+   },
+   {
+      "power_tpyeid" : 8,
+      "power_type" : "决定boss时间"
+   },
+   {
+      "power_tpyeid" : 9,
+      "power_type" : "决定公会盛宴时间"
+   },
+   {
+      "power_tpyeid" : 10,
+      "power_type" : "升级公会"
+   },
+   {
+      "power_tpyeid" : 11,
+      "power_type" : "升级公会功能"
+   },
+   {
+      "power_tpyeid" : 12,
+      "power_type" : "号召帮众参与活动"
+   },
+   {
+      "power_tpyeid" : 13,
+      "power_type" : "分配公会战奖励"
+   },
+   {
+      "power_tpyeid" : 14,
+      "power_type" : "报名参加公会战"
+   },
+   {
+      "power_tpyeid" : 15,
+      "power_type" : "发布群邮件"
+   },
+   {
+      "power_tpyeid" : 16,
+      "power_type" : "修改群公告"
+   }
+]

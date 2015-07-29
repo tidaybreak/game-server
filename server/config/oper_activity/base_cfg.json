@@ -1,0 +1,26 @@
+[
+   {
+      "act_id" : 70031,
+      "className" : "openserverUI.OperateActivatePanel1",
+      "index" : 1,
+      "pageName" : "荣耀竞技"
+   },
+   {
+      "act_id" : 70032,
+      "className" : "openserverUI.OperateActivatePanel1",
+      "index" : 2,
+      "pageName" : "英雄远征"
+   },
+   {
+      "act_id" : 70033,
+      "className" : "openserverUI.OperateActivatePanel1",
+      "index" : 3,
+      "pageName" : "复活节彩蛋"
+   },
+   {
+      "act_id" : 70034,
+      "className" : "openserverUI.OperateActivatePanel2",
+      "index" : 4,
+      "pageName" : "双倍经验"
+   }
+]

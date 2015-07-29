@@ -1,0 +1,541 @@
+[
+   {
+      "coin" : 200,
+      "dragon_soul" : 300,
+      "exp" : 100,
+      "role_level" : 1,
+      "soul" : 400
+   },
+   {
+      "coin" : 201,
+      "dragon_soul" : 301,
+      "exp" : 101,
+      "role_level" : 2,
+      "soul" : 401
+   },
+   {
+      "coin" : 202,
+      "dragon_soul" : 302,
+      "exp" : 102,
+      "role_level" : 3,
+      "soul" : 402
+   },
+   {
+      "coin" : 203,
+      "dragon_soul" : 303,
+      "exp" : 103,
+      "role_level" : 4,
+      "soul" : 403
+   },
+   {
+      "coin" : 204,
+      "dragon_soul" : 304,
+      "exp" : 104,
+      "role_level" : 5,
+      "soul" : 404
+   },
+   {
+      "coin" : 205,
+      "dragon_soul" : 305,
+      "exp" : 105,
+      "role_level" : 6,
+      "soul" : 405
+   },
+   {
+      "coin" : 206,
+      "dragon_soul" : 306,
+      "exp" : 106,
+      "role_level" : 7,
+      "soul" : 406
+   },
+   {
+      "coin" : 207,
+      "dragon_soul" : 307,
+      "exp" : 107,
+      "role_level" : 8,
+      "soul" : 407
+   },
+   {
+      "coin" : 208,
+      "dragon_soul" : 308,
+      "exp" : 108,
+      "role_level" : 9,
+      "soul" : 408
+   },
+   {
+      "coin" : 209,
+      "dragon_soul" : 309,
+      "exp" : 109,
+      "role_level" : 10,
+      "soul" : 409
+   },
+   {
+      "coin" : 210,
+      "dragon_soul" : 310,
+      "exp" : 110,
+      "role_level" : 11,
+      "soul" : 410
+   },
+   {
+      "coin" : 211,
+      "dragon_soul" : 311,
+      "exp" : 111,
+      "role_level" : 12,
+      "soul" : 411
+   },
+   {
+      "coin" : 212,
+      "dragon_soul" : 312,
+      "exp" : 112,
+      "role_level" : 13,
+      "soul" : 412
+   },
+   {
+      "coin" : 213,
+      "dragon_soul" : 313,
+      "exp" : 113,
+      "role_level" : 14,
+      "soul" : 413
+   },
+   {
+      "coin" : 214,
+      "dragon_soul" : 314,
+      "exp" : 114,
+      "role_level" : 15,
+      "soul" : 414
+   },
+   {
+      "coin" : 215,
+      "dragon_soul" : 315,
+      "exp" : 115,
+      "role_level" : 16,
+      "soul" : 415
+   },
+   {
+      "coin" : 216,
+      "dragon_soul" : 316,
+      "exp" : 116,
+      "role_level" : 17,
+      "soul" : 416
+   },
+   {
+      "coin" : 217,
+      "dragon_soul" : 317,
+      "exp" : 117,
+      "role_level" : 18,
+      "soul" : 417
+   },
+   {
+      "coin" : 218,
+      "dragon_soul" : 318,
+      "exp" : 118,
+      "role_level" : 19,
+      "soul" : 418
+   },
+   {
+      "coin" : 219,
+      "dragon_soul" : 319,
+      "exp" : 119,
+      "role_level" : 20,
+      "soul" : 419
+   },
+   {
+      "coin" : 220,
+      "dragon_soul" : 320,
+      "exp" : 120,
+      "role_level" : 21,
+      "soul" : 420
+   },
+   {
+      "coin" : 221,
+      "dragon_soul" : 321,
+      "exp" : 121,
+      "role_level" : 22,
+      "soul" : 421
+   },
+   {
+      "coin" : 222,
+      "dragon_soul" : 322,
+      "exp" : 122,
+      "role_level" : 23,
+      "soul" : 422
+   },
+   {
+      "coin" : 223,
+      "dragon_soul" : 323,
+      "exp" : 123,
+      "role_level" : 24,
+      "soul" : 423
+   },
+   {
+      "coin" : 224,
+      "dragon_soul" : 324,
+      "exp" : 124,
+      "role_level" : 25,
+      "soul" : 424
+   },
+   {
+      "coin" : 225,
+      "dragon_soul" : 325,
+      "exp" : 125,
+      "role_level" : 26,
+      "soul" : 425
+   },
+   {
+      "coin" : 226,
+      "dragon_soul" : 326,
+      "exp" : 126,
+      "role_level" : 27,
+      "soul" : 426
+   },
+   {
+      "coin" : 227,
+      "dragon_soul" : 327,
+      "exp" : 127,
+      "role_level" : 28,
+      "soul" : 427
+   },
+   {
+      "coin" : 228,
+      "dragon_soul" : 328,
+      "exp" : 128,
+      "role_level" : 29,
+      "soul" : 428
+   },
+   {
+      "coin" : 229,
+      "dragon_soul" : 329,
+      "exp" : 129,
+      "role_level" : 30,
+      "soul" : 429
+   },
+   {
+      "coin" : 230,
+      "dragon_soul" : 330,
+      "exp" : 130,
+      "role_level" : 31,
+      "soul" : 430
+   },
+   {
+      "coin" : 231,
+      "dragon_soul" : 331,
+      "exp" : 131,
+      "role_level" : 32,
+      "soul" : 431
+   },
+   {
+      "coin" : 232,
+      "dragon_soul" : 332,
+      "exp" : 132,
+      "role_level" : 33,
+      "soul" : 432
+   },
+   {
+      "coin" : 233,
+      "dragon_soul" : 333,
+      "exp" : 133,
+      "role_level" : 34,
+      "soul" : 433
+   },
+   {
+      "coin" : 234,
+      "dragon_soul" : 334,
+      "exp" : 134,
+      "role_level" : 35,
+      "soul" : 434
+   },
+   {
+      "coin" : 235,
+      "dragon_soul" : 335,
+      "exp" : 135,
+      "role_level" : 36,
+      "soul" : 435
+   },
+   {
+      "coin" : 236,
+      "dragon_soul" : 336,
+      "exp" : 136,
+      "role_level" : 37,
+      "soul" : 436
+   },
+   {
+      "coin" : 237,
+      "dragon_soul" : 337,
+      "exp" : 137,
+      "role_level" : 38,
+      "soul" : 437
+   },
+   {
+      "coin" : 238,
+      "dragon_soul" : 338,
+      "exp" : 138,
+      "role_level" : 39,
+      "soul" : 438
+   },
+   {
+      "coin" : 239,
+      "dragon_soul" : 339,
+      "exp" : 139,
+      "role_level" : 40,
+      "soul" : 439
+   },
+   {
+      "coin" : 240,
+      "dragon_soul" : 340,
+      "exp" : 140,
+      "role_level" : 41,
+      "soul" : 440
+   },
+   {
+      "coin" : 241,
+      "dragon_soul" : 341,
+      "exp" : 141,
+      "role_level" : 42,
+      "soul" : 441
+   },
+   {
+      "coin" : 242,
+      "dragon_soul" : 342,
+      "exp" : 142,
+      "role_level" : 43,
+      "soul" : 442
+   },
+   {
+      "coin" : 243,
+      "dragon_soul" : 343,
+      "exp" : 143,
+      "role_level" : 44,
+      "soul" : 443
+   },
+   {
+      "coin" : 244,
+      "dragon_soul" : 344,
+      "exp" : 144,
+      "role_level" : 45,
+      "soul" : 444
+   },
+   {
+      "coin" : 245,
+      "dragon_soul" : 345,
+      "exp" : 145,
+      "role_level" : 46,
+      "soul" : 445
+   },
+   {
+      "coin" : 246,
+      "dragon_soul" : 346,
+      "exp" : 146,
+      "role_level" : 47,
+      "soul" : 446
+   },
+   {
+      "coin" : 247,
+      "dragon_soul" : 347,
+      "exp" : 147,
+      "role_level" : 48,
+      "soul" : 447
+   },
+   {
+      "coin" : 248,
+      "dragon_soul" : 348,
+      "exp" : 148,
+      "role_level" : 49,
+      "soul" : 448
+   },
+   {
+      "coin" : 249,
+      "dragon_soul" : 349,
+      "exp" : 149,
+      "role_level" : 50,
+      "soul" : 449
+   },
+   {
+      "coin" : 250,
+      "dragon_soul" : 350,
+      "exp" : 150,
+      "role_level" : 51,
+      "soul" : 450
+   },
+   {
+      "coin" : 251,
+      "dragon_soul" : 351,
+      "exp" : 151,
+      "role_level" : 52,
+      "soul" : 451
+   },
+   {
+      "coin" : 252,
+      "dragon_soul" : 352,
+      "exp" : 152,
+      "role_level" : 53,
+      "soul" : 452
+   },
+   {
+      "coin" : 253,
+      "dragon_soul" : 353,
+      "exp" : 153,
+      "role_level" : 54,
+      "soul" : 453
+   },
+   {
+      "coin" : 254,
+      "dragon_soul" : 354,
+      "exp" : 154,
+      "role_level" : 55,
+      "soul" : 454
+   },
+   {
+      "coin" : 255,
+      "dragon_soul" : 355,
+      "exp" : 155,
+      "role_level" : 56,
+      "soul" : 455
+   },
+   {
+      "coin" : 256,
+      "dragon_soul" : 356,
+      "exp" : 156,
+      "role_level" : 57,
+      "soul" : 456
+   },
+   {
+      "coin" : 257,
+      "dragon_soul" : 357,
+      "exp" : 157,
+      "role_level" : 58,
+      "soul" : 457
+   },
+   {
+      "coin" : 258,
+      "dragon_soul" : 358,
+      "exp" : 158,
+      "role_level" : 59,
+      "soul" : 458
+   },
+   {
+      "coin" : 259,
+      "dragon_soul" : 359,
+      "exp" : 159,
+      "role_level" : 60,
+      "soul" : 459
+   },
+   {
+      "coin" : 260,
+      "dragon_soul" : 360,
+      "exp" : 160,
+      "role_level" : 61,
+      "soul" : 460
+   },
+   {
+      "coin" : 261,
+      "dragon_soul" : 361,
+      "exp" : 161,
+      "role_level" : 62,
+      "soul" : 461
+   },
+   {
+      "coin" : 262,
+      "dragon_soul" : 362,
+      "exp" : 162,
+      "role_level" : 63,
+      "soul" : 462
+   },
+   {
+      "coin" : 263,
+      "dragon_soul" : 363,
+      "exp" : 163,
+      "role_level" : 64,
+      "soul" : 463
+   },
+   {
+      "coin" : 264,
+      "dragon_soul" : 364,
+      "exp" : 164,
+      "role_level" : 65,
+      "soul" : 464
+   },
+   {
+      "coin" : 265,
+      "dragon_soul" : 365,
+      "exp" : 165,
+      "role_level" : 66,
+      "soul" : 465
+   },
+   {
+      "coin" : 266,
+      "dragon_soul" : 366,
+      "exp" : 166,
+      "role_level" : 67,
+      "soul" : 466
+   },
+   {
+      "coin" : 267,
+      "dragon_soul" : 367,
+      "exp" : 167,
+      "role_level" : 68,
+      "soul" : 467
+   },
+   {
+      "coin" : 268,
+      "dragon_soul" : 368,
+      "exp" : 168,
+      "role_level" : 69,
+      "soul" : 468
+   },
+   {
+      "coin" : 269,
+      "dragon_soul" : 369,
+      "exp" : 169,
+      "role_level" : 70,
+      "soul" : 469
+   },
+   {
+      "coin" : 270,
+      "dragon_soul" : 370,
+      "exp" : 170,
+      "role_level" : 71,
+      "soul" : 470
+   },
+   {
+      "coin" : 271,
+      "dragon_soul" : 371,
+      "exp" : 171,
+      "role_level" : 72,
+      "soul" : 471
+   },
+   {
+      "coin" : 272,
+      "dragon_soul" : 372,
+      "exp" : 172,
+      "role_level" : 73,
+      "soul" : 472
+   },
+   {
+      "coin" : 273,
+      "dragon_soul" : 373,
+      "exp" : 173,
+      "role_level" : 74,
+      "soul" : 473
+   },
+   {
+      "coin" : 274,
+      "dragon_soul" : 374,
+      "exp" : 174,
+      "role_level" : 75,
+      "soul" : 474
+   },
+   {
+      "coin" : 275,
+      "dragon_soul" : 375,
+      "exp" : 175,
+      "role_level" : 76,
+      "soul" : 475
+   },
+   {
+      "coin" : 276,
+      "dragon_soul" : 376,
+      "exp" : 176,
+      "role_level" : 77,
+      "soul" : 476
+   }
+]

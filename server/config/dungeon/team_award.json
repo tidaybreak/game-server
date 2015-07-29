@@ -1,0 +1,847 @@
+[
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810161 ],
+      "exp" : 80000,
+      "friendship" : 600,
+      "gold" : 5000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 10102301, 1, 1000 ],
+         [ 10202301, 1, 1000 ],
+         [ 10302301, 1, 1000 ],
+         [ 10402301, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204000,
+      "scene_name" : "骑士团训练场(Lv.15)",
+      "soul" : 5000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810162 ],
+      "exp" : 80000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50003302, 1, 1000 ],
+         [ 50003306, 1, 1000 ],
+         [ 10302301, 1, 1000 ],
+         [ 10402301, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204003,
+      "scene_name" : "甜水绿洲(Lv.20)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204001,
+      "scene_name" : "甜水绿洲(Lv.20)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810163 ],
+      "exp" : 300000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50001202, 1, 1000 ],
+         [ 50001201, 1, 1000 ],
+         [ 50002506, 1, 1000 ],
+         [ 50002504, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204002,
+      "scene_name" : "精灵墓地(Lv.25)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810164 ],
+      "exp" : 300000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50002303, 1, 1000 ],
+         [ 50002301, 1, 1000 ],
+         [ 50004306, 1, 1000 ],
+         [ 50004302, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204004,
+      "scene_name" : "废墟探秘(Lv.30)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810165 ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204006,
+      "scene_name" : "废墟井底(Lv.30)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810165 ],
+      "exp" : 300000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50002303, 1, 1000 ],
+         [ 50002301, 1, 1000 ],
+         [ 50002716, 1, 1000 ],
+         [ 50004302, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204007,
+      "scene_name" : "亚龙人领地(Lv.35)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810166 ],
+      "exp" : 400000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000716, 1, 1000 ],
+         [ 10104402, 1, 1000 ],
+         [ 10104403, 1, 1000 ],
+         [ 10104404, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204008,
+      "scene_name" : "大衮领地(Lv.40)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810168 ],
+      "exp" : 400000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505543, 1, 1000 ],
+         [ 50000716, 1, 1000 ],
+         [ 10104402, 1, 1000 ],
+         [ 10104403, 1, 1000 ],
+         [ 10104404, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204108,
+      "scene_name" : "大衮领地【噩梦】(Lv.40)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810167 ],
+      "exp" : 400000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000710, 1, 1000 ],
+         [ 10104402, 1, 1000 ],
+         [ 10104403, 1, 1000 ],
+         [ 10104404, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204009,
+      "scene_name" : "亡灵深渊(Lv.45)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204010,
+      "scene_name" : "亡灵深渊(Lv.45)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810169 ],
+      "exp" : 400000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505543, 1, 1000 ],
+         [ 50000710, 1, 1000 ],
+         [ 10104402, 1, 1000 ],
+         [ 10104403, 1, 1000 ],
+         [ 10104404, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204109,
+      "scene_name" : "亡灵深渊【噩梦】(Lv.45)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204110,
+      "scene_name" : "亡灵深渊【噩梦】(Lv.45)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810181 ],
+      "exp" : 500000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000706, 1, 1000 ],
+         [ 10105401, 1, 1000 ],
+         [ 10105402, 1, 1000 ],
+         [ 10105403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204011,
+      "scene_name" : "狂怒元素(Lv.50)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204012,
+      "scene_name" : "狂怒元素(Lv.50)"
+   },
+   {
+      "scene_id" : 80204013,
+      "scene_name" : "狂怒元素(Lv.50)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810185 ],
+      "exp" : 500000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505553, 1, 1000 ],
+         [ 50000706, 1, 1000 ],
+         [ 10105401, 1, 1000 ],
+         [ 10105402, 1, 1000 ],
+         [ 10105403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204111,
+      "scene_name" : "狂怒元素【噩梦】(Lv.50)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204112,
+      "scene_name" : "狂怒元素【噩梦】(Lv.50)"
+   },
+   {
+      "scene_id" : 80204113,
+      "scene_name" : "狂怒元素【噩梦】(Lv.50)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810181 ],
+      "exp" : 650000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000707, 1, 1000 ],
+         [ 10105401, 1, 1000 ],
+         [ 10105402, 1, 1000 ],
+         [ 10105403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204014,
+      "scene_name" : "叛军征战(Lv.55)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204015,
+      "scene_name" : "叛军征战(Lv.55)"
+   },
+   {
+      "scene_id" : 80204016,
+      "scene_name" : "叛军征战(Lv.55)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812104 ],
+      "exp" : 650000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505553, 1, 1000 ],
+         [ 50000707, 1, 1000 ],
+         [ 10105401, 1, 1000 ],
+         [ 10105402, 1, 1000 ],
+         [ 10105403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204114,
+      "scene_name" : "叛军征战【噩梦】(Lv.55)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204115,
+      "scene_name" : "叛军征战【噩梦】(Lv.55)"
+   },
+   {
+      "scene_id" : 80204116,
+      "scene_name" : "叛军征战【噩梦】(Lv.55)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812004 ],
+      "exp" : 750000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10106401, 1, 1000 ],
+         [ 10106402, 1, 1000 ],
+         [ 10106403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204017,
+      "scene_name" : "暗影墓地(Lv.60)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204018,
+      "scene_name" : "暗影墓地(Lv.60)"
+   },
+   {
+      "scene_id" : 80204019,
+      "scene_name" : "暗影墓地(Lv.60)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60810189 ],
+      "exp" : 750000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505553, 1, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10106401, 1, 1000 ],
+         [ 10106402, 1, 1000 ],
+         [ 10106403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204117,
+      "scene_name" : "暗影墓地【噩梦】(Lv.60)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204118,
+      "scene_name" : "暗影墓地【噩梦】(Lv.60)"
+   },
+   {
+      "scene_id" : 80204119,
+      "scene_name" : "暗影墓地【噩梦】(Lv.60)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812004 ],
+      "exp" : 900000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10106401, 1, 1000 ],
+         [ 10106402, 1, 1000 ],
+         [ 10106403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204020,
+      "scene_name" : "血色营地(Lv.65)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204021,
+      "scene_name" : "血色营地(Lv.65)"
+   },
+   {
+      "scene_id" : 80204022,
+      "scene_name" : "血色营地(Lv.65)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812108 ],
+      "exp" : 900000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505563, 1, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10106401, 1, 1000 ],
+         [ 10106402, 1, 1000 ],
+         [ 10106403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204120,
+      "scene_name" : "血色营地【噩梦】(Lv.65)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204121,
+      "scene_name" : "血色营地【噩梦】(Lv.65)"
+   },
+   {
+      "scene_id" : 80204122,
+      "scene_name" : "血色营地【噩梦】(Lv.65)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812004 ],
+      "exp" : 1000000,
+      "friendship" : 600,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 502503, 0, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10107401, 1, 1000 ],
+         [ 10107402, 1, 1000 ],
+         [ 10107403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204023,
+      "scene_name" : "邪恶之地(Lv.70)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204024,
+      "scene_name" : "邪恶之地(Lv.70)"
+   },
+   {
+      "scene_id" : 80204025,
+      "scene_name" : "邪恶之地(Lv.70)"
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "drops" : [ 60812112 ],
+      "exp" : 1000000,
+      "friendship" : 1000,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 20505563, 1, 1000 ],
+         [ 50000708, 1, 1000 ],
+         [ 10107401, 1, 1000 ],
+         [ 10107402, 1, 1000 ],
+         [ 10107403, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80204123,
+      "scene_name" : "邪恶之地【噩梦】(Lv.70)",
+      "soul" : 10000
+   },
+   {
+      "scene_id" : 80204124,
+      "scene_name" : "邪恶之地【噩梦】(Lv.70)"
+   },
+   {
+      "scene_id" : 80204125,
+      "scene_name" : "邪恶之地【噩梦】(Lv.70)"
+   },
+   {
+      "exp" : 20000,
+      "friendship" : 300,
+      "gold" : 2000,
+      "scene_id" : 80205001,
+      "scene_name" : "玛拉凯斯",
+      "soul" : 120000
+   },
+   {
+      "exp" : 30000,
+      "friendship" : 300,
+      "gold" : 4000,
+      "scene_id" : 80205101,
+      "scene_name" : "玛拉凯斯【噩梦】",
+      "soul" : 180000
+   },
+   {
+      "exp" : 40000,
+      "friendship" : 300,
+      "gold" : 5000,
+      "scene_id" : 80205002,
+      "scene_name" : "赫玛耐斯·莫拉",
+      "soul" : 240000
+   },
+   {
+      "exp" : 50000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "scene_id" : 80205102,
+      "scene_name" : "赫玛耐斯·莫拉【噩梦】",
+      "soul" : 300000
+   },
+   {
+      "exp" : 60000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "scene_id" : 80205003,
+      "scene_name" : "海尔辛",
+      "soul" : 360000
+   },
+   {
+      "exp" : 80000,
+      "friendship" : 300,
+      "gold" : 20000,
+      "scene_id" : 80205103,
+      "scene_name" : "海尔辛【噩梦】",
+      "soul" : 420000
+   },
+   {
+      "exp" : 100000,
+      "friendship" : 300,
+      "gold" : 15000,
+      "scene_id" : 80205004,
+      "scene_name" : "梅鲁斯大衮",
+      "soul" : 480000
+   },
+   {
+      "exp" : 120000,
+      "friendship" : 300,
+      "gold" : 30000,
+      "scene_id" : 80205104,
+      "scene_name" : "梅鲁斯大衮【噩梦】",
+      "soul" : 600000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 50000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208001,
+      "scene_name" : "守卫帝都(Lv.35)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 100000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208002,
+      "scene_name" : "守卫帝都(Lv.40)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 150000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208003,
+      "scene_name" : "守卫帝都(Lv.45)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 200000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208004,
+      "scene_name" : "守卫帝都(Lv.50)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208005,
+      "scene_name" : "守卫帝都(Lv.55)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208006,
+      "scene_name" : "守卫帝都(Lv.60)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208007,
+      "scene_name" : "守卫帝都(Lv.65)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208008,
+      "scene_name" : "守卫帝都(Lv.70)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208009,
+      "scene_name" : "守卫帝都(Lv.75)",
+      "soul" : 10000
+   },
+   {
+      "drop_lv_coe" : 1,
+      "drop_lv_limit" : 1,
+      "drop_mult_coe" : 1,
+      "drop_mult_mode" : 0,
+      "drop_type" : 2,
+      "exp" : 250000,
+      "friendship" : 300,
+      "gold" : 10000,
+      "goods_drop" : [
+         [ 501502, 0, 10000 ],
+         [ 502903, 0, 10000 ],
+         [ 20202410, 1, 1000 ],
+         [ 20202411, 1, 1000 ]
+      ],
+      "res_lv_coe" : 1,
+      "res_lv_limit" : 1,
+      "res_mult_coe" : 1,
+      "scene_id" : 80208010,
+      "scene_name" : "守卫帝都(Lv.80)",
+      "soul" : 10000
+   }
+]

@@ -1,0 +1,302 @@
+[
+   {
+      "op_type" : 1,
+      "ring_num" : 50,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 1,
+      "ring_num" : 100,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 1,
+      "ring_num" : 150,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 1,
+      "ring_num" : 200,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 1,
+      "ring_num" : 250,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 1,
+      "ring_num" : 300,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 41,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 42,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 43,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 44,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 45,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 46,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 47,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 48,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 49,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 91,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 92,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 93,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 94,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 95,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 96,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 97,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 98,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 99,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 141,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 142,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 143,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 144,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 145,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 146,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 147,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 148,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 149,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 191,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 192,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 193,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 194,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 195,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 196,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 197,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 198,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 199,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 241,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 242,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 243,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 244,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 245,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 246,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 247,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 248,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 249,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 291,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 292,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 293,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 294,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 295,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 296,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 297,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 298,
+      "ring_type" : 3
+   },
+   {
+      "op_type" : 2,
+      "ring_num" : 299,
+      "ring_type" : 3
+   }
+]

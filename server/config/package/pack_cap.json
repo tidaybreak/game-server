@@ -1,0 +1,302 @@
+[
+   {
+      "diamond" : 5,
+      "line" : 1,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 10,
+      "line" : 2,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 15,
+      "line" : 3,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 20,
+      "line" : 4,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 25,
+      "line" : 5,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 30,
+      "line" : 6,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 35,
+      "line" : 7,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 40,
+      "line" : 8,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 45,
+      "line" : 9,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 50,
+      "line" : 10,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 55,
+      "line" : 11,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 60,
+      "line" : 12,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 65,
+      "line" : 13,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 70,
+      "line" : 14,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 75,
+      "line" : 15,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 80,
+      "line" : 16,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 85,
+      "line" : 17,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 90,
+      "line" : 18,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 95,
+      "line" : 19,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 100,
+      "line" : 20,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 105,
+      "line" : 21,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 110,
+      "line" : 22,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 115,
+      "line" : 23,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 120,
+      "line" : 24,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 125,
+      "line" : 25,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 130,
+      "line" : 26,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 135,
+      "line" : 27,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 140,
+      "line" : 28,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 145,
+      "line" : 29,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 150,
+      "line" : 30,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 155,
+      "line" : 31,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 160,
+      "line" : 32,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 165,
+      "line" : 33,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 170,
+      "line" : 34,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 175,
+      "line" : 35,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 180,
+      "line" : 36,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 185,
+      "line" : 37,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 190,
+      "line" : 38,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 195,
+      "line" : 39,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 200,
+      "line" : 40,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 205,
+      "line" : 41,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 210,
+      "line" : 42,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 215,
+      "line" : 43,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 220,
+      "line" : 44,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 225,
+      "line" : 45,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 230,
+      "line" : 46,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 235,
+      "line" : 47,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 240,
+      "line" : 48,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 245,
+      "line" : 49,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 250,
+      "line" : 50,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 255,
+      "line" : 51,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 260,
+      "line" : 52,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 265,
+      "line" : 53,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 270,
+      "line" : 54,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 275,
+      "line" : 55,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 280,
+      "line" : 56,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 285,
+      "line" : 57,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 290,
+      "line" : 58,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 295,
+      "line" : 59,
+      "lvl" : 1
+   },
+   {
+      "diamond" : 300,
+      "line" : 60,
+      "lvl" : 1
+   }
+]

@@ -1,0 +1,116 @@
+/*
+ * Status_Def.h
+ *
+ *  Created on: Mar 18, 2014
+ *      Author: ti
+ */
+
+#ifndef STATUS_DEF_H_
+#define STATUS_DEF_H_
+
+enum Status_HBeat_Type{
+	STATUS_TYPE_TIME 	= 1,		//计时心跳
+	STATUS_TYPE_SHOT 	= 2,		//出手心跳
+	STATUS_TYPE_PASSIVE = 3,		//触发心跳
+};
+
+enum Status_Effect_HBeat_Type{
+	EFFECT_TYPE_TIME = 1,		//计时心跳
+	EFFECT_TYPE_SHOT = 2,		//出手心跳
+	EFFECT_TYPE_PASSIVE = 3,	//触发心跳
+};
+
+enum Statue_Character_Type {
+	TYPE_CHARACTER_GOOD = 1,			//良性
+	TYPE_CHARACTER_NEUTRAL = 2,			//中性
+	TYPE_CHARACTER_BAD = 3,				//恶性
+	TYPE_CHARACTER_END,
+};
+
+enum Statue_Source_Type {
+	TYPE_SOURCE_SKILL = 1,
+	TYPE_SOURCE_BE_SKILL,
+	TYPE_SOURCE_GOODS,
+	TYPE_SOURCE_MECHINE,
+	TYPE_SOURCE_BUFF,
+	TYPE_SOURCE_END,
+};
+//
+//enum Status_Effect_Type {
+//	STATUS_EFFECT_TYPE_ATTR = 1,				//普通加属性
+//	STATUS_EFFECT_TYPE_POISON = 2,				//中毒
+//	STATUS_EFFECT_TYPE_T_ATTR = 3,				//心跳加属性
+//	STATUS_EFFECT_TYPE_DIZZ = 100,				//眩晕
+//	STATUS_EFFECT_TYPE_END,
+//};
+
+
+enum {
+	DEBUFF_UNCLASSIFIED	= 0x1,		// 未分类debuff
+	DEBUFF_STUN 		= 0x2, 		// 晕眩
+	DEBUFF_SILENCE 		= 0x4,		// 沉默
+	DEBUFF_SLOW			= 0x8,		// 减速
+	DEBUFF_IMMOBILIZED 	= 0x10,		// 定身
+	DEBUFF_FREEZE	 	= 0x20,		// 冰冻
+	DEBUFF_HURT			= 0x40,		// 流血
+
+	BUFF_DISPEL_ABLE_UNCLASSIFIED = 0x80000000,	// 未分类的可驱散buff
+
+	DEBUFF_PET_NOT_AVAIBLE = DEBUFF_STUN | DEBUFF_SILENCE | DEBUFF_IMMOBILIZED | DEBUFF_FREEZE,
+
+	DEBUFF_CONTROL = DEBUFF_STUN | DEBUFF_SLOW | DEBUFF_IMMOBILIZED | DEBUFF_FREEZE | DEBUFF_SILENCE,
+	// 所有debuff
+	DEBUFF_ALL = DEBUFF_UNCLASSIFIED | DEBUFF_STUN | DEBUFF_SILENCE |
+	DEBUFF_SLOW | DEBUFF_IMMOBILIZED | DEBUFF_FREEZE | DEBUFF_HURT,
+
+	BUFF_ALL = BUFF_DISPEL_ABLE_UNCLASSIFIED,
+};
+const int STATUS_NEED_UPDATE = 1;		// status已被更新
+const int STATUS_NEED_ERASE = -2;		// status 需要删除
+
+namespace Status_Def {
+
+	enum Status_ID {
+		TASK_ESCORT_ADD_SPEED	= 10010001,			/// 运镖加速
+	};
+
+	enum Effect_ID {
+		EFFECT_NONE						= 0,
+
+		STATUS_EFFECT_TYPE_DIZZ 		= 100,		//眩晕
+		STATUS_EFFECT_TYPE_STOIC 		= 101,		//霸体
+		STATUS_EFFECT_TYPE_CURE_BY_PROP	= 102,		//按属性治疗
+		STATUS_EFFECT_TYPE_HURT_LINK	= 103,		// 伤害链
+		STATUS_EFFECT_TYPE_TAUNT		= 104,		// 嘲讽
+		STATUS_EFFECT_TYPE_LOCK			= 105,		// 锁定
+		STATUS_EFFECT_TYPE_SHIELD		= 106,		// 护盾
+		STATUS_EFFECT_TYPE_INVINCIBLE	= 107,		// 无敌
+		STATUS_EFFECT_TYPE_CURE_LINK	= 108,		// 治疗链
+		STATUS_EFFECT_TYPE_ATTR 		= 109,		// 普通加属性
+		STATUS_EFFECT_TYPE_POISON 		= 110,		// 中毒
+		STATUS_EFFECT_TYPE_T_ATTR 		= 111,		// 心跳加属性
+		STATUS_EFFECT_TYPE_SILENT		= 112,		// 沉默
+		STATUS_EFFECT_TYPE_CONFUSION	= 113,		// 混乱
+		STATUS_EFFECT_TYPE_EXP			= 114,		// 经验加成
+		STATUS_EFFECT_TYPE_ENCHANT_RATE	= 115,		// 加熔炼概率
+		STATUS_EFFECT_TYPE_BLOOD_BY_PER	= 116,		// 回复百分比生命
+		STATUS_EFFECT_TYPE_EXP_PER		= 117,		// 每隔30秒获得1次经验，篝火等级越高，单次获得经验越多。
+		STATUS_EFFECT_TYPE_SHAPE_SHEEP	= 118,		// 变形
+		STATUS_ET_ATTR_WITH_HERO		= 119,		// 主角英雄一起加属性
+		STATUS_ET_REBOUND				= 120,		// 反弹
+		STATUS_ET_POISON_BY_EXPRESSION	= 121,		// 中毒按公式算
+		STATUS_ET_CHANGE_FASHION		= 122,		// 变身
+		STATUS_ET_EXP_TWO				= 123,		// 优先经验加成
+		STATUS_ET_DIRECT_DIE			= 124,		// 直死
+		STATUS_ET_EXP_ACTIVITY			= 125,		//
+		STATUS_ET_SWITCH				= 126,		//
+
+		EFFECT_END,
+	};
+}
+enum Status_Fight_Type {
+	SFT_SCENE	= 0,
+	SFT_FIGHT	= 1,
+};
+
+#endif /* STATUS_DEF_H_ */

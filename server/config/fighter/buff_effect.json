@@ -1,0 +1,1115 @@
+[
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33010100,
+      "buff_effecttype" : 100,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 83010100,
+      "buff_effecttype" : 100,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13050100,
+      "buff_effecttype" : 101,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010118,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010100,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010101,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33080100,
+      "buff_effecttype" : 103,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13020100,
+      "buff_effecttype" : 104,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33030100,
+      "buff_effecttype" : 105,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13070100,
+      "buff_effecttype" : 106,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13070200,
+      "buff_effecttype" : 106,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13060100,
+      "buff_effecttype" : 107,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13090100,
+      "buff_effecttype" : 108,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 9,
+      "buff_effectid" : 11010100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010101,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1,
+      "buff_triggertypeskill" : 61100501
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010102,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 10000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010103,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010104,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010105,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11010106,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 10,
+      "buff_effectid" : 11010122,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11090101,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11100100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11150100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11150200,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11150201,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 99,
+      "buff_effectid" : 12020301,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13020101,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13020103,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 99,
+      "buff_effectid" : 13020104,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 10,
+      "buff_effectid" : 13040100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 10,
+      "buff_effectid" : 13040101,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040102,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040103,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040104,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040105,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040106,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040107,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040108,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040109,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040111,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040112,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040131,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0, 0 ],
+      "buff_direct" : 4,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13130200,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0, 0 ],
+      "buff_heartbeattype" : [ 1, 3 ],
+      "buff_hit" : 1,
+      "buff_triggertypeskill" : 31000115
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 5,
+      "buff_effectid" : 13140100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0, 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13160100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0, 0 ],
+      "buff_heartbeattype" : [ 1, 3 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010200,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010300,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010400,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010500,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010600,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 9,
+      "buff_effectid" : 14020100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14030100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 31010100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 14900 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010108,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33040100,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 34201000,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 9,
+      "buff_effectid" : 34401000,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 34401003,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010100,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010101,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1 ],
+      "buff_heartbeattype" : [ 3 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010102,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 15,
+      "buff_effectid" : 32010103,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010104,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 2000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 99,
+      "buff_effectid" : 32010113,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 99,
+      "buff_effectid" : 32010116,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020100,
+      "buff_effecttype" : 111,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020200,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 1 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020300,
+      "buff_effecttype" : 111,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020400,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 1 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020307,
+      "buff_effecttype" : 111,
+      "buff_heartbeatgap" : [ 10000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33110100,
+      "buff_effecttype" : 112,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33120100,
+      "buff_effecttype" : 113,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010100,
+      "buff_effecttype" : 114,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010101,
+      "buff_effecttype" : 123,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14010102,
+      "buff_effecttype" : 125,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 34401002,
+      "buff_effecttype" : 115,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010104,
+      "buff_effecttype" : 116,
+      "buff_heartbeatgap" : [ 15000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010105,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010106,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 10000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 34401001,
+      "buff_effecttype" : 117,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33150100,
+      "buff_effecttype" : 118,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 10000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33150101,
+      "buff_effecttype" : 118,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 10000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33150102,
+      "buff_effecttype" : 100,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 10000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33150103,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 33150104,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11100400,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0, 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13130100,
+      "buff_effecttype" : 120,
+      "buff_heartbeatgap" : [ 0, 0 ],
+      "buff_heartbeattype" : [ 1, 3 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010106,
+      "buff_effecttype" : 121,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 1600 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010107,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1600 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 2000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010108,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 2000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 2400 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010109,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 2400 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12010110,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13170100,
+      "buff_effecttype" : 122,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 8,
+      "buff_effectid" : 11160101,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 11160102,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12020306,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040141,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040142,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13040125,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 5000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 32010115,
+      "buff_effecttype" : 110,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 9000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 23180001,
+      "buff_effecttype" : 124,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 0
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13020211,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 13020212,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 5,
+      "buff_effectid" : 31010103,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 5,
+      "buff_effectid" : 13170104,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 1000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 1,
+      "buff_effectid" : 99999999,
+      "buff_effecttype" : 109,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1,
+      "buff_triggertypeskill" : 82500001
+   },
+   {
+      "buff_delay" : [ 3000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14000001,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 3000 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 12190001,
+      "buff_effecttype" : 126,
+      "buff_heartbeatgap" : [ 1000 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14200011,
+      "buff_effecttype" : 116,
+      "buff_heartbeatgap" : [ 0 ],
+      "buff_heartbeattype" : [ 2 ],
+      "buff_hit" : 1
+   },
+   {
+      "buff_delay" : [ 0 ],
+      "buff_direct" : 1,
+      "buff_effect_Overlay" : 0,
+      "buff_effectid" : 14200010,
+      "buff_effecttype" : 102,
+      "buff_heartbeatgap" : [ -1 ],
+      "buff_heartbeattype" : [ 1 ],
+      "buff_hit" : 1
+   }
+]

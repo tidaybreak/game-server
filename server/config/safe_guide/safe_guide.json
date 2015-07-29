@@ -1,0 +1,97 @@
+[
+   {
+      "safe_id" : 10301,
+      "safe_type" : 5,
+      "task_id" : 10100104
+   },
+   {
+      "safe_id" : 10401,
+      "safe_type" : 5,
+      "task_id" : 10100232
+   },
+   {
+      "safe_id" : 10701,
+      "safe_type" : 5,
+      "task_id" : 10100206
+   },
+   {
+      "safe_id" : 10801,
+      "safe_type" : 5,
+      "task_id" : 10100230
+   },
+   {
+      "safe_id" : 10901,
+      "safe_type" : 5,
+      "task_id" : 10100230
+   },
+   {
+      "safe_id" : 11001,
+      "safe_type" : 5,
+      "task_id" : 10100237
+   },
+   {
+      "safe_id" : 11101,
+      "safe_type" : 5,
+      "task_id" : 10100314
+   },
+   {
+      "safe_id" : 11301,
+      "safe_type" : 5,
+      "task_id" : 10100225
+   },
+   {
+      "safe_id" : 11401,
+      "safe_type" : 5,
+      "task_id" : 10100310
+   },
+   {
+      "safe_id" : 11501,
+      "safe_type" : 5,
+      "task_id" : 10100326
+   },
+   {
+      "safe_id" : 11601,
+      "safe_type" : 5,
+      "task_id" : 10100325
+   },
+   {
+      "safe_id" : 20101103,
+      "safe_type" : 2,
+      "task_id" : 10100112
+   },
+   {
+      "safe_id" : 60210021,
+      "safe_type" : 3,
+      "task_id" : 10100104
+   },
+   {
+      "safe_id" : 60210021,
+      "safe_type" : 6,
+      "task_id" : 10100104
+   },
+   {
+      "param1" : 5,
+      "safe_id" : 60210021,
+      "safe_type" : 2,
+      "task_id" : 10100117
+   },
+   {
+      "param1" : 2,
+      "safe_id" : 60210021,
+      "safe_type" : 7,
+      "task_id" : 10100108
+   },
+   {
+      "safe_id" : 11901,
+      "safe_level" : 40,
+      "safe_type" : 5,
+      "task_id" : 10100501
+   },
+   {
+      "client_safe_id" : [ 11100201, 12100201, 13100201 ],
+      "flat_type" : 1,
+      "param1" : 1,
+      "safe_type" : 1,
+      "task_id" : 10100103
+   }
+]

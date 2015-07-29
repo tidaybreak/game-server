@@ -1,0 +1,40 @@
+[
+   {
+      "act_id" : 20025,
+      "id" : 1,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "enchanting_x_num_reward",
+            "item_id" : 20511401,
+            "num" : 10,
+            "type" : 1
+         },
+         {
+            "from_table" : "enchanting_x_num_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20037,
+      "id" : 2,
+      "num" : 50,
+      "reward" : [
+         {
+            "from_table" : "enchanting_x_num_reward",
+            "item_id" : 20511401,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "enchanting_x_num_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   }
+]

@@ -1,0 +1,290 @@
+[
+   {
+      "act_id" : 20014,
+      "id" : 1,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1,
+      "val" : 500000
+   },
+   {
+      "act_id" : 20014,
+      "id" : 2,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 300000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 300000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ],
+      "sval" : 0,
+      "type" : 3,
+      "val" : 10
+   },
+   {
+      "act_id" : 20014,
+      "id" : 3,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 200000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 200000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 3,
+            "type" : 1
+         }
+      ],
+      "sval" : 10,
+      "type" : 3,
+      "val" : 30
+   },
+   {
+      "act_id" : 20014,
+      "id" : 4,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 150000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 150000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ],
+      "sval" : 30,
+      "type" : 3,
+      "val" : 50
+   },
+   {
+      "act_id" : 20014,
+      "id" : 5,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 100000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "sval" : 50,
+      "type" : 3,
+      "val" : 100
+   },
+   {
+      "act_id" : 20039,
+      "id" : 6,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 500000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 500000,
+            "type" : 2
+         }
+      ],
+      "type" : 1,
+      "val" : 1000000
+   },
+   {
+      "act_id" : 20039,
+      "id" : 7,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1,
+      "val" : 5000000
+   },
+   {
+      "act_id" : 20039,
+      "id" : 8,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 3000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 3000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ],
+      "sval" : 0,
+      "type" : 3,
+      "val" : 10
+   },
+   {
+      "act_id" : 20039,
+      "id" : 9,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 2000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 3,
+            "type" : 1
+         }
+      ],
+      "sval" : 10,
+      "type" : 3,
+      "val" : 30
+   },
+   {
+      "act_id" : 20039,
+      "id" : 10,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 1500000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 1500000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ],
+      "sval" : 30,
+      "type" : 3,
+      "val" : 50
+   },
+   {
+      "act_id" : 20039,
+      "id" : 11,
+      "reward" : [
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 501502,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 502903,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "world_boss_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "sval" : 50,
+      "type" : 3,
+      "val" : 100
+   }
+]

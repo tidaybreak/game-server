@@ -1,0 +1,58 @@
+[
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [],
+      "item_id" : [ 10102302, 10102303, 10102304 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10202305 ],
+      "item_id" : [ 10202302, 10202303, 10202304 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10302305 ],
+      "item_id" : [ 10302302, 10302303, 10302304 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10402305 ],
+      "item_id" : [ 10402302, 10402303, 10402304 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10502301 ],
+      "hero_other_id" : [ 10502302 ],
+      "item_id" : [ 10502301, 10502301, 10502301 ],
+      "other_id" : [ 10502302 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10502302 ],
+      "hero_other_id" : [ 10502301 ],
+      "item_id" : [ 10502302, 10502302, 10502302 ],
+      "other_id" : [ 10502301 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10602301 ],
+      "hero_other_id" : [ 10602501, 10602302, 10602502 ],
+      "item_id" : [ 10602301, 10602301, 10602301 ],
+      "other_id" : [ 10602501, 10602302, 10602502 ]
+   },
+   {
+      "getMod" : "GameExchange,0",
+      "getModDesc" : "上古硬币兑换",
+      "hero_item_id" : [ 10602302 ],
+      "hero_other_id" : [ 10602501, 10602301, 10602502 ],
+      "item_id" : [ 10602302, 10602302, 10602302 ],
+      "other_id" : [ 10602501, 10602301, 10602502 ]
+   }
+]

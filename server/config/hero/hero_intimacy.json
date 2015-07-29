@@ -1,0 +1,392 @@
+[
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 1,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60210021,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "练习魔法这么久,我变得越来越不怕冷了",
+         "有没有礼物给我啊?",
+         "呼哈,我想养一只小宠物",
+         "不知道城市里面有没有魔法书",
+         "雪花好漂亮,为什么你们都不注意呢?",
+         "好久都没有滑雪了,好想去…",
+         "我想看看书,学习一些火系法术,冰火双重天什么的.",
+         "多走走可以有助于取暖"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 2,
+      "hero_id" : 60230004,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "你看到我的小熊了吗?",
+         "我以前有个朋友叫安妮,可惜突然失踪了.",
+         "我这把枪可是高级精灵器械!",
+         "",
+         "为什么人类都喜欢吃动物啊!动物这么可爱!",
+         "想和我比比谁瞄的准吗?",
+         "别看我个子小,其实我年龄比你还大咧!",
+         "熊熊要是小一点就好了.."
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60210002,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "啊哈!咱们来打一场吧!",
+         "没有战斗的日子还真是无聊啊!",
+         "呼哈!最近的年轻兽人都太懒散了.",
+         "帮我想想怎么提高族人的文化水平",
+         "我们出去徒手打猎吧!",
+         "兽人想吃肉了.",
+         "我这副拳套足足有200斤!",
+         "兽人的先祖注视着我"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 2,
+      "hero_id" : 60220001,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "你能品尝到死亡的滋味吗?",
+         "事实上,我曾经死过一次",
+         "亡灵族的人都讨厌恶魔",
+         "我应该给我的剑附上点魔法",
+         "我这把大刀已经很久没饮血了",
+         "想和我过两招么?",
+         "天下刀法,唯快不破",
+         "我还是喜欢夜间行动"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230003,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "其实月亮也是一种星星,你知道吗?",
+         "仰望天空,你会发现这个世界很小",
+         "我的魔法,都是来源于天空的力量",
+         "能陪我看看书吗?",
+         "昨晚的流星是我在实验新魔法",
+         "或许我该学学其他魔法了",
+         "白昼之时,星空的力量依旧强大",
+         ""
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60220002,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "我是精灵族的,不是兽人族!",
+         "没事的时候不要来找我",
+         "只有弱者才需要理由",
+         "我的坐骑肚子饿了",
+         "很少碰到有实力的对手了",
+         "有空帮我磨磨刀子吧",
+         "刀刃在我看来比魔法更有用",
+         "速度,是我战斗的精髓"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 2,
+      "hero_id" : 60220004,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "嗨~想听我唱一首歌吗?",
+         "唉~你们男人还真不懂女人",
+         "送我一块亮晶晶的宝石吧",
+         "我的武器可以不华丽,但必须炫丽",
+         "愚蠢的人类,请叫我女王",
+         "蜘蛛女王,这个称呼不错",
+         "能陪我玩个游戏吗?",
+         "哈哈,你战斗的时候真可爱"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60210003,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "力量!就是战士的荣耀",
+         "你的铠甲看上去就像纸糊的",
+         "喂,平时战斗不要把我放到后排",
+         "我饿了,我们出去打猎吧?",
+         "太久没打仗我都快生锈了",
+         "别老是让我抗伤害,我也要砍人!",
+         "你能找些厉害的敌人给我么?",
+         "看着我的眼睛,够不够威武?"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230002,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "你想尝尝我新酿制的毒液吗?",
+         "我想一些学更高级的魔法",
+         "召唤的家伙不会聊天,真无聊",
+         "你是来看我练习魔法的吗?",
+         "魔法,是我力量的源泉",
+         "我的魔法可是来自冥界",
+         "多和我说说话,或许会预见到什么",
+         ""
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 2,
+      "hero_id" : 60230001,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "疯狂的滋味,想试试么?",
+         "找我什么事?",
+         "我现在在想东西呢",
+         "!@##$% 这个魔法公式怎么错了?",
+         "我的魔法是不是特别美丽?",
+         "",
+         "别动,我在研究定身咒",
+         "魔法是我最好的武器"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60220003,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "啊啊!我闻到肉的香味了",
+         "我的大刀已经饥渴难耐!",
+         "没有人能在我面前撑过5分钟",
+         "有办法让我发火么?",
+         "要么请我吃肉!要么滚开!",
+         "我饿了!",
+         "不要这样,我从良很久了",
+         "你瞅啥?找抽是不"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230010,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "吟唱吧,风暴!",
+         "谁说男人就不能喜欢宝石?",
+         "不要小看风的力量",
+         "嘘,听到风的声音了吗?",
+         "我的魔法可不是无偿学来的",
+         "好久都没有见过大魔导师了",
+         "别打扰我,我可不喜欢这样",
+         "哼哼,精灵族都喜欢闪亮的东西"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60210004,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "这可是涂满了剧毒的刀刃(舔)",
+         "小心别碰我的刀刃",
+         "找我?是想试试我的刀子么?",
+         "杀杀杀,反正杀掉敌人就对了",
+         "只要出得起价钱,恶魔都会为你效力",
+         "混蛋,上次对手太强,加钱啊!",
+         "杀手也是需要价钱的",
+         "下一个对手是谁?"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 2,
+      "hero_id" : 60210001,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "哼,小心被火焰咬伤了",
+         "我的围巾好看么?这是火焰制成的",
+         "",
+         "没有人能在火焰前放肆",
+         "告诉我,敌人在哪?",
+         "我喜欢挑战强者",
+         "下一个对手是谁?",
+         "燃烧吧!弱小的东西们"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230006,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "你能品尝到死亡的滋味吗?",
+         "事实上,我曾经死过一次",
+         "亡灵族的人都讨厌恶魔",
+         "我应该给我的剑附上点魔法",
+         "我这把大刀已经很久没饮血了",
+         "想和我过两招么?",
+         "天下刀法,唯快不破",
+         "我还是喜欢夜间行动"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60220006,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "力量!就是战士的荣耀",
+         "你的铠甲看上去就像纸糊的",
+         "喂,平时战斗不要把我放到后排",
+         "我饿了,我们出去打猎吧?",
+         "太久没打仗我都快生锈了",
+         "别老是让我抗伤害,我也要砍人!",
+         "你能找些厉害的敌人给我么?",
+         "看着我的眼睛,够不够威武?"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 3,
+      "hero_hobby_gift_type" : 1,
+      "hero_id" : 60220005,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "啊啊!我闻到肉的香味了",
+         "我的大刀已经饥渴难耐!",
+         "没有人能在我面前撑过5分钟",
+         "有办法让我发火么?",
+         "要么请我吃肉!要么滚开!",
+         "我饿了!",
+         "不要这样,我从良很久了",
+         "你瞅啥?找抽是不"
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230007,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [
+         "你看到我的小熊了吗?",
+         "我以前有个朋友叫安妮,可惜突然失踪了.",
+         "我这把枪可是高级精灵器械!",
+         "",
+         "为什么人类都喜欢吃动物啊!动物这么可爱!",
+         "想和我比比谁瞄的准吗?",
+         "别看我个子小,其实我年龄比你还大咧!",
+         "熊熊要是小一点就好了.."
+      ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   },
+   {
+      "assist_intimacy_lvl" : 1,
+      "gift_talk" : [ "你真好", "谢谢你", "..." ],
+      "hero_hate_gift_type" : 2,
+      "hero_hobby_gift_type" : 3,
+      "hero_id" : 60230009,
+      "hero_intimacy_map" : 60210021,
+      "idle_dialogue" : [ "我不想说话", "能看着我么", "我很烦", "我不想看到你" ],
+      "intimacy_convert_fix" : 5,
+      "intimacy_exp_fix" : 5,
+      "intimacy_lvl_limit" : 10
+   }
+]

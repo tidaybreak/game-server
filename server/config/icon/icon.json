@@ -1,0 +1,220 @@
+[
+   {
+      "id" : 10101,
+      "level" : 1,
+      "name" : "角色"
+   },
+   {
+      "id" : 10201,
+      "level" : 1,
+      "name" : "背包"
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10301,
+      "isInCopy" : 1,
+      "name" : "英雄",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100103,
+            "task_status" : 5
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10401,
+      "name" : "铁匠铺",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100239,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "id" : 10501,
+      "level" : 35,
+      "name" : "符石"
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10601,
+      "isInCopy" : 1,
+      "name" : "技能",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100111,
+            "task_status" : 5
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10701,
+      "name" : "龙谷",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100263,
+            "task_status" : 3
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10801,
+      "name" : "坐骑",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100114,
+            "task_status" : 3
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 10901,
+      "name" : "公会",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100286,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "id" : 11001,
+      "name" : "好友",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100108,
+            "task_status" : 5
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 11101,
+      "name" : "精英副本",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100226,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 11301,
+      "name" : "竞技场",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100293,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "id" : 11401,
+      "name" : "日常",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100303,
+            "task_status" : 3
+         }
+      ]
+   },
+   {
+      "id" : 11501,
+      "name" : "炼金",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100349,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 11601,
+      "name" : "兑换系统",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100247,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "forver_close_level" : 35,
+      "id" : 11701,
+      "is_forever_close" : 1,
+      "level" : 99,
+      "name" : "维尔"
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 11801,
+      "level" : 99,
+      "name" : "骑士"
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 11901,
+      "name" : "魔翼",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100501,
+            "task_status" : 5
+         }
+      ]
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 12001,
+      "level" : 33,
+      "name" : "卡牌"
+   },
+   {
+      "blackTimer" : 5000,
+      "id" : 12101,
+      "name" : "每日必做",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100345,
+            "task_status" : 4
+         }
+      ]
+   },
+   {
+      "id" : 12201,
+      "name" : "每月英雄",
+      "task" : [
+         {
+            "from_table" : "task",
+            "task_id" : 10100307,
+            "task_status" : 5
+         }
+      ]
+   },
+   {
+      "id" : 12301,
+      "level" : 35,
+      "name" : "远征"
+   }
+]

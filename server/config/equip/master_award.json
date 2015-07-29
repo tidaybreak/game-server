@@ -1,0 +1,18 @@
+[
+   {
+      "master_lv_stage" : 6,
+      "nature" : 10
+   },
+   {
+      "master_lv_stage" : 8,
+      "nature" : 15
+   },
+   {
+      "master_lv_stage" : 10,
+      "nature" : 20
+   },
+   {
+      "master_lv_stage" : 12,
+      "nature" : 25
+   }
+]

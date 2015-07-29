@@ -1,0 +1,37 @@
+{
+	"co_是否是死亡状态" : "Co_Die_Status",
+	/*"co_是否是休眠状态" : "Co_Dormancy_Status",*/
+	"co_是否返回状态" : "Co_Back_Status",
+	"co_是否有仇恨对象" : "Co_Hatred_List_Not_Null",
+	/*"co_仇恨列表是否为空" : "Co_Hatred_List_Is_Null",*/
+	/*"co_血量是否未满" : "Co_HP_Not_Full",*/
+	/*"co_血量是否为空" : "Co_HP_Is_Empty",*/
+	/*"co_攻击是否超时" : "Co_Attack_Is_Time_Out",*/
+	/*"co_是否有移动目标" : "Co_Has_Move_Target",*/
+
+	"be_空闲" : "Be_Idle",
+	/*"be_回收尸体" : "Be_NPC_Recover",*/
+	"be_设置死亡" : "Be_NPC_Die",
+
+	/*"be_A移动模式" : "Be_Move_Mode_A",*/
+	"be_B移动模式" : "Be_Move_Mode_B",
+	/*"be_D移动模式" : "Be_Move_Mode_D",				  滚石模式: 1寻路时忽略不可走点和碰撞,2到达目标或不可走点时死亡回收 */
+	
+	"be_A巡逻模式" : "Be_Patrol_Mode_A",			  /*出生点附近随机移动,当前位置和出生点超过一定距离则返回出生点  */
+	"be_追击模式" : "Be_Chase_Mode",
+	"be_返回模式" : "Be_Back_Mode"
+	/*"be_宠物模式" : "Be_Pet_Mode",*/
+	
+	/*"be_A战斗模式" : "Be_Battle_Mode_A",               被动怪攻击模式 当distance_of_fight大于0并且当前位置到出生点距离大于distance_of_fight时清空仇恨  */
+	/*"be_B战斗模式" : "Be_Battle_Mode_B",			    */
+
+	/*"be_设置为休眠状态" : "Be_Set_Dormancy_Status",	*/
+	/*"be_恢复满血" : "Be_Hp_Full",*/
+	/*"be_清空仇恨列表" : "Be_Clean_Hatred_List",*/
+
+	/*"be_清空巡逻路线" : "Be_Clean_Walk_Path",*/
+	/*"be_解除休眠满状态复活" : "Be_Dormancy_Breaking_And_Full_State",*/
+	/*"be_触发掉落" : "Be_Die_Drops",*/
+	/*"be_采集物模式" : "Be_Material_Mode",*/
+	/*"be_延时到下次复活时间复活" : "Be_Delay_Until_Next_Resurrection_Time_Resurrection"*/
+}

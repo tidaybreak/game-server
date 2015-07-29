@@ -1,0 +1,19 @@
+[
+   {
+      "base_score" : 1000,
+      "buff" : [
+         31170001,
+         [ -1 ],
+         [ 519007, -0.50 ]
+      ],
+      "fail_anima" : 1000,
+      "fail_gold" : 1000,
+      "fail_merit" : 5,
+      "fail_score" : 0,
+      "score_match" : [ 200, 300, 600, 1000, 1500 ],
+      "succ_anima" : 3000,
+      "succ_gold" : 3000,
+      "succ_merit" : 10,
+      "succ_score" : 50
+   }
+]

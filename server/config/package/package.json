@@ -1,0 +1,19 @@
+{
+	"super_item_id" : 20800401,
+	"trade_limit" : {
+		// 所有普通玩家均有此限制
+		"normal" : {
+			// 若没有配置，认为是没有限制
+			"gold_pay_limit" : 0,			// 元宝支出额度
+			"gold_get_limit" : 0,			// 元宝收入额度
+			"copper_pay_limit" : 0,			// 铜钱支出额度
+			"copper_get_limit" : 0			// 铜钱收入额度
+		},
+		"inner" : {
+			"gold_pay_limit" : 3000,			// 元宝支出额度
+			"gold_get_limit" : 0,				// 元宝收入额度
+			"copper_pay_limit" : 0,				// 铜钱支出额度
+			"copper_get_limit" : 0				// 铜钱收入额度
+		}
+	}
+}

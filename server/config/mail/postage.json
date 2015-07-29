@@ -1,0 +1,22 @@
+[
+   {
+      "number" : 0,
+      "postage" : 500
+   },
+   {
+      "number" : 1,
+      "postage" : 800
+   },
+   {
+      "number" : 2,
+      "postage" : 1100
+   },
+   {
+      "number" : 3,
+      "postage" : 1400
+   },
+   {
+      "number" : 4,
+      "postage" : 1700
+   }
+]

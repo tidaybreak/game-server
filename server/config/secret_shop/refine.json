@@ -1,0 +1,16 @@
+[
+   {
+      "base_success" : 20,
+      "cast_gold" : 2000,
+      "refine_sucess" : 10,
+      "skill_id" : 1001,
+      "skilled_max" : 100,
+      "skilled_once" : 10
+   },
+   {
+      "base_success" : 20,
+      "cast_gold" : 2000,
+      "refine_sucess" : 20,
+      "skill_id" : 1002
+   }
+]

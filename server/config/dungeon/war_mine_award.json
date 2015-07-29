@@ -1,0 +1,38 @@
+[
+   {
+      "nor_merit" : 2,
+      "nor_pieces" : 0,
+      "nor_rate" : 0.40,
+      "nor_score" : 10,
+      "reputation" : 5,
+      "spe_merit" : 10,
+      "spe_pieces" : 0,
+      "spe_rate" : 0.40,
+      "spe_reputation" : 5,
+      "spe_score" : 100
+   },
+   {
+      "nor_merit" : 4,
+      "nor_pieces" : 0,
+      "nor_rate" : 0.50,
+      "nor_score" : 20,
+      "reputation" : 10,
+      "spe_merit" : 20,
+      "spe_pieces" : 0,
+      "spe_rate" : 0.50,
+      "spe_reputation" : 10,
+      "spe_score" : 200
+   },
+   {
+      "nor_merit" : 6,
+      "nor_pieces" : 0,
+      "nor_rate" : 0.10,
+      "nor_score" : 30,
+      "reputation" : 15,
+      "spe_merit" : 30,
+      "spe_pieces" : 0,
+      "spe_rate" : 0.10,
+      "spe_reputation" : 15,
+      "spe_score" : 300
+   }
+]

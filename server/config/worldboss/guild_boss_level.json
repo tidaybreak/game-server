@@ -1,0 +1,669 @@
+[
+   {
+      "boss_kill" : 0,
+      "boss_level" : 1,
+      "drop_box" : [ 60801130 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701130,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 5,
+      "boss_level" : 2,
+      "drop_box" : [ 60801230 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701130,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 6,
+      "boss_level" : 3,
+      "drop_box" : [ 60801330 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701230,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 7,
+      "boss_level" : 4,
+      "drop_box" : [ 60801430 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701230,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 8,
+      "boss_level" : 5,
+      "drop_box" : [ 60801530 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701330,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 9,
+      "boss_level" : 6,
+      "drop_box" : [ 60801630 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701330,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 10,
+      "boss_level" : 7,
+      "drop_box" : [ 60801730 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701430,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 11,
+      "boss_level" : 8,
+      "drop_box" : [ 60801830 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701430,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 12,
+      "boss_level" : 9,
+      "drop_box" : [ 60801930 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701530,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 14,
+      "boss_level" : 10,
+      "drop_box" : [ 60802030 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701530,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 16,
+      "boss_level" : 11,
+      "drop_box" : [ 60802130 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701630,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 18,
+      "boss_level" : 12,
+      "drop_box" : [ 60802230 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701630,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 20,
+      "boss_level" : 13,
+      "drop_box" : [ 60802330 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701730,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 22,
+      "boss_level" : 14,
+      "drop_box" : [ 60802430 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701730,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 24,
+      "boss_level" : 15,
+      "drop_box" : [ 60802530 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701830,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 26,
+      "boss_level" : 16,
+      "drop_box" : [ 60802630 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701830,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 28,
+      "boss_level" : 17,
+      "drop_box" : [ 60802730 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701930,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 31,
+      "boss_level" : 18,
+      "drop_box" : [ 60802830 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63701930,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 34,
+      "boss_level" : 19,
+      "drop_box" : [ 60802930 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63702030,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 37,
+      "boss_level" : 20,
+      "drop_box" : [ 60803030 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63702030,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 40,
+      "boss_level" : 21,
+      "drop_box" : [ 60803130 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63702130,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 43,
+      "boss_level" : 22,
+      "drop_box" : [ 60803230 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63702130,
+      "rank_reward_money" : 1000
+   },
+   {
+      "boss_kill" : 47,
+      "boss_level" : 23,
+      "drop_box" : [ 60803330 ],
+      "first_blood_reward" : [
+         [ 20201417, 1 ]
+      ],
+      "first_kill_reward" : [
+         [ 20201418, 1 ]
+      ],
+      "high_hero_fix" : 24810000,
+      "high_hero_item" : [
+         [ 501502, 150000 ],
+         [ 502903, 150000 ]
+      ],
+      "hurt_reward" : 12,
+      "low_hero_fix" : 4960000,
+      "low_hero_item" : [
+         [ 501502, 50000 ],
+         [ 502903, 50000 ]
+      ],
+      "mid_hero_fix" : 14890000,
+      "mid_hero_item" : [
+         [ 501502, 100000 ],
+         [ 502903, 100000 ]
+      ],
+      "monster_id" : 63702230,
+      "rank_reward_money" : 1000
+   }
+]

@@ -1,0 +1,36 @@
+{
+    "Control" :  {
+        "name_prefix" : "lyy",      //帐号名前缀
+        "robot" : {
+            "total_count"          : 10000, //账号总数量
+            "online_count"         : 1000,  //机器人在线数量
+            "batch_login_num"       : 200,  //批量登录人数
+            "batch_login_interval"  : 5,    //批量登录间隔,单位s
+            "BatchLogoutNum"      : 200,  //批量登出人数
+            "BatchLogoutInterval" : 5     //批量登出间隔,单位s
+        },
+        "run_time" : 1000000,              //运行时间
+        "reconnect" :                     //重连设置
+        {
+            "disconn_time"    : 120,       //断连频率,单位s
+            "disconn_number"  : 50,       //断连数量,单位s
+            "reconn_interval" : 2          //断连后重登录间隔,单位s
+        },
+        "command_interval" :  500,        //设置命令发送间隔,500ms=0.5m, must>=500
+        "Move" :
+        {
+            "MoveSpeed"     : 200,
+            "MoveStepRange" : 300 
+        },
+        "AppointScene":                   //如果有定义这个,机器人只会在定义的地图上跑
+        [
+        ],
+        "SendMode" : 0 	                  //发送模式, 0表示随机消息发送,1表示顺序消息发送
+    },
+	"Opcodes" :
+	[
+	    //==================== 场景模块 ==========================
+        [3000]                         //进入场景
+
+    ]
+} 

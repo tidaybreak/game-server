@@ -1,0 +1,77 @@
+[
+   {
+      "cost_contrib" : 10,
+      "item_id" : 20401301,
+      "need_shop_lvl" : 1
+   },
+   {
+      "cost_contrib" : 200,
+      "item_id" : 20401402,
+      "need_shop_lvl" : 2
+   },
+   {
+      "cost_contrib" : 500,
+      "item_id" : 20401503,
+      "need_shop_lvl" : 3
+   },
+   {
+      "cost_contrib" : 5,
+      "item_id" : 20405101,
+      "need_shop_lvl" : 1
+   },
+   {
+      "cost_contrib" : 10,
+      "item_id" : 20405202,
+      "need_shop_lvl" : 2
+   },
+   {
+      "cost_contrib" : 20,
+      "item_id" : 20405303,
+      "need_shop_lvl" : 3
+   },
+   {
+      "cost_contrib" : 40,
+      "item_id" : 20405304,
+      "need_shop_lvl" : 4
+   },
+   {
+      "cost_contrib" : 100,
+      "item_id" : 20405405,
+      "need_shop_lvl" : 5
+   },
+   {
+      "cost_contrib" : 200,
+      "item_id" : 20405406,
+      "need_shop_lvl" : 6
+   },
+   {
+      "cost_contrib" : 5,
+      "item_id" : 20404101,
+      "need_shop_lvl" : 1
+   },
+   {
+      "cost_contrib" : 10,
+      "item_id" : 20404202,
+      "need_shop_lvl" : 2
+   },
+   {
+      "cost_contrib" : 20,
+      "item_id" : 20404303,
+      "need_shop_lvl" : 3
+   },
+   {
+      "cost_contrib" : 40,
+      "item_id" : 20404304,
+      "need_shop_lvl" : 4
+   },
+   {
+      "cost_contrib" : 100,
+      "item_id" : 20404405,
+      "need_shop_lvl" : 5
+   },
+   {
+      "cost_contrib" : 200,
+      "item_id" : 20404406,
+      "need_shop_lvl" : 6
+   }
+]

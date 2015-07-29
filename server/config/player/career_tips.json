@@ -1,0 +1,14 @@
+[
+   {
+      "career_id" : 1,
+      "career_name" : "战士"
+   },
+   {
+      "career_id" : 2,
+      "career_name" : "刺客"
+   },
+   {
+      "career_id" : 3,
+      "career_name" : "元素师"
+   }
+]

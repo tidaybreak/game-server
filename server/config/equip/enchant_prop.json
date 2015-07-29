@@ -1,0 +1,106 @@
+[
+   {
+      "enchant_prop" : 504605,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 504905,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 505005,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 505605,
+      "value" : 250
+   },
+   {
+      "enchant_prop" : 505705,
+      "value" : 250
+   },
+   {
+      "enchant_prop" : 505805,
+      "value" : 250
+   },
+   {
+      "enchant_prop" : 505905,
+      "value" : 250
+   },
+   {
+      "enchant_prop" : 506205,
+      "value" : 1250
+   },
+   {
+      "enchant_prop" : 506305,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 506405,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 506005,
+      "value" : 100
+   },
+   {
+      "enchant_prop" : 513406,
+      "value" : 120
+   },
+   {
+      "enchant_prop" : 513606,
+      "value" : 120
+   },
+   {
+      "enchant_prop" : 514506,
+      "value" : -120
+   },
+   {
+      "enchant_prop" : 518007,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518107,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518207,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518307,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518407,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518507,
+      "value" : 1
+   },
+   {
+      "enchant_prop" : 518008,
+      "value" : -1
+   },
+   {
+      "enchant_prop" : 518108,
+      "value" : -1
+   },
+   {
+      "enchant_prop" : 518208,
+      "value" : -1
+   },
+   {
+      "enchant_prop" : 518308,
+      "value" : -1
+   },
+   {
+      "enchant_prop" : 518408,
+      "value" : -1
+   },
+   {
+      "enchant_prop" : 518508,
+      "value" : -1
+   }
+]

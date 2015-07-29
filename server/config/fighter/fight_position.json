@@ -1,0 +1,422 @@
+[
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 0,
+      "fight_type" : 1,
+      "xoffset" : -295,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 1,
+      "fight_type" : 1,
+      "xoffset" : -120,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 2,
+      "fight_type" : 1,
+      "xoffset" : -165,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 3,
+      "fight_type" : 1,
+      "xoffset" : -230,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 4,
+      "fight_type" : 1,
+      "xoffset" : -260,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 5,
+      "fight_type" : 1,
+      "xoffset" : -295,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 6,
+      "fight_type" : 1,
+      "xoffset" : -360,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 7,
+      "fight_type" : 1,
+      "xoffset" : -400,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 8,
+      "fight_type" : 1,
+      "xoffset" : -435,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 9,
+      "fight_type" : 1,
+      "xoffset" : -500,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 0,
+      "fight_type" : 1,
+      "xoffset" : 295,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 1,
+      "fight_type" : 1,
+      "xoffset" : 120,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 2,
+      "fight_type" : 1,
+      "xoffset" : 165,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 3,
+      "fight_type" : 1,
+      "xoffset" : 230,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 4,
+      "fight_type" : 1,
+      "xoffset" : 260,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 5,
+      "fight_type" : 1,
+      "xoffset" : 295,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 6,
+      "fight_type" : 1,
+      "xoffset" : 360,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 7,
+      "fight_type" : 1,
+      "xoffset" : 400,
+      "yoffset" : -115
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 8,
+      "fight_type" : 1,
+      "xoffset" : 435,
+      "yoffset" : -45
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 9,
+      "fight_type" : 1,
+      "xoffset" : 500,
+      "yoffset" : 55
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 0,
+      "fight_type" : 2,
+      "xoffset" : -300,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 1,
+      "fight_type" : 2,
+      "xoffset" : -90,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 2,
+      "fight_type" : 2,
+      "xoffset" : -125,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 3,
+      "fight_type" : 2,
+      "xoffset" : -190,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 4,
+      "fight_type" : 2,
+      "xoffset" : -265,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 5,
+      "fight_type" : 2,
+      "xoffset" : -300,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 6,
+      "fight_type" : 2,
+      "xoffset" : -365,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 7,
+      "fight_type" : 2,
+      "xoffset" : -440,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 8,
+      "fight_type" : 2,
+      "xoffset" : -475,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 9,
+      "fight_type" : 2,
+      "xoffset" : -540,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 0,
+      "fight_type" : 2,
+      "xoffset" : 300,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 1,
+      "fight_type" : 2,
+      "xoffset" : 90,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 2,
+      "fight_type" : 2,
+      "xoffset" : 125,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 3,
+      "fight_type" : 2,
+      "xoffset" : 190,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 4,
+      "fight_type" : 2,
+      "xoffset" : 265,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 5,
+      "fight_type" : 2,
+      "xoffset" : 300,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 6,
+      "fight_type" : 2,
+      "xoffset" : 365,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 7,
+      "fight_type" : 2,
+      "xoffset" : 440,
+      "yoffset" : -150
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 8,
+      "fight_type" : 2,
+      "xoffset" : 475,
+      "yoffset" : -25
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 9,
+      "fight_type" : 2,
+      "xoffset" : 540,
+      "yoffset" : 120
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 0,
+      "fight_type" : 7,
+      "xoffset" : -295,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 1,
+      "fight_type" : 7,
+      "xoffset" : -120,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 2,
+      "fight_type" : 7,
+      "xoffset" : -165,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 3,
+      "fight_type" : 7,
+      "xoffset" : -230,
+      "yoffset" : 175
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 4,
+      "fight_type" : 7,
+      "xoffset" : -295,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 5,
+      "fight_type" : 7,
+      "xoffset" : -330,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 6,
+      "fight_type" : 7,
+      "xoffset" : -395,
+      "yoffset" : 175
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 7,
+      "fight_type" : 7,
+      "xoffset" : -470,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 8,
+      "fight_type" : 7,
+      "xoffset" : -505,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 0,
+      "fight_pos" : 9,
+      "fight_type" : 7,
+      "xoffset" : -570,
+      "yoffset" : 175
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 0,
+      "fight_type" : 7,
+      "xoffset" : 295,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 1,
+      "fight_type" : 7,
+      "xoffset" : 120,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 2,
+      "fight_type" : 7,
+      "xoffset" : 165,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 3,
+      "fight_type" : 7,
+      "xoffset" : 230,
+      "yoffset" : 175
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 4,
+      "fight_type" : 7,
+      "xoffset" : 295,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 5,
+      "fight_type" : 7,
+      "xoffset" : 330,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 6,
+      "fight_type" : 7,
+      "xoffset" : 395,
+      "yoffset" : 175
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 7,
+      "fight_type" : 7,
+      "xoffset" : 470,
+      "yoffset" : 5
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 8,
+      "fight_type" : 7,
+      "xoffset" : 505,
+      "yoffset" : 75
+   },
+   {
+      "fight_dir" : 1,
+      "fight_pos" : 9,
+      "fight_type" : 7,
+      "xoffset" : 570,
+      "yoffset" : 175
+   }
+]

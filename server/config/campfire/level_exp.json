@@ -1,0 +1,322 @@
+[
+   {
+      "exp_add" : 15,
+      "level" : 1
+   },
+   {
+      "exp_add" : 30,
+      "level" : 2
+   },
+   {
+      "exp_add" : 50,
+      "level" : 3
+   },
+   {
+      "exp_add" : 65,
+      "level" : 4
+   },
+   {
+      "exp_add" : 85,
+      "level" : 5
+   },
+   {
+      "exp_add" : 100,
+      "level" : 6
+   },
+   {
+      "exp_add" : 115,
+      "level" : 7
+   },
+   {
+      "exp_add" : 130,
+      "level" : 8
+   },
+   {
+      "exp_add" : 150,
+      "level" : 9
+   },
+   {
+      "exp_add" : 165,
+      "level" : 10
+   },
+   {
+      "exp_add" : 185,
+      "level" : 11
+   },
+   {
+      "exp_add" : 200,
+      "level" : 12
+   },
+   {
+      "exp_add" : 215,
+      "level" : 13
+   },
+   {
+      "exp_add" : 235,
+      "level" : 14
+   },
+   {
+      "exp_add" : 250,
+      "level" : 15
+   },
+   {
+      "exp_add" : 265,
+      "level" : 16
+   },
+   {
+      "exp_add" : 285,
+      "level" : 17
+   },
+   {
+      "exp_add" : 300,
+      "level" : 18
+   },
+   {
+      "exp_add" : 315,
+      "level" : 19
+   },
+   {
+      "exp_add" : 335,
+      "level" : 20
+   },
+   {
+      "exp_add" : 350,
+      "level" : 21
+   },
+   {
+      "exp_add" : 365,
+      "level" : 22
+   },
+   {
+      "exp_add" : 385,
+      "level" : 23
+   },
+   {
+      "exp_add" : 400,
+      "level" : 24
+   },
+   {
+      "exp_add" : 415,
+      "level" : 25
+   },
+   {
+      "exp_add" : 435,
+      "level" : 26
+   },
+   {
+      "exp_add" : 450,
+      "level" : 27
+   },
+   {
+      "exp_add" : 465,
+      "level" : 28
+   },
+   {
+      "exp_add" : 485,
+      "level" : 29
+   },
+   {
+      "exp_add" : 500,
+      "level" : 30
+   },
+   {
+      "exp_add" : 515,
+      "level" : 31
+   },
+   {
+      "exp_add" : 585,
+      "level" : 32
+   },
+   {
+      "exp_add" : 650,
+      "level" : 33
+   },
+   {
+      "exp_add" : 715,
+      "level" : 34
+   },
+   {
+      "exp_add" : 785,
+      "level" : 35
+   },
+   {
+      "exp_add" : 850,
+      "level" : 36
+   },
+   {
+      "exp_add" : 915,
+      "level" : 37
+   },
+   {
+      "exp_add" : 985,
+      "level" : 38
+   },
+   {
+      "exp_add" : 1050,
+      "level" : 39
+   },
+   {
+      "exp_add" : 1115,
+      "level" : 40
+   },
+   {
+      "exp_add" : 1185,
+      "level" : 41
+   },
+   {
+      "exp_add" : 1250,
+      "level" : 42
+   },
+   {
+      "exp_add" : 1315,
+      "level" : 43
+   },
+   {
+      "exp_add" : 1385,
+      "level" : 44
+   },
+   {
+      "exp_add" : 1450,
+      "level" : 45
+   },
+   {
+      "exp_add" : 1515,
+      "level" : 46
+   },
+   {
+      "exp_add" : 1585,
+      "level" : 47
+   },
+   {
+      "exp_add" : 1650,
+      "level" : 48
+   },
+   {
+      "exp_add" : 1715,
+      "level" : 49
+   },
+   {
+      "exp_add" : 1785,
+      "level" : 50
+   },
+   {
+      "exp_add" : 1850,
+      "level" : 51
+   },
+   {
+      "exp_add" : 1915,
+      "level" : 52
+   },
+   {
+      "exp_add" : 1985,
+      "level" : 53
+   },
+   {
+      "exp_add" : 2050,
+      "level" : 54
+   },
+   {
+      "exp_add" : 2115,
+      "level" : 55
+   },
+   {
+      "exp_add" : 2185,
+      "level" : 56
+   },
+   {
+      "exp_add" : 2250,
+      "level" : 57
+   },
+   {
+      "exp_add" : 2315,
+      "level" : 58
+   },
+   {
+      "exp_add" : 2385,
+      "level" : 59
+   },
+   {
+      "exp_add" : 2450,
+      "level" : 60
+   },
+   {
+      "exp_add" : 2515,
+      "level" : 61
+   },
+   {
+      "exp_add" : 2585,
+      "level" : 62
+   },
+   {
+      "exp_add" : 2650,
+      "level" : 63
+   },
+   {
+      "exp_add" : 2715,
+      "level" : 64
+   },
+   {
+      "exp_add" : 2785,
+      "level" : 65
+   },
+   {
+      "exp_add" : 2850,
+      "level" : 66
+   },
+   {
+      "exp_add" : 2915,
+      "level" : 67
+   },
+   {
+      "exp_add" : 2985,
+      "level" : 68
+   },
+   {
+      "exp_add" : 3050,
+      "level" : 69
+   },
+   {
+      "exp_add" : 3117,
+      "level" : 70
+   },
+   {
+      "exp_add" : 3183,
+      "level" : 71
+   },
+   {
+      "exp_add" : 3250,
+      "level" : 72
+   },
+   {
+      "exp_add" : 3317,
+      "level" : 73
+   },
+   {
+      "exp_add" : 3383,
+      "level" : 74
+   },
+   {
+      "exp_add" : 3450,
+      "level" : 75
+   },
+   {
+      "exp_add" : 3517,
+      "level" : 76
+   },
+   {
+      "exp_add" : 3583,
+      "level" : 77
+   },
+   {
+      "exp_add" : 3650,
+      "level" : 78
+   },
+   {
+      "exp_add" : 3717,
+      "level" : 79
+   },
+   {
+      "exp_add" : 3783,
+      "level" : 80
+   }
+]

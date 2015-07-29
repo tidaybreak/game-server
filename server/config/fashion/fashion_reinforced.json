@@ -1,0 +1,431 @@
+[
+   {
+      "fashion_part" : 11,
+      "power_add" : 10,
+      "power_max" : 40,
+      "reinforced_cost" : 1000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 0,
+      "reinforced_perce" : 0,
+      "reinforced_prop" : [
+         [ 506505, 0 ]
+      ],
+      "reinforcedl_rate" : 200
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 100,
+      "reinforced_cost" : 2000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 1,
+      "reinforced_perce" : 1000,
+      "reinforced_prop" : [
+         [ 506505, 4 ]
+      ],
+      "reinforcedl_rate" : 100
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 3000,
+      "reinforced_cost_item" : [ 20517001, 2 ],
+      "reinforced_lvl" : 2,
+      "reinforced_perce" : 1200,
+      "reinforced_prop" : [
+         [ 506505, 6 ]
+      ],
+      "reinforcedl_rate" : 66
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 4000,
+      "reinforced_cost_item" : [ 20517001, 3 ],
+      "reinforced_lvl" : 3,
+      "reinforced_perce" : 1500,
+      "reinforced_prop" : [
+         [ 506505, 8 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 5000,
+      "reinforced_cost_item" : [ 20517002, 1 ],
+      "reinforced_lvl" : 4,
+      "reinforced_perce" : 1800,
+      "reinforced_prop" : [
+         [ 506505, 10 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 6000,
+      "reinforced_cost_item" : [ 20517002, 2 ],
+      "reinforced_lvl" : 5,
+      "reinforced_perce" : 2200,
+      "reinforced_prop" : [
+         [ 506505, 12 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 7000,
+      "reinforced_cost_item" : [ 20517002, 3 ],
+      "reinforced_lvl" : 6,
+      "reinforced_perce" : 2600,
+      "reinforced_prop" : [
+         [ 506505, 14 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 8000,
+      "reinforced_cost_item" : [ 20517003, 1 ],
+      "reinforced_lvl" : 7,
+      "reinforced_perce" : 3100,
+      "reinforced_prop" : [
+         [ 506505, 16 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 9000,
+      "reinforced_cost_item" : [ 20517003, 2 ],
+      "reinforced_lvl" : 8,
+      "reinforced_perce" : 3700,
+      "reinforced_prop" : [
+         [ 506505, 18 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 40,
+      "power_max" : 1000,
+      "reinforced_cost" : 10000,
+      "reinforced_cost_item" : [ 20517003, 3 ],
+      "reinforced_lvl" : 9,
+      "reinforced_perce" : 4500,
+      "reinforced_prop" : [
+         [ 506505, 20 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 11,
+      "power_add" : 0,
+      "power_max" : 100,
+      "reinforced_cost" : 12000,
+      "reinforced_cost_item" : [ 20517003, 4 ],
+      "reinforced_lvl" : 10,
+      "reinforced_perce" : 5500,
+      "reinforced_prop" : [
+         [ 506505, 22 ]
+      ],
+      "reinforcedl_rate" : 0
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 10,
+      "power_max" : 40,
+      "reinforced_cost" : 1000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 0,
+      "reinforced_perce" : 0,
+      "reinforced_prop" : [
+         [ 506505, 0 ]
+      ],
+      "reinforcedl_rate" : 200
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 100,
+      "reinforced_cost" : 2000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 1,
+      "reinforced_perce" : 1000,
+      "reinforced_prop" : [
+         [ 506505, 4 ]
+      ],
+      "reinforcedl_rate" : 100
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 3000,
+      "reinforced_cost_item" : [ 20517001, 2 ],
+      "reinforced_lvl" : 2,
+      "reinforced_perce" : 1200,
+      "reinforced_prop" : [
+         [ 506505, 6 ]
+      ],
+      "reinforcedl_rate" : 66
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 4000,
+      "reinforced_cost_item" : [ 20517001, 3 ],
+      "reinforced_lvl" : 3,
+      "reinforced_perce" : 1500,
+      "reinforced_prop" : [
+         [ 506505, 8 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 5000,
+      "reinforced_cost_item" : [ 20517002, 1 ],
+      "reinforced_lvl" : 4,
+      "reinforced_perce" : 1800,
+      "reinforced_prop" : [
+         [ 506505, 10 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 6000,
+      "reinforced_cost_item" : [ 20517002, 2 ],
+      "reinforced_lvl" : 5,
+      "reinforced_perce" : 2200,
+      "reinforced_prop" : [
+         [ 506505, 12 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 7000,
+      "reinforced_cost_item" : [ 20517002, 3 ],
+      "reinforced_lvl" : 6,
+      "reinforced_perce" : 2600,
+      "reinforced_prop" : [
+         [ 506505, 14 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 8000,
+      "reinforced_cost_item" : [ 20517003, 1 ],
+      "reinforced_lvl" : 7,
+      "reinforced_perce" : 3100,
+      "reinforced_prop" : [
+         [ 506505, 16 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 9000,
+      "reinforced_cost_item" : [ 20517003, 2 ],
+      "reinforced_lvl" : 8,
+      "reinforced_perce" : 3700,
+      "reinforced_prop" : [
+         [ 506505, 18 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 40,
+      "power_max" : 1000,
+      "reinforced_cost" : 10000,
+      "reinforced_cost_item" : [ 20517003, 3 ],
+      "reinforced_lvl" : 9,
+      "reinforced_perce" : 4500,
+      "reinforced_prop" : [
+         [ 506505, 20 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 12,
+      "power_add" : 0,
+      "power_max" : 100,
+      "reinforced_cost" : 12000,
+      "reinforced_cost_item" : [ 20517003, 4 ],
+      "reinforced_lvl" : 10,
+      "reinforced_perce" : 5500,
+      "reinforced_prop" : [
+         [ 506505, 22 ]
+      ],
+      "reinforcedl_rate" : 0
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 10,
+      "power_max" : 40,
+      "reinforced_cost" : 1000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 0,
+      "reinforced_perce" : 0,
+      "reinforced_prop" : [
+         [ 506505, 0 ]
+      ],
+      "reinforcedl_rate" : 200
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 100,
+      "reinforced_cost" : 2000,
+      "reinforced_cost_item" : [ 20517001, 1 ],
+      "reinforced_lvl" : 1,
+      "reinforced_perce" : 1000,
+      "reinforced_prop" : [
+         [ 506505, 4 ]
+      ],
+      "reinforcedl_rate" : 100
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 3000,
+      "reinforced_cost_item" : [ 20517001, 2 ],
+      "reinforced_lvl" : 2,
+      "reinforced_perce" : 1200,
+      "reinforced_prop" : [
+         [ 506505, 6 ]
+      ],
+      "reinforcedl_rate" : 66
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 4000,
+      "reinforced_cost_item" : [ 20517001, 3 ],
+      "reinforced_lvl" : 3,
+      "reinforced_perce" : 1500,
+      "reinforced_prop" : [
+         [ 506505, 8 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 5000,
+      "reinforced_cost_item" : [ 20517002, 1 ],
+      "reinforced_lvl" : 4,
+      "reinforced_perce" : 1800,
+      "reinforced_prop" : [
+         [ 506505, 10 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 6000,
+      "reinforced_cost_item" : [ 20517002, 2 ],
+      "reinforced_lvl" : 5,
+      "reinforced_perce" : 2200,
+      "reinforced_prop" : [
+         [ 506505, 12 ]
+      ],
+      "reinforcedl_rate" : 50
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 10,
+      "power_max" : 100,
+      "reinforced_cost" : 7000,
+      "reinforced_cost_item" : [ 20517002, 3 ],
+      "reinforced_lvl" : 6,
+      "reinforced_perce" : 2600,
+      "reinforced_prop" : [
+         [ 506505, 14 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 200,
+      "reinforced_cost" : 8000,
+      "reinforced_cost_item" : [ 20517003, 1 ],
+      "reinforced_lvl" : 7,
+      "reinforced_perce" : 3100,
+      "reinforced_prop" : [
+         [ 506505, 16 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 20,
+      "power_max" : 400,
+      "reinforced_cost" : 9000,
+      "reinforced_cost_item" : [ 20517003, 2 ],
+      "reinforced_lvl" : 8,
+      "reinforced_perce" : 3700,
+      "reinforced_prop" : [
+         [ 506505, 18 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 40,
+      "power_max" : 1000,
+      "reinforced_cost" : 10000,
+      "reinforced_cost_item" : [ 20517003, 3 ],
+      "reinforced_lvl" : 9,
+      "reinforced_perce" : 4500,
+      "reinforced_prop" : [
+         [ 506505, 20 ]
+      ],
+      "reinforcedl_rate" : 40
+   },
+   {
+      "fashion_part" : 13,
+      "power_add" : 0,
+      "power_max" : 100,
+      "reinforced_cost" : 12000,
+      "reinforced_cost_item" : [ 20517003, 4 ],
+      "reinforced_lvl" : 10,
+      "reinforced_perce" : 5500,
+      "reinforced_prop" : [
+         [ 506505, 22 ]
+      ],
+      "reinforcedl_rate" : 0
+   }
+]

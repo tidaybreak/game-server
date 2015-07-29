@@ -1,0 +1,62 @@
+[
+   {
+      "act_id" : 20021,
+      "id" : 1,
+      "name" : "Tower of Heroes 2F",
+      "reward" : [
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 501702,
+            "num" : 100,
+            "type" : 2
+         },
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "sg_id" : 80202030
+   },
+   {
+      "act_id" : 20021,
+      "id" : 2,
+      "name" : "Guardian Tower 3F",
+      "reward" : [
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 501702,
+            "num" : 400,
+            "type" : 2
+         },
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "sg_id" : 80202036
+   },
+   {
+      "act_id" : 20021,
+      "id" : 3,
+      "name" : "Tower of Rebirth 9F",
+      "reward" : [
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 501702,
+            "num" : 800,
+            "type" : 2
+         },
+         {
+            "from_table" : "sg_fb_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "sg_id" : 80202051
+   }
+]

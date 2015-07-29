@@ -1,0 +1,602 @@
+[
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 1,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 2,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 3,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 4,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 5,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 6,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 7,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 8,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 9,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 10,
+      "monster_id" : 63890119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 11,
+      "monster_id" : 63890219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 12,
+      "monster_id" : 63890219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 13,
+      "monster_id" : 63890319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 14,
+      "monster_id" : 63890319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 15,
+      "monster_id" : 63890419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 16,
+      "monster_id" : 63890419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 17,
+      "monster_id" : 63890519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 18,
+      "monster_id" : 63890519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 19,
+      "monster_id" : 63890619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 20,
+      "monster_id" : 63890619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 21,
+      "monster_id" : 63890719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 22,
+      "monster_id" : 63890719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 23,
+      "monster_id" : 63890819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 24,
+      "monster_id" : 63890819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 25,
+      "monster_id" : 63890919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 26,
+      "monster_id" : 63890919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 27,
+      "monster_id" : 63891019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 28,
+      "monster_id" : 63891019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 29,
+      "monster_id" : 63891119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 30,
+      "monster_id" : 63891119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 31,
+      "monster_id" : 63891219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 32,
+      "monster_id" : 63891219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 33,
+      "monster_id" : 63891319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 34,
+      "monster_id" : 63891319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 35,
+      "monster_id" : 63891419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 36,
+      "monster_id" : 63891419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 37,
+      "monster_id" : 63891519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 38,
+      "monster_id" : 63891519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 39,
+      "monster_id" : 63891619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 40,
+      "monster_id" : 63891619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 41,
+      "monster_id" : 63891719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 42,
+      "monster_id" : 63891719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 43,
+      "monster_id" : 63891819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 44,
+      "monster_id" : 63891819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 45,
+      "monster_id" : 63891919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 46,
+      "monster_id" : 63891919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 47,
+      "monster_id" : 63892019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 48,
+      "monster_id" : 63892019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 49,
+      "monster_id" : 63892119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 50,
+      "monster_id" : 63892119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 51,
+      "monster_id" : 63892219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 52,
+      "monster_id" : 63892219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 53,
+      "monster_id" : 63892319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 54,
+      "monster_id" : 63892319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 55,
+      "monster_id" : 63892419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 56,
+      "monster_id" : 63892419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 57,
+      "monster_id" : 63892519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 58,
+      "monster_id" : 63892519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 59,
+      "monster_id" : 63892619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 60,
+      "monster_id" : 63892619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 61,
+      "monster_id" : 63892719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 62,
+      "monster_id" : 63892719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 63,
+      "monster_id" : 63892819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 64,
+      "monster_id" : 63892819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 65,
+      "monster_id" : 63892919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 66,
+      "monster_id" : 63892919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 67,
+      "monster_id" : 63893019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 68,
+      "monster_id" : 63893019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 69,
+      "monster_id" : 63893119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 70,
+      "monster_id" : 63893119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 71,
+      "monster_id" : 63893219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 72,
+      "monster_id" : 63893219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 73,
+      "monster_id" : 63893319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 74,
+      "monster_id" : 63893319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 75,
+      "monster_id" : 63893419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 76,
+      "monster_id" : 63893419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 77,
+      "monster_id" : 63893519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 78,
+      "monster_id" : 63893519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 79,
+      "monster_id" : 63893619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 80,
+      "monster_id" : 63893619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 81,
+      "monster_id" : 63893719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 82,
+      "monster_id" : 63893719
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 83,
+      "monster_id" : 63893819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 84,
+      "monster_id" : 63893819
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 85,
+      "monster_id" : 63893919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 86,
+      "monster_id" : 63893919
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 87,
+      "monster_id" : 63894019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 88,
+      "monster_id" : 63894019
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 89,
+      "monster_id" : 63894119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 90,
+      "monster_id" : 63894119
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 91,
+      "monster_id" : 63894219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 92,
+      "monster_id" : 63894219
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 93,
+      "monster_id" : 63894319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 94,
+      "monster_id" : 63894319
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 95,
+      "monster_id" : 63894419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 96,
+      "monster_id" : 63894419
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 97,
+      "monster_id" : 63894519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 98,
+      "monster_id" : 63894519
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 99,
+      "monster_id" : 63894619
+   },
+   {
+      "base_correction" : 1000,
+      "item" : 1000,
+      "lvl" : 100,
+      "monster_id" : 63894619
+   }
+]

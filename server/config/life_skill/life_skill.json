@@ -1,0 +1,1073 @@
+[
+   {
+      "effect_id" : [ 1000, 2000, 3000 ],
+      "next_skill" : 1001,
+      "skill_cost" : 10000,
+      "skill_id" : 1000,
+      "skill_name" : "晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1001, 2001, 3001 ],
+      "next_skill" : 1002,
+      "skill_id" : 1001,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1002, 2001, 3001 ],
+      "next_skill" : 1003,
+      "skill_id" : 1002,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1003, 2001, 3001 ],
+      "next_skill" : 1004,
+      "skill_id" : 1003,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1004, 2001, 3001 ],
+      "next_skill" : 1005,
+      "skill_id" : 1004,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1005, 2001, 3001 ],
+      "next_skill" : 1006,
+      "skill_id" : 1005,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1006, 2001, 3001 ],
+      "next_skill" : 1007,
+      "skill_id" : 1006,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1007, 2001, 3001 ],
+      "next_skill" : 1008,
+      "skill_id" : 1007,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1008, 2001, 3001 ],
+      "next_skill" : 1009,
+      "skill_id" : 1008,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1009, 2001, 3001 ],
+      "next_skill" : 1010,
+      "skill_id" : 1009,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1010, 2001, 3001 ],
+      "next_skill" : 1101,
+      "skill_id" : 1010,
+      "skill_name" : "初级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1101, 2101, 3101 ],
+      "next_skill" : 1102,
+      "skill_id" : 1101,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1102, 2101, 3101 ],
+      "next_skill" : 1103,
+      "skill_id" : 1102,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1103, 2101, 3101 ],
+      "next_skill" : 1104,
+      "skill_id" : 1103,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1104, 2101, 3101 ],
+      "next_skill" : 1105,
+      "skill_id" : 1104,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1105, 2101, 3101 ],
+      "next_skill" : 1106,
+      "skill_id" : 1105,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1106, 2101, 3101 ],
+      "next_skill" : 1107,
+      "skill_id" : 1106,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1107, 2101, 3101 ],
+      "next_skill" : 1108,
+      "skill_id" : 1107,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1108, 2101, 3101 ],
+      "next_skill" : 1109,
+      "skill_id" : 1108,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1109, 2101, 3101 ],
+      "next_skill" : 1110,
+      "skill_id" : 1109,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1110, 2101, 3101 ],
+      "next_skill" : 1201,
+      "skill_id" : 1110,
+      "skill_name" : "中级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1201, 2201, 3201 ],
+      "next_skill" : 1202,
+      "skill_id" : 1201,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1202, 2201, 3201 ],
+      "next_skill" : 1203,
+      "skill_id" : 1202,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1203, 2201, 3201 ],
+      "next_skill" : 1204,
+      "skill_id" : 1203,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1204, 2201, 3201 ],
+      "next_skill" : 1205,
+      "skill_id" : 1204,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1205, 2201, 3201 ],
+      "next_skill" : 1206,
+      "skill_id" : 1205,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1206, 2201, 3201 ],
+      "next_skill" : 1207,
+      "skill_id" : 1206,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1207, 2201, 3201 ],
+      "next_skill" : 1208,
+      "skill_id" : 1207,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1208, 2201, 3201 ],
+      "next_skill" : 1209,
+      "skill_id" : 1208,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1209, 2201, 3201 ],
+      "next_skill" : 1210,
+      "skill_id" : 1209,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1210, 2201, 3201 ],
+      "next_skill" : 1301,
+      "skill_id" : 1210,
+      "skill_name" : "高级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1301, 2301, 3301 ],
+      "next_skill" : 1302,
+      "skill_id" : 1301,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1302, 2301, 3301 ],
+      "next_skill" : 1303,
+      "skill_id" : 1302,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1303, 2301, 3301 ],
+      "next_skill" : 1304,
+      "skill_id" : 1303,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1304, 2301, 3301 ],
+      "next_skill" : 1305,
+      "skill_id" : 1304,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1305, 2301, 3301 ],
+      "next_skill" : 1306,
+      "skill_id" : 1305,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1306, 2301, 3301 ],
+      "next_skill" : 1307,
+      "skill_id" : 1306,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1307, 2301, 3301 ],
+      "next_skill" : 1308,
+      "skill_id" : 1307,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1308, 2301, 3301 ],
+      "next_skill" : 1309,
+      "skill_id" : 1308,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1309, 2301, 3301 ],
+      "next_skill" : 1310,
+      "skill_id" : 1309,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1310, 2301, 3301 ],
+      "next_skill" : 1401,
+      "skill_id" : 1310,
+      "skill_name" : "特级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1401, 2401, 3401 ],
+      "next_skill" : 1402,
+      "skill_id" : 1401,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1402, 2401, 3401 ],
+      "next_skill" : 1403,
+      "skill_id" : 1402,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1403, 2401, 3401 ],
+      "next_skill" : 1404,
+      "skill_id" : 1403,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1404, 2401, 3401 ],
+      "next_skill" : 1405,
+      "skill_id" : 1404,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1405, 2401, 3401 ],
+      "next_skill" : 1406,
+      "skill_id" : 1405,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1406, 2401, 3401 ],
+      "next_skill" : 1407,
+      "skill_id" : 1406,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1407, 2401, 3401 ],
+      "next_skill" : 1408,
+      "skill_id" : 1407,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1408, 2401, 3401 ],
+      "next_skill" : 1409,
+      "skill_id" : 1408,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1409, 2401, 3401 ],
+      "next_skill" : 1410,
+      "skill_id" : 1409,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 1410, 2401, 3401 ],
+      "skill_id" : 1410,
+      "skill_name" : "顶级晶石收集",
+      "skill_type" : 1
+   },
+   {
+      "effect_id" : [ 4000, 5301, 6301, 7301 ],
+      "next_skill" : 2001,
+      "skill_cost" : 10000,
+      "skill_id" : 2000,
+      "skill_name" : "卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2002,
+      "skill_id" : 2001,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2003,
+      "skill_id" : 2002,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2004,
+      "skill_id" : 2003,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2005,
+      "skill_id" : 2004,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2006,
+      "skill_id" : 2005,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2007,
+      "skill_id" : 2006,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2008,
+      "skill_id" : 2007,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2009,
+      "skill_id" : 2008,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2010,
+      "skill_id" : 2009,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4001, 5001, 6001, 7001 ],
+      "next_skill" : 2101,
+      "skill_id" : 2010,
+      "skill_name" : "初级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2102,
+      "skill_id" : 2101,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2103,
+      "skill_id" : 2102,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2104,
+      "skill_id" : 2103,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2105,
+      "skill_id" : 2104,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2106,
+      "skill_id" : 2105,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2107,
+      "skill_id" : 2106,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2108,
+      "skill_id" : 2107,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2109,
+      "skill_id" : 2108,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2110,
+      "skill_id" : 2109,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4101, 5101, 6101, 7101 ],
+      "next_skill" : 2201,
+      "skill_id" : 2110,
+      "skill_name" : "中级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2202,
+      "skill_id" : 2201,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2203,
+      "skill_id" : 2202,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2204,
+      "skill_id" : 2203,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2205,
+      "skill_id" : 2204,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2206,
+      "skill_id" : 2205,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2207,
+      "skill_id" : 2206,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2208,
+      "skill_id" : 2207,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2209,
+      "skill_id" : 2208,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2210,
+      "skill_id" : 2209,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4201, 5201, 6201, 7201 ],
+      "next_skill" : 2301,
+      "skill_id" : 2210,
+      "skill_name" : "高级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2302,
+      "skill_id" : 2301,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2303,
+      "skill_id" : 2302,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2304,
+      "skill_id" : 2303,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2305,
+      "skill_id" : 2304,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2306,
+      "skill_id" : 2305,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2307,
+      "skill_id" : 2306,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2308,
+      "skill_id" : 2307,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2309,
+      "skill_id" : 2308,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2310,
+      "skill_id" : 2309,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4301, 5301, 6301, 7301 ],
+      "next_skill" : 2401,
+      "skill_id" : 2310,
+      "skill_name" : "特级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2402,
+      "skill_id" : 2401,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2403,
+      "skill_id" : 2402,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2404,
+      "skill_id" : 2403,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2405,
+      "skill_id" : 2404,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2406,
+      "skill_id" : 2405,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2407,
+      "skill_id" : 2406,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2408,
+      "skill_id" : 2407,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2409,
+      "skill_id" : 2408,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "next_skill" : 2410,
+      "skill_id" : 2409,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 4401, 5401, 6401, 7401 ],
+      "skill_id" : 2410,
+      "skill_name" : "顶级卡牌大师",
+      "skill_type" : 2
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302, 8403 ],
+      "next_skill" : 3001,
+      "skill_cost" : 10000,
+      "skill_id" : 3000,
+      "skill_name" : "熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3002,
+      "skill_id" : 3001,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3003,
+      "skill_id" : 3002,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3004,
+      "skill_id" : 3003,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3005,
+      "skill_id" : 3004,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3006,
+      "skill_id" : 3005,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3007,
+      "skill_id" : 3006,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3008,
+      "skill_id" : 3007,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3009,
+      "skill_id" : 3008,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3010,
+      "skill_id" : 3009,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8001, 8002 ],
+      "next_skill" : 3101,
+      "skill_id" : 3010,
+      "skill_name" : "初级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3102,
+      "skill_id" : 3101,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3103,
+      "skill_id" : 3102,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3104,
+      "skill_id" : 3103,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3105,
+      "skill_id" : 3104,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3106,
+      "skill_id" : 3105,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3107,
+      "skill_id" : 3106,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3108,
+      "skill_id" : 3107,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3109,
+      "skill_id" : 3108,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3110,
+      "skill_id" : 3109,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8101, 8102 ],
+      "next_skill" : 3201,
+      "skill_id" : 3110,
+      "skill_name" : "中级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3202,
+      "skill_id" : 3201,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3203,
+      "skill_id" : 3202,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3204,
+      "skill_id" : 3203,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3205,
+      "skill_id" : 3204,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3206,
+      "skill_id" : 3205,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3207,
+      "skill_id" : 3206,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3208,
+      "skill_id" : 3207,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3209,
+      "skill_id" : 3208,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3210,
+      "skill_id" : 3209,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8201, 8202 ],
+      "next_skill" : 3301,
+      "skill_id" : 3210,
+      "skill_name" : "高级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3302,
+      "skill_id" : 3301,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3303,
+      "skill_id" : 3302,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3304,
+      "skill_id" : 3303,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3305,
+      "skill_id" : 3304,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3306,
+      "skill_id" : 3305,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3307,
+      "skill_id" : 3306,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3308,
+      "skill_id" : 3307,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3309,
+      "skill_id" : 3308,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3310,
+      "skill_id" : 3309,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8301, 8302 ],
+      "next_skill" : 3401,
+      "skill_id" : 3310,
+      "skill_name" : "特级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3402,
+      "skill_id" : 3401,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3403,
+      "skill_id" : 3402,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3404,
+      "skill_id" : 3403,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3405,
+      "skill_id" : 3404,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3406,
+      "skill_id" : 3405,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3407,
+      "skill_id" : 3406,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3408,
+      "skill_id" : 3407,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3409,
+      "skill_id" : 3408,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "next_skill" : 3410,
+      "skill_id" : 3409,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   },
+   {
+      "effect_id" : [ 8000, 8401, 8402, 8403 ],
+      "skill_id" : 3410,
+      "skill_name" : "顶级熔炼大师",
+      "skill_type" : 3
+   }
+]

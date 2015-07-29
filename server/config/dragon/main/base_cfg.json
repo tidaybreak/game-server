@@ -1,0 +1,24 @@
+[
+   {
+      "battle_map_id" : 80212001,
+      "blue_chance" : 40,
+      "border_match_num_of_max_match_coin" : 8,
+      "dragon_vale_scene_id" : 80212001,
+      "drive_thief_max_num" : 50,
+      "match_level" : 37,
+      "max_thief_num" : 2,
+      "normal_player_chance" : 8,
+      "orange_chance" : 20,
+      "refresh_thief_chance" : 10,
+      "refresh_thief_time" : 90,
+      "rob_down_time" : 1,
+      "rob_percent" : 50,
+      "rob_time_hour" : 3,
+      "rob_time_minute" : 0,
+      "special_player_chance" : 70,
+      "step_foot_max_num_per_day" : 20,
+      "thief_down_production" : 5,
+      "white_chance" : 40,
+      "whole_server_special_chance" : 5
+   }
+]

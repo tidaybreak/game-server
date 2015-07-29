@@ -1,0 +1,58 @@
+[
+   {
+      "aima_chances_charged" : 4,
+      "aima_chances_free" : 1,
+      "chances_charged" : 4,
+      "chances_free" : 1,
+      "vip_level" : 0
+   },
+   {
+      "aima_chances_charged" : 8,
+      "aima_chances_free" : 2,
+      "chances_charged" : 8,
+      "chances_free" : 2,
+      "vip_level" : 1
+   },
+   {
+      "aima_chances_charged" : 16,
+      "aima_chances_free" : 3,
+      "chances_charged" : 16,
+      "chances_free" : 3,
+      "vip_level" : 2
+   },
+   {
+      "aima_chances_charged" : 24,
+      "aima_chances_free" : 3,
+      "chances_charged" : 24,
+      "chances_free" : 3,
+      "vip_level" : 3
+   },
+   {
+      "aima_chances_charged" : 36,
+      "aima_chances_free" : 4,
+      "chances_charged" : 36,
+      "chances_free" : 4,
+      "vip_level" : 4
+   },
+   {
+      "aima_chances_charged" : 48,
+      "aima_chances_free" : 5,
+      "chances_charged" : 48,
+      "chances_free" : 5,
+      "vip_level" : 5
+   },
+   {
+      "aima_chances_charged" : 60,
+      "aima_chances_free" : 6,
+      "chances_charged" : 60,
+      "chances_free" : 6,
+      "vip_level" : 6
+   },
+   {
+      "aima_chances_charged" : 80,
+      "aima_chances_free" : 7,
+      "chances_charged" : 80,
+      "chances_free" : 7,
+      "vip_level" : 7
+   }
+]

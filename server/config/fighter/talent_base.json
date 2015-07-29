@@ -1,0 +1,92 @@
+[
+   {
+      "talent_bg" : 2,
+      "talent_career" : 1,
+      "talent_discribe" : "超强连击,爆发伤害",
+      "talent_id" : 1001,
+      "talent_level" : 1,
+      "talent_name" : "斗士",
+      "talent_num" : 1,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 3,
+      "talent_career" : 1,
+      "talent_discribe" : "超强肉盾,群体增益",
+      "talent_id" : 1002,
+      "talent_level" : 30,
+      "talent_name" : "防御",
+      "talent_num" : 2,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 1,
+      "talent_career" : 1,
+      "talent_discribe" : "团体增益,群体伤害",
+      "talent_id" : 1003,
+      "talent_level" : 100,
+      "talent_name" : "统帅",
+      "talent_num" : 3,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 1,
+      "talent_career" : 2,
+      "talent_discribe" : "超强连击,爆发伤害",
+      "talent_id" : 1004,
+      "talent_level" : 1,
+      "talent_name" : "双刀",
+      "talent_num" : 1,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 4,
+      "talent_career" : 2,
+      "talent_discribe" : "群体眩晕,群体伤害",
+      "talent_id" : 1005,
+      "talent_level" : 30,
+      "talent_name" : "链刃",
+      "talent_num" : 2,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 2,
+      "talent_career" : 2,
+      "talent_discribe" : "持续伤害,控制技能",
+      "talent_id" : 1006,
+      "talent_level" : 100,
+      "talent_name" : "游侠",
+      "talent_num" : 3,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 4,
+      "talent_career" : 3,
+      "talent_discribe" : "群体伤害,爆发伤害",
+      "talent_id" : 1007,
+      "talent_level" : 1,
+      "talent_name" : "闪电",
+      "talent_num" : 1,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 3,
+      "talent_career" : 3,
+      "talent_discribe" : "超级治疗,群体增益",
+      "talent_id" : 1008,
+      "talent_level" : 30,
+      "talent_name" : "圣光",
+      "talent_num" : 2,
+      "talent_skill_Preview" : [ 12100101 ]
+   },
+   {
+      "talent_bg" : 2,
+      "talent_career" : 3,
+      "talent_discribe" : "单体控制,持续伤害",
+      "talent_id" : 1009,
+      "talent_level" : 100,
+      "talent_name" : "暗影",
+      "talent_num" : 3,
+      "talent_skill_Preview" : [ 12100101 ]
+   }
+]

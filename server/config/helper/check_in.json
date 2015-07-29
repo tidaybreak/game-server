@@ -1,0 +1,1099 @@
+[
+   {
+      "group_id" : 1,
+      "val" : [
+         {
+            "day" : 1,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 10000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 0
+         },
+         {
+            "day" : 2,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 100,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 3,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 100,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 4,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 5,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611402,
+            "num" : 5,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 6,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20601201,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 7,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 150,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 8,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 200000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 9,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 150,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 10,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 11,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611402,
+            "num" : 10,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 12,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20201410,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 13,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 200,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 14,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 300000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 15,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 200,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 16,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 17,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611402,
+            "num" : 15,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 18,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20601312,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 19,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 250,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 20,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 400000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 21,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 250,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 22,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 23,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611402,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 24,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 25,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 300,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 26,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 500000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 27,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 300,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 28,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 29,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611402,
+            "num" : 30,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 30,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         }
+      ]
+   },
+   {
+      "group_id" : 2,
+      "val" : [
+         {
+            "day" : 1,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 100,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 0
+         },
+         {
+            "day" : 2,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 100000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 3,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 100,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 4,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 5,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21611415,
+            "num" : 5,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 6,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20201410,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1
+         },
+         {
+            "day" : 7,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 150,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 8,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 200000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 9,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 150,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 10,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 11,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21611415,
+            "num" : 10,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 12,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20601312,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 13,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 200,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 14,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 300000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 15,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 200,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 16,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 17,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21611415,
+            "num" : 15,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 18,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 19,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 250,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 20,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 400000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 21,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 4,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 22,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 23,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21611415,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 24,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 25,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 300,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 26,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 500000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 27,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 300,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 28,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 29,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21611415,
+            "num" : 30,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 30,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         }
+      ]
+   },
+   {
+      "group_id" : 3,
+      "val" : [
+         {
+            "day" : 1,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 100,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 0
+         },
+         {
+            "day" : 2,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 100000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 3,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 100,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 4,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 5,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 5,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 6,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20201410,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1
+         },
+         {
+            "day" : 7,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 150,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 8,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 200000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 9,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 150,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 10,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 11,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 15,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 12,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20601312,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 13,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 200,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 14,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 300000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 15,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 200,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 16,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 17,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 18,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 19,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 250,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 20,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 400000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 21,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 250,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 22,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 23,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 24,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 25,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 300,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 26,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 500000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 27,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 300,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 28,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 29,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 30,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 30,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         }
+      ]
+   },
+   {
+      "group_id" : 4,
+      "val" : [
+         {
+            "day" : 1,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 100,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 0
+         },
+         {
+            "day" : 2,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 100000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 3,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 100,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 4,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 5,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 5,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 6,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20201410,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1
+         },
+         {
+            "day" : 7,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 150,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 8,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 200000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 9,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 150,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 10,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 11,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 15,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 2
+         },
+         {
+            "day" : 12,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20601312,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 13,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 200,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 1
+         },
+         {
+            "day" : 14,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 300000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 15,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 200,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 16,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 17,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 18,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 19,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 250,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 20,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 400000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 21,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 250,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 22,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 23,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 20,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 24,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 25,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501702,
+            "num" : 300,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 2
+         },
+         {
+            "day" : 26,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 501502,
+            "num" : 500000,
+            "state" : 2,
+            "type" : 2,
+            "vip_double" : 4
+         },
+         {
+            "day" : 27,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21002401,
+            "num" : 300,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 28,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20402201,
+            "num" : 2,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         },
+         {
+            "day" : 29,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 20611420,
+            "num" : 30,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 4
+         },
+         {
+            "day" : 30,
+            "from_table" : "dailySignInConfig",
+            "item_id" : 21505030,
+            "num" : 1,
+            "state" : 2,
+            "type" : 1,
+            "vip_double" : 0
+         }
+      ]
+   }
+]

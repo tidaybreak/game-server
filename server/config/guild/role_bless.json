@@ -1,0 +1,842 @@
+[
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 1
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 2
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 3
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 4
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 5
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 6
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 7
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 8
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 9
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 10
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 11
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 12
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 13
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 14
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 15
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 16
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 17
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 18
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 19
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 20
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 21
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 22
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 23
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 24
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 25
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 26
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 27
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 28
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 29
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 30
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 31
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 32
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 33
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 34
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 35
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 36
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 37
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 38
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 39
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 40
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 41
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 42
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 43
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 44
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 45
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 46
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 47
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 48
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 49
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 50
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 51
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 52
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 53
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 54
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 55
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 56
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 57
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 58
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 59
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 60
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 61
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 62
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 63
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 64
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 65
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 66
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 67
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 68
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 69
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 70
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 71
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 72
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 73
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 74
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 75
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 76
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 77
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 78
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 79
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 80
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 81
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 82
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 83
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 84
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 85
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 86
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 87
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 88
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 89
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 90
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 91
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 92
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 93
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 94
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 95
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 96
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 97
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 98
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 99
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 100
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 101
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 102
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 103
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 104
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 105
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 106
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 107
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 108
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 109
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 110
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 111
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 112
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 113
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 114
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 115
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 116
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 117
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 118
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 119
+   },
+   {
+      "bless_buf_1" : 14010200,
+      "bless_buf_2" : 14010300,
+      "bless_buf_3" : 14010600,
+      "need_gold" : 10000,
+      "role_level" : 120
+   }
+]

@@ -1,0 +1,33 @@
+[
+   {
+      "assists_merit" : 0.50,
+      "bk_score_pct" : 0.150,
+      "fb_merit" : 40,
+      "fb_score" : 0,
+      "fb_score_pct" : 0,
+      "guard_merit" : 50,
+      "guard_score" : 50,
+      "heal_cost_score" : 200,
+      "initial_score" : 100,
+      "level_limit" : 30,
+      "lose" : [
+         [ 503003, 50 ],
+         [ 21002401, 20 ]
+      ],
+      "lose_gold" : 10,
+      "lose_merit" : 10,
+      "officer_merit" : 0,
+      "officer_score" : 100,
+      "open_time" : [
+         [ 1500, 1620 ],
+         [ 1600, 1620 ]
+      ],
+      "ready_time" : 120,
+      "win" : [
+         [ 503003, 100 ],
+         [ 21002401, 50 ]
+      ],
+      "win_gold" : 20,
+      "win_merit" : 30
+   }
+]

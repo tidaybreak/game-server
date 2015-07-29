@@ -1,0 +1,26 @@
+[
+   {
+      "guild_menber_name" : "会长",
+      "guild_menbertype" : 3,
+      "guild_power_Initialization" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16 ],
+      "guild_power_given" : []
+   },
+   {
+      "guild_menber_name" : "副会长",
+      "guild_menbertype" : 2,
+      "guild_power_Initialization" : [ 2, 3, 7, 12, 14 ],
+      "guild_power_given" : [ 4, 8, 9, 10, 11, 15, 16 ]
+   },
+   {
+      "guild_menber_name" : "官员",
+      "guild_menbertype" : 1,
+      "guild_power_Initialization" : [ 3, 14 ],
+      "guild_power_given" : [ 2, 4, 10, 11, 12, 15, 16 ]
+   },
+   {
+      "guild_menber_name" : "成员",
+      "guild_menbertype" : 0,
+      "guild_power_Initialization" : [ 3 ],
+      "guild_power_given" : []
+   }
+]

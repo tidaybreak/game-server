@@ -1,0 +1,18 @@
+message Proto111111       // test
+{
+    optional int32 ddd = 1;       // 
+    optional ProtoMaterial material = 2;       // 
+    optional ProtoTest test = 3;       // 
+}
+
+message ProtoMaterial       // ProtoMaterial
+{
+    optional int32 dd = 1;       // 
+}
+
+message ProtoTest       // ProtoTest
+{
+    optional int32 test = 1;       // 
+}
+
+

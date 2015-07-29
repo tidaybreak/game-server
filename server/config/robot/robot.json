@@ -1,0 +1,30 @@
+{
+    "control" :  {
+		"ip" : "192.168.8.108",
+		"port" : 7100, //服务器端口xx4
+        "robot" : {
+			"name_prefix" : "_",      //帐号名前  缀xxxxxxxxxxx xx
+            "total_count"          : 50, //账号总数量
+            "online_max"         : 50,  //机器人在线数量
+            "batch_login_interval"  : 300    //批量登录间隔,单位ms
+        },
+        "run_time" : 1000000,              //运行时间
+        "command_interval" :  333,        //移动发送间隔,500ms=0.5m, must>=500
+        "chat_interval"	   :  0,		  //设置聊天间隔 ms
+		"send_msg_interval":  1000,		  //随机发送消息间隔 ms
+		"move_skip_range" : 2,			  //跨格子移动的个数
+		"robot_def":0				//机器人动作, 0.主城跑, 1.完成主线任务  
+    }
+} 
+最后提交信息：
+
+不能连接场景,异常下线
+
+未知错误
+
+    
+不再回来
+可能正在下线,如网关断了
+如果超时下线先发生，这里就不继续
+
+登陆错误时不需要回去  

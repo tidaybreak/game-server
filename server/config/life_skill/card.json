@@ -1,0 +1,1036 @@
+[
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2001,
+      "skilled_gold" : 30000,
+      "skilled_max" : 10,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2002,
+      "skilled_gold" : 35000,
+      "skilled_max" : 20,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2003,
+      "skilled_gold" : 40000,
+      "skilled_max" : 30,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2004,
+      "skilled_gold" : 45000,
+      "skilled_max" : 50,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2005,
+      "skilled_gold" : 50000,
+      "skilled_max" : 60,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2006,
+      "skilled_gold" : 55000,
+      "skilled_max" : 70,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2007,
+      "skilled_gold" : 60000,
+      "skilled_max" : 80,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2008,
+      "skilled_gold" : 65000,
+      "skilled_max" : 90,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2009,
+      "skilled_gold" : 70000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000901, 70 ],
+         [ 50000602, 10 ],
+         [ 50000603, 10 ],
+         [ 50000607, 10 ]
+      ],
+      "card_tab" : 1,
+      "cast_gold" : 10000,
+      "change_base" : 10,
+      "change_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 5,
+      "material" : [
+         [ 28001101, 3 ],
+         [ 28001102, 3 ]
+      ],
+      "skill_id" : 2010,
+      "skilled_gold" : 75000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "初级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2101,
+      "skilled_gold" : 100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2102,
+      "skilled_gold" : 130000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2103,
+      "skilled_gold" : 170000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2104,
+      "skilled_gold" : 210000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2105,
+      "skilled_gold" : 250000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2106,
+      "skilled_gold" : 300000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2107,
+      "skilled_gold" : 350000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2108,
+      "skilled_gold" : 400000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2109,
+      "skilled_gold" : 480000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001901, 60 ],
+         [ 50003302, 20 ],
+         [ 50000508, 20 ]
+      ],
+      "card_tab" : 2,
+      "cast_gold" : 10000,
+      "change_base" : 11,
+      "change_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 7,
+      "material" : [
+         [ 28001201, 3 ],
+         [ 28001202, 3 ]
+      ],
+      "skill_id" : 2110,
+      "skilled_gold" : 590000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "中级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2201,
+      "skilled_gold" : 700000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2202,
+      "skilled_gold" : 800000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2203,
+      "skilled_gold" : 950000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2204,
+      "skilled_gold" : 950000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2205,
+      "skilled_gold" : 1000000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2206,
+      "skilled_gold" : 1000000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2207,
+      "skilled_gold" : 1050000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2208,
+      "skilled_gold" : 1050000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2209,
+      "skilled_gold" : 1100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50000606, 33 ],
+         [ 50000507, 33 ],
+         [ 50003306, 34 ]
+      ],
+      "card_tab" : 3,
+      "cast_gold" : 10000,
+      "change_base" : 12,
+      "change_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 9,
+      "material" : [
+         [ 28001301, 3 ],
+         [ 28001302, 3 ],
+         [ 28002301, 3 ]
+      ],
+      "skill_id" : 2210,
+      "skilled_gold" : 1100000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "高级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2301,
+      "skilled_gold" : 1775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2302,
+      "skilled_gold" : 1775000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2303,
+      "skilled_gold" : 1825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2304,
+      "skilled_gold" : 1825000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2305,
+      "skilled_gold" : 1875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2306,
+      "skilled_gold" : 1875000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2307,
+      "skilled_gold" : 1925000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2308,
+      "skilled_gold" : 1925000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2309,
+      "skilled_gold" : 1975000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   },
+   {
+      "card_id" : [
+         [ 50001703, 33 ],
+         [ 50000710, 33 ],
+         [ 50000717, 34 ]
+      ],
+      "card_tab" : 4,
+      "cast_gold" : 10000,
+      "change_base" : 13,
+      "change_id" : [
+         [ 50003302, 50 ],
+         [ 50000508, 50 ]
+      ],
+      "change_refine" : 10,
+      "energy_cast" : 15,
+      "material" : [
+         [ 28001401, 3 ],
+         [ 28001402, 3 ],
+         [ 28002401, 3 ],
+         [ 28002402, 3 ]
+      ],
+      "skill_id" : 2310,
+      "skilled_gold" : 1975000,
+      "skilled_max" : 100,
+      "skilled_once" : 10,
+      "tab_name" : "特级制作"
+   }
+]

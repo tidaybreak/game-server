@@ -1,0 +1,138 @@
+[
+   {
+      "army_monster" : 1,
+      "army_path" : [
+         [ 7100007 ],
+         [ 7100009 ],
+         [ 7100010 ]
+      ],
+      "color" : "0x00fe92",
+      "point_id" : 7100001,
+      "rank" : 1,
+      "strong_army_monster" : 9,
+      "strong_army_path" : [
+         [ 7100007 ],
+         [ 7100009 ],
+         [ 7100010 ]
+      ]
+   },
+   {
+      "army_monster" : 2,
+      "army_path" : [
+         [ 7200007 ],
+         [ 7200009 ],
+         [ 7200010 ]
+      ],
+      "color" : "0x84fe00",
+      "point_id" : 7200001,
+      "rank" : 2,
+      "strong_army_monster" : 10,
+      "strong_army_path" : [
+         [ 7200007 ],
+         [ 7200009 ],
+         [ 7200010 ]
+      ]
+   },
+   {
+      "army_monster" : 3,
+      "army_path" : [
+         [ 7300007 ],
+         [ 7300009 ],
+         [ 7300010 ]
+      ],
+      "color" : "0x00d8fe",
+      "point_id" : 7300001,
+      "rank" : 3,
+      "strong_army_monster" : 11,
+      "strong_army_path" : [
+         [ 7300007 ],
+         [ 7300009 ],
+         [ 7300010 ]
+      ]
+   },
+   {
+      "army_monster" : 4,
+      "army_path" : [
+         [ 7400007 ],
+         [ 7400009 ],
+         [ 7200010 ]
+      ],
+      "color" : "0xfe2900",
+      "point_id" : 7400001,
+      "rank" : 4,
+      "strong_army_monster" : 12,
+      "strong_army_path" : [
+         [ 7400007 ],
+         [ 7400009 ],
+         [ 7200010 ]
+      ]
+   },
+   {
+      "army_monster" : 5,
+      "army_path" : [
+         [ 7500007 ],
+         [ 7500009 ],
+         [ 7500010 ]
+      ],
+      "color" : "0xfe007c",
+      "point_id" : 7500001,
+      "rank" : 5,
+      "strong_army_monster" : 13,
+      "strong_army_path" : [
+         [ 7500007 ],
+         [ 7500009 ],
+         [ 7500010 ]
+      ]
+   },
+   {
+      "army_monster" : 6,
+      "army_path" : [
+         [ 7600007 ],
+         [ 7600009 ],
+         [ 7600010 ]
+      ],
+      "color" : "0x9700fe",
+      "point_id" : 7600001,
+      "rank" : 6,
+      "strong_army_monster" : 14,
+      "strong_army_path" : [
+         [ 7600007 ],
+         [ 7600009 ],
+         [ 7600010 ]
+      ]
+   },
+   {
+      "army_monster" : 7,
+      "army_path" : [
+         [ 7700007 ],
+         [ 7700009 ],
+         [ 7700010 ]
+      ],
+      "color" : "0xfee300",
+      "point_id" : 7700001,
+      "rank" : 7,
+      "strong_army_monster" : 15,
+      "strong_army_path" : [
+         [ 7700007 ],
+         [ 7700009 ],
+         [ 7700010 ]
+      ]
+   },
+   {
+      "army_monster" : 8,
+      "army_path" : [
+         [ 7800007 ],
+         [ 7800009 ],
+         [ 7800010 ]
+      ],
+      "color" : "0xfe5b00",
+      "point_id" : 7800001,
+      "rank" : 8,
+      "strong_army_monster" : 16,
+      "strong_army_path" : [
+         [ 7800007 ],
+         [ 7800009 ],
+         [ 7800010 ]
+      ]
+   }
+]

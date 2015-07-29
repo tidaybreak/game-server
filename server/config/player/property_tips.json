@@ -1,0 +1,901 @@
+[
+   {
+      "proerty_id" : 500001,
+      "proerty_name" : "角色ID"
+   },
+   {
+      "proerty_id" : 500101,
+      "proerty_name" : "角色名"
+   },
+   {
+      "proerty_id" : 500201,
+      "proerty_name" : "职业"
+   },
+   {
+      "proerty_id" : 500301,
+      "proerty_name" : "性别"
+   },
+   {
+      "proerty_id" : 500401,
+      "proerty_name" : "公会ID"
+   },
+   {
+      "proerty_id" : 500501,
+      "proerty_name" : "武将ID"
+   },
+   {
+      "proerty_id" : 500601,
+      "proerty_name" : "出战武将ID"
+   },
+   {
+      "proerty_id" : 500701,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 500801,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 500901,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501001,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501101,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501201,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501301,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501401,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501502,
+      "proerty_name" : "金币",
+      "tips_desc" : "用于日常消费\n主要产出:炼金,单人副本,多人副本"
+   },
+   {
+      "proerty_id" : 501602,
+      "proerty_name" : "钻石",
+      "tips_desc" : "用于商城消费\n主要产出:充值"
+   },
+   {
+      "proerty_id" : 501702,
+      "proerty_name" : "粉钻",
+      "tips_desc" : "用于系统功能消费\n主要产出:竞技场晋级,系统赠送"
+   },
+   {
+      "proerty_id" : 501802,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 501902,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502002,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502102,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502202,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502302,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502403,
+      "proerty_name" : "等级"
+   },
+   {
+      "proerty_id" : 502503,
+      "proerty_name" : "经验"
+   },
+   {
+      "proerty_id" : 502603,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 502703,
+      "proerty_name" : "技能点",
+      "tips_desc" : "用于升级角色技能"
+   },
+   {
+      "proerty_id" : 502803,
+      "proerty_name" : "龙魂",
+      "tips_desc" : "龙舍中培养龙的重要材料"
+   },
+   {
+      "proerty_id" : 502903,
+      "proerty_name" : "英灵",
+      "tips_desc" : "用于英雄的招募和升级"
+   },
+   {
+      "proerty_id" : 503003,
+      "proerty_name" : "功勋",
+      "tips_desc" : "用于兑换功勋商店中的宝物"
+   },
+   {
+      "proerty_id" : 503103,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 503203,
+      "proerty_name" : "最大经验"
+   },
+   {
+      "proerty_id" : 503303,
+      "proerty_name" : "VIP等级"
+   },
+   {
+      "proerty_id" : 503403,
+      "proerty_name" : "友情值",
+      "tips_desc" : "和玩家组队来获得的友情值"
+   },
+   {
+      "proerty_id" : 503503,
+      "proerty_name" : "魅力值",
+      "tips_desc" : "魅力人气值"
+   },
+   {
+      "proerty_id" : 503603,
+      "proerty_name" : "战场声望"
+   },
+   {
+      "proerty_id" : 503703,
+      "proerty_name" : "公会贡献",
+      "tips_desc" : "公会的贡献度,用于公会抽奖和公会技能升级"
+   },
+   {
+      "proerty_id" : 503803,
+      "proerty_name" : "公会财富",
+      "tips_desc" : "公会的公共财富,用于公会建设和公会升级"
+   },
+   {
+      "proerty_id" : 503903,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504003,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504103,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504203,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504303,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504403,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 504504,
+      "proerty_name" : "战力"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 504605,
+      "proerty_name" : "斗力",
+      "tips_desc" : "影响角色物理攻击,法术攻击"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 504705,
+      "proerty_name" : "敏捷"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 504805,
+      "proerty_name" : "灵巧"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 504905,
+      "proerty_name" : "护甲",
+      "tips_desc" : "影响角色物理防御,法术防御"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 505005,
+      "proerty_name" : "耐力",
+      "tips_desc" : "影响角色生命值"
+   },
+   {
+      "proerty_id" : 505105,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 505205,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 505305,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 505405,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 505505,
+      "proerty_name" : "预留"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 505605,
+      "proerty_name" : "物理攻击",
+      "tips_desc" : "物理伤害来源"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 505705,
+      "proerty_name" : "魔法攻击",
+      "tips_desc" : "法术伤害来源"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 505805,
+      "proerty_name" : "物理防御",
+      "tips_desc" : "抵御物理伤害"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 505905,
+      "proerty_name" : "魔法防御",
+      "tips_desc" : "御抵御法术伤害"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506005,
+      "proerty_name" : "命中",
+      "tips_desc" : "影响技能命中率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506105,
+      "proerty_name" : "闪避",
+      "tips_desc" : "影响自身闪避率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506205,
+      "proerty_name" : "生命",
+      "tips_desc" : "生命最大值"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506305,
+      "proerty_name" : "暴击",
+      "tips_desc" : "影响暴击率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506405,
+      "proerty_name" : "暴击防御",
+      "tips_desc" : "自身抵抗暴击能力"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506505,
+      "proerty_name" : "初始怒气",
+      "tips_desc" : "战斗开始时怒气最低值"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506605,
+      "proerty_name" : "怒气值上限"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506705,
+      "proerty_name" : "暴击造成伤害增加",
+      "tips_desc" : "暴击造成的伤害"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506706,
+      "proerty_name" : "受到暴击伤害减少",
+      "tips_desc" : "减少暴击受到的伤害"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506805,
+      "proerty_name" : "命中率加成",
+      "tips_desc" : "额外增加的命中率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 506905,
+      "proerty_name" : "闪避率加成",
+      "tips_desc" : "额外增加的闪避率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507005,
+      "proerty_name" : "暴击率加成"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507105,
+      "proerty_name" : "暴击抵抗率加成"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507205,
+      "proerty_name" : "移动速度",
+      "tips_desc" : "移动速度的快慢"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507305,
+      "proerty_name" : "当前生命值"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507405,
+      "proerty_name" : "当前怒气"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507505,
+      "proerty_name" : "体力"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507605,
+      "proerty_name" : "体力上限"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507705,
+      "proerty_name" : "当前血池"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507805,
+      "proerty_name" : "最大血池"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 507905,
+      "proerty_name" : "吟唱修正",
+      "tips_desc" : "加快技能的吟唱速度"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 508005,
+      "proerty_name" : "概率无视防御",
+      "tips_desc" : "攻击能概率无视敌方的防御"
+   },
+   {
+      "proerty_id" : 508105,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 508205,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 508305,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 508405,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 508506,
+      "proerty_name" : "治疗值",
+      "tips_desc" : "治疗效果加成"
+   },
+   {
+      "proerty_id" : 508606,
+      "proerty_name" : "物理伤害"
+   },
+   {
+      "proerty_id" : 508706,
+      "proerty_name" : "魔法伤害"
+   },
+   {
+      "proerty_id" : 508806,
+      "proerty_name" : "最终伤害"
+   },
+   {
+      "proerty_id" : 508906,
+      "proerty_name" : "命中率"
+   },
+   {
+      "proerty_id" : 509006,
+      "proerty_name" : "闪避率"
+   },
+   {
+      "proerty_id" : 509106,
+      "proerty_name" : "暴击率"
+   },
+   {
+      "proerty_id" : 509206,
+      "proerty_name" : "暴击抵抗率"
+   },
+   {
+      "proerty_id" : 509306,
+      "proerty_name" : "斗力加法"
+   },
+   {
+      "proerty_id" : 509406,
+      "proerty_name" : "敏捷加法"
+   },
+   {
+      "proerty_id" : 509506,
+      "proerty_name" : "灵巧加法"
+   },
+   {
+      "proerty_id" : 509606,
+      "proerty_name" : "护甲加法"
+   },
+   {
+      "proerty_id" : 509706,
+      "proerty_name" : "耐力加法"
+   },
+   {
+      "proerty_id" : 509806,
+      "proerty_name" : "斗力乘法"
+   },
+   {
+      "proerty_id" : 509906,
+      "proerty_name" : "敏捷乘法"
+   },
+   {
+      "proerty_id" : 500006,
+      "proerty_name" : "灵巧乘法"
+   },
+   {
+      "proerty_id" : 500106,
+      "proerty_name" : "护甲乘法"
+   },
+   {
+      "proerty_id" : 500206,
+      "proerty_name" : "耐力乘法"
+   },
+   {
+      "proerty_id" : 500306,
+      "proerty_name" : "物攻加法"
+   },
+   {
+      "proerty_id" : 500406,
+      "proerty_name" : "法攻加法"
+   },
+   {
+      "proerty_id" : 500506,
+      "proerty_name" : "物防加法"
+   },
+   {
+      "proerty_id" : 500606,
+      "proerty_name" : "法防加法"
+   },
+   {
+      "proerty_id" : 500706,
+      "proerty_name" : "命中加法"
+   },
+   {
+      "proerty_id" : 500806,
+      "proerty_name" : "闪避加法"
+   },
+   {
+      "proerty_id" : 500906,
+      "proerty_name" : "生命加法"
+   },
+   {
+      "proerty_id" : 511006,
+      "proerty_name" : "暴击加法"
+   },
+   {
+      "proerty_id" : 511016,
+      "proerty_name" : "爆防加法"
+   },
+   {
+      "proerty_id" : 511106,
+      "proerty_name" : "物攻乘法"
+   },
+   {
+      "proerty_id" : 511206,
+      "proerty_name" : "法攻乘法"
+   },
+   {
+      "proerty_id" : 511306,
+      "proerty_name" : "物防乘法"
+   },
+   {
+      "proerty_id" : 511406,
+      "proerty_name" : "法防乘法"
+   },
+   {
+      "proerty_id" : 511506,
+      "proerty_name" : "命中乘法"
+   },
+   {
+      "proerty_id" : 511606,
+      "proerty_name" : "闪避乘法"
+   },
+   {
+      "proerty_id" : 511706,
+      "proerty_name" : "生命乘法"
+   },
+   {
+      "proerty_id" : 511806,
+      "proerty_name" : "暴击乘法"
+   },
+   {
+      "proerty_id" : 511816,
+      "proerty_name" : "爆防乘法"
+   },
+   {
+      "proerty_id" : 511906,
+      "proerty_name" : "技能物理伤害"
+   },
+   {
+      "proerty_id" : 512006,
+      "proerty_name" : "技能魔法伤害"
+   },
+   {
+      "proerty_id" : 512106,
+      "proerty_name" : "技能命中"
+   },
+   {
+      "proerty_id" : 512206,
+      "proerty_name" : "技能暴击"
+   },
+   {
+      "proerty_id" : 512306,
+      "proerty_name" : "技能治疗"
+   },
+   {
+      "proerty_id" : 512406,
+      "proerty_name" : "物理伤害加法"
+   },
+   {
+      "proerty_id" : 512506,
+      "proerty_name" : "魔法伤害加法"
+   },
+   {
+      "proerty_id" : 512606,
+      "proerty_name" : "治疗技能加法"
+   },
+   {
+      "proerty_id" : 512706,
+      "proerty_name" : "命中技能加法"
+   },
+   {
+      "proerty_id" : 512806,
+      "proerty_name" : "暴击技能加法"
+   },
+   {
+      "proerty_id" : 512906,
+      "proerty_name" : "物理伤害乘法"
+   },
+   {
+      "proerty_id" : 513006,
+      "proerty_name" : "魔法伤害乘法"
+   },
+   {
+      "proerty_id" : 513106,
+      "proerty_name" : "命中技能乘法"
+   },
+   {
+      "proerty_id" : 513206,
+      "proerty_name" : "暴击技能乘法"
+   },
+   {
+      "proerty_id" : 513306,
+      "proerty_name" : "治疗技能乘法"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 513406,
+      "proerty_name" : "物理伤害增加"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 513506,
+      "proerty_name" : "物理伤害乘法修正"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 513606,
+      "proerty_name" : "魔法伤害增加"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 513706,
+      "proerty_name" : "魔法伤害乘法修正"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 513806,
+      "proerty_name" : "每次造成伤害增加"
+   },
+   {
+      "proerty_id" : 513906,
+      "proerty_name" : "最终治疗加法修正"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514006,
+      "proerty_name" : "造成伤害增加"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514106,
+      "proerty_name" : "最终治疗属性加成"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514206,
+      "proerty_name" : "受到物理伤害减少"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514306,
+      "proerty_name" : "受到魔法伤害减少"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514406,
+      "proerty_name" : "受到伤害减少"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514506,
+      "proerty_name" : "受到伤害减少"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514606,
+      "proerty_name" : "最终技能伤害修正"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514706,
+      "proerty_name" : "PVE伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 514806,
+      "proerty_name" : "PVE伤害减免"
+   },
+   {
+      "proerty_id" : 514906,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515006,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515106,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515206,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515306,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515406,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515506,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515606,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515706,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515806,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 515906,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 516006,
+      "proerty_name" : "预留"
+   },
+   {
+      "proerty_id" : 516106,
+      "proerty_name" : "预留"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 516207,
+      "proerty_name" : "状态命中",
+      "tips_desc" : "影响眩晕等状态的命中几率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 516307,
+      "proerty_name" : "状态抵抗率",
+      "tips_desc" : "抵抗眩晕等状态的命中几率"
+   },
+   {
+      "proerty_id" : 516407,
+      "proerty_name" : "数值吸血"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 516507,
+      "proerty_name" : "吸血效果"
+   },
+   {
+      "proerty_id" : 516607,
+      "proerty_name" : "速度"
+   },
+   {
+      "proerty_id" : 516707,
+      "proerty_name" : "减速抗性"
+   },
+   {
+      "proerty_id" : 516807,
+      "proerty_name" : "眩晕抗性"
+   },
+   {
+      "proerty_id" : 516907,
+      "proerty_name" : "沉默抗性"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 517007,
+      "proerty_name" : "无视防御",
+      "tips_desc" : "忽略攻击对象一定百分比防御力"
+   },
+   {
+      "proerty_id" : 517107,
+      "proerty_name" : "无视防御比率"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 517207,
+      "proerty_name" : "PK加成",
+      "tips_desc" : "PK伤害增加"
+   },
+   {
+      "fight_prop" : 1,
+      "proerty_id" : 517307,
+      "proerty_name" : "PK减免",
+      "tips_desc" : "PK伤害减少"
+   },
+   {
+      "proerty_id" : 517407,
+      "proerty_name" : "冰伤"
+   },
+   {
+      "proerty_id" : 517507,
+      "proerty_name" : "火伤"
+   },
+   {
+      "proerty_id" : 517607,
+      "proerty_name" : "电伤"
+   },
+   {
+      "proerty_id" : 517707,
+      "proerty_name" : "冰抗"
+   },
+   {
+      "proerty_id" : 517807,
+      "proerty_name" : "火抗"
+   },
+   {
+      "proerty_id" : 517907,
+      "proerty_name" : "电抗"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518007,
+      "proerty_name" : "人族伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518107,
+      "proerty_name" : "精灵族伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518207,
+      "proerty_name" : "兽族伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518307,
+      "proerty_name" : "龙族伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518407,
+      "proerty_name" : "亡灵伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518507,
+      "proerty_name" : "恶魔族伤害加成"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518008,
+      "proerty_name" : "人族伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518108,
+      "proerty_name" : "精灵族伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518208,
+      "proerty_name" : "兽族伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518308,
+      "proerty_name" : "龙族伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518408,
+      "proerty_name" : "亡灵伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 518508,
+      "proerty_name" : "恶魔族伤害减免"
+   },
+   {
+      "fight_prop" : 1,
+      "m_race_fight_prop" : 1,
+      "proerty_id" : 519007,
+      "proerty_name" : "恢复加成",
+      "tips_desc" : "受到的治疗时治疗效果加成"
+   }
+]

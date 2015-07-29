@@ -1,0 +1,22 @@
+[
+   {
+      "effect_content" : 2,
+      "effect_id" : 1001,
+      "effect_type" : 1
+   },
+   {
+      "effect_content" : 1,
+      "effect_id" : 1002,
+      "effect_type" : 2
+   },
+   {
+      "effect_content" : 2,
+      "effect_id" : 1003,
+      "effect_type" : 1
+   },
+   {
+      "effect_content" : 1,
+      "effect_id" : 1004,
+      "effect_type" : 2
+   }
+]

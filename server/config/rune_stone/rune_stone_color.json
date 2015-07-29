@@ -1,0 +1,26 @@
+[
+   {
+      "prop_color_factor" : 0.50,
+      "rune_stone_color" : 1
+   },
+   {
+      "prop_color_factor" : 1,
+      "rune_stone_color" : 2
+   },
+   {
+      "prop_color_factor" : 1.50,
+      "rune_stone_color" : 3
+   },
+   {
+      "prop_color_factor" : 2,
+      "rune_stone_color" : 4
+   },
+   {
+      "prop_color_factor" : 3,
+      "rune_stone_color" : 5
+   },
+   {
+      "prop_color_factor" : 4,
+      "rune_stone_color" : 7
+   }
+]

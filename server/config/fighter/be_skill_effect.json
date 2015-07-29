@@ -1,0 +1,4637 @@
+[
+   {
+      "be_addpower" : [
+         [ 2, 3 ]
+      ],
+      "be_skill_effect" : 61100111
+   },
+   {
+      "be_addpower" : [
+         [ 2, 5 ]
+      ],
+      "be_skill_effect" : 61100121
+   },
+   {
+      "be_addpower" : [
+         [ 2, 7 ]
+      ],
+      "be_skill_effect" : 61100131
+   },
+   {
+      "be_skill_effect" : 61100211,
+      "be_skill_property" : [
+         [ 507005, 0, 0.020 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100221,
+      "be_skill_property" : [
+         [ 507005, 0, 0.040 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100231,
+      "be_skill_property" : [
+         [ 507005, 0, 0.060 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100241,
+      "be_skill_property" : [
+         [ 507005, 0, 0.080 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100251,
+      "be_skill_property" : [
+         [ 507005, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100261,
+      "be_skill_property" : [
+         [ 507005, 0, 0.120 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100271,
+      "be_skill_property" : [
+         [ 507005, 0, 0.140 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100281,
+      "be_skill_property" : [
+         [ 507005, 0, 0.160 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100291,
+      "be_skill_property" : [
+         [ 507005, 0, 0.180 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100311,
+      "be_skill_property" : [
+         [ 505605, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100321,
+      "be_skill_property" : [
+         [ 505605, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100331,
+      "be_skill_property" : [
+         [ 505605, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100341,
+      "be_skill_property" : [
+         [ 505605, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100351,
+      "be_skill_property" : [
+         [ 505605, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100411,
+      "opening_skill" : [ 12100401 ]
+   },
+   {
+      "be_effectid" : [ 12200302 ],
+      "be_fix_steps" : [
+         [ 1, 4, -1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 61100421
+   },
+   {
+      "be_skill_effect" : 61100431
+   },
+   {
+      "be_skill_effect" : 61100441
+   },
+   {
+      "be_skill_effect" : 61100451
+   },
+   {
+      "be_skill_effect" : 61100511
+   },
+   {
+      "be_skill_effect" : 61100521
+   },
+   {
+      "be_skill_effect" : 61100531
+   },
+   {
+      "be_skill_effect" : 61100541
+   },
+   {
+      "be_skill_effect" : 61100551
+   },
+   {
+      "be_buff" : [
+         12020300,
+         [ 999 ],
+         [ 507405, 5 ]
+      ],
+      "be_skill_effect" : 61100611
+   },
+   {
+      "be_buff" : [
+         12020300,
+         [ 999 ],
+         [ 507405, 10 ]
+      ],
+      "be_skill_effect" : 61100621
+   },
+   {
+      "be_buff" : [
+         12020300,
+         [ 999 ],
+         [ 507405, 15 ]
+      ],
+      "be_skill_effect" : 61100631
+   },
+   {
+      "be_skill_effect" : 61100711,
+      "be_skill_property" : [
+         [ 505605, 0, 0.020 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100721,
+      "be_skill_property" : [
+         [ 505605, 0, 0.040 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100731,
+      "be_skill_property" : [
+         [ 505605, 0, 0.060 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100741,
+      "be_skill_property" : [
+         [ 505605, 0, 0.080 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100751,
+      "be_skill_property" : [
+         [ 505605, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100761,
+      "be_skill_property" : [
+         [ 505605, 0, 0.120 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100771,
+      "be_skill_property" : [
+         [ 505605, 0, 0.140 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100781,
+      "be_skill_property" : [
+         [ 505605, 0, 0.160 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100791,
+      "be_skill_property" : [
+         [ 505605, 0, 0.180 ]
+      ]
+   },
+   {
+      "be_addpower" : [
+         [ 1, 2 ]
+      ],
+      "be_skill_effect" : 61100811
+   },
+   {
+      "be_addpower" : [
+         [ 1, 4 ]
+      ],
+      "be_skill_effect" : 61100821
+   },
+   {
+      "be_addpower" : [
+         [ 1, 6 ]
+      ],
+      "be_skill_effect" : 61100831
+   },
+   {
+      "be_skill_effect" : 61100911,
+      "be_skill_property" : [
+         [ 505705, 0, 0.020 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100921,
+      "be_skill_property" : [
+         [ 505705, 0, 0.040 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100931,
+      "be_skill_property" : [
+         [ 505705, 0, 0.060 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100941,
+      "be_skill_property" : [
+         [ 505705, 0, 0.080 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100951,
+      "be_skill_property" : [
+         [ 505705, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100961,
+      "be_skill_property" : [
+         [ 505705, 0, 0.120 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100971,
+      "be_skill_property" : [
+         [ 505705, 0, 0.140 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100981,
+      "be_skill_property" : [
+         [ 505705, 0, 0.160 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100991,
+      "be_skill_property" : [
+         [ 505705, 0, 0.180 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61112311,
+      "be_skill_property" : [
+         [ 514406, -0.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61112321,
+      "be_skill_property" : [
+         [ 514406, -1, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61112331,
+      "be_skill_property" : [
+         [ 514406, -1.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222013,
+      "be_skill_property" : [
+         [ 506905, 0, 0.020 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222023,
+      "be_skill_property" : [
+         [ 506905, 0, 0.040 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222033,
+      "be_skill_property" : [
+         [ 506905, 0, 0.060 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222043,
+      "be_skill_property" : [
+         [ 506905, 0, 0.080 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222053,
+      "be_skill_property" : [
+         [ 506905, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222063,
+      "be_skill_property" : [
+         [ 506905, 0, 0.120 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222073,
+      "be_skill_property" : [
+         [ 506905, 0, 0.140 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222083,
+      "be_skill_property" : [
+         [ 506905, 0, 0.160 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61222093,
+      "be_skill_property" : [
+         [ 506905, 0, 0.180 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232013,
+      "be_skill_property" : [
+         [ 514106, 0.020, 0 ],
+         [ 506205, 0, 0.020 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232023,
+      "be_skill_property" : [
+         [ 514106, 0.040, 0 ],
+         [ 506205, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232033,
+      "be_skill_property" : [
+         [ 514106, 0.060, 0 ],
+         [ 506205, 0, 0.040 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232043,
+      "be_skill_property" : [
+         [ 514106, 0.080, 0 ],
+         [ 506205, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232053,
+      "be_skill_property" : [
+         [ 514106, 0.10, 0 ],
+         [ 506205, 0, 0.060 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232063,
+      "be_skill_property" : [
+         [ 514106, 0.120, 0 ],
+         [ 506205, 0, 0.07000000000000001 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232073,
+      "be_skill_property" : [
+         [ 514106, 0.140, 0 ],
+         [ 506205, 0, 0.080 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232083,
+      "be_skill_property" : [
+         [ 514106, 0.160, 0 ],
+         [ 506205, 0, 0.090 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61232093,
+      "be_skill_property" : [
+         [ 514106, 0.180, 0 ],
+         [ 506205, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100201,
+      "be_skill_property" : [
+         [ 507005, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100202,
+      "be_skill_property" : [
+         [ 507005, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 61100203,
+      "be_skill_property" : [
+         [ 507005, 0.30, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81010111,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81010121,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81010131,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81020111,
+      "be_skill_property" : [
+         [ 514406, 0, -0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81020121,
+      "be_skill_property" : [
+         [ 514406, 0, -0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81020131,
+      "be_skill_property" : [
+         [ 514406, 0, -0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81030111,
+      "be_skill_property" : [
+         [ 505805, 1000, 0.50 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81030121,
+      "be_skill_property" : [
+         [ 505805, 1000, 0.50 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81030131,
+      "be_skill_property" : [
+         [ 505805, 1000, 0.50 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71200001,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71200002,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71300001,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71401001,
+      "be_skill_property" : [
+         [ 505705, 200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71401002,
+      "be_skill_property" : [
+         [ 505705, 500, 0 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         13020103,
+         [ 12000 ],
+         [ 514506, -800 ]
+      ],
+      "be_skill_effect" : 71402001,
+      "be_skill_property" : [
+         [ 514406, -0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71402002,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71403001,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71403002,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71404001,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71404002,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000001,
+      "be_skill_property" : [
+         [ 513806, 100, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000002,
+      "be_skill_property" : [
+         [ 513806, 200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000003,
+      "be_skill_property" : [
+         [ 513806, 300, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000004,
+      "be_skill_property" : [
+         [ 513806, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000005,
+      "be_skill_property" : [
+         [ 513806, 500, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000006,
+      "be_skill_property" : [
+         [ 513806, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000007,
+      "be_skill_property" : [
+         [ 513806, 700, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000008,
+      "be_skill_property" : [
+         [ 513806, 800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000009,
+      "be_skill_property" : [
+         [ 513806, 900, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000010,
+      "be_skill_property" : [
+         [ 513806, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000011,
+      "be_skill_property" : [
+         [ 507105, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000012,
+      "be_skill_property" : [
+         [ 507105, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000013,
+      "be_skill_property" : [
+         [ 507105, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000014,
+      "be_skill_property" : [
+         [ 507105, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000015,
+      "be_skill_property" : [
+         [ 507105, 0.250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000016,
+      "be_skill_property" : [
+         [ 507105, 0.30, 0 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         12020200,
+         [ 100 ],
+         [ 507405, 5 ]
+      ],
+      "be_effectid" : [ 11100112 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.30 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100011
+   },
+   {
+      "be_buff" : [
+         12020200,
+         [ 100 ],
+         [ 507405, 5 ]
+      ],
+      "be_effectid" : [ 11100112 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.40 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100021
+   },
+   {
+      "be_buff" : [
+         12020200,
+         [ 100 ],
+         [ 507405, 5 ]
+      ],
+      "be_effectid" : [ 11100112 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.50 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100031
+   },
+   {
+      "be_skill_effect" : 80000021,
+      "be_skill_property" : [
+         [ 505605, 250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000031,
+      "be_skill_property" : [
+         [ 506505, 15, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000032,
+      "be_skill_property" : [
+         [ 506505, 10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000033,
+      "be_skill_property" : [
+         [ 506505, 30, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000035,
+      "be_skill_property" : [
+         [ 506505, 25, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000036,
+      "be_skill_property" : [
+         [ 506505, 35, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000040,
+      "be_skill_property" : [
+         [ 513806, 200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000041,
+      "be_skill_property" : [
+         [ 513806, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000051
+   },
+   {
+      "be_skill_effect" : 80000071,
+      "be_skill_property" : [
+         [ 506905, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21000001, 21070111, 21070211, 21070212, 21070311 ],
+      "be_fix_steps" : [
+         [ 0.50, 511106, 0 ],
+         [ 0.250, 511106, 1 ],
+         [ 0, 511106, 2 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000091
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000101,
+      "be_skill_property" : [
+         [ 514406, -0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000111,
+      "be_skill_property" : [
+         [ 506205, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000112,
+      "be_skill_property" : [
+         [ 506205, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000113,
+      "be_skill_property" : [
+         [ 506205, 0, 0.20 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21100212 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000121
+   },
+   {
+      "be_skill_effect" : 80000131,
+      "be_skill_property" : [
+         [ 514406, -0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000132,
+      "be_skill_property" : [
+         [ 514406, -0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000133,
+      "be_skill_property" : [
+         [ 514406, -0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000134,
+      "be_skill_property" : [
+         [ 514406, -0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000135,
+      "be_skill_property" : [
+         [ 514406, -0.250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000136,
+      "be_skill_property" : [
+         [ 514406, -0.30, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 11100214 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.10 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100012
+   },
+   {
+      "be_effectid" : [ 11100214 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.150 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100022
+   },
+   {
+      "be_effectid" : [ 11100214 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.20 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 71100032
+   },
+   {
+      "be_buff" : [
+         12020302,
+         [ 10000 ],
+         [ 511106, 0.060 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71100003
+   },
+   {
+      "be_buff" : [
+         12020302,
+         [ 10000 ],
+         [ 511106, 0.080 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71100013
+   },
+   {
+      "be_buff" : [
+         12020302,
+         [ 10000 ],
+         [ 511106, 0.10 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71100023
+   },
+   {
+      "be_buff" : [
+         13040108,
+         [ 10000 ],
+         [ 507005, 0.050 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71200003
+   },
+   {
+      "be_buff" : [
+         13040108,
+         [ 10000 ],
+         [ 507005, 0.10 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71200013
+   },
+   {
+      "be_buff" : [
+         13040108,
+         [ 10000 ],
+         [ 507005, 0.150 ]
+      ],
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71200023
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71200033
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 71200043
+   },
+   {
+      "be_skill_effect" : 71300002,
+      "be_skill_property" : [
+         [ 514006, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71300012,
+      "be_skill_property" : [
+         [ 514006, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 71300022,
+      "be_skill_property" : [
+         [ 514006, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         12020303,
+         [ 10000 ],
+         [ 511206, 0.060 ]
+      ],
+      "be_skill_effect" : 71300003
+   },
+   {
+      "be_buff" : [
+         12020303,
+         [ 10000 ],
+         [ 511206, 0.080 ]
+      ],
+      "be_skill_effect" : 71300013
+   },
+   {
+      "be_buff" : [
+         12020303,
+         [ 10000 ],
+         [ 511206, 0.10 ]
+      ],
+      "be_skill_effect" : 71300023
+   },
+   {
+      "be_effectid" : [ 10000302 ],
+      "be_fix_steps" : [
+         [ 0, 1, 6 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000141
+   },
+   {
+      "be_skill_effect" : 80000151,
+      "be_skill_property" : [
+         [ 506205, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000152,
+      "be_skill_property" : [
+         [ 506205, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000153,
+      "be_skill_property" : [
+         [ 506205, 2400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000154,
+      "be_skill_property" : [
+         [ 506205, 3600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000155,
+      "be_skill_property" : [
+         [ 506205, 4800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000156,
+      "be_skill_property" : [
+         [ 506205, 6000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000157,
+      "be_skill_property" : [
+         [ 506205, 7200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000158,
+      "be_skill_property" : [
+         [ 506205, 8400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000159,
+      "be_skill_property" : [
+         [ 506205, 9600, 0 ]
+      ]
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 13020105, 6000 ]
+      ],
+      "be_skill_effect" : 80000142,
+      "be_skill_property" : [
+         [ 514506, -200, 0 ],
+         [ 506205, 5000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000001,
+      "be_skill_property" : [
+         [ 505605, 500, 0 ],
+         [ 505705, 500, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000002,
+      "be_skill_property" : [
+         [ 514406, -0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000003,
+      "be_skill_property" : [
+         [ 514006, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000004,
+      "be_skill_property" : [
+         [ 507105, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000005,
+      "be_skill_property" : [
+         [ 507005, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81000006,
+      "be_skill_property" : [
+         [ 506905, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000161,
+      "be_skill_property" : [
+         [ 506905, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000162,
+      "be_skill_property" : [
+         [ 506905, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000163,
+      "be_skill_property" : [
+         [ 506905, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000164,
+      "be_skill_property" : [
+         [ 506905, 0.250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000165,
+      "be_skill_property" : [
+         [ 506905, 0.30, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000166,
+      "be_skill_property" : [
+         [ 506905, 0.350, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000167,
+      "be_skill_property" : [
+         [ 506905, 0.40, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000168,
+      "be_skill_property" : [
+         [ 506905, 0.450, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000169,
+      "be_skill_property" : [
+         [ 506905, 0.50, 0 ]
+      ]
+   },
+   {
+      "be_fix_cd" : [
+         [ 21040201, -15000 ]
+      ],
+      "be_skill_effect" : 80000171,
+      "be_skill_property" : [
+         [ 513806, 500, 0 ]
+      ]
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 12020305, 10000 ]
+      ],
+      "be_skill_effect" : 80000172,
+      "be_skill_property" : [
+         [ 507005, 0.10, 0 ],
+         [ 505605, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000173,
+      "be_skill_property" : [
+         [ 505605, 200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000174,
+      "be_skill_property" : [
+         [ 518407, 0.50, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21030312 ],
+      "be_fix_steps" : [
+         [ 1, 4, 1 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000175,
+      "be_skill_property" : [
+         [ 514106, 0.50, 0 ],
+         [ 505905, 0, 0.20 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000176,
+      "be_skill_property" : [
+         [ 518207, 0.50, 0 ],
+         [ 513806, 500, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21090112 ],
+      "be_fix_bufftime" : [
+         [ 13040110, 12000 ]
+      ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.30 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000177
+   },
+   {
+      "be_effectid" : [ 21090112 ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.30 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000178
+   },
+   {
+      "be_effectid" : [ 21060113 ],
+      "be_fix_steps" : [
+         [ 1, 4, 1 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000179
+   },
+   {
+      "be_buff" : [
+         13040105,
+         [ 10000 ],
+         [ 506905, 0.40 ]
+      ],
+      "be_effectid" : [ 21060011 ],
+      "be_fix_steps" : [
+         [ 1, 4, 1 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000180
+   },
+   {
+      "be_addpower" : [
+         [ 1, 3 ]
+      ],
+      "be_skill_effect" : 80000181,
+      "be_skill_property" : [
+         [ 505705, 100, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000014 ],
+      "be_fix_cd" : [
+         [ 21010201, -3000 ]
+      ],
+      "be_fix_steps" : [
+         [ 0, 1, 2 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000182,
+      "be_skill_property" : [
+         [ 518408, 0.50, 0 ],
+         [ 505705, 300, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000183,
+      "be_skill_property" : [
+         [ 506805, 0.250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000285,
+      "be_skill_property" : [
+         [ 514006, 0.30, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100201,
+      "be_skill_property" : [
+         [ 505605, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100202,
+      "be_skill_property" : [
+         [ 505605, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100203,
+      "be_skill_property" : [
+         [ 505605, 800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100204,
+      "be_skill_property" : [
+         [ 505605, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100205,
+      "be_skill_property" : [
+         [ 505605, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100301,
+      "be_skill_property" : [
+         [ 505705, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100302,
+      "be_skill_property" : [
+         [ 505705, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100303,
+      "be_skill_property" : [
+         [ 505705, 800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100304,
+      "be_skill_property" : [
+         [ 505705, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100305,
+      "be_skill_property" : [
+         [ 505705, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100401,
+      "be_skill_property" : [
+         [ 505805, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100402,
+      "be_skill_property" : [
+         [ 505805, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100403,
+      "be_skill_property" : [
+         [ 505805, 800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100404,
+      "be_skill_property" : [
+         [ 505805, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100405,
+      "be_skill_property" : [
+         [ 505805, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100501,
+      "be_skill_property" : [
+         [ 505905, 400, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100502,
+      "be_skill_property" : [
+         [ 505905, 600, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100503,
+      "be_skill_property" : [
+         [ 505905, 800, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100504,
+      "be_skill_property" : [
+         [ 505905, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100505,
+      "be_skill_property" : [
+         [ 505905, 1200, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100101,
+      "be_skill_property" : [
+         [ 506205, 2000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100102,
+      "be_skill_property" : [
+         [ 506205, 3000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100103,
+      "be_skill_property" : [
+         [ 506205, 4000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100104,
+      "be_skill_property" : [
+         [ 506205, 5000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100105,
+      "be_skill_property" : [
+         [ 506205, 6000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100601,
+      "be_skill_property" : [
+         [ 506805, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100602,
+      "be_skill_property" : [
+         [ 506805, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100603,
+      "be_skill_property" : [
+         [ 506805, 0.080, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100604,
+      "be_skill_property" : [
+         [ 506805, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100605,
+      "be_skill_property" : [
+         [ 506805, 0.180, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100701,
+      "be_skill_property" : [
+         [ 506905, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100702,
+      "be_skill_property" : [
+         [ 506905, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100703,
+      "be_skill_property" : [
+         [ 506905, 0.080, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100704,
+      "be_skill_property" : [
+         [ 506905, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100705,
+      "be_skill_property" : [
+         [ 506905, 0.180, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100801,
+      "be_skill_property" : [
+         [ 507005, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100802,
+      "be_skill_property" : [
+         [ 507005, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100803,
+      "be_skill_property" : [
+         [ 507005, 0.080, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100804,
+      "be_skill_property" : [
+         [ 507005, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100805,
+      "be_skill_property" : [
+         [ 507005, 0.180, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100901,
+      "be_skill_property" : [
+         [ 507105, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100902,
+      "be_skill_property" : [
+         [ 507105, 0.050, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100903,
+      "be_skill_property" : [
+         [ 507105, 0.080, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100904,
+      "be_skill_property" : [
+         [ 507105, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81100905,
+      "be_skill_property" : [
+         [ 507105, 0.180, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101001,
+      "be_skill_property" : [
+         [ 514006, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101002,
+      "be_skill_property" : [
+         [ 514006, 0.060, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101003,
+      "be_skill_property" : [
+         [ 514006, 0.090, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101004,
+      "be_skill_property" : [
+         [ 514006, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101005,
+      "be_skill_property" : [
+         [ 514006, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101101,
+      "be_skill_property" : [
+         [ 514406, 0.030, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101102,
+      "be_skill_property" : [
+         [ 514406, 0.060, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101103,
+      "be_skill_property" : [
+         [ 514406, 0.090, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101104,
+      "be_skill_property" : [
+         [ 514406, 0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101105,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101301,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101302,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101303,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101401,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101402,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101403,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101501,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101502,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101503,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101601,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101602,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101603,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101701,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101702,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101703,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101801,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101802,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101803,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101901,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101902,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81101903,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102001,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102002,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102003,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102101,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102102,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102103,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102301,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102302,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102303,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102401,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102402,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102403,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102501,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102502,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102503,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102601,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102602,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102603,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102701,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102702,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102703,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102801,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102802,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102803,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102901,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102902,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81102903,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103001,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103002,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103003,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103101,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103102,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103103,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81103203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81104201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81104202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81104203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81105201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81105202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81105203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81106201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81106202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81106203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81107201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81107202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81107203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81108201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81108202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81108203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81109201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81109202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81109203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81110201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81110202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81110203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81111201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81111202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81111203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81112201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81112202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81112203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81113201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81113202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81113203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81114201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81114202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81114203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81115201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81115202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81115203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81116201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81116202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81116203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81117201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81117202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81117203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81118201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81118202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81118203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81119201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81119202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81119203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81120201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81120202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81120203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81121201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81121202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81121203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81122201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81122202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81122203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81123201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81123202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81123203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81124201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81124202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81124203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81125201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81125202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81125203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81126201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81126202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81126203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81127201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81127202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81127203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81128201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81128202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81128203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81129201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81129202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81129203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81130201,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81130202,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81130203,
+      "be_skill_property" : [
+         [ 514406, 0, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11100911,
+      "fix_anger" : [
+         [ 11100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11100921,
+      "fix_anger" : [
+         [ 11100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11100931,
+      "fix_anger" : [
+         [ 11100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11100941,
+      "fix_anger" : [
+         [ 11100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.70 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11100951,
+      "fix_anger" : [
+         [ 11100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11101151
+   },
+   {
+      "be_skill_effect" : 11200811,
+      "be_skill_property" : [
+         [ 506205, 0, 0.020 ],
+         [ 514406, -0.020, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200821,
+      "be_skill_property" : [
+         [ 506205, 0, 0.040 ],
+         [ 514406, -0.040, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200831,
+      "be_skill_property" : [
+         [ 506205, 0, 0.060 ],
+         [ 514406, -0.060, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200841,
+      "be_skill_property" : [
+         [ 506205, 0, 0.080 ],
+         [ 514406, -0.080, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200851,
+      "be_skill_property" : [
+         [ 506205, 0, 0.10 ],
+         [ 514406, -0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200861,
+      "be_skill_property" : [
+         [ 506205, 0, 0.120 ],
+         [ 514406, -0.120, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200871,
+      "be_skill_property" : [
+         [ 506205, 0, 0.140 ],
+         [ 514406, -0.140, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200881,
+      "be_skill_property" : [
+         [ 506205, 0, 0.160 ],
+         [ 514406, -0.160, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 11200891,
+      "be_skill_property" : [
+         [ 506205, 0, 0.180 ],
+         [ 514406, -0.180, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11200911,
+      "fix_anger" : [
+         [ 11200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11200921,
+      "fix_anger" : [
+         [ 11200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11200931,
+      "fix_anger" : [
+         [ 11200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11200941,
+      "fix_anger" : [
+         [ 11200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.70 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11200951,
+      "fix_anger" : [
+         [ 11200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 11201151
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12100911,
+      "fix_anger" : [
+         [ 12100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12100921,
+      "fix_anger" : [
+         [ 12100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12100931,
+      "fix_anger" : [
+         [ 12100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12100941,
+      "fix_anger" : [
+         [ 12100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.70 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12100951,
+      "fix_anger" : [
+         [ 12100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12101151
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12200911,
+      "fix_anger" : [
+         [ 12200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12200921,
+      "fix_anger" : [
+         [ 12200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12200931,
+      "fix_anger" : [
+         [ 12200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12200941,
+      "fix_anger" : [
+         [ 12200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12200951,
+      "fix_anger" : [
+         [ 12200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 12201151
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13100911,
+      "fix_anger" : [
+         [ 13100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13100921,
+      "fix_anger" : [
+         [ 13100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13100931,
+      "fix_anger" : [
+         [ 13100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13100941,
+      "fix_anger" : [
+         [ 13100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.70 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13100951,
+      "fix_anger" : [
+         [ 13100201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13101151
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13200911,
+      "fix_anger" : [
+         [ 13200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13200921,
+      "fix_anger" : [
+         [ 13200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13200931,
+      "fix_anger" : [
+         [ 13200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13200941,
+      "fix_anger" : [
+         [ 13200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000007 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.70 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13200951,
+      "fix_anger" : [
+         [ 13200201, -5 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201011
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201021
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201031
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201041
+   },
+   {
+      "be_effectid" : [ 10000008 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.60 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201051
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201111
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201121
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201131
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.40 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201141
+   },
+   {
+      "be_effectid" : [ 10000009 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.50 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 13201151
+   },
+   {
+      "be_skill_effect" : 81201000,
+      "be_skill_property" : [
+         [ 506205, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201001,
+      "be_skill_property" : [
+         [ 506205, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201002,
+      "be_skill_property" : [
+         [ 506205, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201003,
+      "be_skill_property" : [
+         [ 505805, 1000, 0 ],
+         [ 505905, 1000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201004,
+      "be_skill_property" : [
+         [ 506205, 2000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201005,
+      "be_skill_property" : [
+         [ 506205, 3000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201006,
+      "be_skill_property" : [
+         [ 506205, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201007,
+      "be_skill_property" : [
+         [ 505605, 0, 0.030 ],
+         [ 505705, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201008,
+      "be_skill_property" : [
+         [ 506205, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201009,
+      "be_skill_property" : [
+         [ 505605, 0, 0.050 ],
+         [ 505705, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201010,
+      "be_skill_property" : [
+         [ 506205, 3000, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201011,
+      "be_skill_property" : [
+         [ 505805, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81201012,
+      "be_skill_property" : [
+         [ 506205, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301001,
+      "be_skill_property" : [
+         [ 517007, 0.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301002,
+      "be_skill_property" : [
+         [ 517007, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301003,
+      "be_skill_property" : [
+         [ 517007, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301004,
+      "be_skill_property" : [
+         [ 517007, 0.250, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301005,
+      "be_skill_property" : [
+         [ 517007, 0.30, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 81301006,
+      "be_skill_property" : [
+         [ 517007, 0.40, 0 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         13020107,
+         [ 9999000 ],
+         [ 511106, 0 ]
+      ],
+      "be_skill_effect" : 80000184,
+      "be_skill_property" : [
+         [ 514206, -1, 0 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         13020108,
+         [ 9999000 ],
+         [ 511106, 0 ]
+      ],
+      "be_skill_effect" : 80000185,
+      "be_skill_property" : [
+         [ 514306, -1, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000186,
+      "be_skill_property" : [
+         [ 514206, -0.330, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21050113 ],
+      "be_fix_bufftime" : [
+         [ 13020102, 60000 ]
+      ],
+      "be_fix_steps" : [
+         [ 1, 4, 1 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000187,
+      "be_skill_property" : [
+         [ 506805, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_addpower" : [
+         [ 1, 2 ]
+      ],
+      "be_skill_effect" : 80000188
+   },
+   {
+      "be_addpower" : [
+         [ 1, 4 ]
+      ],
+      "be_skill_effect" : 80000189
+   },
+   {
+      "be_addpower" : [
+         [ 1, 6 ]
+      ],
+      "be_skill_effect" : 80000190
+   },
+   {
+      "be_skill_effect" : 80000191,
+      "be_skill_property" : [
+         [ 505705, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000192,
+      "be_skill_property" : [
+         [ 505705, 0, 0.20 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000193,
+      "be_skill_property" : [
+         [ 505705, 0, 0.30 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21080312 ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.30 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000200
+   },
+   {
+      "be_effectid" : [ 21080112 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000201
+   },
+   {
+      "be_fix_cd" : [
+         [ 21120301, -20000 ]
+      ],
+      "be_skill_effect" : 80000202,
+      "be_skill_property" : [
+         [ 507105, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21120254 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000203
+   },
+   {
+      "be_buff" : [
+         12010110,
+         [ 60000 ],
+         [ 507305, 0, 7000 ]
+      ],
+      "be_skill_effect" : 80000204,
+      "be_skill_property" : [
+         [ 506205, 0.150, 0 ],
+         [ 506706, -0.40, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21100213 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000205,
+      "be_skill_property" : [
+         [ 514306, -0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000211,
+      "be_skill_property" : [
+         [ 519007, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000212,
+      "be_skill_property" : [
+         [ 519007, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000213,
+      "be_skill_property" : [
+         [ 519007, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000221,
+      "be_skill_property" : [
+         [ 514106, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000222,
+      "be_skill_property" : [
+         [ 514106, 0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000223,
+      "be_skill_property" : [
+         [ 514106, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 33010100, 1000 ]
+      ],
+      "be_skill_effect" : 80000231
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 33010100, 1500 ]
+      ],
+      "be_skill_effect" : 80000232
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 33010100, 2000 ]
+      ],
+      "be_skill_effect" : 80000233
+   },
+   {
+      "be_effectid" : [ 21090002 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000241,
+      "be_skill_property" : [
+         [ 516507, 0.250 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 10000022 ],
+      "be_fix_steps" : [
+         [ 0, 1, 2 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000242
+   },
+   {
+      "be_skill_effect" : 80000243,
+      "be_skill_property" : [
+         [ 517307, 1, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000251,
+      "be_skill_property" : [
+         [ 506805, 1, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21140113 ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000252
+   },
+   {
+      "be_skill_effect" : 80000253,
+      "be_skill_property" : [
+         [ 506805, 0.30, 0 ],
+         [ 505705, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 31001121 ],
+      "be_fix_bufftime" : [
+         [ 33010100, 2000 ]
+      ],
+      "be_fix_steps" : [
+         [ 0, 4, 0.20 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000254
+   },
+   {
+      "be_buff" : [
+         13050100,
+         [ 3600000 ],
+         []
+      ],
+      "be_skill_effect" : 80000261
+   },
+   {
+      "be_skill_effect" : 80000281,
+      "be_skill_property" : [
+         [ 516507, 0.250 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000282,
+      "be_skill_property" : [
+         [ 516507, 0.50 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000283,
+      "be_skill_property" : [
+         [ 516507, 0.750 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000284,
+      "be_skill_property" : [
+         [ 516507, 1 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000062,
+      "be_skill_property" : [
+         [ 504605, 100, 0 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21130112, 21130312 ],
+      "be_fix_bufftime" : [
+         [ 34401003, 10000 ]
+      ],
+      "be_fix_steps" : [
+         [ 1, 4, 0.250 ]
+      ],
+      "be_fix_type" : 6,
+      "be_skill_effect" : 80000286
+   },
+   {
+      "be_skill_effect" : 80000287
+   },
+   {
+      "be_skill_effect" : 80000288,
+      "be_skill_property" : [
+         [ 516507, 0.150 ],
+         [ 507005, 0.10, 0 ],
+         [ 505605, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_effectid" : [ 21150412 ],
+      "be_fix_bufftime" : [
+         [ 32010116, 5000 ],
+         [ 32010113, 5000 ]
+      ],
+      "be_fix_steps" : [
+         [ 0, 4, 1 ]
+      ],
+      "be_fix_type" : 2,
+      "be_skill_effect" : 80000290
+   },
+   {
+      "be_buff" : [
+         13050100,
+         [ 12000 ],
+         []
+      ],
+      "be_skill_effect" : 80000291
+   },
+   {
+      "be_buff" : [
+         13040101,
+         [ 12000 ],
+         [ 514406, -0.20 ]
+      ],
+      "be_skill_effect" : 80000292,
+      "be_skill_property" : [
+         [ 506205, 0, 0.20 ],
+         [ 505805, 0, 0.20 ],
+         [ 505905, 0, 0.20 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000293,
+      "trigger_skill" : [ 12300601 ],
+      "trigger_type" : 1
+   },
+   {
+      "be_buff" : [
+         12010100,
+         [ 100000 ],
+         [ 507305, 0, 100 ]
+      ],
+      "be_skill_effect" : 82100101
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100102
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100103
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100104
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100105
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100106
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100107
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100108
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100109
+   },
+   {
+      "be_buff" : [
+         13040202,
+         [ 10000 ],
+         [ 507305, 100 ]
+      ],
+      "be_skill_effect" : 82100110
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100201
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100202
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100203
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100204
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100205
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100206
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100207
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100208
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100209
+   },
+   {
+      "be_buff" : [
+         13040203,
+         [ 10000 ],
+         [ 509306, 100 ]
+      ],
+      "be_skill_effect" : 82100210
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100301
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100302
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100303
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100304
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100305
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100306
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100307
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100308
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100309
+   },
+   {
+      "be_buff" : [
+         13040204,
+         [ 10000 ],
+         [ 514406, -0.50 ]
+      ],
+      "be_skill_effect" : 82100310
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100401
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100402
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100403
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100404
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100405
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100406
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100407
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100408
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100409
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100410
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100411
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100412
+   },
+   {
+      "be_buff" : [
+         13040205,
+         [ 10000 ],
+         []
+      ],
+      "be_skill_effect" : 82100413
+   },
+   {
+      "be_fix_cd" : [
+         [ 21160301, -30000 ]
+      ],
+      "be_skill_effect" : 80000301
+   },
+   {
+      "be_fix_bufftime" : [
+         [ 13020211, 10000 ],
+         [ 13020212, 10000 ]
+      ],
+      "be_skill_effect" : 80000302
+   },
+   {
+      "be_skill_effect" : 80000303,
+      "be_skill_property" : [
+         [ 505705, 0, 0.150 ]
+      ],
+      "fix_anger" : [
+         [ 21160301, 10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000304,
+      "be_skill_property" : [
+         [ 514306, -0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000305,
+      "be_skill_property" : [
+         [ 514206, -0.150, 0 ],
+         [ 514306, -0.150, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000306,
+      "be_skill_property" : [
+         [ 516507, 0.150 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         13040102,
+         [ 15000 ],
+         [ 511106, 0.20 ],
+         [ 511206, 0.20 ]
+      ],
+      "be_skill_effect" : 80000307
+   },
+   {
+      "be_skill_effect" : 80000308,
+      "be_skill_property" : [
+         [ 505605, 0, 0.010 ],
+         [ 505705, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000309,
+      "be_skill_property" : [
+         [ 506205, 0, 0.050 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000310,
+      "be_skill_property" : [
+         [ 506805, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000311,
+      "be_skill_property" : [
+         [ 505905, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_fix_cd" : [
+         [ 21180401, -10000 ]
+      ],
+      "be_skill_effect" : 80000312,
+      "be_skill_property" : [
+         [ 505705, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000313,
+      "be_skill_property" : [
+         [ 506205, 0, 0.050 ],
+         [ 519007, -0.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000314,
+      "be_skill_property" : [
+         [ 506205, 0, 0.050 ],
+         [ 505805, 0, 0.050 ],
+         [ 519007, -0.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000315,
+      "be_skill_property" : [
+         [ 514406, -0.10, 0 ],
+         [ 519007, -0.50, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000316,
+      "be_skill_property" : [
+         [ 505605, 0, 0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 80000317,
+      "be_skill_property" : [
+         [ 505705, 0, 0.150 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82300101,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310101 ],
+      "trigger_type" : 1
+   },
+   {
+      "be_skill_effect" : 82300201,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310201 ],
+      "trigger_type" : 2
+   },
+   {
+      "be_skill_effect" : 82300301,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310301 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300401,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310401 ],
+      "trigger_type" : 4,
+      "trigger_val" : 500
+   },
+   {
+      "be_skill_effect" : 82300501,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310501 ],
+      "trigger_type" : 5
+   },
+   {
+      "be_skill_effect" : 82300102,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310102 ],
+      "trigger_type" : 1
+   },
+   {
+      "be_skill_effect" : 82300202,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310202 ],
+      "trigger_type" : 2
+   },
+   {
+      "be_skill_effect" : 82300302,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310302 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300402,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310402 ],
+      "trigger_type" : 4,
+      "trigger_val" : 500
+   },
+   {
+      "be_skill_effect" : 82300502,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310502 ],
+      "trigger_type" : 5
+   },
+   {
+      "be_skill_effect" : 82300103,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310103 ],
+      "trigger_type" : 1
+   },
+   {
+      "be_skill_effect" : 82300203,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310203 ],
+      "trigger_type" : 2
+   },
+   {
+      "be_skill_effect" : 82300303,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310303 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300403,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310403 ],
+      "trigger_type" : 4,
+      "trigger_val" : 500
+   },
+   {
+      "be_skill_effect" : 82300503,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310503 ],
+      "trigger_type" : 5
+   },
+   {
+      "be_skill_effect" : 82300104,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310104 ],
+      "trigger_type" : 1
+   },
+   {
+      "be_skill_effect" : 82300204,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310204 ],
+      "trigger_type" : 2
+   },
+   {
+      "be_skill_effect" : 82300304,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310304 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300404,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310404 ],
+      "trigger_type" : 4,
+      "trigger_val" : 500
+   },
+   {
+      "be_skill_effect" : 82300504,
+      "trigger_cd" : 10000,
+      "trigger_num" : 3,
+      "trigger_skill" : [ 82310504 ],
+      "trigger_type" : 5
+   },
+   {
+      "be_skill_effect" : 82300105,
+      "trigger_cd" : 50000,
+      "trigger_num" : 22,
+      "trigger_skill" : [ 82310105 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300205,
+      "trigger_cd" : 50000,
+      "trigger_num" : 22,
+      "trigger_skill" : [ 82310205 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300305,
+      "trigger_cd" : 50000,
+      "trigger_num" : 22,
+      "trigger_skill" : [ 82310305 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300405,
+      "trigger_cd" : 50000,
+      "trigger_num" : 22,
+      "trigger_skill" : [ 82310405 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_skill_effect" : 82300505,
+      "trigger_cd" : 50000,
+      "trigger_num" : 22,
+      "trigger_skill" : [ 82310505 ],
+      "trigger_type" : 3,
+      "trigger_val" : 800
+   },
+   {
+      "be_buff" : [
+         99999999,
+         [ 10000 ],
+         [ 514406, 0 ]
+      ],
+      "be_skill_effect" : 82300015,
+      "be_skill_property" : [
+         [ 519007, 1, 1 ]
+      ]
+   },
+   {
+      "be_buff" : [
+         14200010,
+         [ 20000, 5 ],
+         [ 507305, 0.10 ],
+         [ 507305, 0.020 ]
+      ],
+      "be_skill_effect" : 82700101
+   },
+   {
+      "be_buff" : [
+         14200010,
+         [ 20000, 5 ],
+         [ 507305, 0.10 ],
+         [ 507305, 0.040 ]
+      ],
+      "be_skill_effect" : 82700201
+   },
+   {
+      "be_skill_effect" : 82700301,
+      "be_skill_property" : [
+         [ 519007, 0.10, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82700401,
+      "be_skill_property" : [
+         [ 519007, 0.20, 0 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82700501
+   },
+   {
+      "be_skill_effect" : 82700601
+   },
+   {
+      "be_skill_effect" : 82700701
+   },
+   {
+      "be_skill_effect" : 82700801
+   },
+   {
+      "be_skill_effect" : 82700901,
+      "be_skill_property" : [
+         [ 515006, 0, -99 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701001,
+      "be_skill_property" : [
+         [ 515006, 0, -99 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701101,
+      "be_skill_property" : [
+         [ 515006, 0, -0.10 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701201,
+      "be_skill_property" : [
+         [ 515006, 0, -0.20 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701301
+   },
+   {
+      "be_skill_effect" : 82701401
+   },
+   {
+      "be_skill_effect" : 82701501,
+      "be_skill_property" : [
+         [ 506205, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701601,
+      "be_skill_property" : [
+         [ 506205, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701701,
+      "be_skill_property" : [
+         [ 505705, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701801,
+      "be_skill_property" : [
+         [ 505705, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82701901,
+      "be_skill_property" : [
+         [ 505605, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82702001,
+      "be_skill_property" : [
+         [ 505605, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82702101,
+      "be_skill_property" : [
+         [ 505805, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82702201,
+      "be_skill_property" : [
+         [ 505805, 0, 0.030 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82702301,
+      "be_skill_property" : [
+         [ 505905, 0, 0.010 ]
+      ]
+   },
+   {
+      "be_skill_effect" : 82702401,
+      "be_skill_property" : [
+         [ 505905, 0, 0.030 ]
+      ]
+   }
+]

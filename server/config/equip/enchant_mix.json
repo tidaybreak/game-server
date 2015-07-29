@@ -1,0 +1,13 @@
+[
+   {
+      "amend_weights" : [ 10, 20, 30, 40 ],
+      "ann_enchant_prop" : [ 504605, 505005, 504905 ],
+      "ann_enchant_star" : 11,
+      "compensatory_cnt" : [ 10, 15, 20, 30 ],
+      "cost_copper" : 1000,
+      "lock_id" : 20511401,
+      "material_id" : 20511301,
+      "material_num" : 1,
+      "sub_weight_once" : 20
+   }
+]

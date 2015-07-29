@@ -1,0 +1,68 @@
+[
+   {
+      "activity" : 200,
+      "award_id" : 21505020,
+      "id" : 1,
+      "num" : 1
+   },
+   {
+      "activity" : 500,
+      "award_id" : 21505020,
+      "id" : 2,
+      "num" : 2
+   },
+   {
+      "activity" : 1000,
+      "award_id" : 21505030,
+      "id" : 3,
+      "num" : 1
+   },
+   {
+      "activity" : 2000,
+      "award_id" : 21505030,
+      "id" : 4,
+      "num" : 2
+   },
+   {
+      "activity" : 3000,
+      "award_id" : 21505040,
+      "id" : 5,
+      "num" : 1
+   },
+   {
+      "activity" : 5000,
+      "award_id" : 21505040,
+      "id" : 6,
+      "num" : 2
+   },
+   {
+      "activity" : 7000,
+      "award_id" : 21505040,
+      "id" : 7,
+      "num" : 3
+   },
+   {
+      "activity" : 10000,
+      "award_id" : 21505040,
+      "id" : 8,
+      "num" : 4
+   },
+   {
+      "activity" : 15000,
+      "award_id" : 21505050,
+      "id" : 9,
+      "num" : 1
+   },
+   {
+      "activity" : 21000,
+      "award_id" : 21505050,
+      "id" : 10,
+      "num" : 1
+   },
+   {
+      "activity" : 28000,
+      "award_id" : 21505050,
+      "id" : 11,
+      "num" : 1
+   }
+]

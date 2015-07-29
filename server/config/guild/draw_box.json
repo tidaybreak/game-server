@@ -1,0 +1,419 @@
+[
+   {
+      "describe" : "金币",
+      "draw_card_id" : 1,
+      "item_amount" : 1,
+      "item_id" : 20701201,
+      "item_type" : 2,
+      "rate" : 10
+   },
+   {
+      "describe" : "金币",
+      "draw_card_id" : 2,
+      "item_amount" : 2,
+      "item_id" : 20701201,
+      "item_type" : 2,
+      "rate" : 10
+   },
+   {
+      "describe" : "金币",
+      "draw_card_id" : 3,
+      "item_amount" : 1,
+      "item_id" : 20701202,
+      "item_type" : 2,
+      "rate" : 10
+   },
+   {
+      "describe" : "骑术训练书",
+      "draw_card_id" : 4,
+      "item_amount" : 1,
+      "item_id" : 20513401,
+      "item_type" : 4,
+      "rate" : 40
+   },
+   {
+      "describe" : "骑术训练书",
+      "draw_card_id" : 5,
+      "is_rare" : 1,
+      "item_amount" : 5,
+      "item_id" : 20513401,
+      "item_type" : 4,
+      "rate" : 10
+   },
+   {
+      "describe" : "英灵",
+      "draw_card_id" : 6,
+      "item_amount" : 2,
+      "item_id" : 20703201,
+      "item_type" : 3,
+      "rate" : 30
+   },
+   {
+      "describe" : "英灵",
+      "draw_card_id" : 7,
+      "item_amount" : 1,
+      "item_id" : 20703301,
+      "item_type" : 3,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级物攻宝石",
+      "draw_card_id" : 8,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 21501020,
+      "item_type" : 5,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级魔攻宝石",
+      "draw_card_id" : 9,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 21502020,
+      "item_type" : 5,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级生命宝石",
+      "draw_card_id" : 10,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 21505020,
+      "item_type" : 5,
+      "rate" : 10
+   },
+   {
+      "describe" : "5000经验包",
+      "draw_card_id" : 11,
+      "item_amount" : 1,
+      "item_id" : 20702201,
+      "item_type" : 6,
+      "rate" : 50
+   },
+   {
+      "describe" : "5000经验包",
+      "draw_card_id" : 12,
+      "item_amount" : 2,
+      "item_id" : 20702201,
+      "item_type" : 6,
+      "rate" : 20
+   },
+   {
+      "describe" : "5W级经验包",
+      "draw_card_id" : 13,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 20702301,
+      "item_type" : 6,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级祝福石",
+      "draw_card_id" : 14,
+      "item_amount" : 1,
+      "item_id" : 20501101,
+      "item_type" : 8,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级祝福石",
+      "draw_card_id" : 15,
+      "item_amount" : 1,
+      "item_id" : 20501202,
+      "item_type" : 8,
+      "rate" : 10
+   },
+   {
+      "describe" : "3级祝福石",
+      "draw_card_id" : 16,
+      "item_amount" : 1,
+      "item_id" : 20501203,
+      "item_type" : 8,
+      "rate" : 10
+   },
+   {
+      "describe" : "4级祝福石",
+      "draw_card_id" : 17,
+      "item_amount" : 1,
+      "item_id" : 20501304,
+      "item_type" : 8,
+      "rate" : 10
+   },
+   {
+      "describe" : "5级祝福石",
+      "draw_card_id" : 18,
+      "item_amount" : 1,
+      "item_id" : 20501305,
+      "item_type" : 8,
+      "rate" : 10
+   },
+   {
+      "describe" : "悬赏令",
+      "draw_card_id" : 19,
+      "item_amount" : 1,
+      "item_id" : 20506402,
+      "item_type" : 10,
+      "rate" : 40
+   },
+   {
+      "describe" : "悬赏令",
+      "draw_card_id" : 20,
+      "item_amount" : 2,
+      "item_id" : 20506402,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "悬赏令",
+      "draw_card_id" : 21,
+      "item_amount" : 5,
+      "item_id" : 20506402,
+      "item_type" : 10,
+      "rate" : 10
+   },
+   {
+      "describe" : "神秘羊皮卷",
+      "draw_card_id" : 22,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 20801501,
+      "item_type" : 10,
+      "rate" : 50
+   },
+   {
+      "describe" : "附魔卷",
+      "draw_card_id" : 23,
+      "item_amount" : 1,
+      "item_id" : 20511301,
+      "item_type" : 10,
+      "rate" : 30
+   },
+   {
+      "describe" : "附魔卷",
+      "draw_card_id" : 24,
+      "item_amount" : 2,
+      "item_id" : 20511301,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "附魔卷",
+      "draw_card_id" : 25,
+      "item_amount" : 3,
+      "item_id" : 20511301,
+      "item_type" : 10,
+      "rate" : 10
+   },
+   {
+      "describe" : "蓝色卡牌礼包",
+      "draw_card_id" : 26,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 20201411,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "附魔锁",
+      "draw_card_id" : 27,
+      "item_amount" : 1,
+      "item_id" : 20511401,
+      "item_type" : 10,
+      "rate" : 30
+   },
+   {
+      "describe" : "附魔锁",
+      "draw_card_id" : 28,
+      "item_amount" : 2,
+      "item_id" : 20511401,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "附魔锁",
+      "draw_card_id" : 29,
+      "item_amount" : 3,
+      "item_id" : 20511401,
+      "item_type" : 10,
+      "rate" : 10
+   },
+   {
+      "describe" : "1朵鲜花",
+      "draw_card_id" : 30,
+      "item_amount" : 1,
+      "item_id" : 20301201,
+      "item_type" : 10,
+      "rate" : 100
+   },
+   {
+      "describe" : "5朵鲜花",
+      "draw_card_id" : 31,
+      "item_amount" : 5,
+      "item_id" : 20301201,
+      "item_type" : 10,
+      "rate" : 10
+   },
+   {
+      "describe" : "经验卷轴",
+      "draw_card_id" : 32,
+      "item_amount" : 1,
+      "item_id" : 20602101,
+      "item_type" : 10,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级魔防卷轴",
+      "draw_card_id" : 33,
+      "item_amount" : 1,
+      "item_id" : 20606101,
+      "item_type" : 9,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级物防卷轴",
+      "draw_card_id" : 34,
+      "item_amount" : 1,
+      "item_id" : 20605101,
+      "item_type" : 9,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级物攻卷轴",
+      "draw_card_id" : 35,
+      "item_amount" : 1,
+      "item_id" : 20603101,
+      "item_type" : 9,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级魔攻卷轴",
+      "draw_card_id" : 36,
+      "item_amount" : 1,
+      "item_id" : 20604101,
+      "item_type" : 9,
+      "rate" : 10
+   },
+   {
+      "describe" : "1级生命卷轴",
+      "draw_card_id" : 37,
+      "item_amount" : 1,
+      "item_id" : 20607101,
+      "item_type" : 9,
+      "rate" : 10
+   },
+   {
+      "describe" : "金刚钻",
+      "draw_card_id" : 38,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 20504402,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "中级血包",
+      "draw_card_id" : 39,
+      "item_amount" : 1,
+      "item_id" : 20401402,
+      "item_type" : 10,
+      "rate" : 20
+   },
+   {
+      "describe" : "体力药水",
+      "draw_card_id" : 40,
+      "item_amount" : 1,
+      "item_id" : 20402201,
+      "item_type" : 1,
+      "rate" : 50
+   },
+   {
+      "describe" : "体力药水",
+      "draw_card_id" : 41,
+      "item_amount" : 2,
+      "item_id" : 20402201,
+      "item_type" : 1,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级斗力药水",
+      "draw_card_id" : 42,
+      "item_amount" : 1,
+      "item_id" : 20403202,
+      "item_type" : 7,
+      "rate" : 20
+   },
+   {
+      "describe" : "3级斗力药水",
+      "draw_card_id" : 43,
+      "item_amount" : 1,
+      "item_id" : 20403303,
+      "item_type" : 7,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级护甲药水",
+      "draw_card_id" : 44,
+      "item_amount" : 1,
+      "item_id" : 20404202,
+      "item_type" : 7,
+      "rate" : 20
+   },
+   {
+      "describe" : "3级护甲药水",
+      "draw_card_id" : 45,
+      "item_amount" : 1,
+      "item_id" : 20404303,
+      "item_type" : 7,
+      "rate" : 10
+   },
+   {
+      "describe" : "2级耐力药水",
+      "draw_card_id" : 46,
+      "item_amount" : 1,
+      "item_id" : 20405202,
+      "item_type" : 7,
+      "rate" : 20
+   },
+   {
+      "describe" : "3级耐力药水",
+      "draw_card_id" : 47,
+      "item_amount" : 1,
+      "item_id" : 20405303,
+      "item_type" : 7,
+      "rate" : 10
+   },
+   {
+      "describe" : "6级祝福石",
+      "draw_card_id" : 48,
+      "item_amount" : 1,
+      "item_id" : 20501406,
+      "item_type" : 8,
+      "rate" : 40
+   },
+   {
+      "describe" : "7级祝福石",
+      "draw_card_id" : 49,
+      "item_amount" : 1,
+      "item_id" : 20501407,
+      "item_type" : 8,
+      "rate" : 30
+   },
+   {
+      "describe" : "8级祝福石",
+      "draw_card_id" : 50,
+      "item_amount" : 1,
+      "item_id" : 20501508,
+      "item_type" : 8,
+      "rate" : 20
+   },
+   {
+      "describe" : "9级祝福石",
+      "draw_card_id" : 51,
+      "is_rare" : 1,
+      "item_amount" : 1,
+      "item_id" : 20501509,
+      "item_type" : 8,
+      "rate" : 10
+   }
+]

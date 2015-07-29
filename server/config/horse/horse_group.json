@@ -1,0 +1,132 @@
+[
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升1000</font>",
+      "group" : [
+         [ 30501101, 2 ],
+         [ 30502302, 1 ]
+      ],
+      "group_id" : 1002,
+      "group_name" : "白与黑",
+      "skill" : 81201000
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升1000</font>",
+      "group" : [
+         [ 30501101, 3 ],
+         [ 30101101, 1 ]
+      ],
+      "group_id" : 1003,
+      "group_name" : "风驰电掣",
+      "skill" : 81201002
+   },
+   {
+      "desc" : "<font color='#FFA939'>物理防御+1000</font> <font color='#FFA939'>魔法防御+1000</font>",
+      "group" : [
+         [ 30101101, 4 ],
+         [ 30502302, 1 ]
+      ],
+      "group_id" : 1004,
+      "group_name" : "迅捷如风",
+      "skill" : 81201003
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升2000</font>",
+      "group" : [
+         [ 30101101, 5 ],
+         [ 30502302, 5 ]
+      ],
+      "group_id" : 1005,
+      "group_name" : "沉夜孤星",
+      "skill" : 81201004
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升3000</font>",
+      "group" : [
+         [ 30402302, 5 ],
+         [ 30502302, 5 ]
+      ],
+      "group_id" : 1006,
+      "group_name" : "死灵幻影",
+      "skill" : 81201005
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升3%</font>",
+      "group" : [
+         [ 30101101, 5 ],
+         [ 30102303, 9 ]
+      ],
+      "group_id" : 1007,
+      "group_name" : "焚恶之炎",
+      "skill" : 81201006
+   },
+   {
+      "desc" : "<font color='#FFA939'>物理攻击提升3%</font> <font color='#FFA939'>法术攻击提升3%</font>",
+      "group" : [
+         [ 30102303, 9 ],
+         [ 30301101, 1 ]
+      ],
+      "group_id" : 1008,
+      "group_name" : "琉璃幻影",
+      "skill" : 81201007
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升5%</font>",
+      "group" : [
+         [ 30401401, 9 ],
+         [ 30103503, 1 ]
+      ],
+      "group_id" : 1009,
+      "group_name" : "侵略如火",
+      "skill" : 81201008
+   },
+   {
+      "desc" : "<font color='#FFA939'>物理攻击提升5%</font> <font color='#FFA939'>法术攻击提升5%</font>",
+      "group" : [
+         [ 30301101, 13 ],
+         [ 30103503, 13 ]
+      ],
+      "group_id" : 1010,
+      "group_name" : "星碎雷袭",
+      "skill" : 81201009
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升3000</font>",
+      "group" : [
+         [ 30102303, 9 ],
+         [ 30401401, 1 ]
+      ],
+      "group_id" : 1011,
+      "group_name" : "灾厄之魇",
+      "skill" : 81201010
+   },
+   {
+      "desc" : "<font color='#FFA939'>物理防御提升5%</font>",
+      "group" : [
+         [ 30401401, 9 ],
+         [ 30301502, 1 ]
+      ],
+      "group_id" : 1012,
+      "group_name" : "动如雷震",
+      "skill" : 81201011
+   },
+   {
+      "desc" : "<font color='#FFA939'>最大生命值提升5%</font>",
+      "group" : [
+         [ 30301502, 13 ],
+         [ 30301101, 1 ]
+      ],
+      "group_id" : 1013,
+      "group_name" : "不动如山",
+      "skill" : 81201012
+   },
+   {
+      "desc" : "<font color='#FFA939'>物理攻击提升1%</font> <font color='#FFA939'>法术攻击提升1%</font>",
+      "group" : [
+         [ 30301101, 1 ],
+         [ 30501101, 3 ]
+      ],
+      "group_id" : 1014,
+      "group_name" : "凶神恶煞",
+      "skill" : 80000308
+   }
+]

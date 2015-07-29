@@ -1,0 +1,482 @@
+[
+   {
+      "id" : 1001,
+      "item" : [
+         [ 10104501, 1, 0 ]
+      ],
+      "mail_content" : "恭喜你竞拍到%s，%d花费%d钻石",
+      "mail_title" : "拍卖行竞拍",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1002,
+      "mail_content" : "玩家%s送给你%d个%s，请从附件中领取",
+      "mail_title" : "玩家赠送",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1003,
+      "mail_content" : "恭喜%s将公会升级到了%d级！　他慷慨为大家购买了公会升级礼包，为了公会，大家加油捐献吧！",
+      "mail_title" : "公会通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1004,
+      "mail_content" : "您的公会财富不足日常维护费用，将在%d日内解散，请及时号召成员捐献！",
+      "mail_title" : "公会通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1005,
+      "mail_content" : "这些物品是从虚空中找到的，上面有你的气息——虚空管理者。",
+      "mail_title" : "公会抽奖奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1006,
+      "mail_content" : "您的精灵盟约-治疗精灵已过期，治疗将消耗血池容量。重新开通",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1007,
+      "mail_content" : "您的精灵盟约-洗点精灵已过期，技能洗点不再免费。重新开通",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1008,
+      "mail_content" : "您的精灵盟约-悬赏精灵已过期，悬赏任务立即完成不再免费。重新开通",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1009,
+      "mail_content" : "您的精灵盟约-战斗精灵已过期，战斗属性加成已失效。重新开通",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1010,
+      "mail_content" : "%s赠送了你精灵盟约-%s，有效期为31天",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1011,
+      "mail_content" : "%s赠送了你精灵盟约的全部精灵，有效期为31天",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1012,
+      "mail_content" : "恭喜您成功开通vip，当前vip等级为%d级，获得vip%d的特权权限，剩余vip有效期：%d天。",
+      "mail_title" : "开通vip",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1013,
+      "mail_content" : "您的vip已到期，不能继续享受%d项vip特权，vip过期后每日将降低%d点成长值，#openMod(立即续费:GameVip)#<br>VIP主要特权介绍：<br>1.副本经验加成<br>2.金币、英灵产出加成<br>3.VIP专属副本宝箱",
+      "mail_title" : "VIP过期",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1014,
+      "mail_content" : "恭喜您成功续费vip，当前vip等级为%d级，获得vip%d的特权权限，剩余vip有效期：%d天。",
+      "mail_title" : "VIP续费",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1016,
+      "mail_content" : "恭喜你%s，成功获得称号：%s，有效期：%d天。可在 角色>#openMod(称号:TitleMod)# 面板切换称号。",
+      "mail_title" : "获得新称号",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1017,
+      "mail_content" : "这些物品是从虚空中找到的，上面有你的气息——虚空管理者。",
+      "mail_title" : "VIP抽奖奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1018,
+      "mail_content" : "恭喜你获得了VIP体验资格，获得了VIP1的特权权限，有效期：2小时。",
+      "mail_title" : "VIP体验",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1019,
+      "mail_content" : "这些物品是从虚空中找到的，上面有你的气息——虚空管理者。",
+      "mail_title" : "获得物品",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1020,
+      "mail_content" : "恭喜你在“开服活动-等级排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1021,
+      "mail_content" : "恭喜你在“开服活动-单人竞技排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1022,
+      "mail_content" : "恭喜你在“开服活动-战斗力排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1023,
+      "mail_content" : "您的公会获得了本周公会战入围资格，请您做好参战准备，请公会会长在#openMod(公会战界面:ClanWarMod)#抽签匹配对手。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1024,
+      "mail_content" : "你的公会将在本周<font color='#fcee6d'>%s%s</font>，与%s服的<font color='#43baff'>%s</font>公会进行对抗，请您做好参战准备。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1025,
+      "mail_content" : "您的公会将在本周四晚20：25分，与%s服的%s公会进行对抗，请您做好参战准备。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1026,
+      "mail_content" : "您的公会将在本周六晚20：00分，与%s服的%s公会进行对抗，请您做好参战准备。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1027,
+      "mail_content" : "您的公会在本<font color='#fcee6d'>%s%s</font>的公会战中轮空，公会奖励已发放至公会：<font color='#43baff'>%sX%d，%sX%d，%sX%d</font>；您个人获得以下奖励；请留意下一场的比赛通知。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1028,
+      "mail_content" : "您的公会在本周四的公会战中轮空，直接晋级，公会奖励已发放至公会：<font color='#43baff'>%sX%d，%sX%d，%sX%d</font>；您个人获得以下奖励；请留意周五的比赛通知。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1029,
+      "mail_content" : "您的公会在本周六的公会战中轮空，直接晋级，公会奖励已发放至公会<font color='#43baff'>%sX%d，%sX%d，%sX%d</font>；您个人获得以下奖励；请留意周日的比赛通知。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1030,
+      "mail_content" : "%s在你的龙谷成功的踩下了他的脚印，你的龙谷人气星级提升一级，获得人气奖励：龙心X1。",
+      "mail_title" : "星级提升",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1031,
+      "mail_content" : "您的精灵盟约-加速精灵已过期，副本扫荡将消耗金币。#openMod(重新开通:SpriteCovenantMod)#",
+      "mail_title" : "精灵盟约",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1032,
+      "mail_content" : "您好，感谢您的反馈，我们的工作人员已经进行记录，将会进行跟踪查证，如果查证属实，我们会第一时间修复完善！非常感谢您的关注和喜爱，祝您在游戏中玩的愉快！",
+      "mail_title" : "提交内容成功",
+      "sender_name" : "GM"
+   },
+   {
+      "id" : 1033,
+      "mail_content" : "您的公会在本周日的公会战中轮空，提前获得本次公会战的冠军，公会奖励已发放至公会：%sX%d，%sX%d，%sX%d；您个人获得以下奖励：",
+      "mail_title" : "公会战奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1034,
+      "mail_content" : "您的公会将在本周日晚20：00分，与%s服的%s公会进行对抗，请您做好参战准备。",
+      "mail_title" : "公会战通知",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1035,
+      "mail_content" : "此次公会战已结束，公会奖励已发放至公会：%sX%d，%sX%d，%sX%d；您个人获得以下奖励：",
+      "mail_title" : "公会战奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1036,
+      "mail_content" : "鉴于您在公会战中的优秀表现，会长将以下奖励分配给了你，希望下次你能有更好的表现。",
+      "mail_title" : "奖励分配",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1037,
+      "mail_content" : "恭喜你获得首充礼包，祝你游戏愉快！",
+      "mail_title" : "首充礼包",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1038,
+      "mail_content" : "恭喜你%s，成功获得称号：%s，有效期：永久。可在 角色>称号 面板切换称号。",
+      "mail_title" : "获得新称号",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1039,
+      "mail_content" : "您的公会在本周的公会战中获得第%d名，您获得以下丰厚的奖励：",
+      "mail_title" : "公会战排名",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1040,
+      "mail_content" : "公会战排名奖励已结算，请公会会长/副会长前往#openMod(领取:ClanWarMod)#。",
+      "mail_title" : "公会战排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1041,
+      "mail_content" : "此次公会战结束，因双方公会都未参战，您的公会不能获得任何奖励和积分。",
+      "mail_title" : "公会战奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1042,
+      "mail_content" : "恭喜你在“开服活动-上古副本排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "上古副本奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1043,
+      "mail_content" : "恭喜你成功充值<font color='#1a98ff'>%d钻石</font>，祝你游戏愉快！",
+      "mail_title" : "充值成功",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1044,
+      "item" : [
+         [ 20201535, 1, 2 ]
+      ],
+      "mail_content" : "亲爱的玩家朋友，很高兴再次看到您回到我们的游戏当中。现为您送上一份薄礼，希望可以在全新的征程中帮助您迅速成长！",
+      "mail_title" : "老玩家回归奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1045,
+      "mail_content" : "恭喜你%s，成功获得称号：%s，有效期：%d天。可在 角色>称号 面板切换称号。",
+      "mail_title" : "获得新称号",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1046,
+      "mail_content" : "恭喜你获得首充礼包，祝你游戏愉快！",
+      "mail_title" : "首充礼包",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1047,
+      "mail_content" : "您在荣耀竞技场的精彩表现，获得本次排名赛 第%d名，获得以下丰厚奖励。",
+      "mail_title" : "荣耀竞技场",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1048,
+      "mail_content" : "魔神殿--开启！<br>鉴于你在上古副本的勇敢表现，我发现了你身上力量已经足以面对上古魔神了。<br>你将面对强大的魔神<br>等待你的是一场血战",
+      "mail_title" : "魔神殿开启",
+      "sender_name" : "上古之神"
+   },
+   {
+      "id" : 1049,
+      "mail_content" : "您在荣耀竞技活动中获得以下丰厚奖励奖励：",
+      "mail_title" : "荣誉竞技活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1050,
+      "mail_content" : "您在英雄远征活动中获得以下丰厚奖励奖励：",
+      "mail_title" : "英雄远征活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1051,
+      "mail_content" : "您在复活节彩蛋活动中获得以下丰厚奖励奖励：",
+      "mail_title" : "复活节彩蛋活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1052,
+      "mail_content" : "您在战场结算时有奖励未领取，下次注意哦：",
+      "mail_title" : "战场奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1053,
+      "mail_content" : "恭喜你在“开服活动-坐骑排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1054,
+      "mail_content" : "恭喜你在“开服活动-魔翼排名”结算时位列第%d名，获得了以下丰厚的奖励。",
+      "mail_title" : "排名奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1055,
+      "mail_content" : "您在篝火结算时有奖励未领取，下次注意哦：",
+      "mail_title" : "篝火奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1101,
+      "mail_content" : "尊敬的卖主，你取消了寄售在拍卖行的%s*%d，现将物品邮寄给您，希望您下次再来。<br>                               ———拍卖师 艾瑞尔",
+      "mail_title" : "拍卖行",
+      "sender_name" : "拍卖师-艾瑞尔"
+   },
+   {
+      "id" : 1102,
+      "mail_content" : "尊敬的买主，您竞拍%s失败，返还竞拍出价%d钻。<br> 希望您下次再来<br>                                            ———拍卖师 艾瑞尔",
+      "mail_title" : "拍卖行",
+      "sender_name" : "拍卖师-艾瑞尔"
+   },
+   {
+      "id" : 1103,
+      "mail_content" : "尊敬的卖主，你寄售在拍卖行的%s已被竞拍，获得%d钻石（总价%d 收取20%手续费），希望您下次再来。<br>                                             ———拍卖师 艾瑞尔",
+      "mail_title" : "拍卖行",
+      "sender_name" : "拍卖师-艾瑞尔"
+   },
+   {
+      "id" : 1104,
+      "mail_content" : "尊敬的买主，恭喜您成功竞拍%s，花费%d钻。<br> 欢迎您下次再来<br>                                            ———拍卖师 艾瑞尔",
+      "mail_title" : "拍卖行",
+      "sender_name" : "拍卖师-艾瑞尔"
+   },
+   {
+      "id" : 1105,
+      "mail_content" : "尊敬的卖主，你寄售在拍卖行的%s无人问津，现将物品邮寄给您，希望您下次再来。<br>                                            ———拍卖师 艾瑞尔",
+      "mail_title" : "拍卖行",
+      "sender_name" : "拍卖师-艾瑞尔"
+   },
+   {
+      "id" : 1106,
+      "mail_content" : "这是您在（%s）中获得的物品，请小心收好。——虚空管理者。",
+      "mail_title" : "获得物品(%s)",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1107,
+      "mail_content" : "您在智慧试炼中排名(%d)名,获得奖励如下，请小心收好。<br>                                             ———智慧天使",
+      "mail_title" : "智慧试炼",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1108,
+      "mail_content" : "您在世界BOSS中的优异表现,获得了以下奖励：",
+      "mail_title" : "世界BOSS",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 1109,
+      "mail_content" : "您在世界BOSS中拿下了BOSS的第一滴血,获得了以下奖励：",
+      "mail_title" : "世界BOSS",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 2011,
+      "item" : [
+         [ 40000301, 1, 2 ]
+      ],
+      "mail_content" : "恭喜您在情人节活动中获得蓝色符石礼包一个",
+      "mail_title" : "情人节活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 2012,
+      "item" : [
+         [ 20203016, 1, 2 ]
+      ],
+      "mail_content" : "恭喜您和其他勇士在限定时间内击杀入侵Boss，您将获得以下奖励：",
+      "mail_title" : "情人节活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 2013,
+      "mail_content" : "恭喜您在远征每日伤害排名中获得以下伤害排名奖励：",
+      "mail_title" : "远征",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3001,
+      "mail_content" : "You received the following rewards in 'Launch Event - Flash Arena' !",
+      "mail_title" : "Flash Arena Rewards",
+      "sender_name" : "System"
+   },
+   {
+      "id" : 3002,
+      "mail_content" : "恭喜你在“开服活动-Vip俱乐部”中，获得了以下丰厚的奖励：",
+      "mail_title" : "vip奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3003,
+      "mail_content" : "恭喜你在“开服活动-冲级活动”中，获得了以下丰厚的奖励：",
+      "mail_title" : "冲级活动",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3004,
+      "mail_content" : "恭喜你在“开服活动-套装收集”中，获得了以下丰厚的奖励：",
+      "mail_title" : "套装收集",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3005,
+      "mail_content" : "恭喜你在“开服活动-公会升级”中，获得了以下丰厚的奖励：",
+      "mail_title" : "公会升级",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3006,
+      "mail_content" : "恭喜你在“开服活动-上古副本”中，获得了以下丰厚的奖励：",
+      "mail_title" : "上谷副本奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3007,
+      "mail_content" : "恭喜你在“开服活动-世界boss”中，获得了以下丰厚的奖励：",
+      "mail_title" : "世界boss奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3008,
+      "mail_content" : "恭喜你在“开服活动-英雄之门”中，获得了以下丰厚的奖励：",
+      "mail_title" : "英雄之门奖励",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3009,
+      "mail_content" : "恭喜你在“开服活动-组队竞技”中，获得了以下丰厚的奖励：",
+      "mail_title" : "组队竞技",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3010,
+      "mail_content" : "恭喜你在“开服活动-战场”中，获得了以下丰厚的奖励：",
+      "mail_title" : "战场",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3011,
+      "mail_content" : "恭喜你在“开服活动-悬赏任务”中，获得了以下丰厚的奖励：",
+      "mail_title" : "悬赏任务",
+      "sender_name" : "系统"
+   },
+   {
+      "id" : 3012,
+      "mail_content" : "亲爱的勇士：<br>恭喜您成功激活了%s套装效果，获得套装属性加成！！穿戴时装可以提升出战怒气，让你在各种战斗中占尽先机！！ ",
+      "mail_title" : "激活新时装",
+      "sender_name" : "系统"
+   }
+]

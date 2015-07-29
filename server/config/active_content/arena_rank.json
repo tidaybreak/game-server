@@ -1,0 +1,152 @@
+[
+   {
+      "end" : 1,
+      "id" : 1,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 1500,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 20,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 20,
+            "type" : 1
+         }
+      ],
+      "start" : 1
+   },
+   {
+      "end" : 2,
+      "id" : 2,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 1000,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 16,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 16,
+            "type" : 1
+         }
+      ],
+      "start" : 2
+   },
+   {
+      "end" : 3,
+      "id" : 3,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 800,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 12,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 12,
+            "type" : 1
+         }
+      ],
+      "start" : 3
+   },
+   {
+      "end" : 5,
+      "id" : 4,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 600,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 8,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 8,
+            "type" : 1
+         }
+      ],
+      "start" : 4
+   },
+   {
+      "end" : 10,
+      "id" : 5,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 400,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 6,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 6,
+            "type" : 1
+         }
+      ],
+      "start" : 6
+   },
+   {
+      "end" : 50,
+      "id" : 6,
+      "reward" : [
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 21002401,
+            "num" : 200,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20704401,
+            "num" : 5,
+            "type" : 1
+         },
+         {
+            "from_table" : "arena_rank_reward",
+            "item_id" : 20701202,
+            "num" : 5,
+            "type" : 1
+         }
+      ],
+      "start" : 11
+   }
+]

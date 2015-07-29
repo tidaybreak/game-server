@@ -1,0 +1,26 @@
+[
+   {
+      "days" : 93,
+      "id" : 1,
+      "init_level" : 4,
+      "price" : 1588,
+      "timeDesc" : "3个月",
+      "time_mark" : "3个月VIP"
+   },
+   {
+      "days" : 31,
+      "id" : 2,
+      "init_level" : 2,
+      "price" : 368,
+      "timeDesc" : "1个月",
+      "time_mark" : "1个月VIP"
+   },
+   {
+      "days" : 7,
+      "id" : 3,
+      "init_level" : 1,
+      "price" : 100,
+      "timeDesc" : "1周",
+      "time_mark" : "1周VIP"
+   }
+]

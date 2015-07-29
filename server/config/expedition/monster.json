@@ -1,0 +1,102 @@
+[
+   {
+      "force" : 7300,
+      "group_id" : 1
+   },
+   {
+      "force" : 7300,
+      "group_id" : 2
+   },
+   {
+      "force" : 7300,
+      "group_id" : 3
+   },
+   {
+      "force" : 7300,
+      "group_id" : 4
+   },
+   {
+      "force" : 7300,
+      "group_id" : 5
+   },
+   {
+      "force" : 7300,
+      "group_id" : 6
+   },
+   {
+      "force" : 14500,
+      "group_id" : 7
+   },
+   {
+      "force" : 800000,
+      "group_id" : 8
+   },
+   {
+      "force" : 24000,
+      "group_id" : 9
+   },
+   {
+      "force" : 30000,
+      "group_id" : 10
+   },
+   {
+      "force" : 8500,
+      "group_id" : 11
+   },
+   {
+      "force" : 8500,
+      "group_id" : 12
+   },
+   {
+      "force" : 8500,
+      "group_id" : 13
+   },
+   {
+      "force" : 8500,
+      "group_id" : 14
+   },
+   {
+      "force" : 8500,
+      "group_id" : 15
+   },
+   {
+      "force" : 8500,
+      "group_id" : 16
+   },
+   {
+      "force" : 24000,
+      "group_id" : 17
+   },
+   {
+      "force" : 24000,
+      "group_id" : 18
+   },
+   {
+      "force" : 24000,
+      "group_id" : 19
+   },
+   {
+      "force" : 24000,
+      "group_id" : 20
+   },
+   {
+      "force" : 24000,
+      "group_id" : 21
+   },
+   {
+      "force" : 24000,
+      "group_id" : 22
+   },
+   {
+      "force" : 14500,
+      "group_id" : 23
+   },
+   {
+      "force" : 9000,
+      "group_id" : 24
+   },
+   {
+      "force" : 11800,
+      "group_id" : 25
+   }
+]

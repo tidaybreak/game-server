@@ -1,0 +1,40 @@
+[
+   {
+      "act_id" : 20028,
+      "id" : 1,
+      "num" : 1,
+      "reward" : [
+         {
+            "from_table" : "fusion_x_elite_card_reward",
+            "item_id" : 50003701,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "fusion_x_elite_card_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20028,
+      "id" : 2,
+      "num" : 2,
+      "reward" : [
+         {
+            "from_table" : "fusion_x_elite_card_reward",
+            "item_id" : 50003701,
+            "num" : 2,
+            "type" : 1
+         },
+         {
+            "from_table" : "fusion_x_elite_card_reward",
+            "item_id" : 20516401,
+            "num" : 4,
+            "type" : 1
+         }
+      ]
+   }
+]

@@ -1,0 +1,11 @@
+[
+   {
+      "cardOpenLv" : 2310,
+      "card_change_up" : [ 10, 12, 14, 16 ],
+      "open" : 35,
+      "refineOpenLv" : 1410,
+      "smeltOpenLv" : 3410,
+      "smelt_extra_lv" : [ 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ],
+      "smelt_extra_up" : [ 10, 12, 14, 16 ]
+   }
+]

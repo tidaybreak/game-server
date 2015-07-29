@@ -1,0 +1,34 @@
+[
+   {
+      "rate" : 0,
+      "vip_level" : 0
+   },
+   {
+      "rate" : 10,
+      "vip_level" : 1
+   },
+   {
+      "rate" : 20,
+      "vip_level" : 2
+   },
+   {
+      "rate" : 25,
+      "vip_level" : 3
+   },
+   {
+      "rate" : 30,
+      "vip_level" : 4
+   },
+   {
+      "rate" : 35,
+      "vip_level" : 5
+   },
+   {
+      "rate" : 40,
+      "vip_level" : 6
+   },
+   {
+      "rate" : 45,
+      "vip_level" : 7
+   }
+]

@@ -1,0 +1,20 @@
+[
+   {
+      "end" : 2,
+      "season_id" : 1,
+      "skin_id" : 61331003,
+      "stat" : 1
+   },
+   {
+      "end" : 4,
+      "season_id" : 2,
+      "skin_id" : 61331003,
+      "stat" : 3
+   },
+   {
+      "end" : 1000,
+      "season_id" : 3,
+      "skin_id" : 61331003,
+      "stat" : 5
+   }
+]

@@ -1,0 +1,322 @@
+[
+   {
+      "hero_lv" : 1,
+      "lvl_up_cost_souls" : 1000
+   },
+   {
+      "hero_lv" : 2,
+      "lvl_up_cost_souls" : 1200
+   },
+   {
+      "hero_lv" : 3,
+      "lvl_up_cost_souls" : 1440
+   },
+   {
+      "hero_lv" : 4,
+      "lvl_up_cost_souls" : 1728
+   },
+   {
+      "hero_lv" : 5,
+      "lvl_up_cost_souls" : 2073
+   },
+   {
+      "hero_lv" : 6,
+      "lvl_up_cost_souls" : 2487
+   },
+   {
+      "hero_lv" : 7,
+      "lvl_up_cost_souls" : 2984
+   },
+   {
+      "hero_lv" : 8,
+      "lvl_up_cost_souls" : 3580
+   },
+   {
+      "hero_lv" : 9,
+      "lvl_up_cost_souls" : 4296
+   },
+   {
+      "hero_lv" : 10,
+      "lvl_up_cost_souls" : 6155
+   },
+   {
+      "hero_lv" : 11,
+      "lvl_up_cost_souls" : 9186
+   },
+   {
+      "hero_lv" : 12,
+      "lvl_up_cost_souls" : 12423
+   },
+   {
+      "hero_lv" : 13,
+      "lvl_up_cost_souls" : 15907
+   },
+   {
+      "hero_lv" : 14,
+      "lvl_up_cost_souls" : 20688
+   },
+   {
+      "hero_lv" : 15,
+      "lvl_up_cost_souls" : 24825
+   },
+   {
+      "hero_lv" : 16,
+      "lvl_up_cost_souls" : 30672
+   },
+   {
+      "hero_lv" : 17,
+      "lvl_up_cost_souls" : 35673
+   },
+   {
+      "hero_lv" : 18,
+      "lvl_up_cost_souls" : 40174
+   },
+   {
+      "hero_lv" : 19,
+      "lvl_up_cost_souls" : 45626
+   },
+   {
+      "hero_lv" : 20,
+      "lvl_up_cost_souls" : 53613
+   },
+   {
+      "hero_lv" : 21,
+      "lvl_up_cost_souls" : 61896
+   },
+   {
+      "hero_lv" : 22,
+      "lvl_up_cost_souls" : 74275
+   },
+   {
+      "hero_lv" : 23,
+      "lvl_up_cost_souls" : 89130
+   },
+   {
+      "hero_lv" : 24,
+      "lvl_up_cost_souls" : 106956
+   },
+   {
+      "hero_lv" : 25,
+      "lvl_up_cost_souls" : 128347
+   },
+   {
+      "hero_lv" : 26,
+      "lvl_up_cost_souls" : 154016
+   },
+   {
+      "hero_lv" : 27,
+      "lvl_up_cost_souls" : 184819
+   },
+   {
+      "hero_lv" : 28,
+      "lvl_up_cost_souls" : 221782
+   },
+   {
+      "hero_lv" : 29,
+      "lvl_up_cost_souls" : 266138
+   },
+   {
+      "hero_lv" : 30,
+      "lvl_up_cost_souls" : 292751
+   },
+   {
+      "hero_lv" : 31,
+      "lvl_up_cost_souls" : 322026
+   },
+   {
+      "hero_lv" : 32,
+      "lvl_up_cost_souls" : 354228
+   },
+   {
+      "hero_lv" : 33,
+      "lvl_up_cost_souls" : 389650
+   },
+   {
+      "hero_lv" : 34,
+      "lvl_up_cost_souls" : 428615
+   },
+   {
+      "hero_lv" : 35,
+      "lvl_up_cost_souls" : 471476
+   },
+   {
+      "hero_lv" : 36,
+      "lvl_up_cost_souls" : 518623
+   },
+   {
+      "hero_lv" : 37,
+      "lvl_up_cost_souls" : 570485
+   },
+   {
+      "hero_lv" : 38,
+      "lvl_up_cost_souls" : 627533
+   },
+   {
+      "hero_lv" : 39,
+      "lvl_up_cost_souls" : 690286
+   },
+   {
+      "hero_lv" : 40,
+      "lvl_up_cost_souls" : 759314
+   },
+   {
+      "hero_lv" : 41,
+      "lvl_up_cost_souls" : 835245
+   },
+   {
+      "hero_lv" : 42,
+      "lvl_up_cost_souls" : 918769
+   },
+   {
+      "hero_lv" : 43,
+      "lvl_up_cost_souls" : 1010645
+   },
+   {
+      "hero_lv" : 44,
+      "lvl_up_cost_souls" : 1111709
+   },
+   {
+      "hero_lv" : 45,
+      "lvl_up_cost_souls" : 1222879
+   },
+   {
+      "hero_lv" : 46,
+      "lvl_up_cost_souls" : 1345166
+   },
+   {
+      "hero_lv" : 47,
+      "lvl_up_cost_souls" : 1479682
+   },
+   {
+      "hero_lv" : 48,
+      "lvl_up_cost_souls" : 1627650
+   },
+   {
+      "hero_lv" : 49,
+      "lvl_up_cost_souls" : 1790415
+   },
+   {
+      "hero_lv" : 50,
+      "lvl_up_cost_souls" : 1969456
+   },
+   {
+      "hero_lv" : 51,
+      "lvl_up_cost_souls" : 2166401
+   },
+   {
+      "hero_lv" : 52,
+      "lvl_up_cost_souls" : 2383041
+   },
+   {
+      "hero_lv" : 53,
+      "lvl_up_cost_souls" : 2621345
+   },
+   {
+      "hero_lv" : 54,
+      "lvl_up_cost_souls" : 2883479
+   },
+   {
+      "hero_lv" : 55,
+      "lvl_up_cost_souls" : 3171826
+   },
+   {
+      "hero_lv" : 56,
+      "lvl_up_cost_souls" : 3330417
+   },
+   {
+      "hero_lv" : 57,
+      "lvl_up_cost_souls" : 3496937
+   },
+   {
+      "hero_lv" : 58,
+      "lvl_up_cost_souls" : 3671783
+   },
+   {
+      "hero_lv" : 59,
+      "lvl_up_cost_souls" : 3855372
+   },
+   {
+      "hero_lv" : 60,
+      "lvl_up_cost_souls" : 4048140
+   },
+   {
+      "hero_lv" : 61,
+      "lvl_up_cost_souls" : 4250547
+   },
+   {
+      "hero_lv" : 62,
+      "lvl_up_cost_souls" : 4463074
+   },
+   {
+      "hero_lv" : 63,
+      "lvl_up_cost_souls" : 4686227
+   },
+   {
+      "hero_lv" : 64,
+      "lvl_up_cost_souls" : 4920538
+   },
+   {
+      "hero_lv" : 65,
+      "lvl_up_cost_souls" : 5166564
+   },
+   {
+      "hero_lv" : 66,
+      "lvl_up_cost_souls" : 5424892
+   },
+   {
+      "hero_lv" : 67,
+      "lvl_up_cost_souls" : 5696136
+   },
+   {
+      "hero_lv" : 68,
+      "lvl_up_cost_souls" : 5980942
+   },
+   {
+      "hero_lv" : 69,
+      "lvl_up_cost_souls" : 6279989
+   },
+   {
+      "hero_lv" : 70,
+      "lvl_up_cost_souls" : 6593988
+   },
+   {
+      "hero_lv" : 71,
+      "lvl_up_cost_souls" : 6923687
+   },
+   {
+      "hero_lv" : 72,
+      "lvl_up_cost_souls" : 7269871
+   },
+   {
+      "hero_lv" : 73,
+      "lvl_up_cost_souls" : 7633364
+   },
+   {
+      "hero_lv" : 74,
+      "lvl_up_cost_souls" : 8015032
+   },
+   {
+      "hero_lv" : 75,
+      "lvl_up_cost_souls" : 8415783
+   },
+   {
+      "hero_lv" : 76,
+      "lvl_up_cost_souls" : 8836572
+   },
+   {
+      "hero_lv" : 77,
+      "lvl_up_cost_souls" : 9278400
+   },
+   {
+      "hero_lv" : 78,
+      "lvl_up_cost_souls" : 9742320
+   },
+   {
+      "hero_lv" : 79,
+      "lvl_up_cost_souls" : 10229436
+   },
+   {
+      "hero_lv" : 80,
+      "lvl_up_cost_souls" : 10740907
+   }
+]

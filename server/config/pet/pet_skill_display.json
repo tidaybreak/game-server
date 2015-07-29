@@ -1,0 +1,218 @@
+[
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "千钧一发",
+      "num" : 1,
+      "skill" : 82700101,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级千钧一发",
+      "num" : 1,
+      "skill" : 82700201,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "药力亲和",
+      "num" : 2,
+      "skill" : 82700301,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级药力亲和",
+      "num" : 2,
+      "skill" : 82700401,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高富帅",
+      "num" : 3,
+      "skill" : 82700501,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "穷矮丑",
+      "num" : 3,
+      "skill" : 82700601,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "绝地反攻",
+      "num" : 4,
+      "skill" : 82700701,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级绝地反攻",
+      "num" : 4,
+      "skill" : 82700801,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "无懈可击",
+      "num" : 5,
+      "skill" : 82700901,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级无懈可击",
+      "num" : 5,
+      "skill" : 82701001,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "黑皇权杖",
+      "num" : 6,
+      "skill" : 82701101,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级黑黄权杖",
+      "num" : 6,
+      "skill" : 82701201,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "御风行",
+      "num" : 7,
+      "skill" : 82701301,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级御风行",
+      "num" : 7,
+      "skill" : 82701401,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "兽族之魂",
+      "num" : 8,
+      "skill" : 82701501,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级兽族之魂",
+      "num" : 8,
+      "skill" : 82701601,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "精灵之魂",
+      "num" : 9,
+      "skill" : 82701701,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级精灵之魂",
+      "num" : 9,
+      "skill" : 82701801,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "恶魔之魂",
+      "num" : 10,
+      "skill" : 82701901,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级恶魔之魂",
+      "num" : 10,
+      "skill" : 82702001,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "亚龙人之魂",
+      "num" : 11,
+      "skill" : 82702101,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级亚龙人之魂",
+      "num" : 11,
+      "skill" : 82702201,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "自然之魂",
+      "num" : 12,
+      "skill" : 82702301,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 1
+   },
+   {
+      "link_1" : "ThorDrawMod",
+      "name" : "高级自然之魂",
+      "num" : 12,
+      "skill" : 82702401,
+      "source_1" : "雷神宝藏",
+      "source_2" : "战场兑换",
+      "type" : 2
+   }
+]

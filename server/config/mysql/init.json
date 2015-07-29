@@ -1,0 +1,6 @@
+[
+   {
+      "create_sql" : "CREATE TABLE If Not Exists `item_stream` ( `is_id`  bigint(20) UNSIGNED NOT NULL AUTO_INCREMENT , `is_role_id`  bigint(20) UNSIGNED NOT NULL COMMENT '角色ID' , `is_type`  int(10) UNSIGNED NOT NULL COMMENT '道具流水类型' , `is_op`  int(10) UNSIGNED NOT NULL COMMENT '道具操作, 1.获得,2.失去' , `is_item_id`  int(10) UNSIGNED NOT NULL COMMENT '道具ID' , `is_num`  int(10) UNSIGNED NOT NULL COMMENT '变化数量' , `is_op_time`  int(10) UNSIGNED NOT NULL COMMENT '操作时间' , `is_bind`  int(10) UNSIGNED NOT NULL COMMENT '是否绑定' , PRIMARY KEY (`is_id`) ) ENGINE=MyISAM DEFAULT CHARACTER SET=utf8 COLLATE=utf8_general_ci AUTO_INCREMENT=1 CHECKSUM=0 ROW_FORMAT=COMPACT DELAY_KEY_WRITE=0;",
+      "table_name" : "item_stream"
+   }
+]

@@ -1,0 +1,18 @@
+[
+   {
+      "down_border" : 2122,
+      "isSendGuild" : 1,
+      "left_border" : 20,
+      "right_border" : 2101,
+      "scene_id" : 80100003,
+      "up_border" : 1360
+   },
+   {
+      "down_border" : 2500,
+      "isSendGuild" : 0,
+      "left_border" : 45,
+      "right_border" : 7000,
+      "scene_id" : 80214001,
+      "up_border" : 45
+   }
+]

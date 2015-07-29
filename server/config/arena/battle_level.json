@@ -1,0 +1,857 @@
+[
+   {
+      "battle_high" : 500,
+      "battle_level" : 1,
+      "battle_low" : 1
+   },
+   {
+      "battle_high" : 1000,
+      "battle_level" : 2,
+      "battle_low" : 501
+   },
+   {
+      "battle_high" : 1500,
+      "battle_level" : 3,
+      "battle_low" : 1001
+   },
+   {
+      "battle_high" : 2000,
+      "battle_level" : 4,
+      "battle_low" : 1501
+   },
+   {
+      "battle_high" : 2500,
+      "battle_level" : 5,
+      "battle_low" : 2001
+   },
+   {
+      "battle_high" : 3000,
+      "battle_level" : 6,
+      "battle_low" : 2501
+   },
+   {
+      "battle_high" : 3500,
+      "battle_level" : 7,
+      "battle_low" : 3001
+   },
+   {
+      "battle_high" : 4000,
+      "battle_level" : 8,
+      "battle_low" : 3501
+   },
+   {
+      "battle_high" : 4500,
+      "battle_level" : 9,
+      "battle_low" : 4001
+   },
+   {
+      "battle_high" : 5000,
+      "battle_level" : 10,
+      "battle_low" : 4501
+   },
+   {
+      "battle_high" : 5500,
+      "battle_level" : 11,
+      "battle_low" : 5001
+   },
+   {
+      "battle_high" : 6043,
+      "battle_level" : 12,
+      "battle_low" : 5501
+   },
+   {
+      "battle_high" : 6633,
+      "battle_level" : 13,
+      "battle_low" : 6044
+   },
+   {
+      "battle_high" : 7273,
+      "battle_level" : 14,
+      "battle_low" : 6634
+   },
+   {
+      "battle_high" : 7966,
+      "battle_level" : 15,
+      "battle_low" : 7274
+   },
+   {
+      "battle_high" : 8716,
+      "battle_level" : 16,
+      "battle_low" : 7967
+   },
+   {
+      "battle_high" : 9527,
+      "battle_level" : 17,
+      "battle_low" : 8717
+   },
+   {
+      "battle_high" : 10402,
+      "battle_level" : 18,
+      "battle_low" : 9528
+   },
+   {
+      "battle_high" : 11346,
+      "battle_level" : 19,
+      "battle_low" : 10403
+   },
+   {
+      "battle_high" : 12362,
+      "battle_level" : 20,
+      "battle_low" : 11347
+   },
+   {
+      "battle_high" : 13455,
+      "battle_level" : 21,
+      "battle_low" : 12363
+   },
+   {
+      "battle_high" : 14629,
+      "battle_level" : 22,
+      "battle_low" : 13456
+   },
+   {
+      "battle_high" : 15889,
+      "battle_level" : 23,
+      "battle_low" : 14630
+   },
+   {
+      "battle_high" : 17239,
+      "battle_level" : 24,
+      "battle_low" : 15890
+   },
+   {
+      "battle_high" : 18684,
+      "battle_level" : 25,
+      "battle_low" : 17240
+   },
+   {
+      "battle_high" : 20229,
+      "battle_level" : 26,
+      "battle_low" : 18685
+   },
+   {
+      "battle_high" : 21878,
+      "battle_level" : 27,
+      "battle_low" : 20230
+   },
+   {
+      "battle_high" : 23636,
+      "battle_level" : 28,
+      "battle_low" : 21879
+   },
+   {
+      "battle_high" : 25508,
+      "battle_level" : 29,
+      "battle_low" : 23637
+   },
+   {
+      "battle_high" : 27499,
+      "battle_level" : 30,
+      "battle_low" : 25509
+   },
+   {
+      "battle_high" : 29614,
+      "battle_level" : 31,
+      "battle_low" : 27500
+   },
+   {
+      "battle_high" : 31857,
+      "battle_level" : 32,
+      "battle_low" : 29615
+   },
+   {
+      "battle_high" : 34234,
+      "battle_level" : 33,
+      "battle_low" : 31858
+   },
+   {
+      "battle_high" : 36748,
+      "battle_level" : 34,
+      "battle_low" : 34235
+   },
+   {
+      "battle_high" : 39405,
+      "battle_level" : 35,
+      "battle_low" : 36749
+   },
+   {
+      "battle_high" : 42208,
+      "battle_level" : 36,
+      "battle_low" : 39406
+   },
+   {
+      "battle_high" : 45162,
+      "battle_level" : 37,
+      "battle_low" : 42209
+   },
+   {
+      "battle_high" : 48271,
+      "battle_level" : 38,
+      "battle_low" : 45163
+   },
+   {
+      "battle_high" : 51538,
+      "battle_level" : 39,
+      "battle_low" : 48272
+   },
+   {
+      "battle_high" : 54967,
+      "battle_level" : 40,
+      "battle_low" : 51539
+   },
+   {
+      "battle_high" : 58560,
+      "battle_level" : 41,
+      "battle_low" : 54968
+   },
+   {
+      "battle_high" : 62321,
+      "battle_level" : 42,
+      "battle_low" : 58561
+   },
+   {
+      "battle_high" : 66252,
+      "battle_level" : 43,
+      "battle_low" : 62322
+   },
+   {
+      "battle_high" : 70354,
+      "battle_level" : 44,
+      "battle_low" : 66253
+   },
+   {
+      "battle_high" : 74629,
+      "battle_level" : 45,
+      "battle_low" : 70355
+   },
+   {
+      "battle_high" : 79078,
+      "battle_level" : 46,
+      "battle_low" : 74630
+   },
+   {
+      "battle_high" : 83701,
+      "battle_level" : 47,
+      "battle_low" : 79079
+   },
+   {
+      "battle_high" : 88497,
+      "battle_level" : 48,
+      "battle_low" : 83702
+   },
+   {
+      "battle_high" : 93466,
+      "battle_level" : 49,
+      "battle_low" : 88498
+   },
+   {
+      "battle_high" : 98606,
+      "battle_level" : 50,
+      "battle_low" : 93467
+   },
+   {
+      "battle_high" : 103915,
+      "battle_level" : 51,
+      "battle_low" : 98607
+   },
+   {
+      "battle_high" : 109390,
+      "battle_level" : 52,
+      "battle_low" : 103916
+   },
+   {
+      "battle_high" : 115027,
+      "battle_level" : 53,
+      "battle_low" : 109391
+   },
+   {
+      "battle_high" : 120822,
+      "battle_level" : 54,
+      "battle_low" : 115028
+   },
+   {
+      "battle_high" : 126770,
+      "battle_level" : 55,
+      "battle_low" : 120823
+   },
+   {
+      "battle_high" : 132864,
+      "battle_level" : 56,
+      "battle_low" : 126771
+   },
+   {
+      "battle_high" : 139098,
+      "battle_level" : 57,
+      "battle_low" : 132865
+   },
+   {
+      "battle_high" : 145464,
+      "battle_level" : 58,
+      "battle_low" : 139099
+   },
+   {
+      "battle_high" : 151953,
+      "battle_level" : 59,
+      "battle_low" : 145465
+   },
+   {
+      "battle_high" : 158557,
+      "battle_level" : 60,
+      "battle_low" : 151954
+   },
+   {
+      "battle_high" : 165265,
+      "battle_level" : 61,
+      "battle_low" : 158558
+   },
+   {
+      "battle_high" : 172066,
+      "battle_level" : 62,
+      "battle_low" : 165266
+   },
+   {
+      "battle_high" : 178948,
+      "battle_level" : 63,
+      "battle_low" : 172067
+   },
+   {
+      "battle_high" : 186105,
+      "battle_level" : 64,
+      "battle_low" : 178949
+   },
+   {
+      "battle_high" : 193549,
+      "battle_level" : 65,
+      "battle_low" : 186106
+   },
+   {
+      "battle_high" : 201290,
+      "battle_level" : 66,
+      "battle_low" : 193550
+   },
+   {
+      "battle_high" : 209341,
+      "battle_level" : 67,
+      "battle_low" : 201291
+   },
+   {
+      "battle_high" : 217714,
+      "battle_level" : 68,
+      "battle_low" : 209342
+   },
+   {
+      "battle_high" : 226422,
+      "battle_level" : 69,
+      "battle_low" : 217715
+   },
+   {
+      "battle_high" : 235478,
+      "battle_level" : 70,
+      "battle_low" : 226423
+   },
+   {
+      "battle_high" : 244897,
+      "battle_level" : 71,
+      "battle_low" : 235479
+   },
+   {
+      "battle_high" : 254692,
+      "battle_level" : 72,
+      "battle_low" : 244898
+   },
+   {
+      "battle_high" : 264879,
+      "battle_level" : 73,
+      "battle_low" : 254693
+   },
+   {
+      "battle_high" : 275474,
+      "battle_level" : 74,
+      "battle_low" : 264880
+   },
+   {
+      "battle_high" : 286492,
+      "battle_level" : 75,
+      "battle_low" : 275475
+   },
+   {
+      "battle_high" : 297951,
+      "battle_level" : 76,
+      "battle_low" : 286493
+   },
+   {
+      "battle_high" : 309869,
+      "battle_level" : 77,
+      "battle_low" : 297952
+   },
+   {
+      "battle_high" : 322263,
+      "battle_level" : 78,
+      "battle_low" : 309870
+   },
+   {
+      "battle_high" : 335153,
+      "battle_level" : 79,
+      "battle_low" : 322264
+   },
+   {
+      "battle_high" : 348559,
+      "battle_level" : 80,
+      "battle_low" : 335154
+   },
+   {
+      "battle_high" : 362501,
+      "battle_level" : 81,
+      "battle_low" : 348560
+   },
+   {
+      "battle_high" : 377001,
+      "battle_level" : 82,
+      "battle_low" : 362502
+   },
+   {
+      "battle_high" : 392081,
+      "battle_level" : 83,
+      "battle_low" : 377002
+   },
+   {
+      "battle_high" : 407764,
+      "battle_level" : 84,
+      "battle_low" : 392082
+   },
+   {
+      "battle_high" : 424074,
+      "battle_level" : 85,
+      "battle_low" : 407765
+   },
+   {
+      "battle_high" : 441036,
+      "battle_level" : 86,
+      "battle_low" : 424075
+   },
+   {
+      "battle_high" : 458677,
+      "battle_level" : 87,
+      "battle_low" : 441037
+   },
+   {
+      "battle_high" : 477024,
+      "battle_level" : 88,
+      "battle_low" : 458678
+   },
+   {
+      "battle_high" : 496104,
+      "battle_level" : 89,
+      "battle_low" : 477025
+   },
+   {
+      "battle_high" : 515948,
+      "battle_level" : 90,
+      "battle_low" : 496105
+   },
+   {
+      "battle_high" : 536585,
+      "battle_level" : 91,
+      "battle_low" : 515949
+   },
+   {
+      "battle_high" : 558048,
+      "battle_level" : 92,
+      "battle_low" : 536586
+   },
+   {
+      "battle_high" : 580369,
+      "battle_level" : 93,
+      "battle_low" : 558049
+   },
+   {
+      "battle_high" : 603583,
+      "battle_level" : 94,
+      "battle_low" : 580370
+   },
+   {
+      "battle_high" : 627726,
+      "battle_level" : 95,
+      "battle_low" : 603584
+   },
+   {
+      "battle_high" : 652835,
+      "battle_level" : 96,
+      "battle_low" : 627727
+   },
+   {
+      "battle_high" : 678948,
+      "battle_level" : 97,
+      "battle_low" : 652836
+   },
+   {
+      "battle_high" : 706105,
+      "battle_level" : 98,
+      "battle_low" : 678949
+   },
+   {
+      "battle_high" : 734349,
+      "battle_level" : 99,
+      "battle_low" : 706106
+   },
+   {
+      "battle_high" : 763722,
+      "battle_level" : 100,
+      "battle_low" : 734350
+   },
+   {
+      "battle_high" : 794270,
+      "battle_level" : 101,
+      "battle_low" : 763723
+   },
+   {
+      "battle_high" : 826040,
+      "battle_level" : 102,
+      "battle_low" : 794271
+   },
+   {
+      "battle_high" : 859081,
+      "battle_level" : 103,
+      "battle_low" : 826041
+   },
+   {
+      "battle_high" : 893444,
+      "battle_level" : 104,
+      "battle_low" : 859082
+   },
+   {
+      "battle_high" : 929181,
+      "battle_level" : 105,
+      "battle_low" : 893445
+   },
+   {
+      "battle_high" : 966348,
+      "battle_level" : 106,
+      "battle_low" : 929182
+   },
+   {
+      "battle_high" : 1005001,
+      "battle_level" : 107,
+      "battle_low" : 966349
+   },
+   {
+      "battle_high" : 1045201,
+      "battle_level" : 108,
+      "battle_low" : 1005002
+   },
+   {
+      "battle_high" : 1087009,
+      "battle_level" : 109,
+      "battle_low" : 1045202
+   },
+   {
+      "battle_high" : 1130489,
+      "battle_level" : 110,
+      "battle_low" : 1087010
+   },
+   {
+      "battle_high" : 1175708,
+      "battle_level" : 111,
+      "battle_low" : 1130490
+   },
+   {
+      "battle_high" : 1222736,
+      "battle_level" : 112,
+      "battle_low" : 1175709
+   },
+   {
+      "battle_high" : 1271645,
+      "battle_level" : 113,
+      "battle_low" : 1222737
+   },
+   {
+      "battle_high" : 1322510,
+      "battle_level" : 114,
+      "battle_low" : 1271646
+   },
+   {
+      "battle_high" : 1375410,
+      "battle_level" : 115,
+      "battle_low" : 1322511
+   },
+   {
+      "battle_high" : 1430426,
+      "battle_level" : 116,
+      "battle_low" : 1375411
+   },
+   {
+      "battle_high" : 1487643,
+      "battle_level" : 117,
+      "battle_low" : 1430427
+   },
+   {
+      "battle_high" : 1547148,
+      "battle_level" : 118,
+      "battle_low" : 1487644
+   },
+   {
+      "battle_high" : 1609033,
+      "battle_level" : 119,
+      "battle_low" : 1547149
+   },
+   {
+      "battle_high" : 1673394,
+      "battle_level" : 120,
+      "battle_low" : 1609034
+   },
+   {
+      "battle_high" : 1740329,
+      "battle_level" : 121,
+      "battle_low" : 1673395
+   },
+   {
+      "battle_high" : 1809942,
+      "battle_level" : 122,
+      "battle_low" : 1740330
+   },
+   {
+      "battle_high" : 1882339,
+      "battle_level" : 123,
+      "battle_low" : 1809943
+   },
+   {
+      "battle_high" : 1957632,
+      "battle_level" : 124,
+      "battle_low" : 1882340
+   },
+   {
+      "battle_high" : 2035937,
+      "battle_level" : 125,
+      "battle_low" : 1957633
+   },
+   {
+      "battle_high" : 2117374,
+      "battle_level" : 126,
+      "battle_low" : 2035938
+   },
+   {
+      "battle_high" : 2202068,
+      "battle_level" : 127,
+      "battle_low" : 2117375
+   },
+   {
+      "battle_high" : 2290150,
+      "battle_level" : 128,
+      "battle_low" : 2202069
+   },
+   {
+      "battle_high" : 2381756,
+      "battle_level" : 129,
+      "battle_low" : 2290151
+   },
+   {
+      "battle_high" : 2477026,
+      "battle_level" : 130,
+      "battle_low" : 2381757
+   },
+   {
+      "battle_high" : 2576107,
+      "battle_level" : 131,
+      "battle_low" : 2477027
+   },
+   {
+      "battle_high" : 2679151,
+      "battle_level" : 132,
+      "battle_low" : 2576108
+   },
+   {
+      "battle_high" : 2786317,
+      "battle_level" : 133,
+      "battle_low" : 2679152
+   },
+   {
+      "battle_high" : 2897769,
+      "battle_level" : 134,
+      "battle_low" : 2786318
+   },
+   {
+      "battle_high" : 3013679,
+      "battle_level" : 135,
+      "battle_low" : 2897770
+   },
+   {
+      "battle_high" : 3134226,
+      "battle_level" : 136,
+      "battle_low" : 3013680
+   },
+   {
+      "battle_high" : 3259595,
+      "battle_level" : 137,
+      "battle_low" : 3134227
+   },
+   {
+      "battle_high" : 3389978,
+      "battle_level" : 138,
+      "battle_low" : 3259596
+   },
+   {
+      "battle_high" : 3525577,
+      "battle_level" : 139,
+      "battle_low" : 3389979
+   },
+   {
+      "battle_high" : 3666600,
+      "battle_level" : 140,
+      "battle_low" : 3525578
+   },
+   {
+      "battle_high" : 3813264,
+      "battle_level" : 141,
+      "battle_low" : 3666601
+   },
+   {
+      "battle_high" : 3965794,
+      "battle_level" : 142,
+      "battle_low" : 3813265
+   },
+   {
+      "battle_high" : 4124425,
+      "battle_level" : 143,
+      "battle_low" : 3965795
+   },
+   {
+      "battle_high" : 4289402,
+      "battle_level" : 144,
+      "battle_low" : 4124426
+   },
+   {
+      "battle_high" : 4460978,
+      "battle_level" : 145,
+      "battle_low" : 4289403
+   },
+   {
+      "battle_high" : 4639417,
+      "battle_level" : 146,
+      "battle_low" : 4460979
+   },
+   {
+      "battle_high" : 4824993,
+      "battle_level" : 147,
+      "battle_low" : 4639418
+   },
+   {
+      "battle_high" : 5017992,
+      "battle_level" : 148,
+      "battle_low" : 4824994
+   },
+   {
+      "battle_high" : 5218711,
+      "battle_level" : 149,
+      "battle_low" : 5017993
+   },
+   {
+      "battle_high" : 5427459,
+      "battle_level" : 150,
+      "battle_low" : 5218712
+   },
+   {
+      "battle_high" : 5644557,
+      "battle_level" : 151,
+      "battle_low" : 5427460
+   },
+   {
+      "battle_high" : 5870339,
+      "battle_level" : 152,
+      "battle_low" : 5644558
+   },
+   {
+      "battle_high" : 6105152,
+      "battle_level" : 153,
+      "battle_low" : 5870340
+   },
+   {
+      "battle_high" : 6349358,
+      "battle_level" : 154,
+      "battle_low" : 6105153
+   },
+   {
+      "battle_high" : 6603332,
+      "battle_level" : 155,
+      "battle_low" : 6349359
+   },
+   {
+      "battle_high" : 6867465,
+      "battle_level" : 156,
+      "battle_low" : 6603333
+   },
+   {
+      "battle_high" : 7142163,
+      "battle_level" : 157,
+      "battle_low" : 6867466
+   },
+   {
+      "battle_high" : 7427849,
+      "battle_level" : 158,
+      "battle_low" : 7142164
+   },
+   {
+      "battle_high" : 7724962,
+      "battle_level" : 159,
+      "battle_low" : 7427850
+   },
+   {
+      "battle_high" : 8033960,
+      "battle_level" : 160,
+      "battle_low" : 7724963
+   },
+   {
+      "battle_high" : 8355318,
+      "battle_level" : 161,
+      "battle_low" : 8033961
+   },
+   {
+      "battle_high" : 8689530,
+      "battle_level" : 162,
+      "battle_low" : 8355319
+   },
+   {
+      "battle_high" : 9037111,
+      "battle_level" : 163,
+      "battle_low" : 8689531
+   },
+   {
+      "battle_high" : 9398595,
+      "battle_level" : 164,
+      "battle_low" : 9037112
+   },
+   {
+      "battle_high" : 9774538,
+      "battle_level" : 165,
+      "battle_low" : 9398596
+   },
+   {
+      "battle_high" : 10165519,
+      "battle_level" : 166,
+      "battle_low" : 9774539
+   },
+   {
+      "battle_high" : 10572139,
+      "battle_level" : 167,
+      "battle_low" : 10165520
+   },
+   {
+      "battle_high" : 10995024,
+      "battle_level" : 168,
+      "battle_low" : 10572140
+   },
+   {
+      "battle_high" : 11434824,
+      "battle_level" : 169,
+      "battle_low" : 10995025
+   },
+   {
+      "battle_high" : 11892216,
+      "battle_level" : 170,
+      "battle_low" : 11434825
+   },
+   {
+      "battle_high" : 12367904,
+      "battle_level" : 171,
+      "battle_low" : 11892217
+   }
+]

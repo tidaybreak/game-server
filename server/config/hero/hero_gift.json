@@ -1,0 +1,20 @@
+[
+   {
+      "gift_intimacy" : 100,
+      "gift_item_id" : 22001001,
+      "gift_type" : 1,
+      "gift_type_name" : "食物"
+   },
+   {
+      "gift_intimacy" : 100,
+      "gift_item_id" : 22002001,
+      "gift_type" : 2,
+      "gift_type_name" : "宝石"
+   },
+   {
+      "gift_intimacy" : 100,
+      "gift_item_id" : 22003001,
+      "gift_type" : 3,
+      "gift_type_name" : "魔法"
+   }
+]

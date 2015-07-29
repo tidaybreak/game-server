@@ -1,0 +1,32 @@
+[
+   {
+      "big_name" : "个人排行榜",
+      "big_type" : 1,
+      "indexId" : 1
+   },
+   {
+      "big_name" : "装备排行榜",
+      "big_type" : 2,
+      "indexId" : 2
+   },
+   {
+      "big_name" : "竞技排行榜",
+      "big_type" : 3,
+      "indexId" : 3
+   },
+   {
+      "big_name" : "副本排行榜",
+      "big_type" : 4,
+      "indexId" : 4
+   },
+   {
+      "big_name" : "公会排行榜",
+      "big_type" : 5,
+      "indexId" : 5
+   },
+   {
+      "big_name" : "财富排行榜",
+      "big_type" : 6,
+      "indexId" : 6
+   }
+]

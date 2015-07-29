@@ -1,0 +1,300 @@
+[
+   {
+      "heroId" : 60210021,
+      "id" : 1001,
+      "png_type" : 1,
+      "starNum" : 0,
+      "taskId" : 10100101,
+      "taskStatus" : 5,
+      "totalStarNum" : 4,
+      "triggerType" : 1,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210021,
+      "id" : 1002,
+      "png_type" : 1,
+      "starNum" : 1,
+      "taskId" : 10100102,
+      "taskStatus" : 5,
+      "totalStarNum" : 4,
+      "triggerType" : 7,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210021,
+      "id" : 1003,
+      "png_type" : 1,
+      "starNum" : 2,
+      "taskId" : 10100112,
+      "taskStatus" : 5,
+      "totalStarNum" : 4,
+      "triggerType" : 7,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210021,
+      "id" : 1004,
+      "png_type" : 1,
+      "starNum" : 3,
+      "taskId" : 10100120,
+      "taskStatus" : 5,
+      "totalStarNum" : 4,
+      "triggerType" : 7,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210021,
+      "id" : 1005,
+      "png_type" : 1,
+      "starNum" : 4,
+      "taskId" : 10100103,
+      "taskStatus" : 5,
+      "totalStarNum" : 4,
+      "triggerType" : 7,
+      "type" : 3
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1006,
+      "starNum" : 0,
+      "taskId" : 10100123,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 1,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1007,
+      "starNum" : 1,
+      "systemId" : 2,
+      "taskId" : 10100117,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1008,
+      "starNum" : 2,
+      "systemId" : 19,
+      "taskId" : 10100106,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1009,
+      "starNum" : 3,
+      "systemId" : 33,
+      "taskId" : 10100238,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1010,
+      "starNum" : 3,
+      "systemId" : 21,
+      "taskId" : 10100281,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1011,
+      "starNum" : 4,
+      "systemId" : 6,
+      "taskId" : 10100277,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1012,
+      "starNum" : 4,
+      "systemId" : 55,
+      "taskId" : 10100287,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1013,
+      "starNum" : 5,
+      "systemId" : 7,
+      "taskId" : 10100287,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1014,
+      "starNum" : 5,
+      "systemId" : 38,
+      "taskId" : 10100295,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60230004,
+      "id" : 1015,
+      "taskId" : 10100296,
+      "taskStatus" : 5,
+      "type" : 3
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1016,
+      "starNum" : 0,
+      "taskId" : 10100268,
+      "taskStatus" : 4,
+      "totalStarNum" : 5,
+      "triggerType" : 1,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1017,
+      "starNum" : 1,
+      "systemId" : 13,
+      "taskId" : 10100236,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1018,
+      "starNum" : 3,
+      "systemId" : 14,
+      "taskId" : 10100344,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1019,
+      "starNum" : 4,
+      "systemId" : 47,
+      "taskId" : 10100351,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1020,
+      "starNum" : 5,
+      "systemId" : 15,
+      "taskId" : 10100308,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 1
+   },
+   {
+      "heroId" : 60210002,
+      "id" : 1021,
+      "taskId" : 10100313,
+      "taskStatus" : 5,
+      "type" : 3
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1022,
+      "starNum" : 0,
+      "taskId" : 10100315,
+      "taskStatus" : 5,
+      "totalStarNum" : 5,
+      "triggerType" : 1,
+      "type" : 1
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1023,
+      "level" : 27,
+      "starNum" : 1,
+      "systemId" : 41,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1024,
+      "level" : 32,
+      "starNum" : 2,
+      "systemId" : 51,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1025,
+      "level" : 33,
+      "starNum" : 3,
+      "systemId" : 54,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1026,
+      "level" : 34,
+      "starNum" : 4,
+      "systemId" : 17,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1027,
+      "level" : 35,
+      "starNum" : 5,
+      "systemId" : 9,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1028,
+      "level" : 37,
+      "starNum" : 5,
+      "systemId" : 11,
+      "totalStarNum" : 5,
+      "triggerType" : 2,
+      "type" : 2
+   },
+   {
+      "heroId" : 60220002,
+      "id" : 1029,
+      "level" : 40,
+      "triggerType" : 2,
+      "type" : 3
+   }
+]

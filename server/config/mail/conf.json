@@ -1,0 +1,38 @@
+[
+   {
+      "key" : "max_user_mail",
+      "value" : 100
+   },
+   {
+      "key" : "max_sys_mail",
+      "value" : 100
+   },
+   {
+      "key" : "php_save_day",
+      "value" : 3
+   },
+   {
+      "key" : "sys_save_day",
+      "value" : 30
+   },
+   {
+      "key" : "save_day",
+      "value" : 30
+   },
+   {
+      "key" : "php_tip_day",
+      "value" : 3
+   },
+   {
+      "key" : "sys_tip_day",
+      "value" : 10
+   },
+   {
+      "key" : "tip_day",
+      "value" : 10
+   },
+   {
+      "key" : "item_limited",
+      "value" : 4
+   }
+]

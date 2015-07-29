@@ -1,0 +1,78 @@
+[
+   {
+      "act_id" : 20022,
+      "id" : 1,
+      "num" : 10,
+      "reward" : [
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 21002401,
+            "num" : 100,
+            "type" : 1
+         },
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20022,
+      "id" : 2,
+      "num" : 20,
+      "reward" : [
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 21002401,
+            "num" : 300,
+            "type" : 1
+         },
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20022,
+      "id" : 3,
+      "num" : 30,
+      "reward" : [
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 21002401,
+            "num" : 500,
+            "type" : 1
+         },
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 20516401,
+            "num" : 3,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "act_id" : 20022,
+      "id" : 4,
+      "num" : 50,
+      "reward" : [
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 21002401,
+            "num" : 800,
+            "type" : 1
+         },
+         {
+            "from_table" : "team_arena_reward",
+            "item_id" : 20516401,
+            "num" : 5,
+            "type" : 1
+         }
+      ]
+   }
+]

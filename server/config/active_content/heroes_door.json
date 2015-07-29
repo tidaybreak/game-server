@@ -1,0 +1,116 @@
+[
+   {
+      "act_id" : 20030,
+      "id" : 1,
+      "level" : 35,
+      "name" : "亚龙人领地",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20602102,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 0,
+      "url" : "b80204007"
+   },
+   {
+      "act_id" : 20030,
+      "id" : 2,
+      "level" : 40,
+      "name" : "大衮领地",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20602102,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 0,
+      "url" : "b80204008"
+   },
+   {
+      "act_id" : 20042,
+      "id" : 3,
+      "level" : 40,
+      "name" : "大衮领地",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 0,
+      "url" : "b80204008"
+   },
+   {
+      "act_id" : 20042,
+      "id" : 4,
+      "level" : 40,
+      "name" : "大衮领地",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20516401,
+            "num" : 2,
+            "type" : 1
+         }
+      ],
+      "type" : 1,
+      "url" : "b80204008"
+   },
+   {
+      "act_id" : 20016,
+      "id" : 5,
+      "level" : 45,
+      "name" : "亡灵深渊",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20602102,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 0,
+      "url" : "b80204009"
+   },
+   {
+      "act_id" : 20016,
+      "id" : 6,
+      "level" : 45,
+      "name" : "亡灵深渊",
+      "reward" : [
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20602102,
+            "num" : 1,
+            "type" : 1
+         },
+         {
+            "from_table" : "heroes_door_reward",
+            "item_id" : 20516401,
+            "num" : 1,
+            "type" : 1
+         }
+      ],
+      "type" : 1,
+      "url" : "b80204009"
+   }
+]

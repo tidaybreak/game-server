@@ -1,0 +1,38 @@
+[
+   {
+      "cost" : 40,
+      "number" : 1
+   },
+   {
+      "cost" : 60,
+      "number" : 2
+   },
+   {
+      "cost" : 80,
+      "number" : 3
+   },
+   {
+      "cost" : 100,
+      "number" : 4
+   },
+   {
+      "cost" : 120,
+      "number" : 5
+   },
+   {
+      "cost" : 140,
+      "number" : 6
+   },
+   {
+      "cost" : 160,
+      "number" : 7
+   },
+   {
+      "cost" : 180,
+      "number" : 8
+   },
+   {
+      "cost" : 200,
+      "number" : 9
+   }
+]

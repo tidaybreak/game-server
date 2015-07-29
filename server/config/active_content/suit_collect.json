@@ -1,0 +1,160 @@
+[
+   {
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304402
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404402
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304403
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404403
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304404
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404404
+         }
+      ],
+      "level" : 15,
+      "reward" : [
+         {
+            "from_table" : "suit_collect_reward",
+            "item_id" : 501502,
+            "num" : 200000,
+            "type" : 2
+         },
+         {
+            "from_table" : "suit_collect_reward",
+            "item_id" : 21001401,
+            "num" : 100,
+            "type" : 1
+         }
+      ]
+   },
+   {
+      "item" : [
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304502
+         },
+         {
+            "career" : 1,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404502
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304503
+         },
+         {
+            "career" : 2,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404503
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10104504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10204504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10304504
+         },
+         {
+            "career" : 3,
+            "from_table" : "suit_collect_item",
+            "item_id" : 10404504
+         }
+      ],
+      "level" : 20,
+      "reward" : [
+         {
+            "from_table" : "suit_collect_reward",
+            "item_id" : 501502,
+            "num" : 1000000,
+            "type" : 2
+         },
+         {
+            "from_table" : "suit_collect_reward",
+            "item_id" : 20505543,
+            "num" : 15,
+            "type" : 1
+         }
+      ]
+   }
+]

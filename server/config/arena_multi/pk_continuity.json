@@ -1,0 +1,205 @@
+[
+   {
+      "continuity_merit" : 2,
+      "continuity_score" : 5,
+      "continuity_succ" : 2,
+      "kill_continuity_merit" : 4,
+      "kill_continuity_score" : 20
+   },
+   {
+      "continuity_merit" : 4,
+      "continuity_score" : 10,
+      "continuity_succ" : 3,
+      "kill_continuity_merit" : 8,
+      "kill_continuity_score" : 40
+   },
+   {
+      "continuity_merit" : 6,
+      "continuity_score" : 15,
+      "continuity_succ" : 4,
+      "kill_continuity_merit" : 12,
+      "kill_continuity_score" : 60
+   },
+   {
+      "continuity_merit" : 8,
+      "continuity_score" : 20,
+      "continuity_succ" : 5,
+      "kill_continuity_merit" : 16,
+      "kill_continuity_score" : 80
+   },
+   {
+      "continuity_merit" : 10,
+      "continuity_score" : 30,
+      "continuity_succ" : 6,
+      "kill_continuity_merit" : 20,
+      "kill_continuity_score" : 100
+   },
+   {
+      "continuity_merit" : 12,
+      "continuity_score" : 40,
+      "continuity_succ" : 7,
+      "kill_continuity_merit" : 24,
+      "kill_continuity_score" : 120
+   },
+   {
+      "continuity_merit" : 12,
+      "continuity_score" : 40,
+      "continuity_succ" : 8,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 160
+   },
+   {
+      "continuity_merit" : 12,
+      "continuity_score" : 40,
+      "continuity_succ" : 9,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 180
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_score" : 50,
+      "continuity_succ" : 10,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_score" : 50,
+      "continuity_succ" : 11,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_score" : 50,
+      "continuity_succ" : 12,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_score" : 50,
+      "continuity_succ" : 13,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 14,
+      "continuity_score" : 50,
+      "continuity_succ" : 14,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_score" : 50,
+      "continuity_succ" : 15,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_score" : 50,
+      "continuity_succ" : 16,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_score" : 50,
+      "continuity_succ" : 17,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_score" : 50,
+      "continuity_succ" : 18,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 16,
+      "continuity_score" : 50,
+      "continuity_succ" : 19,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 20,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 21,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 22,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 23,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 24,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 25,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 26,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 27,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 28,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 18,
+      "continuity_score" : 50,
+      "continuity_succ" : 29,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   },
+   {
+      "continuity_merit" : 20,
+      "continuity_score" : 50,
+      "continuity_succ" : 30,
+      "kill_continuity_merit" : 28,
+      "kill_continuity_score" : 200
+   }
+]
